@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="items.js"></script>
+</head>
+
+<body>
+    <div class="navBar">
+        <div class="main">
+            <h3>Krunker Item List<span><a href="#">about</a></span></h3>
+        </div>
+    </div>
+    <div class="main">
+        <div id="primary_nav_wrap">
+            <ul>
+                <!-- <li class="current-menu-item"><a href="#">Home</a></li> -->
+                <li><a id="rarityElement">Rarity</a>
+                    <ul>
+                        <li><a onclick="run(0, null)">All</a></li>
+                        <li><a onclick="run(0, 6)">Unobtainable</a></li>
+                        <li><a onclick="run(0, 5)">Contrband</a></li>
+                        <li><a onclick="run(0, 4)">Relic</a></li>
+                        <li><a onclick="run(0, 3)">Legendary</a></li>
+                        <li><a onclick="run(0, 2)">Epic</a></li>
+                        <li><a onclick="run(0, 1)">Rare</a></li>
+                        <li><a onclick="run(0, 0)">Uncommon</a></li>
+                    </ul>
+                </li>
+                <li><a id="weaponElement">Weapon</a>
+                    <ul>
+                        <li><a onclick="run(1, 'all')">All</a></li>
+                        <li><a onclick="run(1, 2)">Assault Rifle</a></li>
+                        <li><a onclick="run(1, 1)">Sniper Rifle</a></li>
+                        <li><a onclick="run(1, 4)">Submachine Gun</a></li>
+                        <li><a onclick="run(1, 6)">Shotgun</a></li>
+                        <li><a onclick="run(1, 5)">Revolver</a></li>
+                        <li><a onclick="run(1, 7)">Light Machine Gun</a></li>
+                        <li><a onclick="run(1, 8)">Semi Auto</a></li>
+                        <li><a onclick="run(1, 10)">Akimbo Uzi</a></li>
+                        <li><a onclick="run(1, 15)">Famas</a></li>
+                        <li><a onclick="run(1, 9)">Rocket Launcher</a></li>
+                        <li><a onclick="run(1, 16)">Knife</a></li>
+                    </ul>
+                </li>
+                <li><a id="cosmeticElement">Cosmetic</a>
+                    <ul>
+                        <li><a onclick="run(2, 'all')">All</a></li>
+                        <li><a onclick="run(2, 1)">Head</a></li>
+                        <li><a onclick="run(2, 2)">Back</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <br>
+        <br>
+
+        <div id="display">
+            <!-- items load here -->
+        </div>
+
+        <a onclick="displayItems()" id="loadButton">Load more</a>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
