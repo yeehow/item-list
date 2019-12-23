@@ -10,9 +10,7 @@ var rarityColor = ['#b2f252', '#2196F3', '#E040FB', '#FBC02D', '#ed4242', '#1717
 var classes = [1, 0, 3, 6, 5, 4, 7, 8, 9, 12, 10, 13, 14];
 
 var index = 0;
-function getcomment(i){
-$('#cm_btn').attr('onclick',`comment(${i})`)
-}
+
 function filter(season, rarity, weapon, cosmetic) {
     if (season == null && rarity == null && weapon == null && cosmetic == null) {
         console.log("none");
@@ -147,12 +145,9 @@ function getModelViewerURL(index) {
     //taken from krunker js. i didn't write this
     var t = items[index];
     if (t)
-        if (1 == t.type)
-            return './viewer.html?class=9&hat=' + index;
-        else if (2 == t.type)
-            return './viewer.html?&class=9&back=' + index;
-        else if (3 == t.type)
-            return './viewer.html?class=9&melee=' + index;
+        if (1 == t.type) return 'https://krunker.io/viewer.html?class=9&hat=' + index;
+        else if (2 == t.type) return 'https://krunker.io/viewer.html?class=9&back=' + index;
+        else if (3 == t.type) return 'https://krunker.io/viewer.html?class=9&hidePlayer&melee=' + index;
         else if (null != t.weapon) {
             for (var n = null, r = 0; r < classes.length; r++)
                 if (classes[r] == t.weapon - 1) {
@@ -160,18 +155,22 @@ function getModelViewerURL(index) {
                     break;
                 }
             if (n != null) {
-                return './viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index;
+                return 'https://krunker.io/viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index;
             }
         }
 }
 
 function modal3d(n, d, c) {
-    $("#_3dmodals , #backgr").fadeIn("slow")
-    $("#_3diframe").attr("src", d)
-    $("#_3diname").html(n)
-    $("#_3dicreator").html(c)
-
+    $("#_3dmodals , #backgr").fadeIn("slow");
+    $("#_3diframe").attr("src", d);
+    $("#_3diname").html(n);
+    $("#_3dicreator").html(c);
 }
+
+function go() {
+    $('#_3diframe').contents().find('ul').hide();
+}
+
 function close3d() {
     $("#_3dmodals , #backgr").fadeOut("slow")
     $("#_3diframe").attr("src", "")
@@ -230,7 +229,7 @@ function displayItems() {
         prev3d.className = 'model';
 
         prev3d.textContent = 'Preview';
-        prev3d.href = `javascript:modal3d('${now.name}','${getModelViewerURL(now.index)}','By: ${creator()}');getcomment(${now.index})`
+        prev3d.href = `javascript:modal3d('${now.name}','${getModelViewerURL(now.index)}','By: ${creator()}')`
         button.appendChild(cost);
         //button.appendChild(model);
         button.appendChild(prev3d);
@@ -247,8 +246,8 @@ function displayItems() {
 
 function setLoadDisplay(state) {
     document.getElementById('loadButton').style.display = state ? 'block' : 'none';
-    $('#loadButton').attr('onclick','displayItems()')
 }
+
 function run(type, value) {
     filtered = [];
 
@@ -280,7 +279,7 @@ window.onload = (event) => {
 window.onscroll = function (ev) {
     if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
         if (index < filtered.length) {
-            //displayItems();
+            displayItems();
         }
     }
 }
