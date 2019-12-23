@@ -230,6 +230,7 @@ html, body {
 
 #loadButton {
     display: none;
+    margin: 0 auto;
 }
 
 .credits {
@@ -285,9 +286,7 @@ html, body {
     background: #0000007d;
     color: white;
     width: fit-content;
-    left: 33px;
     padding: 10px;
-    top: -12px;
 }
 button,input{
     border:none;
