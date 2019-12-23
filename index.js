@@ -148,11 +148,11 @@ function getModelViewerURL(index) {
     var t = items[index];
     if (t)
         if (1 == t.type)
-            return '/viewer.html?class=9&hat=' + index;
+            return './viewer.html?class=9&hat=' + index;
         else if (2 == t.type)
-            return '/viewer.html?&class=9&back=' + index;
+            return './viewer.html?&class=9&back=' + index;
         else if (3 == t.type)
-            return '/viewer.html?class=9&melee=' + index;
+            return './viewer.html?class=9&melee=' + index;
         else if (null != t.weapon) {
             for (var n = null, r = 0; r < classes.length; r++)
                 if (classes[r] == t.weapon - 1) {
