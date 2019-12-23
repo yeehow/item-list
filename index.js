@@ -1,6 +1,7 @@
 var itemDisplay = document.getElementById('display');
 
 var filtered = [];
+var seasonSelection = 2;
 var raritySelection = null;
 var weaponSelection = null;
 var cosmeticSelection = null;
@@ -10,25 +11,49 @@ var classes = [1, 0, 3, 6, 5, 4, 7, 8, 9, 12, 10, 13, 14];
 
 var index = 0;
 
-function filter(rarity, weapon, cosmetic) {
-    if (rarity != null) {
-        items.forEach(function(element, index) {
-            if (element.rarity == rarity) {
-                element.index = index;
-                filtered.push(element);
-            }
-        });
-        console.log(filtered);
-    } else if (rarity == null && weapon == null && cosmetic == null) {
-        items.forEach(function(element, index) {
+function filter(season, rarity, weapon, cosmetic) {
+    if (season == null && rarity == null && weapon == null && cosmetic == null) {
+        console.log("none");
+        items.forEach(function (element, index) {
             element.index = index;
             filtered.push(element);
         });
     }
+    if (season != null) {
+        items.forEach(function (element, index) {
+            if (season == 1 && element.seas == null) {
+                element, index = index;
+                filtered.push(element);
+            }
+            else if (season == 2 && element.seas == 2) {
+                element, index = index;
+                filtered.push(element);
+            }
+        });
+    }
+    if (rarity != null) {
+        if (filtered.length > 0) {
+            var temp = []
+            filtered.forEach(function (element, index) {
+                if (element.rarity == rarity) {
+                    temp.push(element);
+                }
+            });
+            filtered = temp;
+        }
+        else {
+            items.forEach(function (element, index) {
+                if (element.rarity == rarity) {
+                    element.index = index;
+                    filtered.push(element);
+                }
+            });
+        }
+    }
     if (weapon != null && cosmetic == null) {
         if (filtered.length > 0) {
             var temp = [];
-            filtered.forEach((element)=>{
+            filtered.forEach((element) => {
                 if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
                     temp.push(element);
                 }
@@ -43,7 +68,7 @@ function filter(rarity, weapon, cosmetic) {
             filtered = temp;
             console.log(filtered);
         } else {
-            items.forEach(function(element, index) {
+            items.forEach(function (element, index) {
                 if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
                     element.index = index;
                     filtered.push(element);
@@ -63,7 +88,7 @@ function filter(rarity, weapon, cosmetic) {
     if (cosmetic != null && weapon == null) {
         if (filtered.length > 0) {
             var temp = [];
-            filtered.forEach((element)=>{
+            filtered.forEach((element) => {
                 if (cosmetic == 'all' && element.type != null && element.type != 3) {
                     temp.push(element);
                 }
@@ -75,7 +100,7 @@ function filter(rarity, weapon, cosmetic) {
             filtered = temp;
             console.log(filtered);
         } else {
-            items.forEach(function(element, index) {
+            items.forEach(function (element, index) {
                 if (cosmetic == 'all' && element.type != null && element.type != 3) {
                     element.index = index;
                     filtered.push(element);
@@ -90,9 +115,9 @@ function filter(rarity, weapon, cosmetic) {
     }
 
     if (filtered.length > 0) {
-        filtered.sort(function(a, b) {
+        filtered.sort(function (a, b) {
             var keyA = new Date(a.rarity)
-              , keyB = new Date(b.rarity);
+                , keyB = new Date(b.rarity);
             if (keyA < keyB)
                 return -1;
             if (keyA > keyB)
@@ -192,20 +217,20 @@ function displayItems() {
         cost.className = 'cost';
         cost.textContent = 'Price';
 
-        var model = document.createElement('a');
-        model.className = 'model';
-        model.href = getModelViewerURL(now.index);
-        model.target = '_blank';
-        model.textContent = 'Model';
-        var pid = now.id;
+        // var model = document.createElement('a');
+        // model.className = 'model';
+        // model.href = getModelViewerURL(now.index);
+        // model.target = '_blank';
+        // model.textContent = 'Model';
+        // var pid = now.id;
 
         var prev3d = document.createElement('a');
-        prev3d.className = 'prev3d';
+        prev3d.className = 'model';
 
-        prev3d.textContent = 'prev ';
+        prev3d.textContent = 'Preview';
         prev3d.href = `javascript:modal3d('${now.name}','${getModelViewerURL(now.index)}','By: ${creator()}')`
         button.appendChild(cost);
-        button.appendChild(model);
+        //button.appendChild(model);
         button.appendChild(prev3d);
 
         item.appendChild(title);
@@ -227,6 +252,7 @@ function run(type, value) {
 
     itemDisplay.innerHTML = '';
 
+    seasonSelection = type == 3 ? value : seasonSelection;
     raritySelection = type == 0 ? value : raritySelection;
     weaponSelection = type == 1 ? value : weaponSelection;
     cosmeticSelection = type == 2 ? value : cosmeticSelection;
@@ -237,26 +263,26 @@ function run(type, value) {
         weaponSelection = null;
     }
 
-    console.log(raritySelection, weaponSelection, cosmeticSelection);
+    console.log(seasonSelection, raritySelection, weaponSelection, cosmeticSelection);
 
     index = 0;
 
-    filter(raritySelection, weaponSelection, cosmeticSelection);
+    filter(seasonSelection, raritySelection, weaponSelection, cosmeticSelection);
 }
 
-window.onload = (event)=>{
+window.onload = (event) => {
     filter();
+    run(3, 2);
 }
-;
 
-window.onscroll = function(ev) {
+window.onscroll = function (ev) {
     if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
         if (index < filtered.length) {
             displayItems();
         }
     }
 }
-;
+    ;
 //Others
 function mobile_check() {
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
@@ -265,7 +291,54 @@ function mobile_check() {
             'width': '555px',
             'margin-top': '20px'
         });
-        console.log("On mobile")
+        console.log("On mobile");
     }
 }
 mobile_check()
+
+function yeehow() {
+    return `
+    <div class="modal_data">
+    <a class="mt_class">social / contact</a>
+      <ul>
+      <li><a href="https://krunker.io/social.html?p=profile&q=yeehow">Krunker Profile</a></li>
+      <li><a>Discord: </a>yeehow#8456</li>
+      </ul>
+    </div>
+    `
+}
+function hoodgail() {
+    return `
+    <div class="modal_data">
+    <a class="mt_class">social / contact</a>
+      <ul>
+      <li><a href="https://krunker.io/social.html?p=profile&q=Hoodgail">Krunker Profile</a></li>
+      <li><a href="http://hoodgail.dx.am/">website</a> (old)</li>
+      <li><a>Discord: </a>Hoodgail#5408</li>
+      </ul>
+    </div>
+    `
+}
+function m_1() {
+    return `
+    <div class="modal_data">
+        <a class="mt_class">Creators</a>
+        <ul>
+      <li onclick="openModal('Yeehow',yeehow())"><a>yeehow</a></li>
+      <li onclick="openModal('Hoodgail',hoodgail())"><a>Hoodgail</a></li>
+       </ul>
+    </div>
+    `
+}
+function openModal(n, d) {
+    $(".modal").html('')
+    $("#backgr , .modal").fadeIn('slow');
+    $(".modal").append(`
+         <div class="modal_name">${n}</div>
+         ${d}
+        `)
+}
+function closeModal() {
+    $("#backgr , .modal").fadeOut('slow');
+    $(".modal").html('')
+}
