@@ -160,7 +160,7 @@ function getModelViewerURL(index) {
                     break;
                 }
             if (n != null) {
-                return '/viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index;
+                return './viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index;
             }
         }
 }
