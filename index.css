@@ -1,161 +1,227 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:portrait) { 
+body {
+-webkit-transform: rotate(90deg);
+width: 100%;
+height: 100%;
+overflow: hidden;
+position: absolute;
+top: 0;
+left: 0; 
+}}
 @font-face {
-	font-family: 'gamefont';
-	src: url('./font2.ttf');
+    font-family: 'gamefont';
+    src: url('./font2.ttf');
 }
 
 html {
-	font-family: gamefont !important;
-	background-image: url(https://assets.krunker.io/textures/wall_0.png);
-	background-repeat: repeat;
-	background-size: 300px 300px;
-	image-rendering: pixelated;
-	overflow-x: hidden;
+    font-family: gamefont !important;
+    background-image: url(https://assets.krunker.io/textures/wall_0.png);
+    background-repeat: repeat;
+    background-size: 300px 300px;
+    image-rendering: pixelated;
+    overflow-x: hidden;
 }
 
-html,
-body {
-	margin: 0;
-	padding: 0;
+#_3diname {
+    color: white;
+    border-bottom: solid 5px white;
+    padding-bottom: 7px;
+}
+#_3dicreator{
+    color: white;
+    border-bottom: solid 5px white;
+    padding-bottom: 7px;
+
+}
+._3dmodals {
+    display: none;
+    position: fixed;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    border: none;
+    background: #ffffff00;
+    width: min-content;
+    padding: 10px;
+    z-index: 2;
+    display: none;
+}
+
+#backgr {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #00000070;
+    z-index: 2;
+    top: 0;
+}
+
+iframe {
+    border: solid 5px white;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
 }
 
 .navBar {
-	color: #fff;
-	background-color: rgba(0, 0, 0, .65);
-	width: 100%;
-	height: 40px;
-	line-height: 40px;
-	margin: 0;
-	margin-bottom: 10px;
-	padding: 10px 0 10px 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .65);
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 10px 0 10px 0;
+    z-index: 1;
+    position: fixed;
 }
-
+#_3diframe{
+    height: 451px;
+    width: 805px;
+    margin-top:20px;
+}
 .navBar h3 {
-	color: #fff;
-	margin: 0;
+    color: #fff;
+    margin: 0;
 }
 
 .navBar span a {
-	float: right;
-	color: #fff;
-	opacity: 0.5;
-	font-size: 10px;
-	text-decoration: none;
+    float: right;
+    color: #fff;
+    opacity: 0.5;
+    font-size: 10px;
+    text-decoration: none;
 }
 
 .main {
-	max-width: 1050px;
-	margin: 0 auto;
+    max-width: 1050px;
+    display: inline-block;
+    position: absolute;
+    width: fit-content;
+    margin: 0 auto;
+    top: 18px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.main2 {
+    max-width: 1050px;
+    display: inline-block;
+    margin: 0 auto;
 }
 
 #primary_nav_wrap {
-	z-index: 1000;
+    z-index: 1000;
+    display: inline-block;
 }
 
 #primary_nav_wrap ul {
-	list-style: none;
-	position: relative;
-	float: left;
-	margin: 0;
-	padding: 0;
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
 }
 
 #primary_nav_wrap ul a {
-	display: block;
-	color: #222;
-	text-decoration: none;
-	font-weight: 700;
-	font-size: 12px;
-	line-height: 32px;
-	padding: 0 15px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 32px;
+    padding: 0 15px;
 }
 
 #primary_nav_wrap ul li {
-	position: relative;
-	float: left;
-	margin: 0;
-	padding: 0;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
 }
 
 #primary_nav_wrap ul li.current-menu-item {
-	background: #ddd;
+    background: #ddd;
 }
 
 #primary_nav_wrap ul li:hover {
-	background: #f6f6f6;
+    background: #4c4c4c;
 }
 
 #primary_nav_wrap ul ul {
-	display: none;
-	position: absolute;
-	top: 100%;
-	left: 0;
-	background: #fff;
-	padding: 0;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #000000d1;
+    padding: 0;
 }
 
 #primary_nav_wrap ul ul li {
-	float: none;
-	width: 200px;
+    float: none;
+    width: 200px;
 }
 
 #primary_nav_wrap ul ul a {
-	line-height: 120%;
-	padding: 10px 15px;
+    line-height: 120%;
+    padding: 10px 15px;
 }
 
 #primary_nav_wrap ul ul ul {
-	top: 0;
-	left: 100%;
+    top: 0;
+    left: 100%;
 }
 
 #primary_nav_wrap ul li:hover > ul {
-	display: block;
+    display: block;
 }
 
 #display {
-	text-align: center;
+    text-align: center;
 }
 
 .item {
-	display: inline-block;
-	background-color: rgba(0, 0, 0, .5);
-	border-radius: 5px;
-	margin-bottom: 10px;
-	margin-left: 5px;
-	margin-right: 5px;
-	padding: 10px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
 }
 
 .item img {
-	width: 180px;
-	margin: 0;
+    width: 180px;
+    margin: 0;
 }
 
 .item p {
-	text-align: center;
-	margin: 0.5em 0 0 0;
-	font-size: 14px;
+    text-align: center;
+    margin: 0.5em 0 0 0;
+    font-size: 14px;
 }
 
 .button {
-	clear: both;
+    clear: both;
 }
 
 .button a {
-	text-decoration: underline;
-	color: #999;
-	font-size: 14px;
-	cursor: pointer;
+    text-decoration: underline;
+    color: #999;
+    font-size: 14px;
+    cursor: pointer;
 }
 
 .cost {
-	float: left;
+    float: left;
 }
 
 .model {
-	float: right;
+    float: right;
 }
 
 #loadButton {
-	display: none;
+    display: none;
 }
