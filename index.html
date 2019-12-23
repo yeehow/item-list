@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <link rel="shortcut icon" type="image/png" href="https://krunker.io/img/favicon.png" />
+    <title>Krunker Item List</title>
     <link rel="stylesheet" href="index.css">
     <script src="items.js"></script>
     <script src="jq.js"></script>
@@ -16,9 +17,15 @@
         <div class="main2">
             <h3>Krunker Item List</h3>
         </div>
-      <div id="primary_nav_wrap">
+        <div id="primary_nav_wrap">
             <ul>
-                <!-- <li class="current-menu-item"><a href="#">Home</a></li> -->
+                <li><a id="seasonElement">Season</a>
+                    <ul>
+                        <li><a onclick="run(3, null)">All</a></li>
+                        <li><a onclick="run(3, 2)">Season 2</a></li>
+                        <li><a onclick="run(3, 1)">Season 1</a></li>
+                    </ul>
+                </li>
                 <li><a id="rarityElement">Rarity</a>
                     <ul>
                         <li><a onclick="run(0, null)">All</a></li>
@@ -56,25 +63,27 @@
                 </li>
             </ul>
         </div>
+        <span class="credits" id="credits" onclick="openModal('More', m_1())">More</span>
+        <div class="modal"></div>
     </div>
     <div class="main">
-       
+
         <br>
         <br>
 
         <div id="display">
             <!-- items load here -->
         </div>
-       
+
         <a onclick="displayItems()" id="loadButton">Load more</a>
     </div>
-  <background style="display:none;" onclick="close3d()" id="backgr"></background>
-        <div class="_3dmodals" style="" id="_3dmodals">
-         <!-- 3d item previews here -->
-         <a id="_3diname"></a>
-         <iframe id="_3diframe"></iframe>
-         <a id="_3dicreator"></a>
-        </div>
+    <background style="display:none;" onclick="close3d(); closeModal();" id="backgr"></background>
+    <div class="_3dmodals" style="" id="_3dmodals">
+        <!-- 3d item previews here -->
+        <a id="_3diname"></a>
+        <iframe id="_3diframe"></iframe>
+        <a id="_3dicreator"></a>
+    </div>
 
     <script src="index.js"></script>
 </body>
