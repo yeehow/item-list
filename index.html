@@ -10,8 +10,6 @@
     <link rel="stylesheet" href="index.css">
     <script src="items.js"></script>
     <script src="jq.js"></script>
-     <!-- comment api -->
-    <script type="text/javascript" src="https://cdn.scaledrone.com/scaledrone.min.js"></script>
 </head>
 
 <body onorientationchange="mobile_check()">
@@ -79,29 +77,14 @@
 
         <a onclick="displayItems()" id="loadButton">Load more</a>
     </div>
-    <background style="display:none;" onclick="close3d(); closeModal() ;closecomment()" id="backgr"></background>
+    <background style="display:none;" onclick="close3d(); closeModal();" id="backgr"></background>
     <div class="_3dmodals" style="" id="_3dmodals">
         <!-- 3d item previews here -->
         <a id="_3diname"></a>
         <iframe id="_3diframe"></iframe>
         <a id="_3dicreator"></a>
-         <button id="cm_btn">Comment</button>
     </div>
-         <!-- comment body -->
-    <div  class="commentholder">
-        <a class="cm_close" onclick="closecomment2()">Close</a>
-      <div class="input-area">
-        <input class="cm_input" placeholder="Write something to the comment..">
-        <button class="cms_s">Send</button>
-      </div>
-      <div class="comment"></div>
-    </div>
-   <!-- External resources -->
-    <script>
-        //comment channel... 
-        window.CHANNEL_ID = 'IBC1iKE29Z6Keivw';
-    </script>
-<script type="text/javascript" src="cm.js"></script>
+
     <script src="index.js"></script>
 </body>
 
