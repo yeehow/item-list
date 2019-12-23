@@ -1812,7 +1812,7 @@ var items = [{
     glow: !0,
     id: 40,
     weapon: 1,
-    rarity: 4
+    rarity: 3
 }, {
     name: "Razor",
     glow: !0,
@@ -2401,7 +2401,8 @@ var items = [{
     creator: "_irizu",
     id: 56,
     weapon: 2,
-    rarity: 3
+    rarity: 3,
+    seas: 2
 }, {
     name: "AK Mortal",
     creator: "_irizu",
@@ -2705,6 +2706,7 @@ var items = [{
     scl: .00094830394974876,
     mScl: .0010536710552764,
     zOff: -.25,
+    seas: 2,
     yOff: .05,
     weapon: 1,
     rarity: 5
@@ -2713,6 +2715,7 @@ var items = [{
     mid: 0,
     midT: "weapons/weapon_1_1",
     glow: !0,
+    seas: 2,
     pulsT: .0015,
     scl: .00094830394974876,
     mScl: .0010536710552764,
@@ -2745,4 +2748,2908 @@ var items = [{
     sclMlt: .9,
     yOff: -2,
     rarity: 4
-}];
+}, {
+    name: "Boneclaw",
+    id: 56,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 57,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 58,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 59,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 60,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 61,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 62,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 63,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 64,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 65,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 66,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Spook",
+    id: 67,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 68,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 69,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 70,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 71,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 72,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 73,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 74,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 75,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 76,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 77,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 78,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 79,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 80,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 81,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 82,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 83,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Azazel",
+    creator: "Lxckless",
+    id: 84,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 85,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 86,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 87,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 88,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 89,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 90,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Kenzo",
+    id: 91,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 92,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Galaxy",
+    id: 93,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 94,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 95,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 96,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Neon Spill",
+    id: 97,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 98,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 99,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Goop",
+    id: 100,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 101,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 102,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 103,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 104,
+    weapon: 1,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Flame Viper",
+    id: 105,
+    weapon: 1,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Red Phantom",
+    id: 106,
+    weapon: 1,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Arctic",
+    creator: "Blitz",
+    id: 107,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Magma Core",
+    id: 108,
+    weapon: 1,
+    rarity: 4,
+    animInd: 1,
+    pulsT: .1,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Wired",
+    creator: "Floatingpoint",
+    id: 109,
+    weapon: 1,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Kings",
+    creator: "Floatingpoint",
+    id: 110,
+    weapon: 1,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Tessalate",
+    id: 111,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Sunset",
+    creator: "Graham",
+    id: 112,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Poly Blush",
+    id: 113,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cuircuitor",
+    creator: "Gnnr",
+    id: 114,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Marbled .50",
+    creator: "Blitz",
+    id: 115,
+    weapon: 1,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Exoscarlet",
+    creator: "CyAnIdE",
+    id: 116,
+    weapon: 1,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sorable V",
+    creator: "Zino",
+    id: 117,
+    weapon: 1,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 60,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 61,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 62,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 63,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 64,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 65,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 66,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 67,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 68,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 69,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 70,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Phantasma",
+    id: 72,
+    weapon: 2,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 73,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 74,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 75,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 76,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 77,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 78,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 79,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 80,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 81,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 82,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 83,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 84,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 85,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 86,
+    weapon: 2,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 87,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 88,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Zebrik",
+    id: 89,
+    weapon: 2,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 90,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 91,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 92,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 93,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 94,
+    weapon: 2,
+    rarity: 2
+}, {
+    name: "Bliss Flow",
+    id: 95,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 96,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 97,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 98,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 99,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 100,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 101,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Goop",
+    id: 102,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 103,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 104,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 105,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 106,
+    weapon: 2,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Void",
+    id: 107,
+    weapon: 2,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Lighting Storm",
+    id: 108,
+    weapon: 2,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Scribbler",
+    id: 109,
+    weapon: 2,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Scorched",
+    creator: "0mar",
+    id: 110,
+    weapon: 2,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Heat-Tint",
+    creator: "Leaaf",
+    id: 111,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Welded",
+    id: 112,
+    weapon: 2,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Acid Howler",
+    id: 113,
+    weapon: 2,
+    rarity: 5,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 58,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 59,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 60,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 61,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 62,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 63,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 64,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 65,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 66,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 67,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 68,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 69,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 70,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 71,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 72,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 73,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 74,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 75,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 76,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 77,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 78,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 79,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 80,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 81,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 82,
+    weapon: 4,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 83,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 84,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 85,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 86,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 87,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 88,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 89,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 90,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 91,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 92,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 93,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 94,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 95,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 96,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Goop",
+    id: 97,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 98,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 99,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 100,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 101,
+    weapon: 4,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Polymer",
+    id: 102,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Andromeda",
+    id: 103,
+    weapon: 4,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Liberty",
+    id: 104,
+    weapon: 4,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Dragon Breath",
+    id: 105,
+    weapon: 4,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Parabellum",
+    creator: "Floatingpoint",
+    id: 106,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Poly Fade",
+    id: 107,
+    weapon: 4,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Picknick",
+    id: 31,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 32,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 33,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 34,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 35,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 36,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 37,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 38,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 39,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 40,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 41,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 42,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Slime Spill",
+    id: 43,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 44,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 45,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 46,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 47,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Overheated",
+    id: 48,
+    weapon: 5,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Royal",
+    id: 49,
+    weapon: 5,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Nordic",
+    id: 50,
+    weapon: 5,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 51,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 52,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 53,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 54,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 55,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 56,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 57,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 58,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 59,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 60,
+    weapon: 5,
+    rarity: 1
+}, {
+    name: "War Torn",
+    id: 61,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 62,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 63,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 64,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 65,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 66,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 67,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 68,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 69,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 70,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 71,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 72,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 73,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 74,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 75,
+    weapon: 5,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandsorm",
+    id: 76,
+    weapon: 5,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 77,
+    weapon: 5,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Outlaw",
+    id: 78,
+    weapon: 5,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 26,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 27,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 28,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 29,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Zebrik",
+    id: 30,
+    weapon: 7,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 31,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 32,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 33,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 34,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 35,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 36,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 37,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 38,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 39,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 40,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 41,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 42,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Slime Spill",
+    id: 43,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 44,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 45,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 46,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 47,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Neoran",
+    id: 48,
+    weapon: 7,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Fire Breath",
+    id: 49,
+    weapon: 7,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 50,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 51,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 52,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 53,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 54,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 55,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 56,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 57,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 58,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 59,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 60,
+    weapon: 7,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 61,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 62,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 63,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 64,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 65,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 66,
+    weapon: 7,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 67,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 68,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 69,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 70,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 71,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Bloodbath",
+    id: 72,
+    weapon: 7,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 73,
+    weapon: 7,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 27,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 28,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 29,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 30,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 31,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 32,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 33,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 34,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 35,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Kenzo",
+    id: 36,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 37,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 38,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 39,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 40,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 41,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 42,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Goop",
+    id: 43,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 44,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 45,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 46,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 47,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 48,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 49,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 50,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 51,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 52,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 53,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 54,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 55,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 56,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 57,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 58,
+    weapon: 9,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 59,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 60,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 61,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 62,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 63,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 64,
+    weapon: 9,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 65,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 66,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 67,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 68,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 69,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 70,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 71,
+    weapon: 9,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Coffin",
+    id: 72,
+    weapon: 9,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Lighting Strike",
+    id: 73,
+    weapon: 9,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Boneclaw",
+    id: 25,
+    weapon: 15,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Blue Digital",
+    id: 26,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Digital",
+    id: 27,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Digital",
+    id: 28,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Digital",
+    id: 29,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Cascade",
+    id: 30,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Pink Poly",
+    id: 31,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Poly",
+    id: 32,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 33,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 34,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "War Torn",
+    id: 35,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Spook",
+    id: 36,
+    weapon: 15,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Pink Drip",
+    id: 37,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Drip",
+    id: 38,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sepia",
+    id: 39,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Olive",
+    id: 40,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Spruce",
+    id: 41,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Dijon",
+    id: 42,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Splat",
+    id: 43,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Purple Splat",
+    id: 44,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Orange Splat",
+    id: 45,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Splat",
+    id: 46,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Yellow Poly",
+    id: 47,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Red Poly",
+    id: 48,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Green Poly",
+    id: 49,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Blue Poly",
+    id: 50,
+    weapon: 15,
+    rarity: 1,
+    seas: 2
+}, {
+    name: "Sandstorm",
+    id: 51,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Fabrica",
+    id: 52,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Zebrik",
+    id: 53,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Picknik",
+    id: 54,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Picasso",
+    id: 55,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Cracked",
+    id: 56,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Fire Stream",
+    id: 57,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Ripped Sun",
+    id: 58,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Bliss Flow",
+    id: 59,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Kenzo",
+    id: 60,
+    weapon: 15,
+    rarity: 3,
+    seas: 2
+}, {
+    name: "Snowy",
+    id: 61,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Ducky",
+    id: 62,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Graphite",
+    id: 63,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Porcelain",
+    id: 64,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Danger",
+    id: 65,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Paint Spill",
+    id: 66,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Slime Spill",
+    id: 67,
+    weapon: 15,
+    rarity: 2,
+    seas: 2
+}, {
+    name: "Cerise",
+    id: 68,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Orange Drip",
+    id: 69,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Red Drip",
+    id: 70,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Green Drip",
+    id: 71,
+    weapon: 15,
+    rarity: 0,
+    seas: 2
+}, {
+    name: "Galaxy Morse",
+    id: 72,
+    weapon: 15,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Fire Storm",
+    id: 73,
+    weapon: 15,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Marked",
+    id: 74,
+    weapon: 15,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Frosted",
+    id: 75,
+    weapon: 15,
+    rarity: 4,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Gold Tipped",
+    id: 76,
+    weapon: 15,
+    rarity: 3,
+    glow: !0,
+    seas: 2
+}, {
+    name: "Damascus",
+    keyW: "Knife",
+    tex: 6,
+    id: 0,
+    type: 3,
+    scl: 2.3,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -2,
+    rarity: 3
+}, {
+    name: "Prism",
+    keyW: "Knife",
+    tex: 7,
+    id: 0,
+    type: 3,
+    scl: 2.3,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -2,
+    rarity: 3
+}, {
+    name: "Bloodless",
+    keyW: "Knife",
+    id: 2,
+    tex: 1,
+    glow: !0,
+    type: 3,
+    scl: 3,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -2,
+    rarity: 4
+}, {
+    name: "Steelfang",
+    keyW: "Knife",
+    id: 3,
+    type: 3,
+    scl: 2.6,
+    seas: 2,
+    sclMlt: 1,
+    yOff: -1,
+    xOff: -1.5,
+    rarity: 4,
+    sxRot: .3,
+    sxOff: .1
+}, {
+    name: "Flamefang",
+    keyW: "Knife",
+    tex: 1,
+    glow: !0,
+    id: 3,
+    type: 3,
+    scl: 2.6,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -1,
+    xOff: -1.5,
+    rarity: 5,
+    sxRot: .3,
+    sxOff: .1
+}, {
+    name: "Plasma Dust",
+    keyW: "Knife",
+    tex: 2,
+    glow: !0,
+    id: 3,
+    type: 3,
+    scl: 2.6,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -1,
+    xOff: -1.5,
+    rarity: 5,
+    sxRot: .3,
+    sxOff: .1
+}, {
+    name: "Volt Fang",
+    keyW: "Knife",
+    tex: 3,
+    glow: !0,
+    id: 3,
+    type: 3,
+    scl: 2.6,
+    seas: 2,
+    sclMlt: .9,
+    yOff: -1,
+    xOff: -1.5,
+    rarity: 5,
+    sxRot: .3,
+    sxOff: .1
+}, {
+    name: "Black Cowboy Hat",
+    type: 1,
+    keyW: "Head",
+    id: 39,
+    rarity: 0,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6
+}, {
+    name: "Brown Cowboy Hat",
+    type: 1,
+    keyW: "Head",
+    id: 39,
+    tex: 1,
+    rarity: 0,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Outback Hat",
+    type: 1,
+    keyW: "Head",
+    id: 40,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Dundee Hat",
+    type: 1,
+    keyW: "Head",
+    id: 40,
+    tex: 1,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Red Hat",
+    type: 1,
+    keyW: "Head",
+    id: 41,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Blue Hat",
+    type: 1,
+    keyW: "Head",
+    id: 41,
+    tex: 1,
+    rarity: 0,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Urban Soldier",
+    type: 1,
+    keyW: "Head",
+    id: 42,
+    tex: 0,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .78,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Desert Soldier",
+    type: 1,
+    keyW: "Head",
+    id: 42,
+    tex: 1,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .78,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Arctic Soldier",
+    type: 1,
+    keyW: "Head",
+    id: 42,
+    tex: 2,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .78,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Ace",
+    type: 1,
+    keyW: "Head",
+    id: 43,
+    rarity: 3,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .7,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Pinata",
+    type: 1,
+    keyW: "Head",
+    id: 44,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Sombrerro",
+    type: 1,
+    keyW: "Head",
+    id: 44,
+    tex: 1,
+    rarity: 1,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: .6,
+    yOff: -1.2,
+    scl: 1.2
+}, {
+    name: "Swagger",
+    type: 1,
+    keyW: "Head",
+    id: 45,
+    rarity: 3,
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.8,
+    yOff: -2,
+    scl: 1.2
+}, {
+    name: "Acid Bane",
+    id: 11,
+    rarity: 3,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 5,
+    sclMlt: 3.4,
+    sitOff: -1.3,
+    sitOffZ: -.8,
+    yOff: -2,
+    xOff: -4
+}, {
+    name: "Plasma Bones",
+    id: 11,
+    tex: 1,
+    rarity: 3,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 5,
+    sclMlt: 3.4,
+    sitOff: -1.3,
+    sitOffZ: -.8,
+    yOff: -2,
+    xOff: -4
+}, {
+    name: "Jet Pack",
+    id: 13,
+    rarity: 2,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 6,
+    sclMlt: 3,
+    sitOff: -.5,
+    sitOffZ: -.93,
+    yOff: -1.3,
+    xRot: Math.PI
+}, {
+    name: "Red Backpack",
+    id: 14,
+    rarity: 1,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 4,
+    sclMlt: 2.3,
+    sitOff: -.8,
+    sitOffZ: -.8,
+    yOff: -1.5,
+    xRot: Math.PI
+}, {
+    name: "Blue Backpack",
+    id: 14,
+    tex: 1,
+    rarity: 1,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3.5,
+    sclMlt: 2.3,
+    sitOff: -.8,
+    sitOffZ: -.8,
+    yOff: -1.5,
+    xRot: Math.PI
+}, {
+    name: "Police Vest",
+    id: 15,
+    rarity: 1,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 4.5,
+    sclMlt: 2.5,
+    sitOff: .4,
+    sitOffZ: 0,
+    yOff: -2,
+    xRot: Math.PI
+}, {
+    name: "Angelic Wings",
+    id: 16,
+    rarity: 3,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3,
+    sclMlt: 3,
+    sitOff: -.5,
+    sitOffZ: -2,
+    xOff: -2,
+    yOff: -3
+}, {
+    name: "Gradient Pennon",
+    id: 16,
+    tex: 1,
+    rarity: 4,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3,
+    sclMlt: 3,
+    sitOff: -.5,
+    sitOffZ: -2,
+    xOff: -2,
+    yOff: -3
+}, {
+    name: "Torn Aileron",
+    id: 17,
+    rarity: 4,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3,
+    sclMlt: 3,
+    sitOff: 0,
+    sitOffZ: -2,
+    xOff: -2,
+    yOff: -3
+}, {
+    name: "Cursed",
+    id: 17,
+    tex: 1,
+    rarity: 3,
+    glow: !0,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3,
+    sclMlt: 3,
+    sitOff: 0,
+    sitOffZ: -2,
+    xOff: -2,
+    yOff: -3
+}, {
+    name: "Butterfly",
+    id: 19,
+    rarity: 2,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    scl: 3.5,
+    sclMlt: 3.3,
+    sitOff: -.9,
+    sitOffZ: -2.4,
+    yOff: -2
+}, {
+    name: "Mr. Rabbiton",
+    id: 46,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Madman",
+    id: 47,
+    rarity: 1,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .95,
+    sitOff: .8,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Grizz Lee",
+    id: 48,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .95,
+    sitOff: .8,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Claws",
+    id: 48,
+    tex: 1,
+    rarity: 3,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Simba",
+    id: 49,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Captain Walrus",
+    id: 50,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Monke",
+    id: 51,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Lord Panda",
+    id: 52,
+    rarity: 3,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Ray Bam",
+    id: 53,
+    rarity: 0,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .51,
+    sitOff: 1.1,
+    scl: 1.4,
+    xOff: 1.5,
+    yOff: -1.2
+}, {
+    name: "Gold Sunnies",
+    id: 53,
+    tex: 1,
+    rarity: 1,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .51,
+    sitOff: 1.1,
+    scl: 1.4,
+    xOff: 1.5,
+    yOff: -1.2
+}, {
+    name: "Queens Guard",
+    id: 54,
+    rarity: 0,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .6,
+    sitOff: .9,
+    scl: .9,
+    yOff: -2.1
+}, {
+    name: "Snowman",
+    id: 55,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .8,
+    xOff: 1.5,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Misty",
+    id: 56,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "Unicorn",
+    id: 57,
+    rarity: 3,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}, {
+    name: "TV Tron LCD",
+    id: 32,
+    tex: 4,
+    rarity: 4,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    scl: 1,
+    sclMlt: .6,
+    sitOff: 2.05,
+    yOff: -3.2,
+    frames: 2,
+    frameT: 400
+}, {
+    name: "Acidic Bane",
+    id: 36,
+    rarity: 3,
+    glow: !0,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.3,
+    xOff: 1.2,
+    scl: 1.1,
+    yOff: -1.2
+}, {
+    name: "Tentacus",
+    id: 34,
+    tex: 1,
+    rarity: 3,
+    glow: !0,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.3,
+    scl: 1.1,
+    yOff: -1.2
+}, {
+    name: "Soldier 159",
+    id: 35,
+    tex: 1,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.3,
+    scl: 1.1,
+    yOff: -1.2
+}, {
+    name: "Soldier 160",
+    id: 35,
+    tex: 2,
+    rarity: 2,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.3,
+    scl: 1.1,
+    yOff: -1.2
+}, {
+    name: "Templar",
+    id: 37,
+    rarity: 3,
+    type: 1,
+    glow: !0,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .56,
+    sitOff: 1.3,
+    scl: 1.1,
+    yOff: -1.2
+}, {
+    name: "Phase Blades",
+    id: 2,
+    tex: 1,
+    type: 2,
+    seas: 2,
+    keyW: "Back",
+    glow: !0,
+    scl: .00048112055276382,
+    sclMlt: .000406279577889448,
+    sitOff: -1.3,
+    sitOffZ: -.95,
+    yOff: -1,
+    xOff: -.5,
+    rarity: 3
+}, {
+    name: "Pot'O'Gold",
+    id: 20,
+    rarity: 2,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    sclMlt: 2.5,
+    sitOff: -.8,
+    sitOffZ: -2,
+    yOff: -2,
+    xOff: .5,
+    scl: 4,
+    xRot: Math.PI
+}, {
+    name: "Unicorn Backpack",
+    id: 21,
+    rarity: 3,
+    type: 2,
+    keyW: "Back",
+    seas: 2,
+    sclMlt: 2.3,
+    sitOff: -.8,
+    sitOffZ: -.8,
+    yOff: -2,
+    xOff: -1.5,
+    scl: 3.5,
+    xRot: Math.PI
+}, {
+    name: "Flame Talon",
+    weapon: 5,
+    glow: !0,
+    id: 79,
+    seas: 2,
+    rarity: 4
+}, {
+    name: "Raynb0w",
+    creator: "???",
+    pat: 1,
+    seas: 2,
+    tex: "weapons/pat/1",
+    dot: "dot_1",
+    sameGlow: !0,
+    movT: .0015,
+    weapon: 7,
+    rarity: 5
+}, {
+    name: "Raynb0w",
+    creator: "???",
+    pat: 1,
+    seas: 2,
+    tex: "weapons/pat/1",
+    dot: "dot_1",
+    sameGlow: !0,
+    movT: .0015,
+    weapon: 5,
+    rarity: 5
+}]
