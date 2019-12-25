@@ -25243,7 +25243,7 @@ and limitations under the License.
         ,
         e.exports.assetsUrl = function(e) {
             return e.startsWith("/") && (e = e.slice(1)),
-            this.versionifyUrl("https://assets.krunker.io/" + e)
+            this.versionifyUrl("https://hoodgail.github.io/krunker_assets/" + e)
         }
         ,
         e.exports.getPreview = function(t, r) {
@@ -29141,7 +29141,7 @@ and limitations under the License.
     })
 }
 , function(e) {
-    e.exports = "YZL9x"
+    e.exports = "DEV"
 }
 , function(e, t, r) {
     "use strict";
@@ -36185,7 +36185,7 @@ and limitations under the License.
                     var h, u = "";
                     for (p = 0; p < r.ammos.length; ++p)
                         h = p == r.weaponIndex,
-                        e.weapons[r.loadout[p]].icon && (u += "<div class='weaponItem'>" + (0 < p ? "<div class='weapKey'>" + (e.weapons[r.loadout[p]].melee ? "[" + o.getKeyName(e.controls.meleeKey) + "]" : "[" + o.getKeyName(e.controls.swapKey) + "]") + "</div>" : "") + "<img style='opacity:" + (h ? 1 : .7) + (p ? ";margin-right:25px" : "") + "' class='weaponIcon' src='" + o.assetsUrl((e.weapons[r.loadout[p]].melee ? "/textures/melee/icon_" + (e.store.skins[r.meleeIndex] && e.store.skins[r.meleeIndex].id || 0) : "https://assets.krunker.io/textures/weapons/" + e.weapons[r.loadout[p]].icon) + ".png") + "' /></div>");
+                        e.weapons[r.loadout[p]].icon && (u += "<div class='weaponItem'>" + (0 < p ? "<div class='weapKey'>" + (e.weapons[r.loadout[p]].melee ? "[" + o.getKeyName(e.controls.meleeKey) + "]" : "[" + o.getKeyName(e.controls.swapKey) + "]") + "</div>" : "") + "<img style='opacity:" + (h ? 1 : .7) + (p ? ";margin-right:25px" : "") + "' class='weaponIcon' src='" + o.assetsUrl((e.weapons[r.loadout[p]].melee ? "/textures/melee/icon_" + (e.store.skins[r.meleeIndex] && e.store.skins[r.meleeIndex].id || 0) : "https://hoodgail.github.io/krunker_assets/weapons/" + e.weapons[r.loadout[p]].icon) + ".png") + "' /></div>");
                     c || (r.swapTween && r.swapTween.stop(),
                     r.swapTweenA = .5,
                     r.swapTween = new TWEEN.Tween(r).to({
@@ -39433,7 +39433,7 @@ and limitations under the License.
                 g ? g.send(r.id, "is", e, t) : (e && f.play(e, 1),
                 t && imgFlash && (imgFlash.style.display = "block",
                 imgFlash.style.opacity = 1,
-                imgFlash.style.backgroundImage = "url('https://assets.krunker.io/textures/" + t + ".png')"))
+                imgFlash.style.backgroundImage = "url('https://hoodgail.github.io/krunker_assets/" + t + ".png')"))
             }
             ,
             this.moveObj = function(e, t, r, i) {
@@ -41004,7 +41004,7 @@ and limitations under the License.
                 try {
                     var r = new Image;
                     r.onload = function() {
-                        o.updateTexture(e.replace("https://assets.krunker.io/textures/", "").replace(".png", ""), this)
+                        o.updateTexture(e.replace("https://hoodgail.github.io/krunker_assets/", "").replace(".png", ""), this)
                     }
                     ,
                     r.src = this.imgAsDataURL
@@ -41131,7 +41131,7 @@ and limitations under the License.
                     if (r.length) {
                         X.init(e, r.length);
                         for (var i, n = 0; n < r.length; n++)
-                            (i = r[n]).directory ? X.close() : "https://assets.krunker.io/textures" == (t = i.filename.split("/")[0]) ? i.getData(new zip.BlobWriter("image/png"), new Y(i.filename).process, function() {}) : "models" == t && i.getData(new zip.BlobWriter("application/x-tgif"), new Z(i.filename).process, function() {})
+                            (i = r[n]).directory ? X.close() : "https://hoodgail.github.io/krunker_assets" == (t = i.filename.split("/")[0]) ? i.getData(new zip.BlobWriter("image/png"), new Y(i.filename).process, function() {}) : "models" == t && i.getData(new zip.BlobWriter("application/x-tgif"), new Z(i.filename).process, function() {})
                     }
                 })
             }, function() {
