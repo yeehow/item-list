@@ -145,11 +145,12 @@ function getPreviewURL(index) {
 }
 function getModelViewerURL(index) {
     //taken from krunker js. i didn't write this
+    //viewer is in this repo
     var t = items[index];
     if (t)
-        if (1 == t.type) return 'viewer.html?class=9&hat=' + index ;
+        if (1 == t.type) return 'viewer.html?class=9&hat=' + index;
         else if (2 == t.type) return 'viewer.html?class=9&back=' + index;
-        else if (3 == t.type) return 'viewer.html?class=9&hidePlayer&melee=' + index ;
+        else if (3 == t.type) return 'viewer.html?class=9&hidePlayer&melee=' + index;
         else if (null != t.weapon) {
             for (var n = null, r = 0; r < classes.length; r++)
                 if (classes[r] == t.weapon - 1) {
