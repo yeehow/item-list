@@ -147,9 +147,9 @@ function getModelViewerURL(index) {
     //taken from krunker js. i didn't write this
     var t = items[index];
     if (t)
-        if (1 == t.type) return 'https://krunker.io/viewer.html?class=9&hat=' + index + '&nogui';
-        else if (2 == t.type) return 'https://krunker.io/viewer.html?class=9&back=' + index + '&nogui';
-        else if (3 == t.type) return 'https://krunker.io/viewer.html?class=9&hidePlayer&melee=' + index + '&nogui';
+        if (1 == t.type) return 'viewer.html?class=9&hat=' + index ;
+        else if (2 == t.type) return 'viewer.html?class=9&back=' + index ';
+        else if (3 == t.type) return 'viewer.html?class=9&hidePlayer&melee=' + index ;
         else if (null != t.weapon) {
             for (var n = null, r = 0; r < classes.length; r++)
                 if (classes[r] == t.weapon - 1) {
@@ -157,7 +157,7 @@ function getModelViewerURL(index) {
                     break;
                 }
             if (n != null) {
-                return 'https://krunker.io/viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index + '&nogui';
+                return 'viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index;
             }
         }
 }
