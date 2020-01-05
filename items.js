@@ -1934,7 +1934,6 @@ var items = [{
     creator: "???",
     pat: 0,
     tex: "weapons/pat/0",
-    dot: "dot_1",
     sameGlow: !0,
     movT: 1e-4,
     weapon: 4,
@@ -1944,7 +1943,6 @@ var items = [{
     creator: "???",
     pat: 0,
     tex: "weapons/pat/0",
-    dot: "dot_1",
     sameGlow: !0,
     movT: 1e-4,
     weapon: 2,
@@ -1954,7 +1952,6 @@ var items = [{
     creator: "???",
     pat: 1,
     tex: "weapons/pat/1",
-    dot: "dot_1",
     sameGlow: !0,
     movT: .0015,
     weapon: 2,
@@ -1964,7 +1961,6 @@ var items = [{
     creator: "???",
     pat: 1,
     tex: "weapons/pat/1",
-    dot: "dot_1",
     sameGlow: !0,
     movT: .0015,
     weapon: 4,
@@ -2379,7 +2375,6 @@ var items = [{
     creator: "???",
     pat: 1,
     tex: "weapons/pat/1",
-    dot: "dot_1",
     sameGlow: !0,
     movT: .0015,
     weapon: 1,
@@ -2925,7 +2920,7 @@ var items = [{
     rarity: 2,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 85,
     weapon: 1,
     rarity: 1,
@@ -3317,7 +3312,7 @@ var items = [{
     glow: !0,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 90,
     weapon: 2,
     rarity: 0,
@@ -3425,7 +3420,7 @@ var items = [{
     glow: !0,
     seas: 2
 }, {
-    name: "Lighting Storm",
+    name: "Lightning Storm",
     id: 108,
     weapon: 2,
     rarity: 4,
@@ -3628,7 +3623,7 @@ var items = [{
     rarity: 2,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 85,
     weapon: 4,
     rarity: 0,
@@ -3769,7 +3764,7 @@ var items = [{
     rarity: 2,
     seas: 2
 }, {
-    name: "Picknick",
+    name: "Picnic",
     id: 31,
     weapon: 5,
     rarity: 1,
@@ -4090,7 +4085,7 @@ var items = [{
     glow: !0,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 31,
     weapon: 7,
     rarity: 0,
@@ -4369,7 +4364,7 @@ var items = [{
     rarity: 2,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 30,
     weapon: 9,
     rarity: 0,
@@ -4628,7 +4623,7 @@ var items = [{
     glow: !0,
     seas: 2
 }, {
-    name: "Lighting Strike",
+    name: "Lightning Strike",
     id: 73,
     weapon: 9,
     rarity: 4,
@@ -4810,7 +4805,7 @@ var items = [{
     rarity: 2,
     seas: 2
 }, {
-    name: "Picknik",
+    name: "Picnic",
     id: 54,
     weapon: 15,
     rarity: 0,
@@ -5359,7 +5354,7 @@ var items = [{
 }, {
     name: "Madman",
     id: 47,
-    rarity: 1,
+    rarity: 2,
     type: 1,
     keyW: "Head",
     seas: 2,
@@ -5636,7 +5631,6 @@ var items = [{
     pat: 1,
     seas: 2,
     tex: "weapons/pat/1",
-    dot: "dot_1",
     sameGlow: !0,
     movT: .0015,
     weapon: 7,
@@ -5647,9 +5641,63 @@ var items = [{
     pat: 1,
     seas: 2,
     tex: "weapons/pat/1",
-    dot: "dot_1",
     sameGlow: !0,
     movT: .0015,
     weapon: 5,
     rarity: 5
-}]
+}, {
+    name: "Terminal",
+    id: 39,
+    type: 4,
+    rarity: 0,
+    seas: 2,
+    opacity: .6,
+    frames: 2,
+    frameT: 250,
+    keyW: "Sprays"
+}, {
+    name: "Clickbait",
+    id: 40,
+    type: 4,
+    rarity: 2,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 550,
+    keyW: "Sprays"
+}, {
+    name: "Kunai",
+    keyW: "Knife",
+    glow: !0,
+    pulsT: .0015,
+    id: 4,
+    type: 3,
+    seas: 2,
+    rarity: 4,
+    scl: 2,
+    sclMlt: .75,
+    yOff: -1,
+    sxOff: -.15,
+    szOff: .3
+}, {
+    name: "Wrench",
+    keyW: "Knife",
+    id: 5,
+    type: 3,
+    seas: 2,
+    rarity: 4,
+    scl: 2,
+    sclMlt: .8,
+    yOff: -2.5
+}, {
+    name: "Clown",
+    id: 58,
+    rarity: 3,
+    type: 1,
+    keyW: "Head",
+    seas: 2,
+    sclMlt: .89,
+    sitOff: .9,
+    scl: 1.6,
+    yOff: -1.2
+}];
