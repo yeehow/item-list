@@ -5700,4 +5700,141 @@ var items = [{
     sitOff: .9,
     scl: 1.6,
     yOff: -1.2
-}];
+}, {
+    name: "Wink",
+    id: 41,
+    type: 4,
+    rarity: 1,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 550,
+    keyW: "Sprays"
+}, {
+    name: "No U",
+    id: 42,
+    type: 4,
+    rarity: 1,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 550,
+    keyW: "Sprays"
+}, {
+    name: "Coolman",
+    id: 43,
+    type: 4,
+    rarity: 1,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 550,
+    keyW: "Sprays"
+}, {
+    name: "Paranoid",
+    id: 44,
+    type: 4,
+    rarity: 0,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 1200,
+    keyW: "Sprays"
+}, {
+    name: "Dab",
+    id: 45,
+    type: 4,
+    rarity: 1,
+    seas: 2,
+    opacity: .75,
+    frames: 2,
+    frameT: 400,
+    keyW: "Sprays"
+}, {
+    name: "Pepereel",
+    id: 46,
+    type: 4,
+    rarity: 1,
+    seas: 2,
+    opacity: .8,
+    movT: -.0025,
+    keyW: "Sprays"
+}, {
+    name: "Wanted",
+    id: 47,
+    type: 4,
+    rarity: 0,
+    seas: 2,
+    opacity: .75,
+    keyW: "Sprays"
+}, {
+    name: "Soon&trade;",
+    id: 48,
+    type: 4,
+    rarity: 0,
+    seas: 2,
+    opacity: .7,
+    frames: 2,
+    frameT: 550,
+    keyW: "Sprays"
+}, {
+    name: "Art",
+    id: 49,
+    type: 4,
+    rarity: 2,
+    seas: 2,
+    opacity: .8,
+    frames: 2,
+    frameT: 350,
+    keyW: "Sprays"
+}, {
+    name: "Nautilus",
+    id: 50,
+    type: 4,
+    rarity: 3,
+    seas: 2,
+    opacity: .85,
+    frames: 4,
+    frameT: 200,
+    keyW: "Sprays"
+}, {
+    name: "Baller",
+    creator: "???",
+    pat: 6,
+    tex: "weapons/pat/6",
+    sameGlow: !0,
+    movT: 2e-4,
+    weapon: 1,
+    rarity: 5,
+    seas: 2
+}, {
+    name: "Baller",
+    creator: "???",
+    pat: 6,
+    tex: "weapons/pat/6",
+    sameGlow: !0,
+    movT: 2e-4,
+    weapon: 2,
+    rarity: 5,
+    seas: 2
+}, {
+    name: "Baller",
+    creator: "???",
+    pat: 6,
+    tex: "weapons/pat/6",
+    sameGlow: !0,
+    movT: 2e-4,
+    weapon: 4,
+    rarity: 5,
+    seas: 2
+}, {
+    name: "Baller",
+    creator: "???",
+    pat: 6,
+    tex: "weapons/pat/6",
+    sameGlow: !0,
+    movT: 2e-4,
+    weapon: 5,
+    rarity: 5,
+    seas: 2
+}
