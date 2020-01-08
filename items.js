@@ -5837,4 +5837,4 @@ var items = [{
     weapon: 5,
     rarity: 5,
     seas: 2
-}
+}];
