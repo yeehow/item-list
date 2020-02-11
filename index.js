@@ -270,8 +270,8 @@ function run(type, value) {
 }
 
 window.onload = (event) => {
-    //filter();
-    run(3, 2);
+    filter();
+    //run(3, 2);
 }
 
 window.onscroll = function (ev) {
