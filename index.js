@@ -136,31 +136,58 @@ function filter(season, rarity, weapon, cosmetic) {
 function getPreviewURL(index) {
     const start = 'https://assets.krunker.io';
     const build = '?build=iAJYl';
-    const types = ["weapons/weapon_", "hats/hat_", "body/body_", "melee/melee_", "sprays/"];
+    const types = [
+        "weapons/weapon_",
+        "hats/hat_",
+        "body/body_",
+        "melee/melee_",
+        "sprays/",
+        "dyes/"
+    ];
 
     const t = items[index];
 
     //taken from krunker js. i didn't write this
-    return (start + "/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && 3 > t.type ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? "" : "_" + t.tex) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
-    //return (start + '/textures/previews/' + (t.type && 3 > t.type ? 'cosmetics/' + t.type + '_' + t.id + (t.tex ? '_' + t.tex : '') : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? '' : '_' + t.tex) : (t.weapon || 0) + '_' + (null == t.mid ? null == t.pat ? (t.tex ? t.tex : t.id) : 'c' + t.pat : 'm' + t.mid + (null == t.midT ? '' : '_' + t.midT.split('_').slice(-1)[0])))) + '.png' + build);
+    //return (start + "/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && 3 > t.type ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? "" : "_" + t.tex) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
+    return (start + "/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && (3 > t.type || 5 == t.type) ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? "" : "_" + t.tex) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
 }
-function getModelViewerURL(index) {
-    //taken from krunker js. i didn't write this
-    var t = items[index];
+// function getModelViewerURL(index) {
+//     //taken from krunker js. i didn't write this
+//     var t = items[index];
+//     if (t)
+//         if (1 == t.type) return 'https://krunker.io/viewer.html?class=9&hat=' + index + '&nogui';
+//         else if (2 == t.type) return 'https://krunker.io/viewer.html?class=9&back=' + index + '&nogui';
+//         else if (3 == t.type) return 'https://krunker.io/viewer.html?class=9&hidePlayer&melee=' + index + '&nogui';
+//         else if (null != t.weapon) {
+//             for (var n = null, r = 0; r < classes.length; r++)
+//                 if (classes[r] == t.weapon - 1) {
+//                     n = r;
+//                     break;
+//                 }
+//             if (n != null) {
+//                 return 'https://krunker.io/viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index + '&nogui';
+//             }
+//         }
+// }
+
+function getModelViewerURL(e) {
+    var t = items[e];
     if (t)
-        if (1 == t.type) return 'https://krunker.io/viewer.html?class=9&hat=' + index + '&nogui';
-        else if (2 == t.type) return 'https://krunker.io/viewer.html?class=9&back=' + index + '&nogui';
-        else if (3 == t.type) return 'https://krunker.io/viewer.html?class=9&hidePlayer&melee=' + index + '&nogui';
+        if (1 == t.type)
+            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&hat=" + e;
+        else if (2 == t.type)
+            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&back=" + e;
+        else if (3 == t.type)
+            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&hidePlayer&melee=" + e;
         else if (null != t.weapon) {
             for (var n = null, r = 0; r < classes.length; r++)
                 if (classes[r] == t.weapon - 1) {
                     n = r;
-                    break;
+                    break
                 }
-            if (n != null) {
-                return 'https://krunker.io/viewer.html?class=' + n + '&hidePlayer&nosup&skinIdP=' + index + '&nogui';
-            }
-        }
+            if (n != null) { return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=" + n + "&hidePlayer&nosup&skinIdP=" + e; }
+        } else
+            if (t.type == 5) { return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&dye=" + e; }
 }
 
 function modal3d(n, d, c) {
