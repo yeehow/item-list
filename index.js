@@ -13,106 +13,125 @@ var index = 0;
 function getcomment(i) {
     $('#cm_btn').attr('onclick', `comment(${i})`)
 }
-function filter(season, rarity, weapon, cosmetic) {
-    if (season == null && rarity == null && weapon == null && cosmetic == null) {
-        console.log("none");
+function filter(season, rarity, weapon, cosmetic, newItem) {
+
+    if (newItem == true) {
+
+        filtered = [];
+
         items.forEach(function (element, index) {
             element.index = index;
             filtered.push(element);
         });
-    }
-    if (season != null) {
-        items.forEach(function (element, index) {
-            if (season == 1 && element.seas == null) {
+
+        filtered = filtered.slice(924, 945);
+
+        console.log(filtered);
+
+        itemDisplay.innerHTML = '';
+        index = 0;
+    } else {
+
+        if (season == null && rarity == null && weapon == null && cosmetic == null) {
+            console.log("none");
+            items.forEach(function (element, index) {
                 element.index = index;
                 filtered.push(element);
-            }
-            else if (season == 2 && element.seas == 2) {
-                element.index = index;
-                filtered.push(element);
-            }
-        });
-    }
-    if (rarity != null) {
-        if (filtered.length > 0) {
-            var temp = []
-            filtered.forEach(function (element, index) {
-                if (element.rarity == rarity) {
-                    temp.push(element);
-                }
             });
-            filtered = temp;
         }
-        else {
+        if (season != null) {
             items.forEach(function (element, index) {
-                if (element.rarity == rarity) {
+                if (season == 1 && element.seas == null) {
+                    element.index = index;
+                    filtered.push(element);
+                }
+                else if (season == 2 && element.seas == 2) {
                     element.index = index;
                     filtered.push(element);
                 }
             });
         }
-    }
-    if (weapon != null && cosmetic == null) {
-        if (filtered.length > 0) {
-            var temp = [];
-            filtered.forEach((element) => {
-                if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
-                    temp.push(element);
-                }
-                if (weapon == 16 && (element.keyW == 'Knife' || element.keyW == 'Axe')) {
-                    temp.push(element);
-                }
-                if (element.weapon == weapon) {
-                    temp.push(element);
-                }
+        if (rarity != null) {
+            if (filtered.length > 0) {
+                var temp = []
+                filtered.forEach(function (element, index) {
+                    if (element.rarity == rarity) {
+                        temp.push(element);
+                    }
+                });
+                filtered = temp;
             }
-            );
-            filtered = temp;
-            console.log(filtered);
-        } else {
-            items.forEach(function (element, index) {
-                if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
-                    element.index = index;
-                    filtered.push(element);
-                }
-                if (weapon == 16 && (element.keyW == 'Knife' || element.keyW == 'Axe')) {
-                    element.index = index;
-                    filtered.push(element);
-                }
-                if (element.weapon == weapon) {
-                    element.index = index;
-                    filtered.push(element);
-                }
-            });
-            console.log(filtered);
+            else {
+                items.forEach(function (element, index) {
+                    if (element.rarity == rarity) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                });
+            }
         }
-    }
-    if (cosmetic != null && weapon == null) {
-        if (filtered.length > 0) {
-            var temp = [];
-            filtered.forEach((element) => {
-                if (cosmetic == 'all' && element.type != null && element.type != 3) {
-                    temp.push(element);
+        if (weapon != null && cosmetic == null) {
+            if (filtered.length > 0) {
+                var temp = [];
+                filtered.forEach((element) => {
+                    if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
+                        temp.push(element);
+                    }
+                    if (weapon == 16 && (element.keyW == 'Knife' || element.keyW == 'Axe')) {
+                        temp.push(element);
+                    }
+                    if (element.weapon == weapon) {
+                        temp.push(element);
+                    }
                 }
-                if (element.type == cosmetic) {
-                    temp.push(element);
-                }
+                );
+                filtered = temp;
+                console.log(filtered);
+            } else {
+                items.forEach(function (element, index) {
+                    if (weapon == 'all' && (element.weapon != null || element.keyW == 'Knife' || element.keyW == 'Axe')) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                    if (weapon == 16 && (element.keyW == 'Knife' || element.keyW == 'Axe')) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                    if (element.weapon == weapon) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                });
+                console.log(filtered);
             }
-            );
-            filtered = temp;
-            console.log(filtered);
-        } else {
-            items.forEach(function (element, index) {
-                if (cosmetic == 'all' && element.type != null && element.type != 3) {
-                    element.index = index;
-                    filtered.push(element);
+        }
+        if (cosmetic != null && weapon == null) {
+            if (filtered.length > 0) {
+                var temp = [];
+                filtered.forEach((element) => {
+                    if (cosmetic == 'all' && element.type != null && element.type != 3) {
+                        temp.push(element);
+                    }
+                    if (element.type == cosmetic) {
+                        temp.push(element);
+                    }
                 }
-                if (element.type == cosmetic) {
-                    element.index = index;
-                    filtered.push(element);
-                }
-            });
-            console.log(filtered);
+                );
+                filtered = temp;
+                console.log(filtered);
+            } else {
+                items.forEach(function (element, index) {
+                    if (cosmetic == 'all' && element.type != null && element.type != 3) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                    if (element.type == cosmetic) {
+                        element.index = index;
+                        filtered.push(element);
+                    }
+                });
+                console.log(filtered);
+            }
         }
     }
 
