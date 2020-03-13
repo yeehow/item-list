@@ -88,6 +88,11 @@ html, body {
     margin-left: 1em;
 }
 
+.navBar h3 a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .navBar span a {
     float: right;
     color: #fff;
@@ -141,6 +146,7 @@ html, body {
     float: left;
     margin: 0;
     padding: 0;
+    cursor: pointer;
 }
 
 #primary_nav_wrap ul li.current-menu-item {
