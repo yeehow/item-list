@@ -7302,6 +7302,7 @@ var items = [
 	},
 	{
 		"name": "Daimyo Spirit",
+		"creator": "FlowerKid",
 		"id": 124,
 		"weapon": 1,
 		"glow": true,
@@ -7318,6 +7319,7 @@ var items = [
 	},
 	{
 		"name": "Samurai Spirit",
+		"creator": "FlowerKid",
 		"id": 78,
 		"weapon": 15,
 		"glow": true,
@@ -7397,5 +7399,86 @@ var items = [
 		"sclMlt": 0.54,
 		"sitOff": 0.9,
 		"scl": 1.6
+	},
+	{
+		"name": "Spectralon",
+		"id": 1,
+		"shirtCol": 16777215,
+		"sleeveCol": 16777215,
+		"pantsCol": 16777215,
+		"shoeCol": 16777215,
+		"seas": 2,
+		"type": 5,
+		"rarity": 5
+	},
+	{
+		"name": "24/7",
+		"id": 127,
+		"creator": "Drag",
+		"weapon": 1,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Shattered",
+		"id": 128,
+		"creator": "Edibleporg",
+		"weapon": 1,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Lunatic",
+		"id": 115,
+		"creator": "Nxbulah",
+		"weapon": 2,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Auzora",
+		"id": 116,
+		"creator": "Cyanide",
+		"weapon": 2,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Botanical",
+		"id": 79,
+		"creator": "Nxbulah",
+		"weapon": 15,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Krunkette 1",
+		"id": 51,
+		"type": 4,
+		"rarity": 5,
+		"seas": 2,
+		"opacity": 0.7,
+		"keyW": "Sprays"
+	},
+	{
+		"name": "Krunkette 2",
+		"id": 51,
+		"type": 4,
+		"rarity": 4,
+		"seas": 2,
+		"opacity": 0.7,
+		"keyW": "Sprays"
+	},
+	{
+		"name": "Krunkette 3",
+		"id": 51,
+		"type": 4,
+		"rarity": 3,
+		"seas": 2,
+		"opacity": 0.7,
+		"keyW": "Sprays"
 	}
 ]
