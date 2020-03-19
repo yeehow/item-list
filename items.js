@@ -6743,7 +6743,8 @@ var items = [
 	{
 		"name": "Nova Pump",
 		"mid": 0,
-		"locked": true,
+		"blocked": true,
+		"noSale": true,
 		"midT": "weapons/weapon_6_38",
 		"scl": 0.9,
 		"mScl": 1,
@@ -7369,6 +7370,7 @@ var items = [
 		"name": "Jagdfaust IV",
 		"mid": 2,
 		"glow": true,
+		"limited": true,
 		"scl": 0.9,
 		"mScl": 1,
 		"spnScl": 1.35,
@@ -7392,6 +7394,7 @@ var items = [
 	{
 		"name": "Facemask",
 		"keyW": "Mask",
+		"limited": true,
 		"id": 60,
 		"rarity": 2,
 		"type": 1,
@@ -7465,7 +7468,7 @@ var items = [
 	},
 	{
 		"name": "Krunkette 2",
-		"id": 51,
+		"id": 52,
 		"type": 4,
 		"rarity": 4,
 		"seas": 2,
@@ -7474,11 +7477,180 @@ var items = [
 	},
 	{
 		"name": "Krunkette 3",
-		"id": 51,
+		"id": 53,
 		"type": 4,
 		"rarity": 3,
 		"seas": 2,
 		"opacity": 0.7,
 		"keyW": "Sprays"
+	},
+	{
+		"name": "Lunar",
+		"id": 117,
+		"creator": "Nxbulah",
+		"weapon": 2,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "S&Y",
+		"id": 81,
+		"creator": "Cimota",
+		"weapon": 5,
+		"rarity": 3,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Quarantine",
+		"creator": "Floatingpoint",
+		"midT": "weapons/weapon_6_39",
+		"mid": 0,
+		"scl": 0.9,
+		"mScl": 1,
+		"zOff": 0.28,
+		"yOff": -0.5,
+		"weapon": 6,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Scarlet",
+		"id": 118,
+		"creator": "FlowerKid",
+		"weapon": 2,
+		"rarity": 5,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Lunar Nitro",
+		"id": 129,
+		"creator": "Kitter",
+		"weapon": 1,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Sunset Raven",
+		"creator": "FlowerKid",
+		"midT": "weapons/weapon_6_40",
+		"mid": 0,
+		"scl": 0.9,
+		"mScl": 1,
+		"zOff": 0.28,
+		"yOff": -0.5,
+		"weapon": 6,
+		"rarity": 3,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Otzarreta",
+		"id": 110,
+		"creator": "FlowerKid",
+		"weapon": 4,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Wychwood",
+		"id": 111,
+		"creator": "FlowerKid",
+		"weapon": 4,
+		"rarity": 4,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Trip",
+		"id": 112,
+		"creator": "Nxbulah",
+		"weapon": 4,
+		"rarity": 3,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Retribution",
+		"id": 130,
+		"creator": "Jhonxay_Playz",
+		"weapon": 1,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Spiritful",
+		"id": 80,
+		"creator": "Zinoob",
+		"weapon": 15,
+		"rarity": 3,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Toxix",
+		"creator": "Kltter",
+		"midT": "weapons/weapon_6_41",
+		"mid": 0,
+		"scl": 0.9,
+		"mScl": 1,
+		"zOff": 0.28,
+		"yOff": -0.5,
+		"weapon": 6,
+		"rarity": 3,
+		"glow": true,
+		"seas": 2
+	},
+	{
+		"name": "Spec Ops",
+		"id": 131,
+		"creator": "floatingpoint",
+		"weapon": 1,
+		"rarity": 3,
+		"seas": 2
+	},
+	{
+		"name": "Retro-cade",
+		"id": 113,
+		"creator": "Kltter",
+		"weapon": 4,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Incognito",
+		"midT": "weapons/weapon_6_42",
+		"creator": "cimota",
+		"mid": 0,
+		"scl": 0.9,
+		"mScl": 1,
+		"zOff": 0.28,
+		"yOff": -0.5,
+		"weapon": 6,
+		"rarity": 3,
+		"seas": 2
+	},
+	{
+		"name": "Crator",
+		"id": 132,
+		"weapon": 1,
+		"rarity": 2,
+		"seas": 2
+	},
+	{
+		"name": "Scalar",
+		"creator": "floatingpoint",
+		"midT": "weapons/weapon_6_43",
+		"mid": 0,
+		"scl": 0.9,
+		"mScl": 1,
+		"zOff": 0.28,
+		"yOff": -0.5,
+		"weapon": 6,
+		"rarity": 3,
+		"seas": 2
 	}
 ]
