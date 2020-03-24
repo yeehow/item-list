@@ -24,7 +24,7 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
             filtered.push(element);
         });
 
-        filtered = filtered.slice(924, 2000);
+        filtered = filtered.slice(975, 1000);
 
         console.log(filtered);
 
