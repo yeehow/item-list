@@ -2073,7 +2073,6 @@ var items = [
   },
   {
     "name": "Vlaine",
-    "creator": "Hoodgail",
     "id": 36,
     "weapon": 1,
     "rarity": 1
@@ -2121,7 +2120,6 @@ var items = [
   },
   {
     "name": "Uzera",
-    "creator": "Hoodgail",
     "id": 2,
     "glow": true,
     "weapon": 10,
@@ -2129,7 +2127,6 @@ var items = [
   },
   {
     "name": "Tazor",
-    "creator": "Hoodgail",
     "glow": true,
     "id": 7,
     "weapon": 10,
@@ -2180,7 +2177,6 @@ var items = [
   },
   {
     "name": "Leine",
-    "creator": "Hoodgail",
     "id": 43,
     "weapon": 1,
     "rarity": 3
@@ -2979,6 +2975,7 @@ var items = [
   {
     "name": "Frostbite",
     "keyW": "Axe",
+    "priceMlt": 4,
     "animInd": 1,
     "glow": true,
     "id": 1,
@@ -8678,5 +8675,41 @@ var items = [
     "scl": 1.6,
     "rAnim": -0.0022,
     "rAnimA": "y"
+  },
+  {
+    "name": "U.F.0",
+    "keyW": "Hat",
+    "id": 68,
+    "rarity": 5,
+    "type": 1,
+    "seas": 2,
+    "sclMlt": 1.75,
+    "sitOff": -0.5,
+    "xOff": -3.6,
+    "scl": 1.6,
+    "rAnim": -0.0022,
+    "rAnimA": "y",
+    "trans": true,
+    "glow": true
+  },
+  {
+    "name": "RGB",
+    "priceMlt": 4,
+    "id": 4,
+    "seas": 2,
+    "type": 5,
+    "rarity": 6,
+    "rgb": true,
+    "rgbS": 0.5
+  },
+  {
+    "name": "Raynb0w",
+    "weapon": 3,
+    "pat": 1,
+    "tex": "weapons/pat/1",
+    "sameGlow": true,
+    "movT": 0.0015,
+    "rarity": 5,
+    "seas": 2
   }
 ];
