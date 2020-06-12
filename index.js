@@ -1,7 +1,7 @@
 var itemDisplay = document.getElementById('display');
 
 var filtered = [];
-var seasonSelection = 2;
+var seasonSelection = "all";
 var raritySelection = null;
 var weaponSelection = null;
 var cosmeticSelection = null;
@@ -10,9 +10,11 @@ var rarityColor = ['#b2f252', '#2196F3', '#E040FB', '#FBC02D', '#ed4242', '#1717
 var classes = [1, 0, 3, 6, 5, 4, 7, 8, 9, 12, 10, 13, 14];
 
 var index = 0;
+
 function getcomment(i) {
     $('#cm_btn').attr('onclick', `comment(${i})`)
 }
+
 function filter(season, rarity, weapon, cosmetic, newItem) {
 
     if (newItem == true) {
@@ -24,7 +26,7 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
             filtered.push(element);
         });
 
-        filtered = filtered.slice(975, 1000);
+        filtered = filtered.slice(1070, 1632);
 
         console.log(filtered);
 
@@ -44,8 +46,10 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
                 if (season == 1 && element.seas == null) {
                     element.index = index;
                     filtered.push(element);
-                }
-                else if (season == 2 && element.seas == 2) {
+                } else if (season == 2 && element.seas == 2) {
+                    element.index = index;
+                    filtered.push(element);
+                } else if (season == 3 && element.seas == 3) {
                     element.index = index;
                     filtered.push(element);
                 }
@@ -60,8 +64,7 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
                     }
                 });
                 filtered = temp;
-            }
-            else {
+            } else {
                 items.forEach(function (element, index) {
                     if (element.rarity == rarity) {
                         element.index = index;
@@ -83,8 +86,7 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
                     if (element.weapon == weapon) {
                         temp.push(element);
                     }
-                }
-                );
+                });
                 filtered = temp;
                 console.log(filtered);
             } else {
@@ -115,8 +117,7 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
                     if (element.type == cosmetic) {
                         temp.push(element);
                     }
-                }
-                );
+                });
                 filtered = temp;
                 console.log(filtered);
             } else {
@@ -137,8 +138,8 @@ function filter(season, rarity, weapon, cosmetic, newItem) {
 
     if (filtered.length > 0) {
         filtered.sort(function (a, b) {
-            var keyA = new Date(a.rarity)
-                , keyB = new Date(b.rarity);
+            var keyA = new Date(a.rarity),
+                keyB = new Date(b.rarity);
             if (keyA < keyB)
                 return -1;
             if (keyA > keyB)
@@ -165,10 +166,11 @@ function getPreviewURL(index) {
     ];
 
     const t = items[index];
+    if (!t.midT == false || t.midT == 0) t.midT = t.midT.toString()
 
     //taken from krunker js. i didn't write this
-    //return (start + "/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && 3 > t.type ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? "" : "_" + t.tex) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
-    return (start + "/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && (3 > t.type || 5 == t.type) ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.tex ? "" : "_" + t.tex) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
+    //return start + ("/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && (3 > t.type || 5 == t.type) ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.pat ? null == t.tex ? "" : "_" + t.tex : "_c" + t.pat) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
+    return start + ("/textures/" + (t.type && 4 == t.type ? "sprays/" + t.id : "previews/" + (t.type && (3 > t.type || 5 == t.type) ? "cosmetics/" + t.type + "_" + t.id + (t.tex ? "_" + t.tex : "") : types[t.type || 0] + (t.type && 3 == t.type ? t.id + (null == t.pat ? null == t.tex ? "" : "_" + t.tex : "_c" + t.pat) : (t.weapon || 0) + "_" + (null == t.mid ? null == t.pat ? t.tex ? t.tex : t.id : "c" + t.pat : "m" + t.mid + (null == t.midT ? "" : "_" + t.midT.split("_").slice(-1)[0]))))) + ".png")
 }
 // function getModelViewerURL(index) {
 //     //taken from krunker js. i didn't write this
@@ -195,25 +197,38 @@ function getModelViewerURL(e) {
         if (1 == t.type)
             return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&hat=" + e;
         else if (2 == t.type)
-            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&back=" + e;
-        else if (3 == t.type)
-            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&hidePlayer&melee=" + e;
-        else if (null != t.weapon) {
-            for (var n = null, r = 0; r < classes.length; r++)
-                if (classes[r] == t.weapon - 1) {
-                    n = r;
-                    break
-                }
-            if (n != null) { return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=" + n + "&hidePlayer&nosup&skinIdP=" + e; }
-        } else
-            if (t.type == 5) { return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&dye=" + e; }
+        return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&back=" + e;
+    else if (3 == t.type)
+        return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&hidePlayer&melee=" + e;
+    else if (null != t.weapon) {
+        for (var n = null, r = 0; r < classes.length; r++)
+            if (classes[r] == t.weapon - 1) {
+                n = r;
+                break
+            }
+        if (n != null) {
+            return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=" + n + "&hidePlayer&nosup&skinIdP=" + e;
+        }
+    } else
+    if (t.type == 5) {
+        return 'https://krunker.io/viewer.html?class=' + n + "/viewer.html?class=9&dye=" + e;
+    }
 }
 
 function modal3d(n, d, c) {
     $("#_3dmodals , #backgr").fadeIn("slow");
-    $("#_3diframe").attr("src", d);
+    $("#_3diframe").attr("style", "background: rgba(0,0,0,0.75)");
     $("#_3diname").html(n);
     $("#_3dicreator").html(c);
+    let iframe = document.getElementById("_3diframe");
+    (async function () {
+        var get = await fetch(`https://cors-anywhere.herokuapp.com/${d}`),
+            text = await get.text();
+        //console.log(text)
+        let blobUrl = URL.createObjectURL(new Blob([`<script>var searchP = window.location.hash.slice(1);</script><style>.dg.main.a.taller-than-window {display: none;} #container {background: rgba(0,0,0,0) !important; background-image: url() !important; position: static !important;} html,body{background:none transparent !important;}</style>` + text.split("/libs/").join("https://krunker.io/libs/").split("https://assets.krunker.io").join("https://cors-anywhere.herokuapp.com/https://assets.krunker.io").replace("window.location.search", "searchP")], {type : 'text/html'})) + d.replace("https://krunker.io/viewer.html", "#")
+        //console.log(blobUrl)
+        iframe.src = blobUrl
+    })()
 }
 
 function close3d() {
@@ -222,6 +237,7 @@ function close3d() {
     $("#_3diname").html("")
     $("#_3dicreator").html('')
 }
+
 function displayItems() {
     //console.log(index);
 
@@ -236,6 +252,7 @@ function displayItems() {
             break;
         }
         var now = filtered[i];
+
         function creator() {
             if (now.creator == undefined || now.creator == null) {
                 return "Krunker.io"
@@ -249,9 +266,21 @@ function displayItems() {
         var title = document.createElement('p');
         title.textContent = now.name;
         title.style.color = rarityColor[now.rarity];
+        if (now.rarity == 6) title.style = `animation: rainbowText .5s linear infinite`
 
-        var image = document.createElement('img');
-        image.src = getPreviewURL(now.index);
+        var image;
+
+        if (now.keyW == "Sprays" || now.keyW == "Spray") {
+            image = document.createElement("div");
+            image.className = "sprayImg"
+            image.style = `background-image: url(${getPreviewURL(now.index)}); animation: sprayAni${now.frames} ${now.frames}s infinite`
+        } else {
+            image = document.createElement("img");
+            image.src = getPreviewURL(now.index);
+            if (now.rgb == true) {
+                image.style = `animation: rgbHue .8s steps(36) infinite;`
+            }
+        }
 
         var button = document.createElement('div');
         button.className = 'button';
@@ -292,6 +321,7 @@ function setLoadDisplay(state) {
     document.getElementById('loadButton').style.display = state ? 'block' : 'none';
     $('#loadButton').attr('onclick', 'displayItems()')
 }
+
 function run(type, value) {
     filtered = [];
 
@@ -326,8 +356,7 @@ window.onscroll = function (ev) {
             //displayItems();
         }
     }
-}
-    ;
+};
 //Others
 function mobile_check() {
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
@@ -352,6 +381,7 @@ function yeehow() {
     </div>
     `
 }
+
 function hoodgail() {
     return `
     <div class="modal_data">
@@ -364,6 +394,33 @@ function hoodgail() {
     </div>
     `
 }
+
+function hoodgail() {
+    return `
+    <div class="modal_data">
+    <a class="mt_class">social / contact</a>
+      <ul>
+      <li><a href="https://krunker.io/social.html?p=profile&q=Hoodgail">Krunker Profile</a></li>
+      <li><a href="http://hoodgail.dx.am/">website</a> (old)</li>
+      <li><a>Discord: </a>Hoodgail#5408</li>
+      </ul>
+    </div>
+    `
+}
+
+function hitthemoney() {
+    return `
+    <div class="modal_data">
+    <a class="mt_class">social / contact</a>
+      <ul>
+      <li><a href="https://krunker.io/social.html?p=profile&q=lostnoob69">Krunker Profile</a></li>
+      <li><a href="http://hitthemoney.com/">Website</a></li>
+      <li><a>Discord: </a>hitthemoney#5719</li>
+      </ul>
+    </div>
+    `
+}
+
 function m_1() {
     return `
     <div class="modal_data">
@@ -371,10 +428,12 @@ function m_1() {
         <ul>
       <li onclick="openModal('Yeehow',yeehow())"><a>yeehow</a></li>
       <li onclick="openModal('Hoodgail',hoodgail())"><a>Hoodgail</a></li>
+      <li onclick="openModal('hitthemoney',hitthemoney())"><a>hitthemoney</a></li>
        </ul>
     </div>
     `
 }
+
 function openModal(n, d) {
     $(".modal").html('')
     $("#backgr , .modal").fadeIn('slow');
@@ -383,6 +442,7 @@ function openModal(n, d) {
          ${d}
         `)
 }
+
 function closeModal() {
     $("#backgr , .modal").fadeOut('slow');
     $(".modal").html('')

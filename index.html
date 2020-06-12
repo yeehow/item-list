@@ -12,7 +12,6 @@
 
         gtag('config', 'UA-134041866-4');
     </script>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -49,6 +48,7 @@
                 <li><a id="seasonElement">Season</a>
                     <ul>
                         <li><a onclick="run(3, null)">All</a></li>
+                        <li><a onclick="run(3, 3)">Season 3</a></li>
                         <li><a onclick="run(3, 2)">Season 2</a></li>
                         <li><a onclick="run(3, 1)">Season 1</a></li>
                     </ul>
@@ -111,7 +111,7 @@
     <div class="_3dmodals" style="" id="_3dmodals">
         <!-- 3d item previews here -->
         <a id="_3diname"></a>
-        <iframe id="_3diframe"></iframe>
+        <iframe allowtransparency="true" id="_3diframe"></iframe>
         <a id="_3dicreator"></a>
         <button id="cm_btn">Comment</button>
     </div>
