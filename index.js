@@ -67,7 +67,7 @@ function runFilter() {
 //sort array and seperate into chunks (pagination)
 function display() {
     result.sort((a, b) => (a.rarity > b.rarity) ? -1 : (a.rarity === b.rarity) ? ((a.size > b.size) ? -1 : 1) : 1); //https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/
-    chunks = chunkArray(result, 25);
+    chunks = chunkArray(result, 40);
     displayChunk();
 }
 
