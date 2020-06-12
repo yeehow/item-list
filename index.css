@@ -1,13 +1,15 @@
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:portrait) { 
-body {
--webkit-transform: rotate(90deg);
-width: 100%;
-height: 100%;
-overflow: hidden;
-position: absolute;
-top: 0;
-left: 0; 
-}}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:portrait) {
+    body {
+        -webkit-transform: rotate(90deg);
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
+
 @font-face {
     font-family: 'gamefont';
     src: url('./font2.ttf');
@@ -27,12 +29,14 @@ html {
     border-bottom: solid 5px white;
     padding-bottom: 7px;
 }
-#_3dicreator{
+
+#_3dicreator {
     color: white;
     border-bottom: solid 5px white;
     padding-bottom: 7px;
 
 }
+
 ._3dmodals {
     display: none;
     position: fixed;
@@ -60,7 +64,8 @@ iframe {
     border: solid 5px white;
 }
 
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
 }
@@ -77,11 +82,13 @@ html, body {
     z-index: 1;
     position: fixed;
 }
-#_3diframe{
+
+#_3diframe {
     height: 451px;
     width: 805px;
-    margin-top:20px;
+    margin-top: 20px;
 }
+
 .navBar h3 {
     color: #fff;
     margin: 0;
@@ -181,7 +188,7 @@ html, body {
     left: 100%;
 }
 
-#primary_nav_wrap ul li:hover > ul {
+#primary_nav_wrap ul li:hover>ul {
     display: block;
 }
 
@@ -258,15 +265,18 @@ html, body {
     width: 363px;
     height: auto;
 }
+
 .modal_name {
     color: white;
     border-bottom: solid 5px white;
     padding-bottom: 7px;
     width: min-content;
 }
-.mt_class{
-    color:#6d6d6d;
+
+.mt_class {
+    color: #6d6d6d;
 }
+
 .modal_data {
     background: #00000078;
     color: white;
@@ -286,6 +296,7 @@ html, body {
 .modal_data li a {
     color: white !important;
 }
+
 #loadButton {
     display: none;
     position: relative;
@@ -294,19 +305,28 @@ html, body {
     width: fit-content;
     padding: 10px;
 }
-button,input{
-    border:none;
-    padding:5px;
+
+button,
+input {
+    border: none;
+    padding: 5px;
     margin-top: 16px;
 }
-.comment{
+
+.comment {
     max-height: 285px;
     overflow-y: auto;
     overflow-x: hidden;
     max-width: 251px;
 }
-.cm_close{padding:10px;margin:10px;background: #ff6f6f78;}
- .commentholder {
+
+.cm_close {
+    padding: 10px;
+    margin: 10px;
+    background: #ff6f6f78;
+}
+
+.commentholder {
     position: fixed;
     background: #ffffff9c;
     color: black;
@@ -319,14 +339,105 @@ button,input{
     --shad: black;
     transform: translate(-50%, 50%);
     box-shadow: rgba(156, 172, 172, 0.2) 0px 2px 2px, rgba(156, 172, 172, 0.2) 0px 4px 4px, rgba(156, 172, 172, 0.2) 0px 8px 8px, rgba(156, 172, 172, 0.2) 0px 16px 16px, rgba(156, 172, 172, 0.2) 0px 32px 32px, rgba(156, 172, 172, 0.2) 0px 64px 64px;
-    display:none;
+    display: none;
     /* max-height: 285px; */
     /* overflow-y: auto; */
     /* overflow-x: hidden; */
     /* max-width: 251px; */
 }
-     .comment-item{
-      background-color: #00000021;
-      margin: 10px;
-      padding: 6px;
-     }
+
+.comment-item {
+    background-color: #00000021;
+    margin: 10px;
+    padding: 6px;
+}
+
+/*
+@keyframes sprayAni {
+
+    0%,
+    100% {
+        background-position: 0px;
+    }
+}
+*/
+
+@keyframes sprayAni2 {
+
+    0%,
+    49.999% {
+        background-position: 0px;
+    }
+
+    50%,
+    100% {
+        background-position: -180px;
+    }
+}
+
+@keyframes sprayAni4 {
+
+    0%,
+    24.999% {
+        background-position: 0px;
+    }
+
+    25%,
+    49.999% {
+        background-position: -180px;
+    }
+
+    50%,
+    74.999% {
+        background-position: -360px;
+    }
+
+    75%,
+    100% {
+        background-position: -540px;
+    }
+}
+
+@keyframes rgbHue {
+    from {
+        -webkit-filter: hue-rotate(10deg) brightness(2);
+        filter: hue-rotate(10deg) brightness(2)
+    }
+
+    to {
+        -webkit-filter: hue-rotate(360deg) brightness(2);
+        filter: hue-rotate(360deg) brightness(2)
+    }
+}
+
+@keyframes rainbowText {
+
+    0%,
+    100% {
+        color: Crimson;
+    }
+
+    20% {
+        color: orange;
+    }
+
+    40% {
+        color: #ff0;
+    }
+
+    60% {
+        color: lime;
+    }
+
+    80% {
+        color: MediumBlue;
+    }
+}
+
+.sprayImg {
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    background-size: cover;
+    background-position: 0px;
+}
