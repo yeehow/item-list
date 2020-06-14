@@ -50,6 +50,14 @@ body {
     visibility: hidden;
 }
 
+@media screen and (max-width: 900px) {
+    .item:hover, .item:active .itemDetails{
+        visibility: visible;
+        background-color:rgb(0, 0, 0, 0.3);
+        border-radius: 20px;
+    }
+}
+
 .itemDetails {
     visibility: hidden;
     position: absolute;
