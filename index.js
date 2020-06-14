@@ -4,10 +4,10 @@ window.onload = function () {
 
 var filters = {};
 var result = [];
-var displayDiv = document.getElementById("display");
 var displayIndex = 0;
 var chunks = [];
 var scroll = true;
+var displayDiv = document.getElementById("display");
 var seasonLabel = document.getElementById("season");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
@@ -64,9 +64,13 @@ function runFilter() {
     display();
 }
 
+function sortArray(array) { //https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/
+    return array.sort((a, b) => (a.rarity > b.rarity) ? -1 : (a.rarity === b.rarity) ? ((a.size > b.size) ? -1 : 1) : 1);
+}
+
 //sort array and seperate into chunks (pagination)
 function display() {
-    result.sort((a, b) => (a.rarity > b.rarity) ? -1 : (a.rarity === b.rarity) ? ((a.size > b.size) ? -1 : 1) : 1); //https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/
+    sortArray(result);
     chunks = chunkArray(result, 40);
     displayChunk();
 }
