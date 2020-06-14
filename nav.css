@@ -8,7 +8,6 @@ a {
 }
 
 ul {
-    /* background: darkorange; */
 	list-style: none;
 	margin: 0;
 	padding-left: 0;
@@ -32,8 +31,7 @@ li a {
   color: #171c28;
 }
 
-li:hover,
-li:focus-within {
+li:hover, li:focus-within {
 	background: #CCCED1;
 	cursor: pointer;
 }
@@ -79,4 +77,22 @@ ul li ul:focus {
 ul li ul li {
 	clear: both;
     width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+    li:hover, li:active, li:focus-within {
+        background: #CCCED1;
+        cursor: pointer;
+    }
+
+    ul li:hover > ul,
+    ul li:active > ul,
+    ul li:focus-within > ul,
+    ul li ul:hover,
+    ul li ul:active,
+    ul li ul:focus {
+        visibility: visible;
+        opacity: 1;
+        display: block;
+    }
 }
