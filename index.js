@@ -1,3 +1,13 @@
+//used for import
+// items.forEach(function (element, index) {
+//     if (element.seas == null) {
+//         element["seas"] = 1;
+//     }
+//     element["i"] = index;
+// });
+
+// console.log(items);
+
 window.onload = function () {
     filter("seas", 3);
 };
@@ -59,6 +69,7 @@ function runFilter() {
         }
         return true;
     });
+    console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
     display();
