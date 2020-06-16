@@ -6,7 +6,7 @@
 //     element["i"] = index;
 // });
 
-// console.log(items);
+//console.log(items);
 
 window.onload = function () {
     filter("seas", 3);
@@ -18,6 +18,7 @@ var displayIndex = 0;
 var chunks = [];
 var scroll = true;
 var displayDiv = document.getElementById("display");
+var itemCount = document.getElementById("itemCount");
 var seasonLabel = document.getElementById("season");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
@@ -82,6 +83,7 @@ function sortArray(array) { //https://flaviocopes.com/how-to-sort-array-of-objec
 //sort array and seperate into chunks (pagination)
 function display() {
     sortArray(result);
+    itemCount.textContent = `${result.length} Items`;
     chunks = chunkArray(result, 40);
     displayChunk();
 }
