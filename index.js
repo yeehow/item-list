@@ -6,7 +6,7 @@
 //     element["i"] = index;
 // });
 
-//console.log(items);
+// console.log(items);
 
 window.onload = function () {
     filter("seas", 3);
@@ -17,12 +17,15 @@ var result = [];
 var displayIndex = 0;
 var chunks = [];
 var scroll = true;
+var updateLabel = document.getElementById("updateLabel");
 var displayDiv = document.getElementById("display");
 var itemCount = document.getElementById("itemCount");
 var seasonLabel = document.getElementById("season");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
+
+updateLabel.textContent = updateVersion;
 
 //change filters
 function filter(property, value) {
@@ -134,7 +137,8 @@ window.onscroll = function (ev) {
 
 //krunker js (I didn't write this)
 function getPreview(a) {
-    return "https://assets.krunker.io/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 5 == a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png";
+    return "https://assets.krunker.io/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 4 < a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png";
+    //return e.exports.assetsUrl("/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 4 < a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : t.types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png", !1, a.local)
 }
 
 //krunker js (I didn't write this)
@@ -144,6 +148,8 @@ function getViewer(a) {
             return "https://krunker.io/viewer.html?class=9&hat=" + a.i;
         else if (2 == a.type)
             return "https://krunker.io/viewer.html?class=9&back=" + a.i;
+        else if (6 == a.type)
+            return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
         else if (3 == a.type)
             return "https://krunker.io/viewer.html?class=9&hidePlayer&melee=" + a.i;
         else if (null == a.weapon && 5 == a.type)

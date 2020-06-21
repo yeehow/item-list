@@ -1,3 +1,4 @@
+var updateVersion = "2.5.6";
 var items = [
   {
     "name": "Arctic Hunt",
@@ -16104,7 +16105,35 @@ var items = [
     "rAnimA": "x",
     "illicit": true,
     "funds": 3000,
-    "reqT": "call in 1000 Nukes",
+    "reqT": "Call in 1000 Nukes",
     "i": 1642
+  },
+  {
+    "name": "Floatie",
+    "id": 0,
+    "type": 6,
+    "keyW": "Waist",
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 1.8,
+    "yOff": -1.5,
+    "xOff": 0.5,
+    "prevRot": 4,
+    "rarity": 5,
+    "seas": 3,
+    "i": 1643
+  },
+  {
+    "name": "Combat Banana",
+    "keyW": "Knife",
+    "id": 14,
+    "type": 3,
+    "scl": 1.7,
+    "sclMlt": 0.9,
+    "yOff": -0.5,
+    "xOff": -1,
+    "rarity": 4,
+    "seas": 3,
+    "i": 1644
   }
 ];
