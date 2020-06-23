@@ -1,4 +1,4 @@
-var updateVersion = "2.5.6";
+var updateVersion = "2.5.7";
 var items = [
   {
     "name": "Arctic Hunt",
@@ -7064,7 +7064,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 4,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 812
   },
   {
@@ -7081,7 +7082,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 5,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 813
   },
   {
@@ -7098,7 +7100,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 5,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 814
   },
   {
@@ -7115,7 +7118,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 5,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 815
   },
   {
@@ -7860,8 +7864,9 @@ var items = [
     "scl": 2,
     "sclMlt": 0.75,
     "yOff": -1,
-    "sxOff": -0.15,
-    "szOff": 0.3,
+    "sxOff": 0,
+    "syOff": -0.05,
+    "szOff": -0.1,
     "i": 868
   },
   {
@@ -7874,6 +7879,8 @@ var items = [
     "scl": 2,
     "sclMlt": 0.8,
     "yOff": -2.5,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 869
   },
   {
@@ -8723,7 +8730,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 3,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 939
   },
   {
@@ -8741,7 +8749,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 4,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 940
   },
   {
@@ -8778,6 +8787,7 @@ var items = [
     "scl": 2,
     "sclMlt": 0.76,
     "yOff": -2.5,
+    "sxOff": 0.15,
     "i": 943
   },
   {
@@ -10137,7 +10147,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 4,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1064
   },
   {
@@ -13354,9 +13365,9 @@ var items = [
     "id": 10,
     "rarity": 4,
     "type": 3,
-    "sxRot": -0.2,
+    "sxRot": -0.3,
     "syOff": 0.1,
-    "szOff": 0.2,
+    "szOff": -0.1,
     "scl": 0.8,
     "yOff": -1,
     "xOff": -1,
@@ -15744,7 +15755,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 3,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1617
   },
   {
@@ -15761,7 +15773,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 3,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1618
   },
   {
@@ -15778,7 +15791,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 3,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1619
   },
   {
@@ -15795,7 +15809,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 3,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1620
   },
   {
@@ -15816,7 +15831,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 4,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1621
   },
   {
@@ -15836,7 +15852,8 @@ var items = [
     "xOff": -1.5,
     "rarity": 4,
     "sxRot": 0.3,
-    "sxOff": 0.1,
+    "sxOff": 0.35,
+    "szOff": -0.25,
     "i": 1622
   },
   {
@@ -16135,5 +16152,123 @@ var items = [
     "rarity": 4,
     "seas": 3,
     "i": 1644
+  },
+  {
+    "name": "Banana Tail",
+    "id": 2,
+    "type": 6,
+    "keyW": "Waist",
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 2.5,
+    "sitOff": 1.9,
+    "sitOffZ": -3,
+    "yOff": -1.5,
+    "xOff": 0.5,
+    "prevRot": 4,
+    "rarity": 4,
+    "seas": 3,
+    "i": 1645
+  },
+  {
+    "name": "Cyber Midnight",
+    "id": 207,
+    "creator": "SplatterSponge",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1646
+  },
+  {
+    "name": "Delirium",
+    "id": 206,
+    "creator": "floatingpoint",
+    "weapon": 2,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1647
+  },
+  {
+    "name": "Mosasaur",
+    "id": 207,
+    "creator": "BigBBaniel",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1648
+  },
+  {
+    "name": "Captane",
+    "id": 134,
+    "creator": "Nxbulah",
+    "weapon": 5,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1649
+  },
+  {
+    "name": "Tiger Cascade",
+    "id": 122,
+    "creator": "Multihawk",
+    "weapon": 7,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1650
+  },
+  {
+    "name": "Flamer",
+    "mid": 0,
+    "midT": 45,
+    "creator": "Multihawk",
+    "weapon": 8,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1651
+  },
+  {
+    "name": "MOS",
+    "mid": 0,
+    "midT": 46,
+    "creator": "Kltter",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1652
+  },
+  {
+    "name": "Dynamite",
+    "mid": 0,
+    "midT": 43,
+    "creator": "Destroy007",
+    "weapon": 10,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1653
+  },
+  {
+    "name": "Rye",
+    "id": 124,
+    "creator": "Nxbulah",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1654
+  },
+  {
+    "name": "Isotope Mk2",
+    "id": 125,
+    "creator": "Multihawk",
+    "weapon": 15,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1655
   }
 ];

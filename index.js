@@ -5,11 +5,11 @@
 //     }
 //     element["i"] = index;
 // });
-
 // console.log(items);
+//items = items.slice(1645, 1656);
 
 window.onload = function () {
-    filter("seas", 3);
+    filter("seas", "all");
 };
 
 var filters = {};
