@@ -201,8 +201,6 @@ function addItem(item) {
     var divDetails = document.createElement("div");
     divDetails.className = "itemDetails";
 
-    console.log(item);
-
     var price = document.createElement("a");
     price.textContent = "Price";
     price.href = getPrice(item);
