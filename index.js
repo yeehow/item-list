@@ -1,31 +1,45 @@
-//used for import
+// used for import
 // items.forEach(function (element, index) {
 //     if (element.seas == null) {
 //         element["seas"] = 1;
 //     }
 //     element["i"] = index;
 // });
-// console.log(items);
-//items = items.slice(1645, 1656);
 
 window.onload = function () {
-    filter("seas", "all");
-};
+    loadUpdates();
+}
 
 var filters = {};
 var result = [];
 var displayIndex = 0;
 var chunks = [];
 var scroll = true;
-var updateLabel = document.getElementById("updateLabel");
 var displayDiv = document.getElementById("display");
-var itemCount = document.getElementById("itemCount");
 var seasonLabel = document.getElementById("season");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
+var searchInput = document.getElementById("search");
 
-updateLabel.textContent = updateVersion;
+var updateLabel = document.getElementById("updateLabel");
+updateLabel.textContent = updates[0].version;
+
+//display updates
+function loadUpdates() {
+    displayDiv.innerHTML = "";
+    displayIndex = 0;
+    updates.forEach(element => {
+        var date = new Date(element.timestamp * 1000);
+        date = date.toLocaleDateString(undefined, { year: "numeric", month: "numeric", day: "numeric" });
+        displayLabel(`${element.version} - ${date}`);
+
+        result = items.slice(element.startIndex, element.endIndex + 1);
+        displayIndex = 0;
+        console.log(result);
+        display();
+    });
+}
 
 //change filters
 function filter(property, value) {
@@ -68,25 +82,69 @@ function filter(property, value) {
 function runFilter() {
     result = items.filter(function (item) {
         for (var key in filters) {
-            if (item[key] === undefined || item[key] != filters[key])
+            if (item[key] === undefined || item[key] != filters[key]) {
                 return false;
+            }
         }
         return true;
     });
+
     console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
+    displayLabel(`${result.length} Items`);
     display();
+}
+
+//search filter
+function search(text) {
+    clearFilters();
+
+    text = text.value.toLowerCase();
+    result = [];
+    items.forEach(element => {
+        var elementName = element.name.toLowerCase();
+        if (elementName.includes(text) == true) {
+            result.push(element);
+        }
+    });
+
+    console.log(result);
+    displayDiv.innerHTML = "";
+    displayIndex = 0;
+    displayLabel(`${result.length} Items`);
+    display();
+}
+
+//used to reset filters while searching
+function clearFilters() {
+    filters = [];
+    seasonLabel.textContent = "Season ▼";
+    rarityLabel.textContent = "Rarity ▼"
+    weaponLabel.textContent = "Weapon ▼";
+    cosmeticLabel.textContent = "Cosmetic ▼";
 }
 
 function sortArray(array) { //https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/
     return array.sort((a, b) => (a.rarity > b.rarity) ? -1 : (a.rarity === b.rarity) ? ((a.size > b.size) ? -1 : 1) : 1);
 }
 
+//label used for item count and update label
+function displayLabel(text) {
+    var countDiv = document.createElement("div");
+    countDiv.className = "displayLabelDiv";
+
+    var count = document.createElement("span");
+    count.className = "displayLabel";
+    count.textContent = text;
+
+    countDiv.appendChild(count);
+    displayDiv.appendChild(countDiv);
+}
+
 //sort array and seperate into chunks (pagination)
 function display() {
     sortArray(result);
-    itemCount.textContent = `${result.length} Items`;
     chunks = chunkArray(result, 40);
     displayChunk();
 }
@@ -109,22 +167,63 @@ function chunkArray(array, size) {
     while (arrayCopy.length > 0) {
         result.push(arrayCopy.splice(0, size))
     }
-    return result
+    return result;
 }
 
 function addItem(item) {
     scroll = true;
-    var model = item.type == 4 ? "" : `<a href='${getViewer(item)}' target='_blank'>Model</a>`;
-    var sprayAnimation = item.frames != null ? `animation: sprayAni${item.frames} ${(item.frameT / 1000) * item.frames}s steps(${item.frames}) infinite;` : "";
-    displayDiv.innerHTML += `
-    <div class="item${item.rarity == 6 ? " rainbowBorder" : ""}" style="border-color: ${rarityColor[item.rarity]}; background-image: url(${getPreview(item)}); ${sprayAnimation}">
-        <p class="itemName">${item.name}</p>
-        <div class="itemDetails">
-            <a href="${getPrice(item)}" target="_blank">Price</a>
-            <a href="${getListings(item)}" target="_blank">Listing</a>
-            ${model} 
-        </div>
-    </div>`;
+
+    var div = document.createElement("div");
+    div.className = "item" + (item.rarity == 6 ? " rainbowBorder" : "");
+    div.style.borderColor = rarityColor[item.rarity];
+    if (item.type == 4) {
+        var img = document.createElement("div");
+        img.className = "itemSprayImg";
+        img.style.backgroundImage = `url(${getPreview(item)})`;
+        if (item.frames != null) {
+            img.style.animation = `sprayAni${item.frames} ${(item.frameT / 1000) * item.frames}s steps(${item.frames}) infinite`;
+        }
+        div.appendChild(img);
+    } else {
+        var img = document.createElement("img");
+        img.src = getPreview(item);
+        if (item.rgb != null) {
+            img.className = "rgbHue";
+        }
+        div.appendChild(img);
+    }
+
+    var p = document.createElement("p");
+    p.className = "itemName";
+    p.textContent = item.name;
+    div.appendChild(p);
+
+    var divDetails = document.createElement("div");
+    divDetails.className = "itemDetails";
+
+    var price = document.createElement("a");
+    price.textContent = "Price";
+    price.href = getPrice(item);
+    price.setAttribute('target', '_blank');
+    divDetails.appendChild(price);
+
+    var listing = document.createElement("a");
+    listing.textContent = "Listing"
+    listing.href = getListings(item);
+    listing.setAttribute('target', '_blank');
+    divDetails.appendChild(listing);
+
+    if (item.type != 4) {
+        var model = document.createElement("a");
+        model.textContent = "Model";
+        model.href = getViewer(item);
+        model.setAttribute('target', '_blank');
+        divDetails.appendChild(model);
+    }
+
+    div.appendChild(divDetails);
+
+    displayDiv.appendChild(div);
 }
 
 //todo only call function if filter has gone off

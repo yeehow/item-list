@@ -14,22 +14,23 @@ body {
     margin: 1rem;
 }
 
-.itemCountDiv {
-    display: block;
-    margin: 1rem;
+.displayLabelDiv {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
-#itemCount {
+.displayLabel {
     padding: 10px;
     border-radius: 0.5rem;
+    margin: 8px;
     background-color: rgb(0, 0, 0, 0.2);
     white-space: nowrap;
+    font-size: 19px;
 }
 
 .item {
     display: inline-block;
     position: relative;
-    padding: 10px;
     background-color: rgb(0, 0, 0, 0.2);
     border-radius: 20px;
     border-width: 5px;
@@ -37,8 +38,22 @@ body {
     margin: 8px;
     width: 200px;
     height: 200px;
+    padding: 10px;
+}
+
+.itemSprayImg {
+    width: 200px;
+    height: 200px;
     background-size: cover;
     background-position: 0px;
+    border-radius: 10px;
+}
+
+.item img {
+    height: 200px;
+    width: 200px;
+    display: block;
+    border-radius: 10px;
 }
 
 .itemName {
@@ -86,7 +101,6 @@ body {
     border-radius: 8px;
     background-color: #171c28;
     color: #fff;
-    /* margin:  35px 50px; */
     margin: 14px 50px;
     text-decoration: none;
     font-size: 20px;
@@ -96,7 +110,7 @@ body {
 /* krunker css */
 .rgbHue {
     -webkit-animation: rgbHue .8s steps(36) infinite;
-    animation: rgbHue .8s steps(36) infinite
+    animation: rgbHue .8s steps(36) infinite;
 }
 
 @keyframes rgbHue {
@@ -112,11 +126,11 @@ body {
 }
 
 .rainbowBorder {
-    -webkit-animation: rainbowB .5s linear infinite;
-    animation: rainbowB .5s linear infinite;
+    -webkit-animation: rainbowBorder .5s linear infinite;
+    animation: rainbowBorder .5s linear infinite;
 }
 
-@keyframes rainbowB {
+@keyframes rainbowBorder {
     0%,100% {
         border-color: Crimson
     }

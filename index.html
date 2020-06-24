@@ -18,8 +18,8 @@
     <meta name="og:site_name" content="yeehow">
     <meta name="og:type" content="website">
 
-    <link rel="stylesheet" href="nav.css?v=2.5.7">
-    <link rel="stylesheet" href="index.css?v=2.5.7">
+    <link rel="stylesheet" href="nav.css?v=2.5.8">
+    <link rel="stylesheet" href="index.css?v=2.5.8">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134041866-4"></script>
@@ -36,7 +36,7 @@
 
     <nav role="navigation">
         <a href="./">
-            <h1>Krunker Item List <span style="color: rgb(255, 255, 255, 0.5); font-size: 0.6em !important;" id="updateLabel"></span></h1>
+            <h1>Krunker Item List <span id="updateLabel"></span></h1>
         </a>
 
         <ul>
@@ -90,21 +90,17 @@
                     <li onclick="filter('type',6)"><a>Waist</a></li>
                 </ul>
             </li>
+            <input type="text" id="search" placeholder="Search" onkeyup="search(this)">
         </ul>
     </nav>
-
-    <br><br>
-
-    <div class="itemCountDiv">
-        <span id="itemCount">loading</span>
-    </div>
 
     <div id="display">
     </div>
 
-    <script src="items.js?v=2.5.7"></script>
-    <script src="extra.js?v=2.5.7"></script>
-    <script src="index.js?v=2.5.7"></script>
+    <script src="items.js?v=2.5.8"></script>
+    <script src="updates.js?v=2.5.8"></script>
+    <script src="extra.js?v=2.5.8"></script>
+    <script src="index.js?v=2.5.8"></script>
 </body>
 
 </html>

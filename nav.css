@@ -2,6 +2,11 @@ nav {
     margin: 1rem;
 }
 
+#updateLabel {
+    color: rgb(255, 255, 255, 0.5);
+    font-size: 0.6em !important;
+}
+
 a {
   text-decoration: none;
   color: #fff;
@@ -21,7 +26,6 @@ li {
     padding: 0.5rem 1rem;
 	position: relative;
 	text-decoration: none;
-    transition-duration: 0.5s;
     border-radius: 0.5rem;
     margin-right: 0.5rem;
     margin-top: 0.5rem;
@@ -58,7 +62,6 @@ ul li ul {
     opacity: 0;
     min-width: 5rem;
 	position: absolute;
-    transition: all 0.5s ease;
     margin-top: 0.5rem;
 	left: 0;
     display: none;
@@ -99,4 +102,20 @@ ul li ul li {
         opacity: 1;
         display: block;
     }
+}
+
+input {
+    font-family: gamefont;
+    font-size: 16px;
+    color: #171c28;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    width: 200px;
+}
+
+input:focus {
+    outline: none;
 }
