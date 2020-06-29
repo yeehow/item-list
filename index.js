@@ -274,3 +274,17 @@ function getPrice(a) {
 function getListings(a) {
     return `https://krunker.io/social.html?p=market&i=${a.i}`;
 }
+
+var liElems = document.getElementsByTagName("li");
+for (i in liElems) {
+    let key = liElems[i];
+    console.log(key)
+
+    key.onmousedown = function () {
+        this.style.background = "#CCCED1"
+    }
+
+    key.onmouseleave = function () {
+        this.style.background = "#FFF"
+    }
+};
