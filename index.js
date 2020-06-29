@@ -278,13 +278,5 @@ function getListings(a) {
 var liElems = document.getElementsByTagName("li");
 for (i in liElems) {
     let key = liElems[i];
-    console.log(key)
-
-    key.onmousedown = function () {
-        this.style.background = "#CCCED1"
-    }
-
-    key.onmouseleave = function () {
-        this.style.background = "#FFF"
-    }
+    key.onmousedown = function () {}
 };
