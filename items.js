@@ -14495,6 +14495,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.6,
     "seas": 3,
+    "noSale": true,
     "illicit": true,
     "funds": 100,
     "i": 1483
@@ -14516,6 +14517,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.6,
     "seas": 3,
+    "noSale": true,
     "illicit": true,
     "funds": 100,
     "i": 1484
@@ -16132,6 +16134,7 @@ var items = [
     "seas": 3,
     "rAnim": -0.002,
     "rAnimA": "x",
+    "noSale": true,
     "illicit": true,
     "funds": 3000,
     "reqT": "Call in 1000 Nukes",
@@ -16155,6 +16158,7 @@ var items = [
   {
     "name": "Combat Banana",
     "keyW": "Knife",
+    "snd": true,
     "id": 14,
     "type": 3,
     "scl": 1.7,
@@ -16314,5 +16318,134 @@ var items = [
     "glow": true,
     "seas": 3,
     "i": 1658
+  },
+  {
+    "name": "Antidote XVI",
+    "keyW": "Knife",
+    "rarity": 5,
+    "seas": 3,
+    "id": 15,
+    "type": 3,
+    "scl": 1.25,
+    "sclMlt": 0.98,
+    "yOff": -2,
+    "alpha": 0.02,
+    "opac": 1,
+    "noSale": true,
+    "illicit": true,
+    "funds": 10000,
+    "reqT": "???????",
+    "i": 1659
+  },
+  {
+    "name": "Tropic Pop",
+    "id": 209,
+    "creator": "Exxor",
+    "weapon": 2,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1660
+  },
+  {
+    "name": "Cyclonic Charge",
+    "id": 188,
+    "creator": "Multihawk",
+    "weapon": 4,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1661
+  },
+  {
+    "name": "Disco Kill",
+    "id": 189,
+    "creator": "Destroy007",
+    "weapon": 4,
+    "rarity": 2,
+    "glow": true,
+    "seas": 3,
+    "i": 1662
+  },
+  {
+    "name": "Line Breaker",
+    "id": 135,
+    "creator": "Multihawk",
+    "weapon": 5,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1663
+  },
+  {
+    "name": "Rev 2058",
+    "id": 136,
+    "creator": "Destroy007",
+    "weapon": 5,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1664
+  },
+  {
+    "name": "Sarin",
+    "mid": 0,
+    "midT": 104,
+    "creator": "Floatingpoint",
+    "weapon": 6,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1665
+  },
+  {
+    "name": "Nitrox",
+    "mid": 0,
+    "midT": 105,
+    "creator": "Destroy007",
+    "weapon": 6,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1666
+  },
+  {
+    "name": "Fireball",
+    "mid": 0,
+    "midT": 47,
+    "creator": "Destroy007",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1667
+  },
+  {
+    "name": "Noble Guard",
+    "mid": 0,
+    "midT": 48,
+    "creator": "Multihawk",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1668
+  },
+  {
+    "name": "Institute",
+    "mid": 0,
+    "midT": 49,
+    "creator": "Floatingpoint",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1669
+  },
+  {
+    "name": "Charoite",
+    "mid": 0,
+    "midT": 44,
+    "creator": "Cimota",
+    "weapon": 10,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1670
   }
 ];
