@@ -17159,5 +17159,114 @@ var items = [
     "glow": true,
     "seas": 3,
     "i": 1723
+  },
+  {
+    "name": "Sekigahara",
+    "id": 215,
+    "creator": "Flower Kid",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1724
+  },
+  {
+    "name": "Death Parade",
+    "id": 216,
+    "creator": "Flower Kid",
+    "weapon": 1,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1725
+  },
+  {
+    "name": "Sentinel-56",
+    "id": 217,
+    "creator": "Cimota",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1726
+  },
+  {
+    "name": "Cryptic J",
+    "id": 216,
+    "creator": "Nxbulah & Kilfy",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1727
+  },
+  {
+    "name": "Voyage",
+    "id": 192,
+    "creator": "Cimota",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1728
+  },
+  {
+    "name": "Iara",
+    "id": 193,
+    "creator": "Kltter",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1729
+  },
+  {
+    "name": "Insidious",
+    "mid": 0,
+    "midT": 106,
+    "creator": "Cimota",
+    "weapon": 6,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1730
+  },
+  {
+    "name": "Tri-Tech",
+    "id": 124,
+    "creator": "Multihawk",
+    "weapon": 7,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1731
+  },
+  {
+    "name": "Prototype BWSX",
+    "id": 0,
+    "creator": "Floatingpoint",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1732
+  },
+  {
+    "name": "Hexgen",
+    "id": 1,
+    "creator": "Nxbulah",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1733
   }
 ];
