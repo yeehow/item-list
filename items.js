@@ -17268,5 +17268,18 @@ var items = [
     "pulsT": 0.0015,
     "seas": 3,
     "i": 1733
+  },
+  {
+    "name": "Scout Mastery",
+    "mid": 5,
+    "seas": 3,
+    "weapon": 1,
+    "rarity": 5,
+    "noSale": true,
+    "illicit": true,
+    "funds": 10000,
+    "yOrg": -0.2,
+    "reqT": "Level 100 Hunter",
+    "i": 1734
   }
 ];
