@@ -273,3 +273,9 @@ function getPrice(a) {
 function getListings(a) {
     return `https://krunker.io/social.html?p=market&i=${a.i}`;
 }
+
+var liElems = document.getElementsByTagName("li");
+for (i in liElems) {
+    let key = liElems[i];
+    key.onmousedown = function () {}
+};
