@@ -7,7 +7,8 @@
 // });
 
 window.onload = function () {
-    loadUpdates();
+    //loadUpdates();
+    filter('seas', 'all');
 }
 
 var filters = {};
