@@ -17,7 +17,7 @@ var displayIndex = 0;
 var chunks = [];
 var scroll = true;
 var displayDiv = document.getElementById("display");
-var cateogryLabel = document.getElementById("category");
+var categoryLabel = document.getElementById("category");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
@@ -75,9 +75,9 @@ function filter(property, value) {
         filters[property] = value;
     }
 
-    cateogryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
-    cateogryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
-    cateogryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
+    categoryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
+    categoryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
+    categoryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
 
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
 
