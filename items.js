@@ -17322,7 +17322,7 @@ var items = [
   {
     "name": "Jason",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 113,
     "rarity": 4,
     "type": 1,
@@ -17339,7 +17339,7 @@ var items = [
   {
     "name": "Sicko",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 114,
     "glow": true,
     "rarity": 3,
@@ -17357,7 +17357,7 @@ var items = [
   {
     "name": "Succubus",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 115,
     "glow": true,
     "rarity": 3,
@@ -17374,7 +17374,7 @@ var items = [
   {
     "name": "Socket",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "noHead": true,
     "id": 116,
     "rarity": 3,
@@ -17392,7 +17392,7 @@ var items = [
     "name": "Crunch",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 117,
     "rarity": 1,
     "type": 1,
@@ -17409,7 +17409,7 @@ var items = [
     "name": "Paraseye",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 118,
     "rarity": 2,
     "type": 1,
@@ -17425,7 +17425,7 @@ var items = [
     "name": "Puff Puff",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 119,
     "rarity": 3,
     "type": 1,
@@ -17441,7 +17441,7 @@ var items = [
     "name": "Moneybags",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 121,
     "rarity": 3,
     "type": 1,
@@ -17457,7 +17457,7 @@ var items = [
     "name": "Braindead",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 122,
     "rarity": 2,
     "type": 1,
@@ -17474,7 +17474,7 @@ var items = [
     "name": "Gobbler",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 123,
     "rarity": 3,
     "type": 1,
@@ -17490,7 +17490,7 @@ var items = [
     "name": "Seefood",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 124,
     "glow": true,
     "rarity": 4,
@@ -17508,7 +17508,7 @@ var items = [
     "name": "Mr Doodles",
     "limT": "Twitch #2",
     "noHead": true,
-    "noSale": true,
+    "noSpin": true,
     "id": 125,
     "rarity": 3,
     "type": 1,
@@ -17524,7 +17524,7 @@ var items = [
   {
     "name": "Drowned",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 126,
     "rarity": 3,
     "type": 1,
@@ -17541,7 +17541,7 @@ var items = [
   {
     "name": "Tentacle",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 59,
     "rarity": 4,
     "type": 2,
@@ -17557,7 +17557,7 @@ var items = [
   {
     "name": "Observer",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 60,
     "rarity": 5,
     "type": 2,
@@ -17576,7 +17576,7 @@ var items = [
   {
     "name": "Butcher",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 61,
     "rarity": 2,
     "type": 2,
@@ -17593,7 +17593,7 @@ var items = [
   {
     "name": "Scales",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 62,
     "rarity": 2,
     "type": 2,
@@ -17611,7 +17611,7 @@ var items = [
   {
     "name": "Pauldrons",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 64,
     "rarity": 2,
     "type": 2,
@@ -17627,7 +17627,7 @@ var items = [
   {
     "name": "Walpurgis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 5,
     "rarity": 4,
     "type": 6,
@@ -17645,7 +17645,7 @@ var items = [
   {
     "name": "Scales",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 7,
     "rarity": 3,
     "type": 6,
@@ -17664,7 +17664,7 @@ var items = [
   {
     "name": "Monster V",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 89,
     "type": 4,
     "rarity": 1,
@@ -17676,7 +17676,7 @@ var items = [
   {
     "name": "Monster III",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 91,
     "type": 4,
     "rarity": 1,
@@ -17688,7 +17688,7 @@ var items = [
   {
     "name": "Monster X",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 92,
     "type": 4,
     "rarity": 1,
@@ -17700,7 +17700,7 @@ var items = [
   {
     "name": "Demonic Haze",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 218,
     "creator": "Kilfy",
     "weapon": 1,
@@ -17712,7 +17712,7 @@ var items = [
   {
     "name": "Vassago",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 219,
     "creator": "Lxckless",
     "weapon": 1,
@@ -17724,7 +17724,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 220,
     "weapon": 1,
     "rarity": 2,
@@ -17734,7 +17734,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 221,
     "weapon": 1,
     "rarity": 1,
@@ -17744,7 +17744,7 @@ var items = [
   {
     "name": "Poseidon",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 217,
     "creator": "Atomize",
     "weapon": 2,
@@ -17755,7 +17755,7 @@ var items = [
   {
     "name": "Overseer",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 218,
     "creator": "Luminae",
     "weapon": 2,
@@ -17768,7 +17768,7 @@ var items = [
   {
     "name": "Etona",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 219,
     "creator": "Nxbulah",
     "weapon": 2,
@@ -17780,7 +17780,7 @@ var items = [
   {
     "name": "NeoTitan",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 220,
     "creator": "FlowerKid",
     "weapon": 2,
@@ -17793,7 +17793,7 @@ var items = [
   {
     "name": "Full Moon",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 221,
     "creator": "Kristai",
     "weapon": 2,
@@ -17806,7 +17806,7 @@ var items = [
   {
     "name": "Nightmare",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 222,
     "creator": "CreshorTV",
     "weapon": 2,
@@ -17819,7 +17819,7 @@ var items = [
   {
     "name": "Crimson",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 223,
     "creator": "Chromatikk",
     "weapon": 2,
@@ -17832,7 +17832,7 @@ var items = [
   {
     "name": "Corruption",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 224,
     "creator": "Chromatikk",
     "weapon": 2,
@@ -17845,7 +17845,7 @@ var items = [
   {
     "name": "Overwatch",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 194,
     "creator": "Destroy007",
     "weapon": 4,
@@ -17858,7 +17858,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 195,
     "weapon": 4,
     "rarity": 1,
@@ -17868,7 +17868,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 196,
     "weapon": 4,
     "rarity": 2,
@@ -17878,7 +17878,7 @@ var items = [
   {
     "name": "Symbiote",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 139,
     "creator": "Whippii",
     "weapon": 5,
@@ -17890,7 +17890,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 140,
     "weapon": 5,
     "rarity": 2,
@@ -17900,7 +17900,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 141,
     "weapon": 5,
     "rarity": 1,
@@ -17910,7 +17910,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 107,
     "weapon": 6,
@@ -17921,7 +17921,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 108,
     "weapon": 6,
@@ -17932,7 +17932,7 @@ var items = [
   {
     "name": "Toxic Rider",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 125,
     "creator": "Destroy007",
     "weapon": 7,
@@ -17945,7 +17945,7 @@ var items = [
   {
     "name": "Knightingale",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 126,
     "creator": "FailBucket",
     "weapon": 7,
@@ -17956,7 +17956,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 127,
     "weapon": 7,
     "rarity": 2,
@@ -17966,7 +17966,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 128,
     "weapon": 7,
     "rarity": 1,
@@ -17976,7 +17976,7 @@ var items = [
   {
     "name": "Wildlife",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 55,
     "creator": "Destroy007",
@@ -17989,7 +17989,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 56,
     "weapon": 8,
@@ -18000,7 +18000,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 57,
     "weapon": 8,
@@ -18011,7 +18011,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 46,
     "weapon": 10,
@@ -18022,7 +18022,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "mid": 0,
     "midT": 47,
     "weapon": 10,
@@ -18033,7 +18033,7 @@ var items = [
   {
     "name": "Devourer",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 2,
     "creator": "Kilfy",
     "weapon": 11,
@@ -18045,7 +18045,7 @@ var items = [
   {
     "name": "Ignis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 128,
     "weapon": 15,
     "rarity": 1,
@@ -18055,7 +18055,7 @@ var items = [
   {
     "name": "Cranium",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 129,
     "weapon": 15,
     "rarity": 2,
@@ -18065,7 +18065,7 @@ var items = [
   {
     "name": "Arachnidis",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 46,
     "tex": 1,
     "rarity": 5,
@@ -18084,7 +18084,7 @@ var items = [
   {
     "name": "Infinity Cloak",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 52,
     "tex": 5,
     "rarity": 5,
@@ -18106,7 +18106,7 @@ var items = [
     "name": "Sorable",
     "keyW": "Sprays",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 93,
     "type": 4,
     "rarity": 1,
@@ -18118,7 +18118,7 @@ var items = [
     "name": "Stremz",
     "keyW": "Sprays",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 94,
     "type": 4,
     "rarity": 2,
@@ -18244,7 +18244,7 @@ var items = [
   {
     "name": "Tedssyt",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 228,
     "creator": "Cimota",
     "weapon": 1,
@@ -18267,7 +18267,7 @@ var items = [
   {
     "name": "Pestilence",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 227,
     "creator": "Chromatikk",
     "weapon": 2,
@@ -18279,13 +18279,13 @@ var items = [
   {
     "name": "Signal",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 198,
     "creator": "FlowerKid",
     "weapon": 4,
     "rarity": 3,
     "frames": 4,
-    "framesT": 250,
+    "frameT": 250,
     "glow": true,
     "seas": 3,
     "i": 1809
@@ -18446,7 +18446,7 @@ var items = [
   {
     "name": "Googly",
     "limT": "Twitch #2",
-    "noSale": true,
+    "noSpin": true,
     "id": 127,
     "rarity": 4,
     "type": 1,
@@ -18459,5 +18459,50 @@ var items = [
     "xOff": 1,
     "trans": true,
     "i": 1825
+  },
+  {
+    "name": "Despair",
+    "creator": "Kilfy",
+    "keyW": "Knife",
+    "tex": 7,
+    "id": 2,
+    "glow": true,
+    "type": 3,
+    "seas": 3,
+    "scl": 3,
+    "sclMlt": 0.9,
+    "yOff": -2,
+    "rarity": 5,
+    "i": 1826
+  },
+  {
+    "name": "Death Rattle",
+    "id": 228,
+    "creator": "CreshorTV",
+    "weapon": 2,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1827
+  },
+  {
+    "name": "Cinder",
+    "id": 202,
+    "creator": "Kilfy",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1828
+  },
+  {
+    "name": "Overloaded",
+    "id": 1,
+    "creator": "Kilfy",
+    "weapon": 12,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1829
   }
 ];

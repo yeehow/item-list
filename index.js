@@ -7,8 +7,8 @@
 // });
 
 window.onload = function () {
-    //loadUpdates();
-    filter('seas', 'all');
+    loadUpdates();
+    //filter('seas', 'all');
 }
 
 var filters = {};
@@ -17,7 +17,7 @@ var displayIndex = 0;
 var chunks = [];
 var scroll = true;
 var displayDiv = document.getElementById("display");
-var seasonLabel = document.getElementById("season");
+var cateogryLabel = document.getElementById("category");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
@@ -31,10 +31,12 @@ function loadUpdates() {
     displayDiv.innerHTML = "";
     displayIndex = 0;
     updates.forEach(element => {
+        var label = element.version;
         var date = new Date(element.timestamp * 1000);
-        date = date.toLocaleDateString(undefined, { year: "numeric", month: "numeric", day: "numeric" });
-        displayLabel(`${element.version} - ${date}`);
-
+        if (date instanceof Date && !isNaN(date.valueOf())) {
+            label += " - " + date.toLocaleDateString(undefined, { year: "numeric", month: "numeric", day: "numeric" });
+        }
+        displayLabel(label);
         result = items.slice(element.startIndex, element.endIndex + 1);
         displayIndex = 0;
         console.log(result);
@@ -50,22 +52,41 @@ function filter(property, value) {
             delete filters["weapon"];
             delete filters["type"];
         }
+        if (property == "category") {
+            delete filters.seas;
+            delete filters.limT;
+            delete filters.illicit;
+        }
     } else {
         if (property == "weapon") {
             delete filters.type;
         } else if (property == "type") {
             delete filters.weapon;
+        } else if (property == "seas") {
+            delete filters.limT;
+            delete filters.illicit;
+        } else if (property == "limT") {
+            delete filters.seas;
+            delete filters.illicit;
+        } else if (property == "illicit") {
+            delete filters.limT;
+            delete filters.seas;
         }
         filters[property] = value;
     }
 
-    seasonLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Season ▼";
+    cateogryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
+    cateogryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
+    cateogryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
+
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
+
     if (filters["type"] == 3) {
         weaponLabel.textContent = weapons[0];
     } else {
         weaponLabel.textContent = filters["weapon"] != null ? `${weapons[filters["weapon"]]} ▼` : "Weapon ▼";
     }
+
     if (filters["type"] != null) {
         if (filters["type"] != 3) {
             cosmeticLabel.textContent = `${cosmetics[filters["type"]]} ▼`;
@@ -120,7 +141,7 @@ function search(text) {
 //used to reset filters while searching
 function clearFilters() {
     filters = [];
-    seasonLabel.textContent = "Season ▼";
+    categoryLabel.textContent = "Category ▼";
     rarityLabel.textContent = "Rarity ▼"
     weaponLabel.textContent = "Weapon ▼";
     cosmeticLabel.textContent = "Cosmetic ▼";
