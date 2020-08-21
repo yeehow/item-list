@@ -1,10 +1,10 @@
 // used for import
-// items.forEach(function (element, index) {
-//     if (element.seas == null) {
-//         element["seas"] = 1;
-//     }
-//     element["i"] = index;
-// });
+items.forEach(function (element, index) {
+    if (element.seas == null) {
+        element["seas"] = 1;
+    }
+    element["i"] = index;
+});
 
 window.onload = function () {
     loadUpdates();
@@ -39,7 +39,6 @@ function loadUpdates() {
         displayLabel(label);
         result = items.slice(element.startIndex, element.endIndex + 1);
         displayIndex = 0;
-        console.log(result);
         display();
     });
 }
@@ -268,23 +267,18 @@ function getViewer(a) {
             return "https://krunker.io/viewer.html?class=9&hat=" + a.i;
         else if (2 == a.type)
             return "https://krunker.io/viewer.html?class=9&back=" + a.i;
-        else if (6 == a.type)
-            return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
         else if (3 == a.type)
             return "https://krunker.io/viewer.html?class=9&hidePlayer&melee=" + a.i;
-        else if (null == a.weapon && 5 == a.type)
+        else if (5 == a.type)
             return "https://krunker.io/viewer.html?class=9&dye=" + a.i;
-        else if (h[a.weapon - 1].secondary)
-            return "https://krunker.io/viewer.html?hidePlayer&swap=-1&nosup&skinIdS=" + a.i;
+        else if (6 == a.type)
+            return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
+        else if (7 == a.type)
+            return "https://krunker.io/viewer.html?class=9&face=" + a.i;
+        else if (second.includes(a.weapon - 1))
+            return "https://krunker.io/viewer.html?hidePlayer&swap=-1&nosup&skinIdS=" + a.i + "&secIndex=" + (a.weapon - 1);
         else {
-            for (var t = null, r = 0; r < v.length; r++)
-                if (v[r].loadout[0] == a.weapon - 1) {
-                    t = r;
-                    break
-                }
-            if (t != null) {
-                return "https://krunker.io/viewer.html?class=" + t + "&hidePlayer&nosup&skinIdP=" + a.i;
-            }
+            return "https://krunker.io/viewer.html?class=" + classForWeapon[a.weapon - 1] + "&hidePlayer&nosup&skinIdP=" + a.i;
         }
 }
 
