@@ -1,10 +1,10 @@
 // used for import
-items.forEach(function (element, index) {
-    if (element.seas == null) {
-        element["seas"] = 1;
-    }
-    element["i"] = index;
-});
+// items.forEach(function (element, index) {
+//     if (element.seas == null) {
+//         element["seas"] = 1;
+//     }
+//     element["i"] = index;
+// });
 
 window.onload = function () {
     loadUpdates();
@@ -38,6 +38,7 @@ function loadUpdates() {
         }
         displayLabel(label);
         result = items.slice(element.startIndex, element.endIndex + 1);
+        console.log(result);
         displayIndex = 0;
         display();
     });
@@ -95,7 +96,7 @@ function filter(property, value) {
     } else {
         cosmeticLabel.textContent = "Cosmetic ▼";
     }
-
+    searchInput.value = "";
     runFilter();
 }
 
@@ -164,9 +165,9 @@ function displayLabel(text) {
 }
 
 //sort array and seperate into chunks (pagination)
-function display() {
+function display(doChunk) {
     sortArray(result);
-    chunks = chunkArray(result, 40);
+    chunks = chunkArray(result, 100);
     displayChunk();
 }
 
