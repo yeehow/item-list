@@ -1,10 +1,10 @@
 // used for import
-items.forEach(function (element, index) {
-    if (element.seas == null) {
-        element["seas"] = 1;
-    }
-    element["i"] = index;
-});
+// items.forEach(function (element, index) {
+//     if (element.seas == null) {
+//         element["seas"] = 1;
+//     }
+//     element["i"] = index;
+// });
 
 window.onload = function () {
     loadUpdates();
