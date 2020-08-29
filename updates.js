@@ -1,5 +1,11 @@
 var updates = [
     {
+        "version": "2.8.4",
+        "timestamp": 1598641200,
+        "startIndex": 1868,
+        "endIndex": 1874
+    },
+    {
         "version": "2.8.2",
         "timestamp": 1598468400,
         "startIndex": 1864,
