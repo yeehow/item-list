@@ -18963,6 +18963,7 @@ var items = [
     "name": "Arcturus",
     "limT": "Charity",
     "noSale": true,
+    "noSpin": true,
     "id": 232,
     "creator": "Nxbulah",
     "weapon": 1,
@@ -18976,6 +18977,7 @@ var items = [
     "name": "Celeste",
     "limT": "Charity",
     "noSale": true,
+    "noSpin": true,
     "id": 230,
     "creator": "Nxbulah",
     "weapon": 2,
@@ -18989,6 +18991,7 @@ var items = [
     "name": "Warlock",
     "limT": "Charity",
     "noSale": true,
+    "noSpin": true,
     "rarity": 3,
     "seas": 3,
     "id": 142,
@@ -19002,6 +19005,7 @@ var items = [
   {
     "name": "Starlight",
     "limT": "Charity",
+    "noSpin": true,
     "noSale": true,
     "rarity": 4,
     "seas": 3,
@@ -19019,6 +19023,7 @@ var items = [
   {
     "name": "Magic Wand",
     "limT": "Charity",
+    "noSpin": true,
     "noSale": true,
     "rarity": 3,
     "seas": 3,
@@ -19036,6 +19041,7 @@ var items = [
   {
     "name": "Star Power",
     "limT": "Charity",
+    "noSpin": true,
     "noSale": true,
     "rarity": 2,
     "seas": 3,
@@ -19048,6 +19054,7 @@ var items = [
   {
     "name": "Shine Bright",
     "limT": "Charity",
+    "noSpin": true,
     "noSale": true,
     "rarity": 2,
     "seas": 3,
@@ -19056,5 +19063,154 @@ var items = [
     "opacity": 0.9,
     "keyW": "Sprays",
     "i": 1874
+  },
+  {
+    "name": "Flow",
+    "id": 231,
+    "creator": "Luminae",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1875
+  },
+  {
+    "name": "Freshmint",
+    "id": 232,
+    "creator": "Destroy007",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "i": 1876
+  },
+  {
+    "name": "Lykos",
+    "id": 233,
+    "creator": "Skriller33",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1877
+  },
+  {
+    "name": "Ragnarok",
+    "id": 203,
+    "creator": "Failbucket",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1878
+  },
+  {
+    "name": "Brainstorm",
+    "id": 204,
+    "creator": "Atomize",
+    "weapon": 4,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1879
+  },
+  {
+    "name": "FSS Archdaemon",
+    "id": 129,
+    "creator": "floatingpoint",
+    "weapon": 7,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1880
+  },
+  {
+    "name": "ZE-14",
+    "mid": 0,
+    "midT": 60,
+    "creator": "Zinoob",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1881
+  },
+  {
+    "name": "Sly",
+    "mid": 0,
+    "midT": 61,
+    "creator": "Whippii",
+    "weapon": 8,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1882
+  },
+  {
+    "name": "Abyssal",
+    "id": 8,
+    "creator": "Kilfy",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "seas": 3,
+    "i": 1883
+  },
+  {
+    "name": "Admiral",
+    "id": 133,
+    "creator": "_irizu",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1884
+  },
+  {
+    "name": "Nebulous",
+    "id": 135,
+    "creator": "Failbucket",
+    "weapon": 15,
+    "rarity": 2,
+    "seas": 3,
+    "i": 1885
+  },
+  {
+    "name": "Azeal",
+    "id": 136,
+    "creator": "Kilfy",
+    "weapon": 15,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1886
+  },
+  {
+    "name": "Slayer",
+    "id": 3,
+    "creator": "Multihawk",
+    "weapon": 16,
+    "rarity": 3,
+    "seas": 3,
+    "i": 1887
+  },
+  {
+    "name": "Skullwood",
+    "id": 1,
+    "creator": "Multihawk",
+    "weapon": 17,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "i": 1888
+  },
+  {
+    "name": "Big Mouth",
+    "id": 2,
+    "creator": "Cimota",
+    "weapon": 17,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "i": 1889
   }
 ];
