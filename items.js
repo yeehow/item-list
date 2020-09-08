@@ -8082,9 +8082,9 @@ var items = [
   },
   {
     "name": "Nova Pump",
+    "limT": "Debug",
+    "lore": "First Weapon Remodel Placeholder",
     "mid": 0,
-    "blocked": true,
-    "noSale": true,
     "midT": 38,
     "scl": 0.9,
     "mScl": 1,
@@ -9467,7 +9467,7 @@ var items = [
     "i": 1005
   },
   {
-    "name": "Pride",
+    "name": "Verb",
     "id": 141,
     "creator": "FlowerKid",
     "weapon": 1,
@@ -19212,5 +19212,29 @@ var items = [
     "glow": true,
     "seas": 3,
     "i": 1889
+  },
+  {
+    "name": "K.D.L Hat",
+    "keyW": "Hat",
+    "id": 143,
+    "rarity": 4,
+    "type": 1,
+    "seas": 3,
+    "sclMlt": 0.5,
+    "sitOff": 0.6,
+    "scl": 1.6,
+    "i": 1890
+  },
+  {
+    "name": "K.D.L Uniform",
+    "id": 11,
+    "shirtCol": 2369592,
+    "sleeveCol": 2368548,
+    "pantsCol": 2369592,
+    "shoeCol": 2368548,
+    "seas": 3,
+    "type": 5,
+    "rarity": 5,
+    "i": 1891
   }
 ];
