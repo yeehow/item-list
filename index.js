@@ -82,7 +82,7 @@ function filter(property, value) {
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
 
     if (filters["type"] == 3) {
-        weaponLabel.textContent = weapons[0];
+        weaponLabel.textContent = weapons[0] + " ▼";
     } else {
         weaponLabel.textContent = filters["weapon"] != null ? `${weapons[filters["weapon"]]} ▼` : "Weapon ▼";
     }
