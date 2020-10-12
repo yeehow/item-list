@@ -38,7 +38,6 @@ function loadUpdates() {
         }
         displayLabel(label);
         result = items.slice(element.startIndex, element.endIndex + 1);
-        console.log(result);
         displayIndex = 0;
         display();
     });
