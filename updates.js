@@ -1,6 +1,6 @@
 var updates = [
     {
-        "version": "3.0.8.1",
+        "version": "3.0.9",
         "timestamp": 1602442800,
         "startIndex": 1910,
         "endIndex": 1916
