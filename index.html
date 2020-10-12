@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Item List</title>
+    <title>Krunker Item List</title>
     <link rel="icon" href="https://yee.how/favicon.ico" type="image/x-icon">
 
     <meta name="twitter:card" content="summary">
@@ -18,8 +18,8 @@
     <meta name="og:site_name" content="yeehow">
     <meta name="og:type" content="website">
 
-    <link rel="stylesheet" href="nav.css?v=2.5.9.2">
-    <link rel="stylesheet" href="index.css?v=2.5.9.2">
+    <link rel="stylesheet" href="nav.css?v=3.0.8">
+    <link rel="stylesheet" href="index.css?v=3.0.8">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134041866-4"></script>
@@ -40,12 +40,19 @@
         </a>
 
         <ul>
-            <li><a aria-haspopup="true" id="season">Season ▼</a>
+            <li><a aria-haspopup="true" id="category">Category ▼</a>
                 <ul class="dropdown" aria-label="submenu">
-                    <li onclick="filter('seas','all')"><a>All</a></li>
+                    <li onclick="filter('category','all')"><a>All</a></li>
                     <li onclick="filter('seas',1)"><a>Season 1</a></li>
                     <li onclick="filter('seas',2)"><a>Season 2</a></li>
                     <li onclick="filter('seas',3)"><a>Season 3</a></li>
+                    <li onclick="filter('limT', 'Twitch #1')"><a>Twitch #1</a></li>
+                    <li onclick="filter('limT', 'Twitch #2')"><a>Twitch #2</a></li>
+                    <li onclick="filter('limT', 'Easter')"><a>Easter</a></li>
+                    <li onclick="filter('illicit', true)"><a>Black Market</a></li>
+                    <li onclick="filter('limT', 'Charity')"><a>Charity</a></li>
+                    <li onclick="filter('limT', 'Clan Wars')"><a>Clan Wars</a></li>
+                    <li onclick="filter('limT', 'Raid')"><a>Raid</a></li>
                 </ul>
             </li>
             <li><a aria-haspopup="true" id="rarity">Rarity ▼</a>
@@ -74,10 +81,13 @@
                     <li onclick="filter('weapon',8)"><a>Semi Auto</a></li>
                     <li onclick="filter('weapon',9)"><a>Rocket Launcher</a></li>
                     <li onclick="filter('weapon',10)"><a>Akimbo Uzi</a></li>
+                    <li onclick="filter('weapon',11)"><a>Desert Eagle</a></li>
                     <li onclick="filter('weapon',12)"><a>Alien Blaster</a></li>
                     <li onclick="filter('weapon',14)"><a>Crossbow</a></li>
                     <li onclick="filter('weapon',15)"><a>Famas</a></li>
                     <li onclick="filter('weapon',16)"><a>Sawed Off</a></li>
+                    <li onclick="filter('weapon',17)"><a>Auto Pistol</a></li>
+                    <li onclick="filter('weapon',18)"><a>Blaster</a></li>
                 </ul>
             </li>
             <li><a aria-haspopup="true" id="cosmetic">Cosmetic ▼</a>
@@ -88,19 +98,19 @@
                     <li onclick="filter('type',4)"><a>Spray</a></li>
                     <li onclick="filter('type',5)"><a>Dye</a></li>
                     <li onclick="filter('type',6)"><a>Waist</a></li>
+                    <li onclick="filter('type',7)"><a>Face</a></li>
                 </ul>
             </li>
             <input type="text" id="search" placeholder="Search" onkeyup="search(this)">
         </ul>
     </nav>
 
-    <div id="display">
-    </div>
+    <div id="display"></div>
 
-    <script src="items.js?v=2.5.9.2"></script>
-    <script src="updates.js?v=2.5.9.2"></script>
-    <script src="extra.js?v=2.5.9.2"></script>
-    <script src="index.js?v=2.5.9.2"></script>
+    <script src="items.js?v=3.0.8"></script>
+    <script src="updates.js?v=3.0.8"></script>
+    <script src="extra.js?v=3.0.8"></script>
+    <script src="index.js?v=3.0.8"></script>
 </body>
 
 </html>

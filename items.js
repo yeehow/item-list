@@ -4,6 +4,7 @@ var items = [
     "id": 0,
     "weapon": 1,
     "rarity": 1,
+    "index": 0,
     "seas": 1,
     "i": 0
   },
@@ -12,6 +13,7 @@ var items = [
     "id": 1,
     "weapon": 1,
     "rarity": 1,
+    "index": 1,
     "seas": 1,
     "i": 1
   },
@@ -20,6 +22,7 @@ var items = [
     "id": 2,
     "weapon": 1,
     "rarity": 2,
+    "index": 2,
     "seas": 1,
     "i": 2
   },
@@ -28,6 +31,7 @@ var items = [
     "id": 3,
     "weapon": 1,
     "rarity": 0,
+    "index": 3,
     "seas": 1,
     "i": 3
   },
@@ -36,6 +40,7 @@ var items = [
     "id": 4,
     "weapon": 1,
     "rarity": 3,
+    "index": 4,
     "seas": 1,
     "i": 4
   },
@@ -44,6 +49,7 @@ var items = [
     "id": 5,
     "weapon": 1,
     "rarity": 1,
+    "index": 5,
     "seas": 1,
     "i": 5
   },
@@ -52,6 +58,7 @@ var items = [
     "id": 6,
     "weapon": 1,
     "rarity": 0,
+    "index": 6,
     "seas": 1,
     "i": 6
   },
@@ -60,6 +67,7 @@ var items = [
     "id": 7,
     "weapon": 1,
     "rarity": 1,
+    "index": 7,
     "seas": 1,
     "i": 7
   },
@@ -68,6 +76,7 @@ var items = [
     "id": 8,
     "weapon": 1,
     "rarity": 1,
+    "index": 8,
     "seas": 1,
     "i": 8
   },
@@ -76,6 +85,7 @@ var items = [
     "id": 9,
     "weapon": 1,
     "rarity": 0,
+    "index": 9,
     "seas": 1,
     "i": 9
   },
@@ -85,6 +95,7 @@ var items = [
     "id": 10,
     "weapon": 1,
     "rarity": 3,
+    "index": 10,
     "seas": 1,
     "i": 10
   },
@@ -93,6 +104,7 @@ var items = [
     "id": 11,
     "weapon": 1,
     "rarity": 0,
+    "index": 11,
     "seas": 1,
     "i": 11
   },
@@ -101,6 +113,7 @@ var items = [
     "id": 0,
     "weapon": 2,
     "rarity": 1,
+    "index": 12,
     "seas": 1,
     "i": 12
   },
@@ -109,6 +122,7 @@ var items = [
     "id": 1,
     "weapon": 2,
     "rarity": 1,
+    "index": 13,
     "seas": 1,
     "i": 13
   },
@@ -117,6 +131,7 @@ var items = [
     "id": 2,
     "weapon": 2,
     "rarity": 2,
+    "index": 14,
     "seas": 1,
     "i": 14
   },
@@ -125,6 +140,7 @@ var items = [
     "id": 3,
     "weapon": 2,
     "rarity": 0,
+    "index": 15,
     "seas": 1,
     "i": 15
   },
@@ -133,6 +149,7 @@ var items = [
     "id": 4,
     "weapon": 2,
     "rarity": 3,
+    "index": 16,
     "seas": 1,
     "i": 16
   },
@@ -141,6 +158,7 @@ var items = [
     "id": 5,
     "weapon": 2,
     "rarity": 1,
+    "index": 17,
     "seas": 1,
     "i": 17
   },
@@ -149,6 +167,7 @@ var items = [
     "id": 6,
     "weapon": 2,
     "rarity": 0,
+    "index": 18,
     "seas": 1,
     "i": 18
   },
@@ -157,6 +176,7 @@ var items = [
     "id": 7,
     "weapon": 2,
     "rarity": 1,
+    "index": 19,
     "seas": 1,
     "i": 19
   },
@@ -165,6 +185,7 @@ var items = [
     "id": 8,
     "weapon": 2,
     "rarity": 1,
+    "index": 20,
     "seas": 1,
     "i": 20
   },
@@ -173,6 +194,7 @@ var items = [
     "id": 9,
     "weapon": 2,
     "rarity": 0,
+    "index": 21,
     "seas": 1,
     "i": 21
   },
@@ -181,6 +203,7 @@ var items = [
     "id": 10,
     "weapon": 2,
     "rarity": 0,
+    "index": 22,
     "seas": 1,
     "i": 22
   },
@@ -189,6 +212,7 @@ var items = [
     "id": 0,
     "weapon": 4,
     "rarity": 1,
+    "index": 23,
     "seas": 1,
     "i": 23
   },
@@ -197,6 +221,7 @@ var items = [
     "id": 1,
     "weapon": 4,
     "rarity": 1,
+    "index": 24,
     "seas": 1,
     "i": 24
   },
@@ -205,6 +230,7 @@ var items = [
     "id": 2,
     "weapon": 4,
     "rarity": 2,
+    "index": 25,
     "seas": 1,
     "i": 25
   },
@@ -213,6 +239,7 @@ var items = [
     "id": 3,
     "weapon": 4,
     "rarity": 0,
+    "index": 26,
     "seas": 1,
     "i": 26
   },
@@ -221,6 +248,7 @@ var items = [
     "id": 4,
     "weapon": 4,
     "rarity": 1,
+    "index": 27,
     "seas": 1,
     "i": 27
   },
@@ -229,6 +257,7 @@ var items = [
     "id": 5,
     "weapon": 4,
     "rarity": 0,
+    "index": 28,
     "seas": 1,
     "i": 28
   },
@@ -237,6 +266,7 @@ var items = [
     "id": 6,
     "weapon": 4,
     "rarity": 1,
+    "index": 29,
     "seas": 1,
     "i": 29
   },
@@ -245,6 +275,7 @@ var items = [
     "id": 7,
     "weapon": 4,
     "rarity": 1,
+    "index": 30,
     "seas": 1,
     "i": 30
   },
@@ -253,6 +284,7 @@ var items = [
     "id": 8,
     "weapon": 4,
     "rarity": 0,
+    "index": 31,
     "seas": 1,
     "i": 31
   },
@@ -261,6 +293,7 @@ var items = [
     "id": 9,
     "weapon": 4,
     "rarity": 0,
+    "index": 32,
     "seas": 1,
     "i": 32
   },
@@ -269,6 +302,7 @@ var items = [
     "id": 0,
     "weapon": 5,
     "rarity": 1,
+    "index": 33,
     "seas": 1,
     "i": 33
   },
@@ -277,6 +311,7 @@ var items = [
     "id": 1,
     "weapon": 5,
     "rarity": 1,
+    "index": 34,
     "seas": 1,
     "i": 34
   },
@@ -285,6 +320,7 @@ var items = [
     "id": 2,
     "weapon": 5,
     "rarity": 2,
+    "index": 35,
     "seas": 1,
     "i": 35
   },
@@ -293,6 +329,7 @@ var items = [
     "id": 3,
     "weapon": 5,
     "rarity": 0,
+    "index": 36,
     "seas": 1,
     "i": 36
   },
@@ -301,6 +338,7 @@ var items = [
     "id": 4,
     "weapon": 5,
     "rarity": 1,
+    "index": 37,
     "seas": 1,
     "i": 37
   },
@@ -309,6 +347,7 @@ var items = [
     "id": 5,
     "weapon": 5,
     "rarity": 0,
+    "index": 38,
     "seas": 1,
     "i": 38
   },
@@ -317,6 +356,7 @@ var items = [
     "id": 6,
     "weapon": 5,
     "rarity": 1,
+    "index": 39,
     "seas": 1,
     "i": 39
   },
@@ -325,6 +365,7 @@ var items = [
     "id": 7,
     "weapon": 5,
     "rarity": 1,
+    "index": 40,
     "seas": 1,
     "i": 40
   },
@@ -333,6 +374,7 @@ var items = [
     "id": 8,
     "weapon": 5,
     "rarity": 0,
+    "index": 41,
     "seas": 1,
     "i": 41
   },
@@ -341,6 +383,7 @@ var items = [
     "id": 9,
     "weapon": 5,
     "rarity": 0,
+    "index": 42,
     "seas": 1,
     "i": 42
   },
@@ -349,6 +392,7 @@ var items = [
     "id": 0,
     "weapon": 6,
     "rarity": 1,
+    "index": 43,
     "seas": 1,
     "i": 43
   },
@@ -357,6 +401,7 @@ var items = [
     "id": 1,
     "weapon": 6,
     "rarity": 1,
+    "index": 44,
     "seas": 1,
     "i": 44
   },
@@ -365,6 +410,7 @@ var items = [
     "id": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 45,
     "seas": 1,
     "i": 45
   },
@@ -373,6 +419,7 @@ var items = [
     "id": 3,
     "weapon": 6,
     "rarity": 0,
+    "index": 46,
     "seas": 1,
     "i": 46
   },
@@ -381,6 +428,7 @@ var items = [
     "id": 4,
     "weapon": 6,
     "rarity": 1,
+    "index": 47,
     "seas": 1,
     "i": 47
   },
@@ -389,6 +437,7 @@ var items = [
     "id": 5,
     "weapon": 6,
     "rarity": 0,
+    "index": 48,
     "seas": 1,
     "i": 48
   },
@@ -397,6 +446,7 @@ var items = [
     "id": 6,
     "weapon": 6,
     "rarity": 1,
+    "index": 49,
     "seas": 1,
     "i": 49
   },
@@ -405,6 +455,7 @@ var items = [
     "id": 7,
     "weapon": 6,
     "rarity": 1,
+    "index": 50,
     "seas": 1,
     "i": 50
   },
@@ -413,6 +464,7 @@ var items = [
     "id": 8,
     "weapon": 6,
     "rarity": 0,
+    "index": 51,
     "seas": 1,
     "i": 51
   },
@@ -421,6 +473,7 @@ var items = [
     "id": 9,
     "weapon": 6,
     "rarity": 0,
+    "index": 52,
     "seas": 1,
     "i": 52
   },
@@ -429,6 +482,7 @@ var items = [
     "id": 0,
     "weapon": 7,
     "rarity": 1,
+    "index": 53,
     "seas": 1,
     "i": 53
   },
@@ -437,6 +491,7 @@ var items = [
     "id": 1,
     "weapon": 7,
     "rarity": 1,
+    "index": 54,
     "seas": 1,
     "i": 54
   },
@@ -445,6 +500,7 @@ var items = [
     "id": 2,
     "weapon": 7,
     "rarity": 2,
+    "index": 55,
     "seas": 1,
     "i": 55
   },
@@ -453,6 +509,7 @@ var items = [
     "id": 3,
     "weapon": 7,
     "rarity": 0,
+    "index": 56,
     "seas": 1,
     "i": 56
   },
@@ -461,6 +518,7 @@ var items = [
     "id": 4,
     "weapon": 7,
     "rarity": 1,
+    "index": 57,
     "seas": 1,
     "i": 57
   },
@@ -469,6 +527,7 @@ var items = [
     "id": 5,
     "weapon": 7,
     "rarity": 0,
+    "index": 58,
     "seas": 1,
     "i": 58
   },
@@ -477,6 +536,7 @@ var items = [
     "id": 6,
     "weapon": 7,
     "rarity": 1,
+    "index": 59,
     "seas": 1,
     "i": 59
   },
@@ -485,6 +545,7 @@ var items = [
     "id": 7,
     "weapon": 7,
     "rarity": 1,
+    "index": 60,
     "seas": 1,
     "i": 60
   },
@@ -493,6 +554,7 @@ var items = [
     "id": 8,
     "weapon": 7,
     "rarity": 0,
+    "index": 61,
     "seas": 1,
     "i": 61
   },
@@ -501,6 +563,7 @@ var items = [
     "id": 9,
     "weapon": 7,
     "rarity": 0,
+    "index": 62,
     "seas": 1,
     "i": 62
   },
@@ -509,6 +572,7 @@ var items = [
     "id": 0,
     "weapon": 8,
     "rarity": 1,
+    "index": 63,
     "seas": 1,
     "i": 63
   },
@@ -517,6 +581,7 @@ var items = [
     "id": 1,
     "weapon": 8,
     "rarity": 1,
+    "index": 64,
     "seas": 1,
     "i": 64
   },
@@ -525,6 +590,7 @@ var items = [
     "id": 2,
     "weapon": 8,
     "rarity": 2,
+    "index": 65,
     "seas": 1,
     "i": 65
   },
@@ -533,6 +599,7 @@ var items = [
     "id": 3,
     "weapon": 8,
     "rarity": 0,
+    "index": 66,
     "seas": 1,
     "i": 66
   },
@@ -541,6 +608,7 @@ var items = [
     "id": 4,
     "weapon": 8,
     "rarity": 1,
+    "index": 67,
     "seas": 1,
     "i": 67
   },
@@ -549,6 +617,7 @@ var items = [
     "id": 5,
     "weapon": 8,
     "rarity": 0,
+    "index": 68,
     "seas": 1,
     "i": 68
   },
@@ -557,6 +626,7 @@ var items = [
     "id": 6,
     "weapon": 8,
     "rarity": 1,
+    "index": 69,
     "seas": 1,
     "i": 69
   },
@@ -565,6 +635,7 @@ var items = [
     "id": 7,
     "weapon": 8,
     "rarity": 1,
+    "index": 70,
     "seas": 1,
     "i": 70
   },
@@ -573,6 +644,7 @@ var items = [
     "id": 8,
     "weapon": 8,
     "rarity": 0,
+    "index": 71,
     "seas": 1,
     "i": 71
   },
@@ -581,6 +653,7 @@ var items = [
     "id": 9,
     "weapon": 8,
     "rarity": 0,
+    "index": 72,
     "seas": 1,
     "i": 72
   },
@@ -590,6 +663,7 @@ var items = [
     "creator": "AtarSt",
     "weapon": 8,
     "rarity": 1,
+    "index": 73,
     "seas": 1,
     "i": 73
   },
@@ -598,6 +672,7 @@ var items = [
     "id": 0,
     "weapon": 9,
     "rarity": 1,
+    "index": 74,
     "seas": 1,
     "i": 74
   },
@@ -606,6 +681,7 @@ var items = [
     "id": 1,
     "weapon": 9,
     "rarity": 1,
+    "index": 75,
     "seas": 1,
     "i": 75
   },
@@ -614,6 +690,7 @@ var items = [
     "id": 2,
     "weapon": 9,
     "rarity": 2,
+    "index": 76,
     "seas": 1,
     "i": 76
   },
@@ -622,6 +699,7 @@ var items = [
     "id": 3,
     "weapon": 9,
     "rarity": 0,
+    "index": 77,
     "seas": 1,
     "i": 77
   },
@@ -630,6 +708,7 @@ var items = [
     "id": 4,
     "weapon": 9,
     "rarity": 1,
+    "index": 78,
     "seas": 1,
     "i": 78
   },
@@ -638,6 +717,7 @@ var items = [
     "id": 5,
     "weapon": 9,
     "rarity": 0,
+    "index": 79,
     "seas": 1,
     "i": 79
   },
@@ -646,6 +726,7 @@ var items = [
     "id": 6,
     "weapon": 9,
     "rarity": 1,
+    "index": 80,
     "seas": 1,
     "i": 80
   },
@@ -654,6 +735,7 @@ var items = [
     "id": 7,
     "weapon": 9,
     "rarity": 1,
+    "index": 81,
     "seas": 1,
     "i": 81
   },
@@ -662,6 +744,7 @@ var items = [
     "id": 8,
     "weapon": 9,
     "rarity": 0,
+    "index": 82,
     "seas": 1,
     "i": 82
   },
@@ -670,6 +753,7 @@ var items = [
     "id": 9,
     "weapon": 9,
     "rarity": 0,
+    "index": 83,
     "seas": 1,
     "i": 83
   },
@@ -678,6 +762,7 @@ var items = [
     "id": 12,
     "weapon": 1,
     "rarity": 3,
+    "index": 84,
     "seas": 1,
     "i": 84
   },
@@ -686,6 +771,7 @@ var items = [
     "id": 13,
     "weapon": 1,
     "rarity": 0,
+    "index": 85,
     "seas": 1,
     "i": 85
   },
@@ -694,6 +780,7 @@ var items = [
     "id": 14,
     "weapon": 1,
     "rarity": 0,
+    "index": 86,
     "seas": 1,
     "i": 86
   },
@@ -702,6 +789,7 @@ var items = [
     "id": 15,
     "weapon": 1,
     "rarity": 2,
+    "index": 87,
     "seas": 1,
     "i": 87
   },
@@ -710,6 +798,7 @@ var items = [
     "id": 11,
     "weapon": 2,
     "rarity": 0,
+    "index": 88,
     "seas": 1,
     "i": 88
   },
@@ -718,6 +807,7 @@ var items = [
     "id": 12,
     "weapon": 2,
     "rarity": 1,
+    "index": 89,
     "seas": 1,
     "i": 89
   },
@@ -726,6 +816,7 @@ var items = [
     "id": 10,
     "weapon": 4,
     "rarity": 0,
+    "index": 90,
     "seas": 1,
     "i": 90
   },
@@ -734,6 +825,7 @@ var items = [
     "id": 11,
     "weapon": 4,
     "rarity": 1,
+    "index": 91,
     "seas": 1,
     "i": 91
   },
@@ -742,6 +834,7 @@ var items = [
     "id": 10,
     "weapon": 5,
     "rarity": 0,
+    "index": 92,
     "seas": 1,
     "i": 92
   },
@@ -750,6 +843,7 @@ var items = [
     "id": 11,
     "weapon": 5,
     "rarity": 1,
+    "index": 93,
     "seas": 1,
     "i": 93
   },
@@ -758,6 +852,7 @@ var items = [
     "id": 10,
     "weapon": 6,
     "rarity": 0,
+    "index": 94,
     "seas": 1,
     "i": 94
   },
@@ -766,6 +861,7 @@ var items = [
     "id": 11,
     "weapon": 6,
     "rarity": 1,
+    "index": 95,
     "seas": 1,
     "i": 95
   },
@@ -774,6 +870,7 @@ var items = [
     "id": 10,
     "weapon": 7,
     "rarity": 0,
+    "index": 96,
     "seas": 1,
     "i": 96
   },
@@ -782,6 +879,7 @@ var items = [
     "id": 11,
     "weapon": 7,
     "rarity": 1,
+    "index": 97,
     "seas": 1,
     "i": 97
   },
@@ -790,6 +888,7 @@ var items = [
     "id": 11,
     "weapon": 8,
     "rarity": 0,
+    "index": 98,
     "seas": 1,
     "i": 98
   },
@@ -798,6 +897,7 @@ var items = [
     "id": 12,
     "weapon": 8,
     "rarity": 1,
+    "index": 99,
     "seas": 1,
     "i": 99
   },
@@ -806,6 +906,7 @@ var items = [
     "id": 10,
     "weapon": 9,
     "rarity": 0,
+    "index": 100,
     "seas": 1,
     "i": 100
   },
@@ -814,6 +915,7 @@ var items = [
     "id": 11,
     "weapon": 9,
     "rarity": 1,
+    "index": 101,
     "seas": 1,
     "i": 101
   },
@@ -822,6 +924,7 @@ var items = [
     "id": 16,
     "weapon": 1,
     "rarity": 0,
+    "index": 102,
     "seas": 1,
     "i": 102
   },
@@ -830,6 +933,7 @@ var items = [
     "id": 13,
     "weapon": 2,
     "rarity": 0,
+    "index": 103,
     "seas": 1,
     "i": 103
   },
@@ -838,6 +942,7 @@ var items = [
     "id": 12,
     "weapon": 4,
     "rarity": 0,
+    "index": 104,
     "seas": 1,
     "i": 104
   },
@@ -846,6 +951,7 @@ var items = [
     "id": 12,
     "weapon": 5,
     "rarity": 0,
+    "index": 105,
     "seas": 1,
     "i": 105
   },
@@ -854,6 +960,7 @@ var items = [
     "id": 12,
     "weapon": 6,
     "rarity": 0,
+    "index": 106,
     "seas": 1,
     "i": 106
   },
@@ -862,6 +969,7 @@ var items = [
     "id": 12,
     "weapon": 7,
     "rarity": 0,
+    "index": 107,
     "seas": 1,
     "i": 107
   },
@@ -870,6 +978,7 @@ var items = [
     "id": 13,
     "weapon": 8,
     "rarity": 0,
+    "index": 108,
     "seas": 1,
     "i": 108
   },
@@ -878,6 +987,7 @@ var items = [
     "id": 12,
     "weapon": 9,
     "rarity": 0,
+    "index": 109,
     "seas": 1,
     "i": 109
   },
@@ -887,6 +997,7 @@ var items = [
     "glow": true,
     "weapon": 2,
     "rarity": 4,
+    "index": 110,
     "seas": 1,
     "i": 110
   },
@@ -899,6 +1010,7 @@ var items = [
     "yOff": -4,
     "id": 1,
     "rarity": 2,
+    "index": 111,
     "seas": 1,
     "i": 111
   },
@@ -907,6 +1019,7 @@ var items = [
     "id": 13,
     "weapon": 4,
     "rarity": 3,
+    "index": 112,
     "seas": 1,
     "i": 112
   },
@@ -919,6 +1032,7 @@ var items = [
     "yOff": -3,
     "id": 0,
     "rarity": 0,
+    "index": 113,
     "seas": 1,
     "i": 113
   },
@@ -929,6 +1043,7 @@ var items = [
     "weapon": 5,
     "glow": true,
     "rarity": 5,
+    "index": 114,
     "seas": 1,
     "i": 114
   },
@@ -942,6 +1057,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
+    "index": 115,
     "seas": 1,
     "i": 115
   },
@@ -956,6 +1072,7 @@ var items = [
     "yOff": -4,
     "id": 3,
     "rarity": 3,
+    "index": 116,
     "seas": 1,
     "i": 116
   },
@@ -969,6 +1086,7 @@ var items = [
     "yOff": -2.5,
     "id": 4,
     "rarity": 2,
+    "index": 117,
     "seas": 1,
     "i": 117
   },
@@ -979,6 +1097,7 @@ var items = [
     "glow": true,
     "weapon": 1,
     "rarity": 4,
+    "index": 118,
     "seas": 1,
     "i": 118
   },
@@ -993,6 +1112,7 @@ var items = [
     "xOff": 2,
     "id": 5,
     "rarity": 0,
+    "index": 119,
     "seas": 1,
     "i": 119
   },
@@ -1006,6 +1126,7 @@ var items = [
     "yOff": -4,
     "id": 6,
     "rarity": 0,
+    "index": 120,
     "seas": 1,
     "i": 120
   },
@@ -1018,6 +1139,7 @@ var items = [
     "yOff": -3,
     "id": 7,
     "rarity": 0,
+    "index": 121,
     "seas": 1,
     "i": 121
   },
@@ -1032,6 +1154,7 @@ var items = [
     "yOff": -4,
     "id": 8,
     "rarity": 3,
+    "index": 122,
     "seas": 1,
     "i": 122
   },
@@ -1040,6 +1163,7 @@ var items = [
     "id": 18,
     "weapon": 1,
     "rarity": 2,
+    "index": 123,
     "seas": 1,
     "i": 123
   },
@@ -1048,6 +1172,7 @@ var items = [
     "id": 19,
     "weapon": 1,
     "rarity": 0,
+    "index": 124,
     "seas": 1,
     "i": 124
   },
@@ -1056,6 +1181,7 @@ var items = [
     "id": 20,
     "weapon": 1,
     "rarity": 1,
+    "index": 125,
     "seas": 1,
     "i": 125
   },
@@ -1064,6 +1190,7 @@ var items = [
     "id": 21,
     "weapon": 1,
     "rarity": 2,
+    "index": 126,
     "seas": 1,
     "i": 126
   },
@@ -1072,6 +1199,7 @@ var items = [
     "id": 22,
     "weapon": 1,
     "rarity": 1,
+    "index": 127,
     "seas": 1,
     "i": 127
   },
@@ -1081,6 +1209,7 @@ var items = [
     "weapon": 1,
     "rarity": 4,
     "glow": true,
+    "index": 128,
     "seas": 1,
     "i": 128
   },
@@ -1089,6 +1218,7 @@ var items = [
     "id": 15,
     "weapon": 2,
     "rarity": 2,
+    "index": 129,
     "seas": 1,
     "i": 129
   },
@@ -1097,6 +1227,7 @@ var items = [
     "id": 16,
     "weapon": 2,
     "rarity": 0,
+    "index": 130,
     "seas": 1,
     "i": 130
   },
@@ -1105,6 +1236,7 @@ var items = [
     "id": 17,
     "weapon": 2,
     "rarity": 1,
+    "index": 131,
     "seas": 1,
     "i": 131
   },
@@ -1113,6 +1245,7 @@ var items = [
     "id": 18,
     "weapon": 2,
     "rarity": 2,
+    "index": 132,
     "seas": 1,
     "i": 132
   },
@@ -1121,6 +1254,7 @@ var items = [
     "id": 19,
     "weapon": 2,
     "rarity": 1,
+    "index": 133,
     "seas": 1,
     "i": 133
   },
@@ -1129,6 +1263,7 @@ var items = [
     "id": 14,
     "weapon": 4,
     "rarity": 2,
+    "index": 134,
     "seas": 1,
     "i": 134
   },
@@ -1137,6 +1272,7 @@ var items = [
     "id": 15,
     "weapon": 4,
     "rarity": 0,
+    "index": 135,
     "seas": 1,
     "i": 135
   },
@@ -1145,6 +1281,7 @@ var items = [
     "id": 16,
     "weapon": 4,
     "rarity": 1,
+    "index": 136,
     "seas": 1,
     "i": 136
   },
@@ -1153,6 +1290,7 @@ var items = [
     "id": 17,
     "weapon": 4,
     "rarity": 2,
+    "index": 137,
     "seas": 1,
     "i": 137
   },
@@ -1161,6 +1299,7 @@ var items = [
     "id": 18,
     "weapon": 4,
     "rarity": 1,
+    "index": 138,
     "seas": 1,
     "i": 138
   },
@@ -1169,6 +1308,7 @@ var items = [
     "id": 14,
     "weapon": 5,
     "rarity": 2,
+    "index": 139,
     "seas": 1,
     "i": 139
   },
@@ -1177,6 +1317,7 @@ var items = [
     "id": 15,
     "weapon": 5,
     "rarity": 0,
+    "index": 140,
     "seas": 1,
     "i": 140
   },
@@ -1185,6 +1326,7 @@ var items = [
     "id": 16,
     "weapon": 5,
     "rarity": 1,
+    "index": 141,
     "seas": 1,
     "i": 141
   },
@@ -1193,6 +1335,7 @@ var items = [
     "id": 17,
     "weapon": 5,
     "rarity": 2,
+    "index": 142,
     "seas": 1,
     "i": 142
   },
@@ -1201,6 +1344,7 @@ var items = [
     "id": 18,
     "weapon": 5,
     "rarity": 1,
+    "index": 143,
     "seas": 1,
     "i": 143
   },
@@ -1209,6 +1353,7 @@ var items = [
     "id": 13,
     "weapon": 6,
     "rarity": 2,
+    "index": 144,
     "seas": 1,
     "i": 144
   },
@@ -1217,6 +1362,7 @@ var items = [
     "id": 14,
     "weapon": 6,
     "rarity": 0,
+    "index": 145,
     "seas": 1,
     "i": 145
   },
@@ -1225,6 +1371,7 @@ var items = [
     "id": 15,
     "weapon": 6,
     "rarity": 1,
+    "index": 146,
     "seas": 1,
     "i": 146
   },
@@ -1233,6 +1380,7 @@ var items = [
     "id": 16,
     "weapon": 6,
     "rarity": 2,
+    "index": 147,
     "seas": 1,
     "i": 147
   },
@@ -1241,6 +1389,7 @@ var items = [
     "id": 17,
     "weapon": 6,
     "rarity": 1,
+    "index": 148,
     "seas": 1,
     "i": 148
   },
@@ -1249,6 +1398,7 @@ var items = [
     "id": 13,
     "weapon": 7,
     "rarity": 0,
+    "index": 149,
     "seas": 1,
     "i": 149
   },
@@ -1257,6 +1407,7 @@ var items = [
     "id": 14,
     "weapon": 7,
     "rarity": 1,
+    "index": 150,
     "seas": 1,
     "i": 150
   },
@@ -1265,6 +1416,7 @@ var items = [
     "id": 15,
     "weapon": 7,
     "rarity": 2,
+    "index": 151,
     "seas": 1,
     "i": 151
   },
@@ -1273,6 +1425,7 @@ var items = [
     "id": 16,
     "weapon": 7,
     "rarity": 1,
+    "index": 152,
     "seas": 1,
     "i": 152
   },
@@ -1281,6 +1434,7 @@ var items = [
     "id": 14,
     "weapon": 8,
     "rarity": 2,
+    "index": 153,
     "seas": 1,
     "i": 153
   },
@@ -1289,6 +1443,7 @@ var items = [
     "id": 15,
     "weapon": 8,
     "rarity": 0,
+    "index": 154,
     "seas": 1,
     "i": 154
   },
@@ -1297,6 +1452,7 @@ var items = [
     "id": 16,
     "weapon": 8,
     "rarity": 1,
+    "index": 155,
     "seas": 1,
     "i": 155
   },
@@ -1305,6 +1461,7 @@ var items = [
     "id": 17,
     "weapon": 8,
     "rarity": 2,
+    "index": 156,
     "seas": 1,
     "i": 156
   },
@@ -1313,6 +1470,7 @@ var items = [
     "id": 18,
     "weapon": 8,
     "rarity": 1,
+    "index": 157,
     "seas": 1,
     "i": 157
   },
@@ -1321,6 +1479,7 @@ var items = [
     "id": 13,
     "weapon": 9,
     "rarity": 2,
+    "index": 158,
     "seas": 1,
     "i": 158
   },
@@ -1329,6 +1488,7 @@ var items = [
     "id": 14,
     "weapon": 9,
     "rarity": 0,
+    "index": 159,
     "seas": 1,
     "i": 159
   },
@@ -1337,6 +1497,7 @@ var items = [
     "id": 15,
     "weapon": 9,
     "rarity": 1,
+    "index": 160,
     "seas": 1,
     "i": 160
   },
@@ -1345,6 +1506,7 @@ var items = [
     "id": 16,
     "weapon": 9,
     "rarity": 2,
+    "index": 161,
     "seas": 1,
     "i": 161
   },
@@ -1353,6 +1515,7 @@ var items = [
     "id": 17,
     "weapon": 9,
     "rarity": 1,
+    "index": 162,
     "seas": 1,
     "i": 162
   },
@@ -1363,6 +1526,7 @@ var items = [
     "creator": "Zino",
     "weapon": 1,
     "rarity": 3,
+    "index": 163,
     "seas": 1,
     "i": 163
   },
@@ -1371,6 +1535,7 @@ var items = [
     "id": 25,
     "weapon": 1,
     "rarity": 0,
+    "index": 164,
     "seas": 1,
     "i": 164
   },
@@ -1379,6 +1544,7 @@ var items = [
     "id": 26,
     "weapon": 1,
     "rarity": 0,
+    "index": 165,
     "seas": 1,
     "i": 165
   },
@@ -1387,6 +1553,7 @@ var items = [
     "id": 27,
     "weapon": 1,
     "rarity": 2,
+    "index": 166,
     "seas": 1,
     "i": 166
   },
@@ -1395,6 +1562,7 @@ var items = [
     "id": 28,
     "weapon": 1,
     "rarity": 2,
+    "index": 167,
     "seas": 1,
     "i": 167
   },
@@ -1404,6 +1572,7 @@ var items = [
     "weapon": 1,
     "rarity": 4,
     "glow": true,
+    "index": 168,
     "seas": 1,
     "i": 168
   },
@@ -1412,6 +1581,7 @@ var items = [
     "id": 30,
     "weapon": 1,
     "rarity": 3,
+    "index": 169,
     "seas": 1,
     "i": 169
   },
@@ -1420,6 +1590,7 @@ var items = [
     "id": 31,
     "weapon": 1,
     "rarity": 2,
+    "index": 170,
     "seas": 1,
     "i": 170
   },
@@ -1428,6 +1599,7 @@ var items = [
     "id": 32,
     "weapon": 1,
     "rarity": 1,
+    "index": 171,
     "seas": 1,
     "i": 171
   },
@@ -1436,6 +1608,7 @@ var items = [
     "id": 33,
     "weapon": 1,
     "rarity": 1,
+    "index": 172,
     "seas": 1,
     "i": 172
   },
@@ -1444,6 +1617,7 @@ var items = [
     "id": 20,
     "weapon": 2,
     "rarity": 1,
+    "index": 173,
     "seas": 1,
     "i": 173
   },
@@ -1452,6 +1626,7 @@ var items = [
     "id": 21,
     "weapon": 2,
     "rarity": 0,
+    "index": 174,
     "seas": 1,
     "i": 174
   },
@@ -1460,6 +1635,7 @@ var items = [
     "id": 22,
     "weapon": 2,
     "rarity": 2,
+    "index": 175,
     "seas": 1,
     "i": 175
   },
@@ -1468,6 +1644,7 @@ var items = [
     "id": 23,
     "weapon": 2,
     "rarity": 2,
+    "index": 176,
     "seas": 1,
     "i": 176
   },
@@ -1477,6 +1654,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "glow": true,
+    "index": 177,
     "seas": 1,
     "i": 177
   },
@@ -1486,6 +1664,7 @@ var items = [
     "weapon": 2,
     "glow": true,
     "rarity": 3,
+    "index": 178,
     "seas": 1,
     "i": 178
   },
@@ -1494,6 +1673,7 @@ var items = [
     "id": 26,
     "weapon": 2,
     "rarity": 2,
+    "index": 179,
     "seas": 1,
     "i": 179
   },
@@ -1502,6 +1682,7 @@ var items = [
     "id": 27,
     "weapon": 2,
     "rarity": 0,
+    "index": 180,
     "seas": 1,
     "i": 180
   },
@@ -1510,6 +1691,7 @@ var items = [
     "id": 28,
     "weapon": 2,
     "rarity": 0,
+    "index": 181,
     "seas": 1,
     "i": 181
   },
@@ -1518,6 +1700,7 @@ var items = [
     "id": 19,
     "weapon": 4,
     "rarity": 1,
+    "index": 182,
     "seas": 1,
     "i": 182
   },
@@ -1526,6 +1709,7 @@ var items = [
     "id": 20,
     "weapon": 4,
     "rarity": 0,
+    "index": 183,
     "seas": 1,
     "i": 183
   },
@@ -1534,6 +1718,7 @@ var items = [
     "id": 21,
     "weapon": 4,
     "rarity": 2,
+    "index": 184,
     "seas": 1,
     "i": 184
   },
@@ -1542,6 +1727,7 @@ var items = [
     "id": 22,
     "weapon": 4,
     "rarity": 2,
+    "index": 185,
     "seas": 1,
     "i": 185
   },
@@ -1551,6 +1737,7 @@ var items = [
     "weapon": 4,
     "rarity": 4,
     "glow": true,
+    "index": 186,
     "seas": 1,
     "i": 186
   },
@@ -1560,6 +1747,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "glow": true,
+    "index": 187,
     "seas": 1,
     "i": 187
   },
@@ -1568,6 +1756,7 @@ var items = [
     "id": 25,
     "weapon": 4,
     "rarity": 2,
+    "index": 188,
     "seas": 1,
     "i": 188
   },
@@ -1576,6 +1765,7 @@ var items = [
     "id": 26,
     "weapon": 4,
     "rarity": 0,
+    "index": 189,
     "seas": 1,
     "i": 189
   },
@@ -1584,6 +1774,7 @@ var items = [
     "id": 27,
     "weapon": 4,
     "rarity": 0,
+    "index": 190,
     "seas": 1,
     "i": 190
   },
@@ -1592,6 +1783,7 @@ var items = [
     "id": 19,
     "weapon": 5,
     "rarity": 1,
+    "index": 191,
     "seas": 1,
     "i": 191
   },
@@ -1600,6 +1792,7 @@ var items = [
     "id": 20,
     "weapon": 5,
     "rarity": 0,
+    "index": 192,
     "seas": 1,
     "i": 192
   },
@@ -1608,6 +1801,7 @@ var items = [
     "id": 21,
     "weapon": 5,
     "rarity": 2,
+    "index": 193,
     "seas": 1,
     "i": 193
   },
@@ -1616,6 +1810,7 @@ var items = [
     "id": 22,
     "weapon": 5,
     "rarity": 2,
+    "index": 194,
     "seas": 1,
     "i": 194
   },
@@ -1626,6 +1821,7 @@ var items = [
     "id": 23,
     "weapon": 5,
     "rarity": 3,
+    "index": 195,
     "seas": 1,
     "i": 195
   },
@@ -1634,6 +1830,7 @@ var items = [
     "id": 24,
     "weapon": 5,
     "rarity": 3,
+    "index": 196,
     "seas": 1,
     "i": 196
   },
@@ -1643,6 +1840,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "glow": true,
+    "index": 197,
     "seas": 1,
     "i": 197
   },
@@ -1651,6 +1849,7 @@ var items = [
     "id": 26,
     "weapon": 5,
     "rarity": 0,
+    "index": 198,
     "seas": 1,
     "i": 198
   },
@@ -1659,6 +1858,7 @@ var items = [
     "id": 27,
     "weapon": 5,
     "rarity": 0,
+    "index": 199,
     "seas": 1,
     "i": 199
   },
@@ -1667,6 +1867,7 @@ var items = [
     "id": 19,
     "weapon": 6,
     "rarity": 1,
+    "index": 200,
     "seas": 1,
     "i": 200
   },
@@ -1675,6 +1876,7 @@ var items = [
     "id": 20,
     "weapon": 6,
     "rarity": 0,
+    "index": 201,
     "seas": 1,
     "i": 201
   },
@@ -1683,6 +1885,7 @@ var items = [
     "id": 21,
     "weapon": 6,
     "rarity": 2,
+    "index": 202,
     "seas": 1,
     "i": 202
   },
@@ -1691,6 +1894,7 @@ var items = [
     "id": 22,
     "weapon": 6,
     "rarity": 2,
+    "index": 203,
     "seas": 1,
     "i": 203
   },
@@ -1700,6 +1904,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "glow": true,
+    "index": 204,
     "seas": 1,
     "i": 204
   },
@@ -1709,6 +1914,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "glow": true,
+    "index": 205,
     "seas": 1,
     "i": 205
   },
@@ -1717,6 +1923,7 @@ var items = [
     "id": 25,
     "weapon": 6,
     "rarity": 2,
+    "index": 206,
     "seas": 1,
     "i": 206
   },
@@ -1725,6 +1932,7 @@ var items = [
     "id": 26,
     "weapon": 6,
     "rarity": 0,
+    "index": 207,
     "seas": 1,
     "i": 207
   },
@@ -1733,6 +1941,7 @@ var items = [
     "id": 27,
     "weapon": 6,
     "rarity": 0,
+    "index": 208,
     "seas": 1,
     "i": 208
   },
@@ -1741,6 +1950,7 @@ var items = [
     "id": 17,
     "weapon": 7,
     "rarity": 1,
+    "index": 209,
     "seas": 1,
     "i": 209
   },
@@ -1749,6 +1959,7 @@ var items = [
     "id": 18,
     "weapon": 7,
     "rarity": 0,
+    "index": 210,
     "seas": 1,
     "i": 210
   },
@@ -1757,6 +1968,7 @@ var items = [
     "id": 19,
     "weapon": 7,
     "rarity": 2,
+    "index": 211,
     "seas": 1,
     "i": 211
   },
@@ -1765,6 +1977,7 @@ var items = [
     "id": 20,
     "weapon": 7,
     "rarity": 2,
+    "index": 212,
     "seas": 1,
     "i": 212
   },
@@ -1774,6 +1987,7 @@ var items = [
     "weapon": 7,
     "rarity": 4,
     "glow": true,
+    "index": 213,
     "seas": 1,
     "i": 213
   },
@@ -1782,6 +1996,7 @@ var items = [
     "id": 22,
     "weapon": 7,
     "rarity": 3,
+    "index": 214,
     "seas": 1,
     "i": 214
   },
@@ -1791,6 +2006,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "glow": true,
+    "index": 215,
     "seas": 1,
     "i": 215
   },
@@ -1799,6 +2015,7 @@ var items = [
     "id": 24,
     "weapon": 7,
     "rarity": 0,
+    "index": 216,
     "seas": 1,
     "i": 216
   },
@@ -1807,6 +2024,7 @@ var items = [
     "id": 25,
     "weapon": 7,
     "rarity": 0,
+    "index": 217,
     "seas": 1,
     "i": 217
   },
@@ -1815,6 +2033,7 @@ var items = [
     "id": 19,
     "weapon": 8,
     "rarity": 1,
+    "index": 218,
     "seas": 1,
     "i": 218
   },
@@ -1823,6 +2042,7 @@ var items = [
     "id": 20,
     "weapon": 8,
     "rarity": 0,
+    "index": 219,
     "seas": 1,
     "i": 219
   },
@@ -1831,6 +2051,7 @@ var items = [
     "id": 21,
     "weapon": 8,
     "rarity": 2,
+    "index": 220,
     "seas": 1,
     "i": 220
   },
@@ -1839,6 +2060,7 @@ var items = [
     "id": 22,
     "weapon": 8,
     "rarity": 2,
+    "index": 221,
     "seas": 1,
     "i": 221
   },
@@ -1848,6 +2070,7 @@ var items = [
     "weapon": 8,
     "rarity": 4,
     "glow": true,
+    "index": 222,
     "seas": 1,
     "i": 222
   },
@@ -1857,6 +2080,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "glow": true,
+    "index": 223,
     "seas": 1,
     "i": 223
   },
@@ -1865,6 +2089,7 @@ var items = [
     "id": 25,
     "weapon": 8,
     "rarity": 2,
+    "index": 224,
     "seas": 1,
     "i": 224
   },
@@ -1873,6 +2098,7 @@ var items = [
     "id": 26,
     "weapon": 8,
     "rarity": 0,
+    "index": 225,
     "seas": 1,
     "i": 225
   },
@@ -1881,6 +2107,7 @@ var items = [
     "id": 27,
     "weapon": 8,
     "rarity": 0,
+    "index": 226,
     "seas": 1,
     "i": 226
   },
@@ -1889,6 +2116,7 @@ var items = [
     "id": 18,
     "weapon": 9,
     "rarity": 1,
+    "index": 227,
     "seas": 1,
     "i": 227
   },
@@ -1897,6 +2125,7 @@ var items = [
     "id": 19,
     "weapon": 9,
     "rarity": 0,
+    "index": 228,
     "seas": 1,
     "i": 228
   },
@@ -1905,6 +2134,7 @@ var items = [
     "id": 20,
     "weapon": 9,
     "rarity": 2,
+    "index": 229,
     "seas": 1,
     "i": 229
   },
@@ -1913,6 +2143,7 @@ var items = [
     "id": 21,
     "weapon": 9,
     "rarity": 2,
+    "index": 230,
     "seas": 1,
     "i": 230
   },
@@ -1922,6 +2153,7 @@ var items = [
     "weapon": 9,
     "rarity": 4,
     "glow": true,
+    "index": 231,
     "seas": 1,
     "i": 231
   },
@@ -1930,6 +2162,7 @@ var items = [
     "id": 23,
     "weapon": 9,
     "rarity": 3,
+    "index": 232,
     "seas": 1,
     "i": 232
   },
@@ -1938,6 +2171,7 @@ var items = [
     "id": 24,
     "weapon": 9,
     "rarity": 2,
+    "index": 233,
     "seas": 1,
     "i": 233
   },
@@ -1946,6 +2180,7 @@ var items = [
     "id": 25,
     "weapon": 9,
     "rarity": 0,
+    "index": 234,
     "seas": 1,
     "i": 234
   },
@@ -1954,6 +2189,7 @@ var items = [
     "id": 26,
     "weapon": 9,
     "rarity": 0,
+    "index": 235,
     "seas": 1,
     "i": 235
   },
@@ -1968,6 +2204,7 @@ var items = [
     "yOff": -3,
     "xOff": 2,
     "rarity": 0,
+    "index": 236,
     "seas": 1,
     "i": 236
   },
@@ -1982,6 +2219,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 2,
+    "index": 237,
     "seas": 1,
     "i": 237
   },
@@ -1997,6 +2235,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 2,
+    "index": 238,
     "seas": 1,
     "i": 238
   },
@@ -2010,6 +2249,7 @@ var items = [
     "sitOff": 2,
     "yOff": -3,
     "rarity": 2,
+    "index": 239,
     "seas": 1,
     "i": 239
   },
@@ -2024,6 +2264,7 @@ var items = [
     "sitOff": 2,
     "yOff": -3,
     "rarity": 2,
+    "index": 240,
     "seas": 1,
     "i": 240
   },
@@ -2041,6 +2282,7 @@ var items = [
     "xOff": -3,
     "tex": 0,
     "rarity": 3,
+    "index": 241,
     "seas": 1,
     "i": 241
   },
@@ -2055,6 +2297,7 @@ var items = [
     "yOff": -3,
     "tex": 0,
     "rarity": 0,
+    "index": 242,
     "seas": 1,
     "i": 242
   },
@@ -2069,6 +2312,7 @@ var items = [
     "yOff": -3,
     "tex": 1,
     "rarity": 0,
+    "index": 243,
     "seas": 1,
     "i": 243
   },
@@ -2082,6 +2326,7 @@ var items = [
     "sitOff": 1.4,
     "yOff": -4,
     "rarity": 2,
+    "index": 244,
     "seas": 1,
     "i": 244
   },
@@ -2096,6 +2341,7 @@ var items = [
     "sitOff": 1.4,
     "yOff": -4,
     "rarity": 2,
+    "index": 245,
     "seas": 1,
     "i": 245
   },
@@ -2112,6 +2358,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
+    "index": 246,
     "seas": 1,
     "i": 246
   },
@@ -2126,6 +2373,7 @@ var items = [
     "sitOffZ": -1,
     "yOff": -2,
     "rarity": 2,
+    "index": 247,
     "seas": 1,
     "i": 247
   },
@@ -2142,6 +2390,7 @@ var items = [
     "yOff": -1,
     "xOff": -0.5,
     "rarity": 3,
+    "index": 248,
     "seas": 1,
     "i": 248
   },
@@ -2157,6 +2406,7 @@ var items = [
     "sitOffZ": -0.95,
     "yOff": -1,
     "rarity": 3,
+    "index": 249,
     "seas": 1,
     "i": 249
   },
@@ -2171,6 +2421,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -5,
     "rarity": 3,
+    "index": 250,
     "seas": 1,
     "i": 250
   },
@@ -2186,6 +2437,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -5,
     "rarity": 3,
+    "index": 251,
     "seas": 1,
     "i": 251
   },
@@ -2202,6 +2454,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
+    "index": 252,
     "seas": 1,
     "i": 252
   },
@@ -2217,6 +2470,7 @@ var items = [
     "yOff": -4,
     "xOff": 0,
     "rarity": 3,
+    "index": 253,
     "seas": 1,
     "i": 253
   },
@@ -2231,6 +2485,7 @@ var items = [
     "sitOff": -0.65,
     "yOff": -1,
     "rarity": 3,
+    "index": 254,
     "seas": 1,
     "i": 254
   },
@@ -2244,6 +2499,7 @@ var items = [
     "xOff": 1,
     "id": 17,
     "rarity": 1,
+    "index": 255,
     "seas": 1,
     "i": 255
   },
@@ -2257,6 +2513,7 @@ var items = [
     "yOff": -1,
     "id": 18,
     "rarity": 1,
+    "index": 256,
     "seas": 1,
     "i": 256
   },
@@ -2271,6 +2528,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
+    "index": 257,
     "seas": 1,
     "i": 257
   },
@@ -2285,6 +2543,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
+    "index": 258,
     "seas": 1,
     "i": 258
   },
@@ -2299,6 +2558,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
+    "index": 259,
     "seas": 1,
     "i": 259
   },
@@ -2315,6 +2575,7 @@ var items = [
     "sitOffZ": -1.75,
     "yOff": -5,
     "rarity": 1,
+    "index": 260,
     "seas": 1,
     "i": 260
   },
@@ -2331,6 +2592,7 @@ var items = [
     "sitOffZ": -0.75,
     "yOff": -4,
     "rarity": 4,
+    "index": 261,
     "seas": 1,
     "i": 261
   },
@@ -2346,6 +2608,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -4,
     "rarity": 1,
+    "index": 262,
     "seas": 1,
     "i": 262
   },
@@ -2362,6 +2625,7 @@ var items = [
     "yOff": -5,
     "xRot": 3.141592653589793,
     "rarity": 3,
+    "index": 263,
     "seas": 1,
     "i": 263
   },
@@ -2376,6 +2640,7 @@ var items = [
     "yOff": -2.5,
     "id": 4,
     "rarity": 1,
+    "index": 264,
     "seas": 1,
     "i": 264
   },
@@ -2390,6 +2655,7 @@ var items = [
     "yOff": -4,
     "id": 6,
     "rarity": 0,
+    "index": 265,
     "seas": 1,
     "i": 265
   },
@@ -2407,6 +2673,7 @@ var items = [
     "yOff": -4.5,
     "xOff": -3,
     "rarity": 3,
+    "index": 266,
     "seas": 1,
     "i": 266
   },
@@ -2421,6 +2688,7 @@ var items = [
     "xOff": 1,
     "id": 17,
     "rarity": 2,
+    "index": 267,
     "seas": 1,
     "i": 267
   },
@@ -2436,6 +2704,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 3,
+    "index": 268,
     "seas": 1,
     "i": 268
   },
@@ -2445,6 +2714,7 @@ var items = [
     "id": 35,
     "weapon": 1,
     "rarity": 3,
+    "index": 269,
     "seas": 1,
     "i": 269
   },
@@ -2454,6 +2724,7 @@ var items = [
     "glow": true,
     "weapon": 1,
     "rarity": 4,
+    "index": 270,
     "seas": 1,
     "i": 270
   },
@@ -2464,6 +2735,7 @@ var items = [
     "id": 28,
     "weapon": 6,
     "rarity": 3,
+    "index": 271,
     "seas": 1,
     "i": 271
   },
@@ -2474,6 +2746,7 @@ var items = [
     "glow": true,
     "weapon": 4,
     "rarity": 4,
+    "index": 272,
     "seas": 1,
     "i": 272
   },
@@ -2484,6 +2757,7 @@ var items = [
     "id": 29,
     "weapon": 5,
     "rarity": 4,
+    "index": 273,
     "seas": 1,
     "i": 273
   },
@@ -2494,6 +2768,7 @@ var items = [
     "id": 28,
     "weapon": 5,
     "rarity": 3,
+    "index": 274,
     "seas": 1,
     "i": 274
   },
@@ -2508,6 +2783,7 @@ var items = [
     "yOff": -3.4,
     "id": 20,
     "rarity": 3,
+    "index": 275,
     "seas": 1,
     "i": 275
   },
@@ -2521,6 +2797,7 @@ var items = [
     "yOff": -3.2,
     "id": 21,
     "rarity": 3,
+    "index": 276,
     "seas": 1,
     "i": 276
   },
@@ -2534,6 +2811,7 @@ var items = [
     "yOff": -3.2,
     "id": 22,
     "rarity": 2,
+    "index": 277,
     "seas": 1,
     "i": 277
   },
@@ -2547,6 +2825,7 @@ var items = [
     "yOff": -3.2,
     "id": 23,
     "rarity": 2,
+    "index": 278,
     "seas": 1,
     "i": 278
   },
@@ -2560,6 +2839,7 @@ var items = [
     "yOff": -3.2,
     "id": 24,
     "rarity": 3,
+    "index": 279,
     "seas": 1,
     "i": 279
   },
@@ -2574,6 +2854,7 @@ var items = [
     "yOff": -3.2,
     "id": 25,
     "rarity": 3,
+    "index": 280,
     "seas": 1,
     "i": 280
   },
@@ -2587,6 +2868,7 @@ var items = [
     "yOff": -2.7,
     "id": 26,
     "rarity": 3,
+    "index": 281,
     "seas": 1,
     "i": 281
   },
@@ -2600,6 +2882,7 @@ var items = [
     "yOff": -3.2,
     "id": 27,
     "rarity": 3,
+    "index": 282,
     "seas": 1,
     "i": 282
   },
@@ -2613,6 +2896,7 @@ var items = [
     "yOff": -3.2,
     "id": 28,
     "rarity": 1,
+    "index": 283,
     "seas": 1,
     "i": 283
   },
@@ -2626,6 +2910,7 @@ var items = [
     "yOff": -3.2,
     "id": 29,
     "rarity": 4,
+    "index": 284,
     "seas": 1,
     "i": 284
   },
@@ -2640,6 +2925,7 @@ var items = [
     "yOff": -3.2,
     "id": 30,
     "rarity": 4,
+    "index": 285,
     "seas": 1,
     "i": 285
   },
@@ -2648,6 +2934,7 @@ var items = [
     "id": 36,
     "weapon": 1,
     "rarity": 1,
+    "index": 286,
     "seas": 1,
     "i": 286
   },
@@ -2657,6 +2944,7 @@ var items = [
     "id": 37,
     "weapon": 1,
     "rarity": 2,
+    "index": 287,
     "seas": 1,
     "i": 287
   },
@@ -2665,6 +2953,7 @@ var items = [
     "id": 38,
     "weapon": 1,
     "rarity": 3,
+    "index": 288,
     "seas": 1,
     "i": 288
   },
@@ -2674,6 +2963,7 @@ var items = [
     "id": 39,
     "weapon": 1,
     "rarity": 4,
+    "index": 289,
     "seas": 1,
     "i": 289
   },
@@ -2683,6 +2973,7 @@ var items = [
     "id": 40,
     "weapon": 1,
     "rarity": 3,
+    "index": 290,
     "seas": 1,
     "i": 290
   },
@@ -2692,6 +2983,7 @@ var items = [
     "id": 41,
     "weapon": 1,
     "rarity": 4,
+    "index": 291,
     "seas": 1,
     "i": 291
   },
@@ -2701,6 +2993,7 @@ var items = [
     "glow": true,
     "weapon": 2,
     "rarity": 4,
+    "index": 292,
     "seas": 1,
     "i": 292
   },
@@ -2710,6 +3003,7 @@ var items = [
     "glow": true,
     "weapon": 10,
     "rarity": 4,
+    "index": 293,
     "seas": 1,
     "i": 293
   },
@@ -2719,6 +3013,7 @@ var items = [
     "id": 7,
     "weapon": 10,
     "rarity": 3,
+    "index": 294,
     "seas": 1,
     "i": 294
   },
@@ -2727,6 +3022,7 @@ var items = [
     "id": 0,
     "weapon": 10,
     "rarity": 1,
+    "index": 295,
     "seas": 1,
     "i": 295
   },
@@ -2735,6 +3031,7 @@ var items = [
     "id": 1,
     "weapon": 10,
     "rarity": 1,
+    "index": 296,
     "seas": 1,
     "i": 296
   },
@@ -2743,6 +3040,7 @@ var items = [
     "id": 3,
     "weapon": 10,
     "rarity": 2,
+    "index": 297,
     "seas": 1,
     "i": 297
   },
@@ -2751,6 +3049,7 @@ var items = [
     "id": 4,
     "weapon": 10,
     "rarity": 1,
+    "index": 298,
     "seas": 1,
     "i": 298
   },
@@ -2759,6 +3058,7 @@ var items = [
     "id": 5,
     "weapon": 10,
     "rarity": 0,
+    "index": 299,
     "seas": 1,
     "i": 299
   },
@@ -2767,6 +3067,7 @@ var items = [
     "id": 6,
     "weapon": 10,
     "rarity": 1,
+    "index": 300,
     "seas": 1,
     "i": 300
   },
@@ -2776,6 +3077,7 @@ var items = [
     "id": 42,
     "weapon": 1,
     "rarity": 3,
+    "index": 301,
     "seas": 1,
     "i": 301
   },
@@ -2784,6 +3086,7 @@ var items = [
     "id": 43,
     "weapon": 1,
     "rarity": 3,
+    "index": 302,
     "seas": 1,
     "i": 302
   },
@@ -2793,6 +3096,7 @@ var items = [
     "id": 44,
     "weapon": 1,
     "rarity": 4,
+    "index": 303,
     "seas": 1,
     "i": 303
   },
@@ -2802,6 +3106,7 @@ var items = [
     "id": 45,
     "weapon": 1,
     "rarity": 4,
+    "index": 304,
     "seas": 1,
     "i": 304
   },
@@ -2811,6 +3116,7 @@ var items = [
     "id": 46,
     "weapon": 1,
     "rarity": 4,
+    "index": 305,
     "seas": 1,
     "i": 305
   },
@@ -2821,6 +3127,7 @@ var items = [
     "id": 47,
     "weapon": 1,
     "rarity": 4,
+    "index": 306,
     "seas": 1,
     "i": 306
   },
@@ -2831,6 +3138,7 @@ var items = [
     "id": 30,
     "weapon": 2,
     "rarity": 4,
+    "index": 307,
     "seas": 1,
     "i": 307
   },
@@ -2839,6 +3147,7 @@ var items = [
     "id": 29,
     "weapon": 4,
     "rarity": 2,
+    "index": 308,
     "seas": 1,
     "i": 308
   },
@@ -2848,6 +3157,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "glow": true,
+    "index": 309,
     "seas": 1,
     "i": 309
   },
@@ -2856,6 +3166,7 @@ var items = [
     "id": 31,
     "weapon": 4,
     "rarity": 2,
+    "index": 310,
     "seas": 1,
     "i": 310
   },
@@ -2868,6 +3179,7 @@ var items = [
     "movT": 0.0001,
     "weapon": 4,
     "rarity": 5,
+    "index": 311,
     "seas": 1,
     "i": 311
   },
@@ -2880,6 +3192,7 @@ var items = [
     "movT": 0.0001,
     "weapon": 2,
     "rarity": 5,
+    "index": 312,
     "seas": 1,
     "i": 312
   },
@@ -2892,6 +3205,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 2,
     "rarity": 5,
+    "index": 313,
     "seas": 1,
     "i": 313
   },
@@ -2904,6 +3218,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 4,
     "rarity": 5,
+    "index": 314,
     "seas": 1,
     "i": 314
   },
@@ -2912,6 +3227,7 @@ var items = [
     "id": 32,
     "weapon": 4,
     "rarity": 1,
+    "index": 315,
     "seas": 1,
     "i": 315
   },
@@ -2920,6 +3236,7 @@ var items = [
     "id": 33,
     "weapon": 4,
     "rarity": 1,
+    "index": 316,
     "seas": 1,
     "i": 316
   },
@@ -2928,6 +3245,7 @@ var items = [
     "id": 34,
     "weapon": 4,
     "rarity": 1,
+    "index": 317,
     "seas": 1,
     "i": 317
   },
@@ -2936,6 +3254,7 @@ var items = [
     "id": 35,
     "weapon": 4,
     "rarity": 0,
+    "index": 318,
     "seas": 1,
     "i": 318
   },
@@ -2944,6 +3263,7 @@ var items = [
     "id": 36,
     "weapon": 4,
     "rarity": 0,
+    "index": 319,
     "seas": 1,
     "i": 319
   },
@@ -2952,6 +3272,7 @@ var items = [
     "id": 37,
     "weapon": 4,
     "rarity": 0,
+    "index": 320,
     "seas": 1,
     "i": 320
   },
@@ -2960,6 +3281,7 @@ var items = [
     "id": 38,
     "weapon": 4,
     "rarity": 0,
+    "index": 321,
     "seas": 1,
     "i": 321
   },
@@ -2968,6 +3290,7 @@ var items = [
     "id": 39,
     "weapon": 4,
     "rarity": 0,
+    "index": 322,
     "seas": 1,
     "i": 322
   },
@@ -2976,6 +3299,7 @@ var items = [
     "id": 40,
     "weapon": 4,
     "rarity": 1,
+    "index": 323,
     "seas": 1,
     "i": 323
   },
@@ -2984,6 +3308,7 @@ var items = [
     "id": 41,
     "weapon": 4,
     "rarity": 0,
+    "index": 324,
     "seas": 1,
     "i": 324
   },
@@ -2992,6 +3317,7 @@ var items = [
     "id": 42,
     "weapon": 4,
     "rarity": 1,
+    "index": 325,
     "seas": 1,
     "i": 325
   },
@@ -3000,6 +3326,7 @@ var items = [
     "id": 43,
     "weapon": 4,
     "rarity": 1,
+    "index": 326,
     "seas": 1,
     "i": 326
   },
@@ -3008,6 +3335,7 @@ var items = [
     "id": 44,
     "weapon": 4,
     "rarity": 1,
+    "index": 327,
     "seas": 1,
     "i": 327
   },
@@ -3016,6 +3344,7 @@ var items = [
     "id": 45,
     "weapon": 4,
     "rarity": 1,
+    "index": 328,
     "seas": 1,
     "i": 328
   },
@@ -3024,6 +3353,7 @@ var items = [
     "id": 46,
     "weapon": 4,
     "rarity": 1,
+    "index": 329,
     "seas": 1,
     "i": 329
   },
@@ -3032,6 +3362,7 @@ var items = [
     "id": 47,
     "weapon": 4,
     "rarity": 1,
+    "index": 330,
     "seas": 1,
     "i": 330
   },
@@ -3040,6 +3371,7 @@ var items = [
     "id": 48,
     "weapon": 4,
     "rarity": 2,
+    "index": 331,
     "seas": 1,
     "i": 331
   },
@@ -3048,6 +3380,7 @@ var items = [
     "id": 49,
     "weapon": 4,
     "rarity": 2,
+    "index": 332,
     "seas": 1,
     "i": 332
   },
@@ -3056,6 +3389,7 @@ var items = [
     "id": 50,
     "weapon": 4,
     "rarity": 2,
+    "index": 333,
     "seas": 1,
     "i": 333
   },
@@ -3064,6 +3398,7 @@ var items = [
     "id": 51,
     "weapon": 4,
     "rarity": 2,
+    "index": 334,
     "seas": 1,
     "i": 334
   },
@@ -3072,6 +3407,7 @@ var items = [
     "id": 52,
     "weapon": 4,
     "rarity": 2,
+    "index": 335,
     "seas": 1,
     "i": 335
   },
@@ -3080,6 +3416,7 @@ var items = [
     "id": 53,
     "weapon": 4,
     "rarity": 2,
+    "index": 336,
     "seas": 1,
     "i": 336
   },
@@ -3088,6 +3425,7 @@ var items = [
     "id": 54,
     "weapon": 4,
     "rarity": 0,
+    "index": 337,
     "seas": 1,
     "i": 337
   },
@@ -3096,6 +3434,7 @@ var items = [
     "id": 55,
     "weapon": 4,
     "rarity": 0,
+    "index": 338,
     "seas": 1,
     "i": 338
   },
@@ -3104,6 +3443,7 @@ var items = [
     "id": 56,
     "weapon": 4,
     "rarity": 0,
+    "index": 339,
     "seas": 1,
     "i": 339
   },
@@ -3112,6 +3452,7 @@ var items = [
     "id": 57,
     "weapon": 4,
     "rarity": 0,
+    "index": 340,
     "seas": 1,
     "i": 340
   },
@@ -3120,6 +3461,7 @@ var items = [
     "id": 31,
     "weapon": 2,
     "rarity": 1,
+    "index": 341,
     "seas": 1,
     "i": 341
   },
@@ -3128,6 +3470,7 @@ var items = [
     "id": 32,
     "weapon": 2,
     "rarity": 1,
+    "index": 342,
     "seas": 1,
     "i": 342
   },
@@ -3136,6 +3479,7 @@ var items = [
     "id": 33,
     "weapon": 2,
     "rarity": 1,
+    "index": 343,
     "seas": 1,
     "i": 343
   },
@@ -3144,6 +3488,7 @@ var items = [
     "id": 34,
     "weapon": 2,
     "rarity": 1,
+    "index": 344,
     "seas": 1,
     "i": 344
   },
@@ -3152,6 +3497,7 @@ var items = [
     "id": 35,
     "weapon": 2,
     "rarity": 0,
+    "index": 345,
     "seas": 1,
     "i": 345
   },
@@ -3160,6 +3506,7 @@ var items = [
     "id": 36,
     "weapon": 2,
     "rarity": 0,
+    "index": 346,
     "seas": 1,
     "i": 346
   },
@@ -3168,6 +3515,7 @@ var items = [
     "id": 37,
     "weapon": 2,
     "rarity": 1,
+    "index": 347,
     "seas": 1,
     "i": 347
   },
@@ -3176,6 +3524,7 @@ var items = [
     "id": 38,
     "weapon": 2,
     "rarity": 1,
+    "index": 348,
     "seas": 1,
     "i": 348
   },
@@ -3184,6 +3533,7 @@ var items = [
     "id": 39,
     "weapon": 2,
     "rarity": 1,
+    "index": 349,
     "seas": 1,
     "i": 349
   },
@@ -3192,6 +3542,7 @@ var items = [
     "id": 40,
     "weapon": 2,
     "rarity": 0,
+    "index": 350,
     "seas": 1,
     "i": 350
   },
@@ -3200,6 +3551,7 @@ var items = [
     "id": 41,
     "weapon": 2,
     "rarity": 1,
+    "index": 351,
     "seas": 1,
     "i": 351
   },
@@ -3208,6 +3560,7 @@ var items = [
     "id": 42,
     "weapon": 2,
     "rarity": 1,
+    "index": 352,
     "seas": 1,
     "i": 352
   },
@@ -3216,6 +3569,7 @@ var items = [
     "id": 43,
     "weapon": 2,
     "rarity": 1,
+    "index": 353,
     "seas": 1,
     "i": 353
   },
@@ -3224,6 +3578,7 @@ var items = [
     "id": 44,
     "weapon": 2,
     "rarity": 1,
+    "index": 354,
     "seas": 1,
     "i": 354
   },
@@ -3232,6 +3587,7 @@ var items = [
     "id": 45,
     "weapon": 2,
     "rarity": 1,
+    "index": 355,
     "seas": 1,
     "i": 355
   },
@@ -3240,6 +3596,7 @@ var items = [
     "id": 46,
     "weapon": 2,
     "rarity": 2,
+    "index": 356,
     "seas": 1,
     "i": 356
   },
@@ -3248,6 +3605,7 @@ var items = [
     "id": 47,
     "weapon": 2,
     "rarity": 2,
+    "index": 357,
     "seas": 1,
     "i": 357
   },
@@ -3256,6 +3614,7 @@ var items = [
     "id": 48,
     "weapon": 2,
     "rarity": 2,
+    "index": 358,
     "seas": 1,
     "i": 358
   },
@@ -3264,6 +3623,7 @@ var items = [
     "id": 49,
     "weapon": 2,
     "rarity": 2,
+    "index": 359,
     "seas": 1,
     "i": 359
   },
@@ -3272,6 +3632,7 @@ var items = [
     "id": 50,
     "weapon": 2,
     "rarity": 2,
+    "index": 360,
     "seas": 1,
     "i": 360
   },
@@ -3280,6 +3641,7 @@ var items = [
     "id": 51,
     "weapon": 2,
     "rarity": 2,
+    "index": 361,
     "seas": 1,
     "i": 361
   },
@@ -3288,6 +3650,7 @@ var items = [
     "id": 52,
     "weapon": 2,
     "rarity": 0,
+    "index": 362,
     "seas": 1,
     "i": 362
   },
@@ -3296,6 +3659,7 @@ var items = [
     "id": 53,
     "weapon": 2,
     "rarity": 0,
+    "index": 363,
     "seas": 1,
     "i": 363
   },
@@ -3304,6 +3668,7 @@ var items = [
     "id": 54,
     "weapon": 2,
     "rarity": 0,
+    "index": 364,
     "seas": 1,
     "i": 364
   },
@@ -3312,6 +3677,7 @@ var items = [
     "id": 55,
     "weapon": 2,
     "rarity": 0,
+    "index": 365,
     "seas": 1,
     "i": 365
   },
@@ -3320,6 +3686,7 @@ var items = [
     "id": 28,
     "weapon": 8,
     "rarity": 1,
+    "index": 366,
     "seas": 1,
     "i": 366
   },
@@ -3328,6 +3695,7 @@ var items = [
     "id": 29,
     "weapon": 8,
     "rarity": 1,
+    "index": 367,
     "seas": 1,
     "i": 367
   },
@@ -3336,6 +3704,7 @@ var items = [
     "id": 30,
     "weapon": 8,
     "rarity": 1,
+    "index": 368,
     "seas": 1,
     "i": 368
   },
@@ -3344,6 +3713,7 @@ var items = [
     "id": 31,
     "weapon": 8,
     "rarity": 1,
+    "index": 369,
     "seas": 1,
     "i": 369
   },
@@ -3352,6 +3722,7 @@ var items = [
     "id": 32,
     "weapon": 8,
     "rarity": 0,
+    "index": 370,
     "seas": 1,
     "i": 370
   },
@@ -3360,6 +3731,7 @@ var items = [
     "id": 33,
     "weapon": 8,
     "rarity": 0,
+    "index": 371,
     "seas": 1,
     "i": 371
   },
@@ -3368,6 +3740,7 @@ var items = [
     "id": 34,
     "weapon": 8,
     "rarity": 0,
+    "index": 372,
     "seas": 1,
     "i": 372
   },
@@ -3376,6 +3749,7 @@ var items = [
     "id": 35,
     "weapon": 8,
     "rarity": 1,
+    "index": 373,
     "seas": 1,
     "i": 373
   },
@@ -3384,6 +3758,7 @@ var items = [
     "id": 36,
     "weapon": 8,
     "rarity": 0,
+    "index": 374,
     "seas": 1,
     "i": 374
   },
@@ -3392,6 +3767,7 @@ var items = [
     "id": 37,
     "weapon": 8,
     "rarity": 1,
+    "index": 375,
     "seas": 1,
     "i": 375
   },
@@ -3400,6 +3776,7 @@ var items = [
     "id": 38,
     "weapon": 8,
     "rarity": 1,
+    "index": 376,
     "seas": 1,
     "i": 376
   },
@@ -3408,6 +3785,7 @@ var items = [
     "id": 39,
     "weapon": 8,
     "rarity": 1,
+    "index": 377,
     "seas": 1,
     "i": 377
   },
@@ -3416,6 +3794,7 @@ var items = [
     "id": 40,
     "weapon": 8,
     "rarity": 1,
+    "index": 378,
     "seas": 1,
     "i": 378
   },
@@ -3424,6 +3803,7 @@ var items = [
     "id": 41,
     "weapon": 8,
     "rarity": 1,
+    "index": 379,
     "seas": 1,
     "i": 379
   },
@@ -3432,6 +3812,7 @@ var items = [
     "id": 42,
     "weapon": 8,
     "rarity": 1,
+    "index": 380,
     "seas": 1,
     "i": 380
   },
@@ -3440,6 +3821,7 @@ var items = [
     "id": 43,
     "weapon": 8,
     "rarity": 2,
+    "index": 381,
     "seas": 1,
     "i": 381
   },
@@ -3448,6 +3830,7 @@ var items = [
     "id": 44,
     "weapon": 8,
     "rarity": 2,
+    "index": 382,
     "seas": 1,
     "i": 382
   },
@@ -3456,6 +3839,7 @@ var items = [
     "id": 45,
     "weapon": 8,
     "rarity": 2,
+    "index": 383,
     "seas": 1,
     "i": 383
   },
@@ -3464,6 +3848,7 @@ var items = [
     "id": 46,
     "weapon": 8,
     "rarity": 2,
+    "index": 384,
     "seas": 1,
     "i": 384
   },
@@ -3472,6 +3857,7 @@ var items = [
     "id": 47,
     "weapon": 8,
     "rarity": 2,
+    "index": 385,
     "seas": 1,
     "i": 385
   },
@@ -3480,6 +3866,7 @@ var items = [
     "id": 48,
     "weapon": 8,
     "rarity": 2,
+    "index": 386,
     "seas": 1,
     "i": 386
   },
@@ -3488,6 +3875,7 @@ var items = [
     "id": 49,
     "weapon": 8,
     "rarity": 0,
+    "index": 387,
     "seas": 1,
     "i": 387
   },
@@ -3496,6 +3884,7 @@ var items = [
     "id": 50,
     "weapon": 8,
     "rarity": 0,
+    "index": 388,
     "seas": 1,
     "i": 388
   },
@@ -3504,6 +3893,7 @@ var items = [
     "id": 51,
     "weapon": 8,
     "rarity": 0,
+    "index": 389,
     "seas": 1,
     "i": 389
   },
@@ -3512,6 +3902,7 @@ var items = [
     "id": 52,
     "weapon": 8,
     "rarity": 0,
+    "index": 390,
     "seas": 1,
     "i": 390
   },
@@ -3521,6 +3912,7 @@ var items = [
     "id": 53,
     "weapon": 8,
     "rarity": 2,
+    "index": 391,
     "seas": 1,
     "i": 391
   },
@@ -3530,6 +3922,7 @@ var items = [
     "id": 54,
     "weapon": 8,
     "rarity": 1,
+    "index": 392,
     "seas": 1,
     "i": 392
   },
@@ -3539,6 +3932,7 @@ var items = [
     "id": 55,
     "weapon": 8,
     "rarity": 1,
+    "index": 393,
     "seas": 1,
     "i": 393
   },
@@ -3549,6 +3943,7 @@ var items = [
     "id": 48,
     "weapon": 1,
     "rarity": 3,
+    "index": 394,
     "i": 394
   },
   {
@@ -3560,6 +3955,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 1,
     "rarity": 5,
+    "index": 395,
     "seas": 1,
     "i": 395
   },
@@ -3575,6 +3971,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
+    "index": 396,
     "seas": 1,
     "i": 396
   },
@@ -3585,6 +3982,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
+    "index": 397,
     "i": 397
   },
   {
@@ -3594,6 +3992,7 @@ var items = [
     "id": 57,
     "weapon": 2,
     "rarity": 4,
+    "index": 398,
     "seas": 1,
     "i": 398
   },
@@ -3603,6 +4002,7 @@ var items = [
     "id": 51,
     "weapon": 1,
     "rarity": 3,
+    "index": 399,
     "seas": 1,
     "i": 399
   },
@@ -3612,6 +4012,7 @@ var items = [
     "id": 50,
     "weapon": 1,
     "rarity": 2,
+    "index": 400,
     "seas": 1,
     "i": 400
   },
@@ -3621,6 +4022,7 @@ var items = [
     "id": 58,
     "weapon": 2,
     "rarity": 2,
+    "index": 401,
     "seas": 1,
     "i": 401
   },
@@ -3630,6 +4032,7 @@ var items = [
     "id": 59,
     "weapon": 2,
     "rarity": 2,
+    "index": 402,
     "seas": 1,
     "i": 402
   },
@@ -3639,6 +4042,7 @@ var items = [
     "id": 49,
     "weapon": 1,
     "rarity": 2,
+    "index": 403,
     "seas": 1,
     "i": 403
   },
@@ -3647,6 +4051,7 @@ var items = [
     "id": 29,
     "weapon": 6,
     "rarity": 2,
+    "index": 404,
     "seas": 1,
     "i": 404
   },
@@ -3655,6 +4060,7 @@ var items = [
     "id": 30,
     "weapon": 6,
     "rarity": 2,
+    "index": 405,
     "seas": 1,
     "i": 405
   },
@@ -3663,6 +4069,7 @@ var items = [
     "id": 31,
     "weapon": 6,
     "rarity": 2,
+    "index": 406,
     "seas": 1,
     "i": 406
   },
@@ -3671,6 +4078,7 @@ var items = [
     "id": 32,
     "weapon": 6,
     "rarity": 2,
+    "index": 407,
     "seas": 1,
     "i": 407
   },
@@ -3680,6 +4088,7 @@ var items = [
     "id": 33,
     "weapon": 6,
     "rarity": 3,
+    "index": 408,
     "seas": 1,
     "i": 408
   },
@@ -3689,6 +4098,7 @@ var items = [
     "id": 34,
     "weapon": 6,
     "rarity": 2,
+    "index": 409,
     "seas": 1,
     "i": 409
   },
@@ -3703,6 +4113,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
+    "index": 410,
     "seas": 1,
     "i": 410
   },
@@ -3718,6 +4129,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
+    "index": 411,
     "seas": 1,
     "i": 411
   },
@@ -3733,6 +4145,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
+    "index": 412,
     "seas": 1,
     "i": 412
   },
@@ -3748,6 +4161,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
+    "index": 413,
     "seas": 1,
     "i": 413
   },
@@ -3763,6 +4177,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
+    "index": 414,
     "seas": 1,
     "i": 414
   },
@@ -3772,6 +4187,7 @@ var items = [
     "id": 53,
     "weapon": 1,
     "rarity": 4,
+    "index": 415,
     "seas": 1,
     "i": 415
   },
@@ -3781,6 +4197,7 @@ var items = [
     "id": 54,
     "weapon": 1,
     "rarity": 4,
+    "index": 416,
     "seas": 1,
     "i": 416
   },
@@ -3790,6 +4207,7 @@ var items = [
     "id": 55,
     "weapon": 1,
     "rarity": 4,
+    "index": 417,
     "seas": 1,
     "i": 417
   },
@@ -3805,6 +4223,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
+    "index": 418,
     "seas": 1,
     "i": 418
   },
@@ -3820,6 +4239,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -0.5,
     "rarity": 6,
+    "index": 419,
     "seas": 1,
     "i": 419
   },
@@ -3828,6 +4248,7 @@ var items = [
     "id": 0,
     "weapon": 15,
     "rarity": 1,
+    "index": 420,
     "seas": 1,
     "i": 420
   },
@@ -3836,6 +4257,7 @@ var items = [
     "id": 1,
     "weapon": 15,
     "rarity": 1,
+    "index": 421,
     "seas": 1,
     "i": 421
   },
@@ -3844,6 +4266,7 @@ var items = [
     "id": 2,
     "weapon": 15,
     "rarity": 2,
+    "index": 422,
     "seas": 1,
     "i": 422
   },
@@ -3852,6 +4275,7 @@ var items = [
     "id": 3,
     "weapon": 15,
     "rarity": 0,
+    "index": 423,
     "seas": 1,
     "i": 423
   },
@@ -3860,6 +4284,7 @@ var items = [
     "id": 4,
     "weapon": 15,
     "rarity": 1,
+    "index": 424,
     "seas": 1,
     "i": 424
   },
@@ -3868,6 +4293,7 @@ var items = [
     "id": 5,
     "weapon": 15,
     "rarity": 0,
+    "index": 425,
     "seas": 1,
     "i": 425
   },
@@ -3876,6 +4302,7 @@ var items = [
     "id": 6,
     "weapon": 15,
     "rarity": 1,
+    "index": 426,
     "seas": 1,
     "i": 426
   },
@@ -3884,6 +4311,7 @@ var items = [
     "id": 7,
     "weapon": 15,
     "rarity": 1,
+    "index": 427,
     "seas": 1,
     "i": 427
   },
@@ -3892,6 +4320,7 @@ var items = [
     "id": 8,
     "weapon": 15,
     "rarity": 0,
+    "index": 428,
     "seas": 1,
     "i": 428
   },
@@ -3900,6 +4329,7 @@ var items = [
     "id": 9,
     "weapon": 15,
     "rarity": 0,
+    "index": 429,
     "seas": 1,
     "i": 429
   },
@@ -3908,6 +4338,7 @@ var items = [
     "id": 10,
     "weapon": 15,
     "rarity": 0,
+    "index": 430,
     "seas": 1,
     "i": 430
   },
@@ -3916,6 +4347,7 @@ var items = [
     "id": 11,
     "weapon": 15,
     "rarity": 0,
+    "index": 431,
     "seas": 1,
     "i": 431
   },
@@ -3924,6 +4356,7 @@ var items = [
     "id": 12,
     "weapon": 15,
     "rarity": 0,
+    "index": 432,
     "seas": 1,
     "i": 432
   },
@@ -3932,6 +4365,7 @@ var items = [
     "id": 13,
     "weapon": 15,
     "rarity": 2,
+    "index": 433,
     "seas": 1,
     "i": 433
   },
@@ -3940,6 +4374,7 @@ var items = [
     "id": 14,
     "weapon": 15,
     "rarity": 0,
+    "index": 434,
     "seas": 1,
     "i": 434
   },
@@ -3948,6 +4383,7 @@ var items = [
     "id": 15,
     "weapon": 15,
     "rarity": 1,
+    "index": 435,
     "seas": 1,
     "i": 435
   },
@@ -3956,6 +4392,7 @@ var items = [
     "id": 16,
     "weapon": 15,
     "rarity": 2,
+    "index": 436,
     "seas": 1,
     "i": 436
   },
@@ -3964,6 +4401,7 @@ var items = [
     "id": 17,
     "weapon": 15,
     "rarity": 1,
+    "index": 437,
     "seas": 1,
     "i": 437
   },
@@ -3972,6 +4410,7 @@ var items = [
     "id": 18,
     "weapon": 15,
     "rarity": 1,
+    "index": 438,
     "seas": 1,
     "i": 438
   },
@@ -3980,6 +4419,7 @@ var items = [
     "id": 19,
     "weapon": 15,
     "rarity": 1,
+    "index": 439,
     "seas": 1,
     "i": 439
   },
@@ -3988,6 +4428,7 @@ var items = [
     "id": 20,
     "weapon": 15,
     "rarity": 2,
+    "index": 440,
     "seas": 1,
     "i": 440
   },
@@ -3996,6 +4437,7 @@ var items = [
     "id": 21,
     "weapon": 15,
     "rarity": 2,
+    "index": 441,
     "seas": 1,
     "i": 441
   },
@@ -4004,6 +4446,7 @@ var items = [
     "id": 22,
     "weapon": 15,
     "rarity": 2,
+    "index": 442,
     "seas": 1,
     "i": 442
   },
@@ -4012,6 +4455,7 @@ var items = [
     "id": 23,
     "weapon": 15,
     "rarity": 2,
+    "index": 443,
     "seas": 1,
     "i": 443
   },
@@ -4021,6 +4465,7 @@ var items = [
     "glow": true,
     "weapon": 15,
     "rarity": 4,
+    "index": 444,
     "seas": 1,
     "i": 444
   },
@@ -4036,6 +4481,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
+    "index": 445,
     "i": 445
   },
   {
@@ -4051,6 +4497,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
+    "index": 446,
     "i": 446
   },
   {
@@ -4066,6 +4513,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 5,
+    "index": 447,
     "i": 447
   },
   {
@@ -4080,6 +4528,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 4,
+    "index": 448,
     "seas": 1,
     "i": 448
   },
@@ -4089,6 +4538,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 449,
     "i": 449
   },
   {
@@ -4097,6 +4547,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 450,
     "i": 450
   },
   {
@@ -4105,6 +4556,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 451,
     "i": 451
   },
   {
@@ -4113,6 +4565,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 452,
     "i": 452
   },
   {
@@ -4121,6 +4574,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 453,
     "i": 453
   },
   {
@@ -4129,6 +4583,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 454,
     "i": 454
   },
   {
@@ -4137,6 +4592,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 455,
     "i": 455
   },
   {
@@ -4145,6 +4601,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 456,
     "i": 456
   },
   {
@@ -4153,6 +4610,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 457,
     "i": 457
   },
   {
@@ -4161,6 +4619,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 458,
     "i": 458
   },
   {
@@ -4169,6 +4628,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 459,
     "i": 459
   },
   {
@@ -4178,6 +4638,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 460,
     "i": 460
   },
   {
@@ -4186,6 +4647,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 461,
     "i": 461
   },
   {
@@ -4194,6 +4656,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 462,
     "i": 462
   },
   {
@@ -4202,6 +4665,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 463,
     "i": 463
   },
   {
@@ -4210,6 +4674,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 464,
     "i": 464
   },
   {
@@ -4218,6 +4683,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 465,
     "i": 465
   },
   {
@@ -4226,6 +4692,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 466,
     "i": 466
   },
   {
@@ -4234,6 +4701,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 467,
     "i": 467
   },
   {
@@ -4242,6 +4710,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 468,
     "i": 468
   },
   {
@@ -4250,6 +4719,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 469,
     "i": 469
   },
   {
@@ -4258,6 +4728,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 470,
     "i": 470
   },
   {
@@ -4266,6 +4737,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 471,
     "i": 471
   },
   {
@@ -4274,6 +4746,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 472,
     "i": 472
   },
   {
@@ -4282,6 +4755,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 473,
     "i": 473
   },
   {
@@ -4290,6 +4764,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 474,
     "i": 474
   },
   {
@@ -4298,6 +4773,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 475,
     "i": 475
   },
   {
@@ -4306,6 +4782,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 476,
     "i": 476
   },
   {
@@ -4315,6 +4792,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 477,
     "i": 477
   },
   {
@@ -4323,6 +4801,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 478,
     "i": 478
   },
   {
@@ -4331,6 +4810,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 479,
     "i": 479
   },
   {
@@ -4339,6 +4819,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 480,
     "i": 480
   },
   {
@@ -4347,6 +4828,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 481,
     "i": 481
   },
   {
@@ -4355,6 +4837,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 482,
     "i": 482
   },
   {
@@ -4363,6 +4846,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 483,
     "i": 483
   },
   {
@@ -4372,6 +4856,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 484,
     "i": 484
   },
   {
@@ -4380,6 +4865,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 485,
     "i": 485
   },
   {
@@ -4388,6 +4874,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 486,
     "i": 486
   },
   {
@@ -4396,6 +4883,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 487,
     "i": 487
   },
   {
@@ -4404,6 +4892,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 488,
     "i": 488
   },
   {
@@ -4412,6 +4901,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 489,
     "i": 489
   },
   {
@@ -4421,6 +4911,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 490,
     "i": 490
   },
   {
@@ -4429,6 +4920,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 491,
     "i": 491
   },
   {
@@ -4437,6 +4929,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 492,
     "i": 492
   },
   {
@@ -4445,6 +4938,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 493,
     "i": 493
   },
   {
@@ -4453,6 +4947,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 494,
     "i": 494
   },
   {
@@ -4461,6 +4956,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 495,
     "i": 495
   },
   {
@@ -4469,6 +4965,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 496,
     "i": 496
   },
   {
@@ -4477,6 +4974,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
+    "index": 497,
     "i": 497
   },
   {
@@ -4486,6 +4984,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 498,
     "i": 498
   },
   {
@@ -4495,6 +4994,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 499,
     "i": 499
   },
   {
@@ -4504,6 +5004,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 500,
     "i": 500
   },
   {
@@ -4515,6 +5016,7 @@ var items = [
     "pulsT": 0.1,
     "glow": true,
     "seas": 2,
+    "index": 501,
     "i": 501
   },
   {
@@ -4524,6 +5026,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
+    "index": 502,
     "i": 502
   },
   {
@@ -4533,6 +5036,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
+    "index": 503,
     "i": 503
   },
   {
@@ -4541,6 +5045,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 504,
     "i": 504
   },
   {
@@ -4551,6 +5056,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 505,
     "i": 505
   },
   {
@@ -4559,6 +5065,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 506,
     "i": 506
   },
   {
@@ -4569,6 +5076,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 507,
     "i": 507
   },
   {
@@ -4578,6 +5086,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 508,
     "i": 508
   },
   {
@@ -4587,6 +5096,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 509,
     "i": 509
   },
   {
@@ -4597,6 +5107,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 510,
     "i": 510
   },
   {
@@ -4605,6 +5116,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 511,
     "i": 511
   },
   {
@@ -4613,6 +5125,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 512,
     "i": 512
   },
   {
@@ -4621,6 +5134,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 513,
     "i": 513
   },
   {
@@ -4629,6 +5143,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 514,
     "i": 514
   },
   {
@@ -4637,6 +5152,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 515,
     "i": 515
   },
   {
@@ -4645,6 +5161,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 516,
     "i": 516
   },
   {
@@ -4653,6 +5170,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 517,
     "i": 517
   },
   {
@@ -4661,6 +5179,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 518,
     "i": 518
   },
   {
@@ -4669,6 +5188,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 519,
     "i": 519
   },
   {
@@ -4677,6 +5197,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 520,
     "i": 520
   },
   {
@@ -4685,6 +5206,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 521,
     "i": 521
   },
   {
@@ -4694,6 +5216,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 522,
     "i": 522
   },
   {
@@ -4702,6 +5225,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 523,
     "i": 523
   },
   {
@@ -4710,6 +5234,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 524,
     "i": 524
   },
   {
@@ -4718,6 +5243,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 525,
     "i": 525
   },
   {
@@ -4726,6 +5252,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 526,
     "i": 526
   },
   {
@@ -4734,6 +5261,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 527,
     "i": 527
   },
   {
@@ -4742,6 +5270,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 528,
     "i": 528
   },
   {
@@ -4750,6 +5279,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 529,
     "i": 529
   },
   {
@@ -4758,6 +5288,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 530,
     "i": 530
   },
   {
@@ -4766,6 +5297,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 531,
     "i": 531
   },
   {
@@ -4774,6 +5306,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 532,
     "i": 532
   },
   {
@@ -4782,6 +5315,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 533,
     "i": 533
   },
   {
@@ -4790,6 +5324,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 534,
     "i": 534
   },
   {
@@ -4798,6 +5333,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 535,
     "i": 535
   },
   {
@@ -4806,6 +5342,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 536,
     "i": 536
   },
   {
@@ -4814,6 +5351,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 537,
     "i": 537
   },
   {
@@ -4822,6 +5360,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 538,
     "i": 538
   },
   {
@@ -4831,6 +5370,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 539,
     "i": 539
   },
   {
@@ -4839,6 +5379,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 540,
     "i": 540
   },
   {
@@ -4847,6 +5388,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 541,
     "i": 541
   },
   {
@@ -4855,6 +5397,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 542,
     "i": 542
   },
   {
@@ -4863,6 +5406,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 543,
     "i": 543
   },
   {
@@ -4871,6 +5415,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 544,
     "i": 544
   },
   {
@@ -4879,6 +5424,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 545,
     "i": 545
   },
   {
@@ -4887,6 +5433,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 546,
     "i": 546
   },
   {
@@ -4895,6 +5442,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 547,
     "i": 547
   },
   {
@@ -4903,6 +5451,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 548,
     "i": 548
   },
   {
@@ -4911,6 +5460,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 549,
     "i": 549
   },
   {
@@ -4919,6 +5469,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 550,
     "i": 550
   },
   {
@@ -4927,6 +5478,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 551,
     "i": 551
   },
   {
@@ -4935,6 +5487,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 552,
     "i": 552
   },
   {
@@ -4943,6 +5496,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 553,
     "i": 553
   },
   {
@@ -4951,6 +5505,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 554,
     "i": 554
   },
   {
@@ -4959,6 +5514,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 555,
     "i": 555
   },
   {
@@ -4967,6 +5523,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
+    "index": 556,
     "i": 556
   },
   {
@@ -4976,6 +5533,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 557,
     "i": 557
   },
   {
@@ -4985,6 +5543,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 558,
     "i": 558
   },
   {
@@ -4993,6 +5552,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
+    "index": 559,
     "i": 559
   },
   {
@@ -5003,6 +5563,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 560,
     "i": 560
   },
   {
@@ -5012,6 +5573,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 561,
     "i": 561
   },
   {
@@ -5020,6 +5582,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 562,
     "i": 562
   },
   {
@@ -5029,6 +5592,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 2,
+    "index": 563,
     "i": 563
   },
   {
@@ -5037,6 +5601,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 564,
     "i": 564
   },
   {
@@ -5045,6 +5610,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 565,
     "i": 565
   },
   {
@@ -5053,6 +5619,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 566,
     "i": 566
   },
   {
@@ -5061,6 +5628,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 567,
     "i": 567
   },
   {
@@ -5069,6 +5637,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 568,
     "i": 568
   },
   {
@@ -5077,6 +5646,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 569,
     "i": 569
   },
   {
@@ -5085,6 +5655,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 570,
     "i": 570
   },
   {
@@ -5093,6 +5664,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 571,
     "i": 571
   },
   {
@@ -5101,6 +5673,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 572,
     "i": 572
   },
   {
@@ -5109,6 +5682,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 573,
     "i": 573
   },
   {
@@ -5117,6 +5691,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 574,
     "i": 574
   },
   {
@@ -5125,6 +5700,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 575,
     "i": 575
   },
   {
@@ -5133,6 +5709,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 576,
     "i": 576
   },
   {
@@ -5141,6 +5718,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 577,
     "i": 577
   },
   {
@@ -5149,6 +5727,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 578,
     "i": 578
   },
   {
@@ -5157,6 +5736,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 579,
     "i": 579
   },
   {
@@ -5165,6 +5745,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 580,
     "i": 580
   },
   {
@@ -5173,6 +5754,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 581,
     "i": 581
   },
   {
@@ -5181,6 +5763,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 582,
     "i": 582
   },
   {
@@ -5189,6 +5772,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 583,
     "i": 583
   },
   {
@@ -5197,6 +5781,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 584,
     "i": 584
   },
   {
@@ -5205,6 +5790,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 585,
     "i": 585
   },
   {
@@ -5213,6 +5799,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 586,
     "i": 586
   },
   {
@@ -5221,6 +5808,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 587,
     "i": 587
   },
   {
@@ -5229,6 +5817,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 588,
     "i": 588
   },
   {
@@ -5237,6 +5826,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 589,
     "i": 589
   },
   {
@@ -5245,6 +5835,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 590,
     "i": 590
   },
   {
@@ -5253,6 +5844,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 591,
     "i": 591
   },
   {
@@ -5261,6 +5853,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 592,
     "i": 592
   },
   {
@@ -5269,6 +5862,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 593,
     "i": 593
   },
   {
@@ -5277,6 +5871,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 594,
     "i": 594
   },
   {
@@ -5285,6 +5880,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 595,
     "i": 595
   },
   {
@@ -5293,6 +5889,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 596,
     "i": 596
   },
   {
@@ -5301,6 +5898,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 597,
     "i": 597
   },
   {
@@ -5309,6 +5907,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 598,
     "i": 598
   },
   {
@@ -5317,6 +5916,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 599,
     "i": 599
   },
   {
@@ -5325,6 +5925,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 600,
     "i": 600
   },
   {
@@ -5333,6 +5934,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 601,
     "i": 601
   },
   {
@@ -5341,6 +5943,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 602,
     "i": 602
   },
   {
@@ -5349,6 +5952,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 603,
     "i": 603
   },
   {
@@ -5357,6 +5961,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 604,
     "i": 604
   },
   {
@@ -5365,6 +5970,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 605,
     "i": 605
   },
   {
@@ -5373,6 +5979,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 606,
     "i": 606
   },
   {
@@ -5381,6 +5988,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
+    "index": 607,
     "i": 607
   },
   {
@@ -5389,6 +5997,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 608,
     "i": 608
   },
   {
@@ -5398,6 +6007,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 609,
     "i": 609
   },
   {
@@ -5406,6 +6016,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
+    "index": 610,
     "i": 610
   },
   {
@@ -5415,6 +6026,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 611,
     "i": 611
   },
   {
@@ -5424,6 +6036,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 612,
     "i": 612
   },
   {
@@ -5432,6 +6045,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 613,
     "i": 613
   },
   {
@@ -5440,6 +6054,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 614,
     "i": 614
   },
   {
@@ -5448,6 +6063,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 615,
     "i": 615
   },
   {
@@ -5456,6 +6072,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 616,
     "i": 616
   },
   {
@@ -5464,6 +6081,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 617,
     "i": 617
   },
   {
@@ -5472,6 +6090,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 618,
     "i": 618
   },
   {
@@ -5480,6 +6099,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 619,
     "i": 619
   },
   {
@@ -5488,6 +6108,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 620,
     "i": 620
   },
   {
@@ -5496,6 +6117,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 621,
     "i": 621
   },
   {
@@ -5504,6 +6126,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 622,
     "i": 622
   },
   {
@@ -5512,6 +6135,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 623,
     "i": 623
   },
   {
@@ -5520,6 +6144,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 624,
     "i": 624
   },
   {
@@ -5528,6 +6153,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 625,
     "i": 625
   },
   {
@@ -5536,6 +6162,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 626,
     "i": 626
   },
   {
@@ -5544,6 +6171,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 627,
     "i": 627
   },
   {
@@ -5552,6 +6180,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 628,
     "i": 628
   },
   {
@@ -5560,6 +6189,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 629,
     "i": 629
   },
   {
@@ -5568,6 +6198,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 630,
     "i": 630
   },
   {
@@ -5577,6 +6208,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 631,
     "i": 631
   },
   {
@@ -5586,6 +6218,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 632,
     "i": 632
   },
   {
@@ -5595,6 +6228,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 633,
     "i": 633
   },
   {
@@ -5603,6 +6237,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 634,
     "i": 634
   },
   {
@@ -5611,6 +6246,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 635,
     "i": 635
   },
   {
@@ -5619,6 +6255,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 636,
     "i": 636
   },
   {
@@ -5627,6 +6264,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 637,
     "i": 637
   },
   {
@@ -5635,6 +6273,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 638,
     "i": 638
   },
   {
@@ -5643,6 +6282,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 639,
     "i": 639
   },
   {
@@ -5651,6 +6291,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 640,
     "i": 640
   },
   {
@@ -5659,6 +6300,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 641,
     "i": 641
   },
   {
@@ -5667,6 +6309,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 642,
     "i": 642
   },
   {
@@ -5675,6 +6318,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 643,
     "i": 643
   },
   {
@@ -5683,6 +6327,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 644,
     "i": 644
   },
   {
@@ -5691,6 +6336,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 645,
     "i": 645
   },
   {
@@ -5699,6 +6345,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 646,
     "i": 646
   },
   {
@@ -5707,6 +6354,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 647,
     "i": 647
   },
   {
@@ -5715,6 +6363,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 648,
     "i": 648
   },
   {
@@ -5723,6 +6372,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 649,
     "i": 649
   },
   {
@@ -5731,6 +6381,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 650,
     "i": 650
   },
   {
@@ -5739,6 +6390,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 651,
     "i": 651
   },
   {
@@ -5747,6 +6399,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 652,
     "i": 652
   },
   {
@@ -5755,6 +6408,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 653,
     "i": 653
   },
   {
@@ -5763,6 +6417,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 654,
     "i": 654
   },
   {
@@ -5771,6 +6426,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 655,
     "i": 655
   },
   {
@@ -5779,6 +6435,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 656,
     "i": 656
   },
   {
@@ -5787,6 +6444,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 657,
     "i": 657
   },
   {
@@ -5795,6 +6453,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
+    "index": 658,
     "i": 658
   },
   {
@@ -5803,6 +6462,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
+    "index": 659,
     "i": 659
   },
   {
@@ -5811,6 +6471,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 660,
     "i": 660
   },
   {
@@ -5819,6 +6480,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 2,
+    "index": 661,
     "i": 661
   },
   {
@@ -5827,6 +6489,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 662,
     "i": 662
   },
   {
@@ -5835,6 +6498,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 663,
     "i": 663
   },
   {
@@ -5843,6 +6507,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 664,
     "i": 664
   },
   {
@@ -5851,6 +6516,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 665,
     "i": 665
   },
   {
@@ -5860,6 +6526,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 666,
     "i": 666
   },
   {
@@ -5868,6 +6535,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 667,
     "i": 667
   },
   {
@@ -5876,6 +6544,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 668,
     "i": 668
   },
   {
@@ -5884,6 +6553,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 669,
     "i": 669
   },
   {
@@ -5892,6 +6562,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 670,
     "i": 670
   },
   {
@@ -5900,6 +6571,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 671,
     "i": 671
   },
   {
@@ -5908,6 +6580,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 672,
     "i": 672
   },
   {
@@ -5916,6 +6589,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 673,
     "i": 673
   },
   {
@@ -5924,6 +6598,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 674,
     "i": 674
   },
   {
@@ -5932,6 +6607,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 675,
     "i": 675
   },
   {
@@ -5940,6 +6616,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 676,
     "i": 676
   },
   {
@@ -5948,6 +6625,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 677,
     "i": 677
   },
   {
@@ -5956,6 +6634,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 678,
     "i": 678
   },
   {
@@ -5964,6 +6643,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 679,
     "i": 679
   },
   {
@@ -5972,6 +6652,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 680,
     "i": 680
   },
   {
@@ -5980,6 +6661,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 681,
     "i": 681
   },
   {
@@ -5988,6 +6670,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 682,
     "i": 682
   },
   {
@@ -5996,6 +6679,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 683,
     "i": 683
   },
   {
@@ -6005,6 +6689,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 684,
     "i": 684
   },
   {
@@ -6014,6 +6699,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 685,
     "i": 685
   },
   {
@@ -6022,6 +6708,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 686,
     "i": 686
   },
   {
@@ -6030,6 +6717,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 687,
     "i": 687
   },
   {
@@ -6038,6 +6726,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 688,
     "i": 688
   },
   {
@@ -6046,6 +6735,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 689,
     "i": 689
   },
   {
@@ -6054,6 +6744,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 690,
     "i": 690
   },
   {
@@ -6062,6 +6753,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 691,
     "i": 691
   },
   {
@@ -6070,6 +6762,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 692,
     "i": 692
   },
   {
@@ -6078,6 +6771,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 693,
     "i": 693
   },
   {
@@ -6086,6 +6780,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 694,
     "i": 694
   },
   {
@@ -6094,6 +6789,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 695,
     "i": 695
   },
   {
@@ -6102,6 +6798,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 696,
     "i": 696
   },
   {
@@ -6110,6 +6807,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 697,
     "i": 697
   },
   {
@@ -6118,6 +6816,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 698,
     "i": 698
   },
   {
@@ -6126,6 +6825,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 699,
     "i": 699
   },
   {
@@ -6134,6 +6834,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 700,
     "i": 700
   },
   {
@@ -6142,6 +6843,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 701,
     "i": 701
   },
   {
@@ -6150,6 +6852,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
+    "index": 702,
     "i": 702
   },
   {
@@ -6158,6 +6861,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 703,
     "i": 703
   },
   {
@@ -6166,6 +6870,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 704,
     "i": 704
   },
   {
@@ -6174,6 +6879,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 705,
     "i": 705
   },
   {
@@ -6182,6 +6888,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 706,
     "i": 706
   },
   {
@@ -6190,6 +6897,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 707,
     "i": 707
   },
   {
@@ -6199,6 +6907,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 708,
     "i": 708
   },
   {
@@ -6207,6 +6916,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 709,
     "i": 709
   },
   {
@@ -6215,6 +6925,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 710,
     "i": 710
   },
   {
@@ -6223,6 +6934,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 711,
     "i": 711
   },
   {
@@ -6231,6 +6943,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 712,
     "i": 712
   },
   {
@@ -6239,6 +6952,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 713,
     "i": 713
   },
   {
@@ -6247,6 +6961,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 714,
     "i": 714
   },
   {
@@ -6255,6 +6970,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 715,
     "i": 715
   },
   {
@@ -6263,6 +6979,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 716,
     "i": 716
   },
   {
@@ -6271,6 +6988,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 717,
     "i": 717
   },
   {
@@ -6279,6 +6997,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 718,
     "i": 718
   },
   {
@@ -6287,6 +7006,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 719,
     "i": 719
   },
   {
@@ -6295,6 +7015,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 720,
     "i": 720
   },
   {
@@ -6303,6 +7024,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 721,
     "i": 721
   },
   {
@@ -6311,6 +7033,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 722,
     "i": 722
   },
   {
@@ -6319,6 +7042,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 723,
     "i": 723
   },
   {
@@ -6327,6 +7051,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 724,
     "i": 724
   },
   {
@@ -6335,6 +7060,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 725,
     "i": 725
   },
   {
@@ -6343,6 +7069,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 726,
     "i": 726
   },
   {
@@ -6351,6 +7078,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 727,
     "i": 727
   },
   {
@@ -6359,6 +7087,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 728,
     "i": 728
   },
   {
@@ -6367,6 +7096,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 729,
     "i": 729
   },
   {
@@ -6375,6 +7105,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 730,
     "i": 730
   },
   {
@@ -6383,6 +7114,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 731,
     "i": 731
   },
   {
@@ -6391,6 +7123,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 732,
     "i": 732
   },
   {
@@ -6399,6 +7132,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 733,
     "i": 733
   },
   {
@@ -6407,6 +7141,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 734,
     "i": 734
   },
   {
@@ -6415,6 +7150,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 735,
     "i": 735
   },
   {
@@ -6423,6 +7159,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 736,
     "i": 736
   },
   {
@@ -6431,6 +7168,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 737,
     "i": 737
   },
   {
@@ -6439,6 +7177,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 738,
     "i": 738
   },
   {
@@ -6447,6 +7186,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 739,
     "i": 739
   },
   {
@@ -6455,6 +7195,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 740,
     "i": 740
   },
   {
@@ -6463,6 +7204,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
+    "index": 741,
     "i": 741
   },
   {
@@ -6471,6 +7213,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 742,
     "i": 742
   },
   {
@@ -6479,6 +7222,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 743,
     "i": 743
   },
   {
@@ -6487,6 +7231,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 744,
     "i": 744
   },
   {
@@ -6495,6 +7240,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 745,
     "i": 745
   },
   {
@@ -6503,6 +7249,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 746,
     "i": 746
   },
   {
@@ -6511,6 +7258,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
+    "index": 747,
     "i": 747
   },
   {
@@ -6519,6 +7267,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 748,
     "i": 748
   },
   {
@@ -6527,6 +7276,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 749,
     "i": 749
   },
   {
@@ -6535,6 +7285,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 750,
     "i": 750
   },
   {
@@ -6543,6 +7294,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 751,
     "i": 751
   },
   {
@@ -6551,6 +7303,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 752,
     "i": 752
   },
   {
@@ -6559,6 +7312,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 753,
     "i": 753
   },
   {
@@ -6567,6 +7321,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
+    "index": 754,
     "i": 754
   },
   {
@@ -6576,6 +7331,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 755,
     "i": 755
   },
   {
@@ -6585,6 +7341,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 756,
     "i": 756
   },
   {
@@ -6593,6 +7350,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
+    "index": 757,
     "i": 757
   },
   {
@@ -6601,6 +7359,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 758,
     "i": 758
   },
   {
@@ -6609,6 +7368,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 759,
     "i": 759
   },
   {
@@ -6617,6 +7377,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 760,
     "i": 760
   },
   {
@@ -6625,6 +7386,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 761,
     "i": 761
   },
   {
@@ -6633,6 +7395,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 762,
     "i": 762
   },
   {
@@ -6641,6 +7404,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 763,
     "i": 763
   },
   {
@@ -6649,6 +7413,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 764,
     "i": 764
   },
   {
@@ -6657,6 +7422,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 765,
     "i": 765
   },
   {
@@ -6665,6 +7431,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 766,
     "i": 766
   },
   {
@@ -6673,6 +7440,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 767,
     "i": 767
   },
   {
@@ -6682,6 +7450,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 768,
     "i": 768
   },
   {
@@ -6690,6 +7459,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 769,
     "i": 769
   },
   {
@@ -6698,6 +7468,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 770,
     "i": 770
   },
   {
@@ -6706,6 +7477,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 771,
     "i": 771
   },
   {
@@ -6714,6 +7486,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 772,
     "i": 772
   },
   {
@@ -6722,6 +7495,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 773,
     "i": 773
   },
   {
@@ -6730,6 +7504,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 774,
     "i": 774
   },
   {
@@ -6738,6 +7513,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 775,
     "i": 775
   },
   {
@@ -6746,6 +7522,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 776,
     "i": 776
   },
   {
@@ -6754,6 +7531,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 777,
     "i": 777
   },
   {
@@ -6762,6 +7540,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 778,
     "i": 778
   },
   {
@@ -6770,6 +7549,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 779,
     "i": 779
   },
   {
@@ -6778,6 +7558,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 780,
     "i": 780
   },
   {
@@ -6786,6 +7567,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 781,
     "i": 781
   },
   {
@@ -6794,6 +7576,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
+    "index": 782,
     "i": 782
   },
   {
@@ -6802,6 +7585,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 783,
     "i": 783
   },
   {
@@ -6810,6 +7594,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 784,
     "i": 784
   },
   {
@@ -6818,6 +7603,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 785,
     "i": 785
   },
   {
@@ -6826,6 +7612,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 786,
     "i": 786
   },
   {
@@ -6834,6 +7621,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 787,
     "i": 787
   },
   {
@@ -6842,6 +7630,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 788,
     "i": 788
   },
   {
@@ -6850,6 +7639,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 789,
     "i": 789
   },
   {
@@ -6858,6 +7648,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 790,
     "i": 790
   },
   {
@@ -6866,6 +7657,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 791,
     "i": 791
   },
   {
@@ -6874,6 +7666,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
+    "index": 792,
     "i": 792
   },
   {
@@ -6882,6 +7675,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 793,
     "i": 793
   },
   {
@@ -6890,6 +7684,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 794,
     "i": 794
   },
   {
@@ -6898,6 +7693,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 795,
     "i": 795
   },
   {
@@ -6906,6 +7702,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 796,
     "i": 796
   },
   {
@@ -6914,6 +7711,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 797,
     "i": 797
   },
   {
@@ -6922,6 +7720,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 798,
     "i": 798
   },
   {
@@ -6930,6 +7729,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
+    "index": 799,
     "i": 799
   },
   {
@@ -6938,6 +7738,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 800,
     "i": 800
   },
   {
@@ -6946,6 +7747,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 801,
     "i": 801
   },
   {
@@ -6954,6 +7756,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 802,
     "i": 802
   },
   {
@@ -6962,6 +7765,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
+    "index": 803,
     "i": 803
   },
   {
@@ -6971,6 +7775,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 804,
     "i": 804
   },
   {
@@ -6980,6 +7785,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 805,
     "i": 805
   },
   {
@@ -6989,6 +7795,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 806,
     "i": 806
   },
   {
@@ -6998,6 +7805,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 807,
     "i": 807
   },
   {
@@ -7008,6 +7816,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 808,
     "i": 808
   },
   {
@@ -7021,6 +7830,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 3,
+    "index": 809,
     "i": 809
   },
   {
@@ -7035,6 +7845,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 3,
+    "index": 810,
     "i": 810
   },
   {
@@ -7049,6 +7860,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 4,
+    "index": 811,
     "i": 811
   },
   {
@@ -7066,6 +7878,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 812,
     "i": 812
   },
   {
@@ -7085,6 +7898,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 813,
     "i": 813
   },
   {
@@ -7104,6 +7918,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 814,
     "i": 814
   },
   {
@@ -7123,6 +7938,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 815,
     "i": 815
   },
   {
@@ -7134,6 +7950,7 @@ var items = [
     "seas": 2,
     "sclMlt": 0.56,
     "sitOff": 0.6,
+    "index": 816,
     "i": 816
   },
   {
@@ -7148,6 +7965,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 817,
     "i": 817
   },
   {
@@ -7161,6 +7979,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 818,
     "i": 818
   },
   {
@@ -7175,6 +7994,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 819,
     "i": 819
   },
   {
@@ -7188,6 +8008,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 820,
     "i": 820
   },
   {
@@ -7202,6 +8023,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 821,
     "i": 821
   },
   {
@@ -7216,6 +8038,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 822,
     "i": 822
   },
   {
@@ -7230,6 +8053,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 823,
     "i": 823
   },
   {
@@ -7244,6 +8068,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 824,
     "i": 824
   },
   {
@@ -7257,6 +8082,7 @@ var items = [
     "sitOff": 0.7,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 825,
     "i": 825
   },
   {
@@ -7270,6 +8096,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 826,
     "i": 826
   },
   {
@@ -7284,6 +8111,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
+    "index": 827,
     "i": 827
   },
   {
@@ -7297,6 +8125,7 @@ var items = [
     "sitOff": 1.8,
     "yOff": -2,
     "scl": 1.2,
+    "index": 828,
     "i": 828
   },
   {
@@ -7313,6 +8142,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -2,
     "xOff": -4,
+    "index": 829,
     "i": 829
   },
   {
@@ -7330,6 +8160,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -2,
     "xOff": -4,
+    "index": 830,
     "i": 830
   },
   {
@@ -7346,6 +8177,7 @@ var items = [
     "sitOffZ": -0.93,
     "yOff": -1.3,
     "xRot": 3.141592653589793,
+    "index": 831,
     "i": 831
   },
   {
@@ -7361,6 +8193,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -1.5,
     "xRot": 3.141592653589793,
+    "index": 832,
     "i": 832
   },
   {
@@ -7377,6 +8210,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -1.5,
     "xRot": 3.141592653589793,
+    "index": 833,
     "i": 833
   },
   {
@@ -7392,6 +8226,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -2,
     "xRot": 3.141592653589793,
+    "index": 834,
     "i": 834
   },
   {
@@ -7408,6 +8243,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
+    "index": 835,
     "i": 835
   },
   {
@@ -7425,6 +8261,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
+    "index": 836,
     "i": 836
   },
   {
@@ -7441,6 +8278,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
+    "index": 837,
     "i": 837
   },
   {
@@ -7458,6 +8296,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
+    "index": 838,
     "i": 838
   },
   {
@@ -7472,6 +8311,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -2.4,
     "yOff": -2,
+    "index": 839,
     "i": 839
   },
   {
@@ -7485,6 +8325,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 840,
     "i": 840
   },
   {
@@ -7498,6 +8339,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 841,
     "i": 841
   },
   {
@@ -7511,6 +8353,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 842,
     "i": 842
   },
   {
@@ -7525,6 +8368,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 843,
     "i": 843
   },
   {
@@ -7538,6 +8382,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 844,
     "i": 844
   },
   {
@@ -7551,6 +8396,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 845,
     "i": 845
   },
   {
@@ -7564,6 +8410,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 846,
     "i": 846
   },
   {
@@ -7577,6 +8424,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 847,
     "i": 847
   },
   {
@@ -7591,6 +8439,7 @@ var items = [
     "scl": 1.4,
     "xOff": 1.5,
     "yOff": -1.2,
+    "index": 848,
     "i": 848
   },
   {
@@ -7606,6 +8455,7 @@ var items = [
     "scl": 1.4,
     "xOff": 1.5,
     "yOff": -1.2,
+    "index": 849,
     "i": 849
   },
   {
@@ -7619,6 +8469,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 0.9,
     "yOff": -2.1,
+    "index": 850,
     "i": 850
   },
   {
@@ -7633,6 +8484,7 @@ var items = [
     "xOff": 1.5,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 851,
     "i": 851
   },
   {
@@ -7646,6 +8498,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 852,
     "i": 852
   },
   {
@@ -7659,6 +8512,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 853,
     "i": 853
   },
   {
@@ -7675,6 +8529,7 @@ var items = [
     "yOff": -3.2,
     "frames": 2,
     "frameT": 400,
+    "index": 854,
     "i": 854
   },
   {
@@ -7690,6 +8545,7 @@ var items = [
     "xOff": 1.2,
     "scl": 1.1,
     "yOff": -1.2,
+    "index": 855,
     "i": 855
   },
   {
@@ -7705,6 +8561,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
+    "index": 856,
     "i": 856
   },
   {
@@ -7719,6 +8576,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
+    "index": 857,
     "i": 857
   },
   {
@@ -7733,6 +8591,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
+    "index": 858,
     "i": 858
   },
   {
@@ -7747,6 +8606,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
+    "index": 859,
     "i": 859
   },
   {
@@ -7764,6 +8624,7 @@ var items = [
     "yOff": -1,
     "xOff": -0.5,
     "rarity": 3,
+    "index": 860,
     "i": 860
   },
   {
@@ -7780,6 +8641,7 @@ var items = [
     "xOff": 0.5,
     "scl": 4,
     "xRot": 3.141592653589793,
+    "index": 861,
     "i": 861
   },
   {
@@ -7796,6 +8658,7 @@ var items = [
     "xOff": -1.5,
     "scl": 3.5,
     "xRot": 3.141592653589793,
+    "index": 862,
     "i": 862
   },
   {
@@ -7805,6 +8668,7 @@ var items = [
     "id": 79,
     "seas": 2,
     "rarity": 4,
+    "index": 863,
     "i": 863
   },
   {
@@ -7817,6 +8681,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 7,
     "rarity": 5,
+    "index": 864,
     "i": 864
   },
   {
@@ -7829,6 +8694,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 5,
     "rarity": 5,
+    "index": 865,
     "i": 865
   },
   {
@@ -7841,6 +8707,7 @@ var items = [
     "frames": 2,
     "frameT": 250,
     "keyW": "Sprays",
+    "index": 866,
     "i": 866
   },
   {
@@ -7853,6 +8720,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
+    "index": 867,
     "i": 867
   },
   {
@@ -7870,6 +8738,7 @@ var items = [
     "sxOff": 0,
     "syOff": -0.05,
     "szOff": -0.1,
+    "index": 868,
     "i": 868
   },
   {
@@ -7884,6 +8753,7 @@ var items = [
     "yOff": -2.5,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 869,
     "i": 869
   },
   {
@@ -7897,6 +8767,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
+    "index": 870,
     "i": 870
   },
   {
@@ -7909,6 +8780,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
+    "index": 871,
     "i": 871
   },
   {
@@ -7921,6 +8793,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
+    "index": 872,
     "i": 872
   },
   {
@@ -7933,6 +8806,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
+    "index": 873,
     "i": 873
   },
   {
@@ -7945,6 +8819,7 @@ var items = [
     "frames": 2,
     "frameT": 1200,
     "keyW": "Sprays",
+    "index": 874,
     "i": 874
   },
   {
@@ -7957,6 +8832,7 @@ var items = [
     "frames": 2,
     "frameT": 400,
     "keyW": "Sprays",
+    "index": 875,
     "i": 875
   },
   {
@@ -7968,6 +8844,7 @@ var items = [
     "opacity": 0.8,
     "movT": -0.0025,
     "keyW": "Sprays",
+    "index": 876,
     "i": 876
   },
   {
@@ -7978,6 +8855,7 @@ var items = [
     "seas": 2,
     "opacity": 0.75,
     "keyW": "Sprays",
+    "index": 877,
     "i": 877
   },
   {
@@ -7990,6 +8868,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
+    "index": 878,
     "i": 878
   },
   {
@@ -8002,6 +8881,7 @@ var items = [
     "frames": 2,
     "frameT": 350,
     "keyW": "Sprays",
+    "index": 879,
     "i": 879
   },
   {
@@ -8014,6 +8894,7 @@ var items = [
     "frames": 4,
     "frameT": 200,
     "keyW": "Sprays",
+    "index": 880,
     "i": 880
   },
   {
@@ -8026,6 +8907,7 @@ var items = [
     "weapon": 1,
     "rarity": 5,
     "seas": 2,
+    "index": 881,
     "i": 881
   },
   {
@@ -8038,6 +8920,7 @@ var items = [
     "weapon": 2,
     "rarity": 5,
     "seas": 2,
+    "index": 882,
     "i": 882
   },
   {
@@ -8050,6 +8933,7 @@ var items = [
     "weapon": 4,
     "rarity": 5,
     "seas": 2,
+    "index": 883,
     "i": 883
   },
   {
@@ -8062,6 +8946,7 @@ var items = [
     "weapon": 5,
     "rarity": 5,
     "seas": 2,
+    "index": 884,
     "i": 884
   },
   {
@@ -8078,13 +8963,14 @@ var items = [
     "yOff": -3.2,
     "frames": 2,
     "frameT": 400,
+    "index": 885,
     "i": 885
   },
   {
     "name": "Nova Pump",
+    "limT": "Debug",
+    "lore": "First Weapon Remodel Placeholder",
     "mid": 0,
-    "blocked": true,
-    "noSale": true,
     "midT": 38,
     "scl": 0.9,
     "mScl": 1,
@@ -8093,6 +8979,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
+    "index": 886,
     "i": 886
   },
   {
@@ -8106,6 +8993,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 3,
+    "index": 887,
     "i": 887
   },
   {
@@ -8121,6 +9009,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 4,
+    "index": 888,
     "i": 888
   },
   {
@@ -8134,6 +9023,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 889,
     "i": 889
   },
   {
@@ -8147,6 +9037,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 890,
     "i": 890
   },
   {
@@ -8161,6 +9052,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 3,
+    "index": 891,
     "i": 891
   },
   {
@@ -8175,6 +9067,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 4,
+    "index": 892,
     "i": 892
   },
   {
@@ -8188,6 +9081,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
+    "index": 893,
     "i": 893
   },
   {
@@ -8201,6 +9095,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
+    "index": 894,
     "i": 894
   },
   {
@@ -8214,6 +9109,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
+    "index": 895,
     "i": 895
   },
   {
@@ -8227,6 +9123,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
+    "index": 896,
     "i": 896
   },
   {
@@ -8240,6 +9137,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 897,
     "i": 897
   },
   {
@@ -8253,6 +9151,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 898,
     "i": 898
   },
   {
@@ -8266,6 +9165,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 899,
     "i": 899
   },
   {
@@ -8279,6 +9179,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 900,
     "i": 900
   },
   {
@@ -8292,6 +9193,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 901,
     "i": 901
   },
   {
@@ -8305,6 +9207,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 902,
     "i": 902
   },
   {
@@ -8318,6 +9221,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 903,
     "i": 903
   },
   {
@@ -8331,6 +9235,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 904,
     "i": 904
   },
   {
@@ -8344,6 +9249,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 905,
     "i": 905
   },
   {
@@ -8357,6 +9263,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 906,
     "i": 906
   },
   {
@@ -8370,6 +9277,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 907,
     "i": 907
   },
   {
@@ -8383,6 +9291,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 908,
     "i": 908
   },
   {
@@ -8396,6 +9305,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 909,
     "i": 909
   },
   {
@@ -8409,6 +9319,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 910,
     "i": 910
   },
   {
@@ -8422,6 +9333,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 911,
     "i": 911
   },
   {
@@ -8435,6 +9347,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 912,
     "i": 912
   },
   {
@@ -8448,6 +9361,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 913,
     "i": 913
   },
   {
@@ -8461,6 +9375,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 914,
     "i": 914
   },
   {
@@ -8474,6 +9389,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 915,
     "i": 915
   },
   {
@@ -8487,6 +9403,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 916,
     "i": 916
   },
   {
@@ -8500,6 +9417,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 917,
     "i": 917
   },
   {
@@ -8513,6 +9431,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 918,
     "i": 918
   },
   {
@@ -8526,6 +9445,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 919,
     "i": 919
   },
   {
@@ -8539,6 +9459,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
+    "index": 920,
     "i": 920
   },
   {
@@ -8552,6 +9473,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 921,
     "i": 921
   },
   {
@@ -8565,6 +9487,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 922,
     "i": 922
   },
   {
@@ -8578,6 +9501,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
+    "index": 923,
     "i": 923
   },
   {
@@ -8587,6 +9511,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
+    "index": 924,
     "i": 924
   },
   {
@@ -8596,6 +9521,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 925,
     "i": 925
   },
   {
@@ -8606,6 +9532,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "seas": 2,
+    "index": 926,
     "i": 926
   },
   {
@@ -8616,6 +9543,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
+    "index": 927,
     "i": 927
   },
   {
@@ -8625,6 +9553,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
+    "index": 928,
     "i": 928
   },
   {
@@ -8635,6 +9564,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 2,
+    "index": 929,
     "i": 929
   },
   {
@@ -8645,6 +9575,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
+    "index": 930,
     "i": 930
   },
   {
@@ -8657,6 +9588,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 5,
+    "index": 931,
     "i": 931
   },
   {
@@ -8665,6 +9597,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
+    "index": 932,
     "i": 932
   },
   {
@@ -8673,6 +9606,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 933,
     "i": 933
   },
   {
@@ -8681,6 +9615,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 934,
     "i": 934
   },
   {
@@ -8689,6 +9624,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 935,
     "i": 935
   },
   {
@@ -8699,6 +9635,7 @@ var items = [
     "glow": true,
     "rarity": 4,
     "seas": 2,
+    "index": 936,
     "i": 936
   },
   {
@@ -8708,6 +9645,7 @@ var items = [
     "glow": true,
     "rarity": 3,
     "seas": 2,
+    "index": 937,
     "i": 937
   },
   {
@@ -8718,6 +9656,7 @@ var items = [
     "glow": true,
     "rarity": 4,
     "seas": 2,
+    "index": 938,
     "i": 938
   },
   {
@@ -8736,6 +9675,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 939,
     "i": 939
   },
   {
@@ -8756,6 +9696,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 940,
     "i": 940
   },
   {
@@ -8764,6 +9705,7 @@ var items = [
     "seas": 2,
     "weapon": 1,
     "rarity": 3,
+    "index": 941,
     "i": 941
   },
   {
@@ -8779,6 +9721,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 6,
+    "index": 942,
     "i": 942
   },
   {
@@ -8793,6 +9736,7 @@ var items = [
     "sclMlt": 0.76,
     "yOff": -2.5,
     "sxOff": 0.15,
+    "index": 943,
     "i": 943
   },
   {
@@ -8806,6 +9750,7 @@ var items = [
     "sclMlt": 0.54,
     "sitOff": 0.9,
     "scl": 1.6,
+    "index": 944,
     "i": 944
   },
   {
@@ -8818,6 +9763,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 5,
+    "index": 945,
     "i": 945
   },
   {
@@ -8828,6 +9774,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 946,
     "i": 946
   },
   {
@@ -8837,6 +9784,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 947,
     "i": 947
   },
   {
@@ -8847,6 +9795,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 948,
     "i": 948
   },
   {
@@ -8856,6 +9805,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 949,
     "i": 949
   },
   {
@@ -8866,6 +9816,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 950,
     "i": 950
   },
   {
@@ -8876,6 +9827,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
+    "index": 951,
     "i": 951
   },
   {
@@ -8886,6 +9838,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
+    "index": 952,
     "i": 952
   },
   {
@@ -8896,6 +9849,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
+    "index": 953,
     "i": 953
   },
   {
@@ -8906,6 +9860,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 954,
     "i": 954
   },
   {
@@ -8916,6 +9871,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 955,
     "i": 955
   },
   {
@@ -8930,6 +9886,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
+    "index": 956,
     "i": 956
   },
   {
@@ -8940,6 +9897,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 2,
+    "index": 957,
     "i": 957
   },
   {
@@ -8949,6 +9907,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 958,
     "i": 958
   },
   {
@@ -8964,6 +9923,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 959,
     "i": 959
   },
   {
@@ -8974,6 +9934,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 960,
     "i": 960
   },
   {
@@ -8984,6 +9945,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 961,
     "i": 961
   },
   {
@@ -8994,6 +9956,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 962,
     "i": 962
   },
   {
@@ -9003,6 +9966,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 963,
     "i": 963
   },
   {
@@ -9013,6 +9977,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 964,
     "i": 964
   },
   {
@@ -9028,6 +9993,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 965,
     "i": 965
   },
   {
@@ -9037,6 +10003,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
+    "index": 966,
     "i": 966
   },
   {
@@ -9046,6 +10013,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 967,
     "i": 967
   },
   {
@@ -9060,6 +10028,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
+    "index": 968,
     "i": 968
   },
   {
@@ -9068,6 +10037,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 969,
     "i": 969
   },
   {
@@ -9082,6 +10052,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
+    "index": 970,
     "i": 970
   },
   {
@@ -9097,6 +10068,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
+    "index": 971,
     "i": 971
   },
   {
@@ -9106,6 +10078,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 972,
     "i": 972
   },
   {
@@ -9115,6 +10088,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 973,
     "i": 973
   },
   {
@@ -9124,6 +10098,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 974,
     "i": 974
   },
   {
@@ -9134,6 +10109,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 975,
     "i": 975
   },
   {
@@ -9144,6 +10120,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 976,
     "i": 976
   },
   {
@@ -9153,6 +10130,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 977,
     "i": 977
   },
   {
@@ -9162,6 +10140,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 978,
     "i": 978
   },
   {
@@ -9171,6 +10150,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 979,
     "i": 979
   },
   {
@@ -9180,6 +10160,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 980,
     "i": 980
   },
   {
@@ -9196,6 +10177,7 @@ var items = [
     "yOff": 0,
     "rarity": 4,
     "seas": 2,
+    "index": 981,
     "i": 981
   },
   {
@@ -9206,6 +10188,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 982,
     "i": 982
   },
   {
@@ -9215,6 +10198,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 983,
     "i": 983
   },
   {
@@ -9225,6 +10209,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 984,
     "i": 984
   },
   {
@@ -9240,6 +10225,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "seas": 2,
+    "index": 985,
     "i": 985
   },
   {
@@ -9249,6 +10235,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
+    "index": 986,
     "i": 986
   },
   {
@@ -9257,6 +10244,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
+    "index": 987,
     "i": 987
   },
   {
@@ -9267,6 +10255,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 988,
     "i": 988
   },
   {
@@ -9276,6 +10265,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 989,
     "i": 989
   },
   {
@@ -9285,6 +10275,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 990,
     "i": 990
   },
   {
@@ -9295,6 +10286,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 2,
+    "index": 991,
     "i": 991
   },
   {
@@ -9304,6 +10296,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
+    "index": 992,
     "i": 992
   },
   {
@@ -9314,6 +10307,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 993,
     "i": 993
   },
   {
@@ -9325,6 +10319,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 994,
     "i": 994
   },
   {
@@ -9343,6 +10338,7 @@ var items = [
     "seas": 2,
     "rAnim": 0.0015,
     "rAnimA": "x",
+    "index": 995,
     "i": 995
   },
   {
@@ -9361,6 +10357,7 @@ var items = [
     "yOff": 0,
     "rarity": 5,
     "seas": 2,
+    "index": 996,
     "i": 996
   },
   {
@@ -9379,6 +10376,7 @@ var items = [
     "xOff": -2,
     "yOff": -3,
     "movT": 0.0003,
+    "index": 997,
     "i": 997
   },
   {
@@ -9392,6 +10390,7 @@ var items = [
     "seas": 2,
     "weapon": 1,
     "rarity": 5,
+    "index": 998,
     "i": 998
   },
   {
@@ -9403,6 +10402,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
+    "index": 999,
     "i": 999
   },
   {
@@ -9413,6 +10413,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 1000,
     "i": 1000
   },
   {
@@ -9423,6 +10424,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 1001,
     "i": 1001
   },
   {
@@ -9433,6 +10435,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
+    "index": 1002,
     "i": 1002
   },
   {
@@ -9441,6 +10444,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
+    "index": 1003,
     "i": 1003
   },
   {
@@ -9452,6 +10456,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
+    "index": 1004,
     "i": 1004
   },
   {
@@ -9464,10 +10469,11 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 4,
+    "index": 1005,
     "i": 1005
   },
   {
-    "name": "Pride",
+    "name": "Verb",
     "id": 141,
     "creator": "FlowerKid",
     "weapon": 1,
@@ -9476,6 +10482,7 @@ var items = [
     "minGlo": 0.35,
     "pulsT": 0.0015,
     "seas": 2,
+    "index": 1006,
     "i": 1006
   },
   {
@@ -9487,6 +10494,7 @@ var items = [
     "rarity": 1,
     "seas": 2,
     "opacity": 0.75,
+    "index": 1007,
     "i": 1007
   },
   {
@@ -9498,6 +10506,7 @@ var items = [
     "rarity": 2,
     "seas": 2,
     "opacity": 0.75,
+    "index": 1008,
     "i": 1008
   },
   {
@@ -9511,6 +10520,7 @@ var items = [
     "opacity": 0.85,
     "frames": 2,
     "frameT": 550,
+    "index": 1009,
     "i": 1009
   },
   {
@@ -9525,6 +10535,7 @@ var items = [
     "sclMlt": 0.76,
     "xOff": -0.5,
     "yOff": -2,
+    "index": 1010,
     "i": 1010
   },
   {
@@ -9538,6 +10549,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.55,
     "scl": 1.6,
+    "index": 1011,
     "i": 1011
   },
   {
@@ -9552,6 +10564,7 @@ var items = [
     "sitOff": 0.8,
     "xOff": 0.8,
     "scl": 1.6,
+    "index": 1012,
     "i": 1012
   },
   {
@@ -9566,6 +10579,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1,
+    "index": 1013,
     "i": 1013
   },
   {
@@ -9580,6 +10594,7 @@ var items = [
     "sitOff": 1.6,
     "sitOffZ": 1,
     "scl": 1.6,
+    "index": 1014,
     "i": 1014
   },
   {
@@ -9594,6 +10609,7 @@ var items = [
     "sitOff": 1,
     "scl": 1.6,
     "yOff": -2,
+    "index": 1015,
     "i": 1015
   },
   {
@@ -9607,6 +10623,7 @@ var items = [
     "sclMlt": 0.7,
     "sitOff": 0.79,
     "scl": 1.6,
+    "index": 1016,
     "i": 1016
   },
   {
@@ -9624,6 +10641,7 @@ var items = [
     "xOff": -1,
     "yOff": -0.8,
     "xRot": 3.141592653589793,
+    "index": 1017,
     "i": 1017
   },
   {
@@ -9639,6 +10657,7 @@ var items = [
     "sitOff": -1.4,
     "sitOffZ": -0.63,
     "xOff": -2,
+    "index": 1018,
     "i": 1018
   },
   {
@@ -9655,6 +10674,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -0.7,
     "xRot": 3.141592653589793,
+    "index": 1019,
     "i": 1019
   },
   {
@@ -9672,6 +10692,7 @@ var items = [
     "xOff": -0.4,
     "yOff": -0.6,
     "xRot": 3.141592653589793,
+    "index": 1020,
     "i": 1020
   },
   {
@@ -9688,6 +10709,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
+    "index": 1021,
     "i": 1021
   },
   {
@@ -9704,6 +10726,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
+    "index": 1022,
     "i": 1022
   },
   {
@@ -9722,6 +10745,7 @@ var items = [
     "seas": 2,
     "rAnim": 0.0015,
     "rAnimA": "x",
+    "index": 1023,
     "i": 1023
   },
   {
@@ -9735,6 +10759,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 4,
+    "index": 1024,
     "i": 1024
   },
   {
@@ -9744,6 +10769,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 1025,
     "i": 1025
   },
   {
@@ -9753,6 +10779,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 1026,
     "i": 1026
   },
   {
@@ -9762,6 +10789,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 1027,
     "i": 1027
   },
   {
@@ -9771,6 +10799,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
+    "index": 1028,
     "i": 1028
   },
   {
@@ -9780,6 +10809,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 1029,
     "i": 1029
   },
   {
@@ -9789,6 +10819,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 1030,
     "i": 1030
   },
   {
@@ -9799,6 +10830,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
+    "index": 1031,
     "i": 1031
   },
   {
@@ -9811,6 +10843,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
+    "index": 1032,
     "i": 1032
   },
   {
@@ -9820,6 +10853,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 1033,
     "i": 1033
   },
   {
@@ -9829,6 +10863,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 1034,
     "i": 1034
   },
   {
@@ -9838,6 +10873,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 1035,
     "i": 1035
   },
   {
@@ -9847,6 +10883,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
+    "index": 1036,
     "i": 1036
   },
   {
@@ -9856,6 +10893,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 1037,
     "i": 1037
   },
   {
@@ -9865,6 +10903,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 1038,
     "i": 1038
   },
   {
@@ -9874,6 +10913,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
+    "index": 1039,
     "i": 1039
   },
   {
@@ -9885,6 +10925,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
+    "index": 1040,
     "i": 1040
   },
   {
@@ -9895,6 +10936,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
+    "index": 1041,
     "i": 1041
   },
   {
@@ -9907,6 +10949,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
+    "index": 1042,
     "i": 1042
   },
   {
@@ -9916,6 +10959,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 1043,
     "i": 1043
   },
   {
@@ -9925,6 +10969,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 1044,
     "i": 1044
   },
   {
@@ -9934,6 +10979,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 1045,
     "i": 1045
   },
   {
@@ -9943,6 +10989,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
+    "index": 1046,
     "i": 1046
   },
   {
@@ -9952,6 +10999,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 1047,
     "i": 1047
   },
   {
@@ -9961,6 +11009,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 1048,
     "i": 1048
   },
   {
@@ -9970,6 +11019,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
+    "index": 1049,
     "i": 1049
   },
   {
@@ -9980,6 +11030,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
+    "index": 1050,
     "i": 1050
   },
   {
@@ -9994,6 +11045,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
+    "index": 1051,
     "i": 1051
   },
   {
@@ -10008,6 +11060,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
+    "index": 1052,
     "i": 1052
   },
   {
@@ -10022,6 +11075,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
+    "index": 1053,
     "i": 1053
   },
   {
@@ -10036,6 +11090,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
+    "index": 1054,
     "i": 1054
   },
   {
@@ -10050,6 +11105,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
+    "index": 1055,
     "i": 1055
   },
   {
@@ -10065,6 +11121,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
+    "index": 1056,
     "i": 1056
   },
   {
@@ -10081,6 +11138,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
+    "index": 1057,
     "i": 1057
   },
   {
@@ -10090,6 +11148,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 1058,
     "i": 1058
   },
   {
@@ -10099,6 +11158,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 1059,
     "i": 1059
   },
   {
@@ -10108,6 +11168,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 1060,
     "i": 1060
   },
   {
@@ -10117,6 +11178,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 1061,
     "i": 1061
   },
   {
@@ -10126,6 +11188,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
+    "index": 1062,
     "i": 1062
   },
   {
@@ -10135,6 +11198,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
+    "index": 1063,
     "i": 1063
   },
   {
@@ -10155,6 +11219,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1064,
     "i": 1064
   },
   {
@@ -10172,6 +11237,7 @@ var items = [
     "yOff": 0,
     "rarity": 5,
     "seas": 2,
+    "index": 1065,
     "i": 1065
   },
   {
@@ -10189,6 +11255,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
+    "index": 1066,
     "i": 1066
   },
   {
@@ -10204,6 +11271,7 @@ var items = [
     "scl": 1.6,
     "rAnim": -0.0022,
     "rAnimA": "y",
+    "index": 1067,
     "i": 1067
   },
   {
@@ -10221,6 +11289,7 @@ var items = [
     "rAnimA": "y",
     "trans": true,
     "glow": true,
+    "index": 1068,
     "i": 1068
   },
   {
@@ -10232,6 +11301,7 @@ var items = [
     "rarity": 6,
     "rgb": true,
     "rgbS": 0.5,
+    "index": 1069,
     "i": 1069
   },
   {
@@ -10243,6 +11313,7 @@ var items = [
     "movT": 0.0015,
     "rarity": 5,
     "seas": 2,
+    "index": 1070,
     "i": 1070
   },
   {
@@ -10255,6 +11326,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1071,
     "i": 1071
   },
   {
@@ -10267,6 +11339,7 @@ var items = [
     "weapon": 15,
     "rarity": 5,
     "seas": 3,
+    "index": 1072,
     "i": 1072
   },
   {
@@ -10279,6 +11352,7 @@ var items = [
     "weapon": 14,
     "rarity": 5,
     "seas": 3,
+    "index": 1073,
     "i": 1073
   },
   {
@@ -10291,6 +11365,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
+    "index": 1074,
     "i": 1074
   },
   {
@@ -10303,6 +11378,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
+    "index": 1075,
     "i": 1075
   },
   {
@@ -10315,6 +11391,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
+    "index": 1076,
     "i": 1076
   },
   {
@@ -10324,6 +11401,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
+    "index": 1077,
     "i": 1077
   },
   {
@@ -10335,6 +11413,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1078,
     "i": 1078
   },
   {
@@ -10345,6 +11424,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1079,
     "i": 1079
   },
   {
@@ -10354,6 +11434,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1080,
     "i": 1080
   },
   {
@@ -10364,6 +11445,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1081,
     "i": 1081
   },
   {
@@ -10373,6 +11455,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1082,
     "i": 1082
   },
   {
@@ -10382,6 +11465,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1083,
     "i": 1083
   },
   {
@@ -10393,6 +11477,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1084,
     "i": 1084
   },
   {
@@ -10402,6 +11487,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1085,
     "i": 1085
   },
   {
@@ -10412,6 +11498,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
+    "index": 1086,
     "i": 1086
   },
   {
@@ -10422,6 +11509,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1087,
     "i": 1087
   },
   {
@@ -10432,6 +11520,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1088,
     "i": 1088
   },
   {
@@ -10443,6 +11532,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1089,
     "i": 1089
   },
   {
@@ -10452,6 +11542,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1090,
     "i": 1090
   },
   {
@@ -10462,6 +11553,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1091,
     "i": 1091
   },
   {
@@ -10472,6 +11564,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1092,
     "i": 1092
   },
   {
@@ -10483,6 +11576,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1093,
     "i": 1093
   },
   {
@@ -10492,6 +11586,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
+    "index": 1094,
     "i": 1094
   },
   {
@@ -10500,6 +11595,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1095,
     "i": 1095
   },
   {
@@ -10508,6 +11604,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1096,
     "i": 1096
   },
   {
@@ -10516,6 +11613,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1097,
     "i": 1097
   },
   {
@@ -10524,6 +11622,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1098,
     "i": 1098
   },
   {
@@ -10532,6 +11631,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1099,
     "i": 1099
   },
   {
@@ -10540,6 +11640,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1100,
     "i": 1100
   },
   {
@@ -10548,6 +11649,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1101,
     "i": 1101
   },
   {
@@ -10556,6 +11658,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1102,
     "i": 1102
   },
   {
@@ -10564,6 +11667,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1103,
     "i": 1103
   },
   {
@@ -10572,6 +11676,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1104,
     "i": 1104
   },
   {
@@ -10580,6 +11685,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1105,
     "i": 1105
   },
   {
@@ -10588,6 +11694,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1106,
     "i": 1106
   },
   {
@@ -10596,6 +11703,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1107,
     "i": 1107
   },
   {
@@ -10604,6 +11712,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1108,
     "i": 1108
   },
   {
@@ -10612,6 +11721,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1109,
     "i": 1109
   },
   {
@@ -10620,6 +11730,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1110,
     "i": 1110
   },
   {
@@ -10628,6 +11739,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1111,
     "i": 1111
   },
   {
@@ -10636,6 +11748,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1112,
     "i": 1112
   },
   {
@@ -10644,6 +11757,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1113,
     "i": 1113
   },
   {
@@ -10652,6 +11766,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1114,
     "i": 1114
   },
   {
@@ -10660,6 +11775,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1115,
     "i": 1115
   },
   {
@@ -10668,6 +11784,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1116,
     "i": 1116
   },
   {
@@ -10676,6 +11793,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1117,
     "i": 1117
   },
   {
@@ -10684,6 +11802,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1118,
     "i": 1118
   },
   {
@@ -10692,6 +11811,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1119,
     "i": 1119
   },
   {
@@ -10700,6 +11820,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1120,
     "i": 1120
   },
   {
@@ -10708,6 +11829,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1121,
     "i": 1121
   },
   {
@@ -10716,6 +11838,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1122,
     "i": 1122
   },
   {
@@ -10724,6 +11847,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1123,
     "i": 1123
   },
   {
@@ -10732,6 +11856,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1124,
     "i": 1124
   },
   {
@@ -10740,6 +11865,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
+    "index": 1125,
     "i": 1125
   },
   {
@@ -10748,6 +11874,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1126,
     "i": 1126
   },
   {
@@ -10756,6 +11883,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1127,
     "i": 1127
   },
   {
@@ -10764,6 +11892,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
+    "index": 1128,
     "i": 1128
   },
   {
@@ -10772,6 +11901,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
+    "index": 1129,
     "i": 1129
   },
   {
@@ -10781,6 +11911,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "seas": 3,
+    "index": 1130,
     "i": 1130
   },
   {
@@ -10791,6 +11922,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1131,
     "i": 1131
   },
   {
@@ -10801,6 +11933,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1132,
     "i": 1132
   },
   {
@@ -10810,6 +11943,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 3,
+    "index": 1133,
     "i": 1133
   },
   {
@@ -10819,6 +11953,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1134,
     "i": 1134
   },
   {
@@ -10828,6 +11963,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1135,
     "i": 1135
   },
   {
@@ -10838,6 +11974,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1136,
     "i": 1136
   },
   {
@@ -10848,6 +11985,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1137,
     "i": 1137
   },
   {
@@ -10859,6 +11997,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1138,
     "i": 1138
   },
   {
@@ -10869,6 +12008,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1139,
     "i": 1139
   },
   {
@@ -10879,6 +12019,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
+    "index": 1140,
     "i": 1140
   },
   {
@@ -10888,6 +12029,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1141,
     "i": 1141
   },
   {
@@ -10898,6 +12040,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1142,
     "i": 1142
   },
   {
@@ -10909,6 +12052,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
+    "index": 1143,
     "i": 1143
   },
   {
@@ -10919,6 +12063,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1144,
     "i": 1144
   },
   {
@@ -10929,6 +12074,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1145,
     "i": 1145
   },
   {
@@ -10939,6 +12085,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1146,
     "i": 1146
   },
   {
@@ -10949,6 +12096,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1147,
     "i": 1147
   },
   {
@@ -10959,6 +12107,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1148,
     "i": 1148
   },
   {
@@ -10970,6 +12119,7 @@ var items = [
     "frames": 4,
     "frameT": 100,
     "seas": 3,
+    "index": 1149,
     "i": 1149
   },
   {
@@ -10980,6 +12130,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1150,
     "i": 1150
   },
   {
@@ -10990,6 +12141,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1151,
     "i": 1151
   },
   {
@@ -11001,6 +12153,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1152,
     "i": 1152
   },
   {
@@ -11011,6 +12164,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
+    "index": 1153,
     "i": 1153
   },
   {
@@ -11021,6 +12175,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1154,
     "i": 1154
   },
   {
@@ -11033,6 +12188,7 @@ var items = [
     "frames": 2,
     "frameT": 250,
     "seas": 3,
+    "index": 1155,
     "i": 1155
   },
   {
@@ -11044,6 +12200,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1156,
     "i": 1156
   },
   {
@@ -11052,6 +12209,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1157,
     "i": 1157
   },
   {
@@ -11060,6 +12218,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1158,
     "i": 1158
   },
   {
@@ -11068,6 +12227,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1159,
     "i": 1159
   },
   {
@@ -11076,6 +12236,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1160,
     "i": 1160
   },
   {
@@ -11084,6 +12245,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1161,
     "i": 1161
   },
   {
@@ -11092,6 +12254,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1162,
     "i": 1162
   },
   {
@@ -11100,6 +12263,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1163,
     "i": 1163
   },
   {
@@ -11108,6 +12272,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1164,
     "i": 1164
   },
   {
@@ -11116,6 +12281,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1165,
     "i": 1165
   },
   {
@@ -11124,6 +12290,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1166,
     "i": 1166
   },
   {
@@ -11132,6 +12299,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1167,
     "i": 1167
   },
   {
@@ -11140,6 +12308,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1168,
     "i": 1168
   },
   {
@@ -11148,6 +12317,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1169,
     "i": 1169
   },
   {
@@ -11156,6 +12326,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1170,
     "i": 1170
   },
   {
@@ -11164,6 +12335,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1171,
     "i": 1171
   },
   {
@@ -11172,6 +12344,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1172,
     "i": 1172
   },
   {
@@ -11180,6 +12353,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1173,
     "i": 1173
   },
   {
@@ -11188,6 +12362,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1174,
     "i": 1174
   },
   {
@@ -11196,6 +12371,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1175,
     "i": 1175
   },
   {
@@ -11204,6 +12380,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1176,
     "i": 1176
   },
   {
@@ -11212,6 +12389,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1177,
     "i": 1177
   },
   {
@@ -11220,6 +12398,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1178,
     "i": 1178
   },
   {
@@ -11228,6 +12407,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1179,
     "i": 1179
   },
   {
@@ -11236,6 +12416,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1180,
     "i": 1180
   },
   {
@@ -11244,6 +12425,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1181,
     "i": 1181
   },
   {
@@ -11252,6 +12434,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1182,
     "i": 1182
   },
   {
@@ -11260,6 +12443,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1183,
     "i": 1183
   },
   {
@@ -11268,6 +12452,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1184,
     "i": 1184
   },
   {
@@ -11276,6 +12461,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1185,
     "i": 1185
   },
   {
@@ -11284,6 +12470,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1186,
     "i": 1186
   },
   {
@@ -11292,6 +12479,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1187,
     "i": 1187
   },
   {
@@ -11300,6 +12488,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1188,
     "i": 1188
   },
   {
@@ -11308,6 +12497,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1189,
     "i": 1189
   },
   {
@@ -11316,6 +12506,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
+    "index": 1190,
     "i": 1190
   },
   {
@@ -11324,6 +12515,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
+    "index": 1191,
     "i": 1191
   },
   {
@@ -11333,6 +12525,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1192,
     "i": 1192
   },
   {
@@ -11343,6 +12536,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1193,
     "i": 1193
   },
   {
@@ -11353,6 +12547,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1194,
     "i": 1194
   },
   {
@@ -11363,6 +12558,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1195,
     "i": 1195
   },
   {
@@ -11373,6 +12569,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1196,
     "i": 1196
   },
   {
@@ -11383,6 +12580,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1197,
     "i": 1197
   },
   {
@@ -11393,6 +12591,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
+    "index": 1198,
     "i": 1198
   },
   {
@@ -11403,6 +12602,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1199,
     "i": 1199
   },
   {
@@ -11413,6 +12613,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1200,
     "i": 1200
   },
   {
@@ -11422,6 +12623,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1201,
     "i": 1201
   },
   {
@@ -11431,6 +12633,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1202,
     "i": 1202
   },
   {
@@ -11441,6 +12644,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1203,
     "i": 1203
   },
   {
@@ -11451,6 +12655,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
+    "index": 1204,
     "i": 1204
   },
   {
@@ -11461,6 +12666,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1205,
     "i": 1205
   },
   {
@@ -11471,6 +12677,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1206,
     "i": 1206
   },
   {
@@ -11481,6 +12688,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1207,
     "i": 1207
   },
   {
@@ -11491,6 +12699,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1208,
     "i": 1208
   },
   {
@@ -11501,6 +12710,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1209,
     "i": 1209
   },
   {
@@ -11511,6 +12721,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1210,
     "i": 1210
   },
   {
@@ -11521,6 +12732,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1211,
     "i": 1211
   },
   {
@@ -11532,6 +12744,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
+    "index": 1212,
     "i": 1212
   },
   {
@@ -11542,6 +12755,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1213,
     "i": 1213
   },
   {
@@ -11552,6 +12766,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1214,
     "i": 1214
   },
   {
@@ -11562,6 +12777,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1215,
     "i": 1215
   },
   {
@@ -11570,6 +12786,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1216,
     "i": 1216
   },
   {
@@ -11578,6 +12795,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1217,
     "i": 1217
   },
   {
@@ -11586,6 +12804,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1218,
     "i": 1218
   },
   {
@@ -11594,6 +12813,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1219,
     "i": 1219
   },
   {
@@ -11602,6 +12822,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1220,
     "i": 1220
   },
   {
@@ -11610,6 +12831,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1221,
     "i": 1221
   },
   {
@@ -11618,6 +12840,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1222,
     "i": 1222
   },
   {
@@ -11626,6 +12849,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1223,
     "i": 1223
   },
   {
@@ -11634,6 +12858,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1224,
     "i": 1224
   },
   {
@@ -11642,6 +12867,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1225,
     "i": 1225
   },
   {
@@ -11650,6 +12876,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1226,
     "i": 1226
   },
   {
@@ -11658,6 +12885,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1227,
     "i": 1227
   },
   {
@@ -11666,6 +12894,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1228,
     "i": 1228
   },
   {
@@ -11674,6 +12903,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1229,
     "i": 1229
   },
   {
@@ -11682,6 +12912,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1230,
     "i": 1230
   },
   {
@@ -11690,6 +12921,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1231,
     "i": 1231
   },
   {
@@ -11698,6 +12930,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1232,
     "i": 1232
   },
   {
@@ -11706,6 +12939,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1233,
     "i": 1233
   },
   {
@@ -11714,6 +12948,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1234,
     "i": 1234
   },
   {
@@ -11722,6 +12957,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1235,
     "i": 1235
   },
   {
@@ -11730,6 +12966,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1236,
     "i": 1236
   },
   {
@@ -11738,6 +12975,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1237,
     "i": 1237
   },
   {
@@ -11746,6 +12984,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1238,
     "i": 1238
   },
   {
@@ -11754,6 +12993,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1239,
     "i": 1239
   },
   {
@@ -11762,6 +13002,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1240,
     "i": 1240
   },
   {
@@ -11770,6 +13011,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1241,
     "i": 1241
   },
   {
@@ -11778,6 +13020,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1242,
     "i": 1242
   },
   {
@@ -11786,6 +13029,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1243,
     "i": 1243
   },
   {
@@ -11794,6 +13038,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1244,
     "i": 1244
   },
   {
@@ -11802,6 +13047,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1245,
     "i": 1245
   },
   {
@@ -11810,6 +13056,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1246,
     "i": 1246
   },
   {
@@ -11818,6 +13065,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1247,
     "i": 1247
   },
   {
@@ -11826,6 +13074,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1248,
     "i": 1248
   },
   {
@@ -11834,6 +13083,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
+    "index": 1249,
     "i": 1249
   },
   {
@@ -11842,6 +13092,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
+    "index": 1250,
     "i": 1250
   },
   {
@@ -11858,6 +13109,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1251,
     "i": 1251
   },
   {
@@ -11873,6 +13125,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1252,
     "i": 1252
   },
   {
@@ -11889,6 +13142,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1253,
     "i": 1253
   },
   {
@@ -11904,6 +13158,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1254,
     "i": 1254
   },
   {
@@ -11918,6 +13173,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
+    "index": 1255,
     "i": 1255
   },
   {
@@ -11932,6 +13188,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
+    "index": 1256,
     "i": 1256
   },
   {
@@ -11947,6 +13204,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1257,
     "i": 1257
   },
   {
@@ -11962,6 +13220,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1258,
     "i": 1258
   },
   {
@@ -11977,6 +13236,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1259,
     "i": 1259
   },
   {
@@ -11992,6 +13252,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1260,
     "i": 1260
   },
   {
@@ -12007,6 +13268,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1261,
     "i": 1261
   },
   {
@@ -12022,6 +13284,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1262,
     "i": 1262
   },
   {
@@ -12037,6 +13300,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1263,
     "i": 1263
   },
   {
@@ -12050,6 +13314,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1264,
     "i": 1264
   },
   {
@@ -12063,6 +13328,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1265,
     "i": 1265
   },
   {
@@ -12076,6 +13342,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1266,
     "i": 1266
   },
   {
@@ -12089,6 +13356,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1267,
     "i": 1267
   },
   {
@@ -12102,6 +13370,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1268,
     "i": 1268
   },
   {
@@ -12115,6 +13384,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1269,
     "i": 1269
   },
   {
@@ -12128,6 +13398,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1270,
     "i": 1270
   },
   {
@@ -12141,6 +13412,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1271,
     "i": 1271
   },
   {
@@ -12154,6 +13426,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1272,
     "i": 1272
   },
   {
@@ -12167,6 +13440,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1273,
     "i": 1273
   },
   {
@@ -12180,6 +13454,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1274,
     "i": 1274
   },
   {
@@ -12193,6 +13468,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1275,
     "i": 1275
   },
   {
@@ -12206,6 +13482,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1276,
     "i": 1276
   },
   {
@@ -12219,6 +13496,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1277,
     "i": 1277
   },
   {
@@ -12232,6 +13510,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1278,
     "i": 1278
   },
   {
@@ -12245,6 +13524,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1279,
     "i": 1279
   },
   {
@@ -12258,6 +13538,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1280,
     "i": 1280
   },
   {
@@ -12271,6 +13552,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1281,
     "i": 1281
   },
   {
@@ -12284,6 +13566,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1282,
     "i": 1282
   },
   {
@@ -12297,6 +13580,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1283,
     "i": 1283
   },
   {
@@ -12310,6 +13594,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1284,
     "i": 1284
   },
   {
@@ -12323,6 +13608,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1285,
     "i": 1285
   },
   {
@@ -12336,6 +13622,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1286,
     "i": 1286
   },
   {
@@ -12349,6 +13636,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1287,
     "i": 1287
   },
   {
@@ -12362,6 +13650,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1288,
     "i": 1288
   },
   {
@@ -12375,6 +13664,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1289,
     "i": 1289
   },
   {
@@ -12388,6 +13678,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1290,
     "i": 1290
   },
   {
@@ -12401,6 +13692,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1291,
     "i": 1291
   },
   {
@@ -12414,6 +13706,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1292,
     "i": 1292
   },
   {
@@ -12427,6 +13720,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1293,
     "i": 1293
   },
   {
@@ -12440,6 +13734,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
+    "index": 1294,
     "i": 1294
   },
   {
@@ -12453,6 +13748,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1295,
     "i": 1295
   },
   {
@@ -12466,6 +13762,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1296,
     "i": 1296
   },
   {
@@ -12479,6 +13776,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
+    "index": 1297,
     "i": 1297
   },
   {
@@ -12492,6 +13790,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
+    "index": 1298,
     "i": 1298
   },
   {
@@ -12501,6 +13800,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 3,
+    "index": 1299,
     "i": 1299
   },
   {
@@ -12511,6 +13811,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1300,
     "i": 1300
   },
   {
@@ -12521,6 +13822,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1301,
     "i": 1301
   },
   {
@@ -12530,6 +13832,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1302,
     "i": 1302
   },
   {
@@ -12541,6 +13844,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1303,
     "i": 1303
   },
   {
@@ -12552,6 +13856,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1304,
     "i": 1304
   },
   {
@@ -12562,6 +13867,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1305,
     "i": 1305
   },
   {
@@ -12571,6 +13877,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1306,
     "i": 1306
   },
   {
@@ -12581,6 +13888,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1307,
     "i": 1307
   },
   {
@@ -12591,6 +13899,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1308,
     "i": 1308
   },
   {
@@ -12602,6 +13911,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1309,
     "i": 1309
   },
   {
@@ -12613,6 +13923,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1310,
     "i": 1310
   },
   {
@@ -12621,6 +13932,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1311,
     "i": 1311
   },
   {
@@ -12629,6 +13941,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1312,
     "i": 1312
   },
   {
@@ -12637,6 +13950,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1313,
     "i": 1313
   },
   {
@@ -12645,6 +13959,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1314,
     "i": 1314
   },
   {
@@ -12653,6 +13968,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1315,
     "i": 1315
   },
   {
@@ -12661,6 +13977,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1316,
     "i": 1316
   },
   {
@@ -12669,6 +13986,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1317,
     "i": 1317
   },
   {
@@ -12677,6 +13995,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1318,
     "i": 1318
   },
   {
@@ -12685,6 +14004,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1319,
     "i": 1319
   },
   {
@@ -12693,6 +14013,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1320,
     "i": 1320
   },
   {
@@ -12701,6 +14022,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1321,
     "i": 1321
   },
   {
@@ -12709,6 +14031,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1322,
     "i": 1322
   },
   {
@@ -12717,6 +14040,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1323,
     "i": 1323
   },
   {
@@ -12725,6 +14049,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1324,
     "i": 1324
   },
   {
@@ -12733,6 +14058,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1325,
     "i": 1325
   },
   {
@@ -12741,6 +14067,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1326,
     "i": 1326
   },
   {
@@ -12749,6 +14076,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1327,
     "i": 1327
   },
   {
@@ -12757,6 +14085,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1328,
     "i": 1328
   },
   {
@@ -12765,6 +14094,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1329,
     "i": 1329
   },
   {
@@ -12773,6 +14103,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1330,
     "i": 1330
   },
   {
@@ -12781,6 +14112,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1331,
     "i": 1331
   },
   {
@@ -12789,6 +14121,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1332,
     "i": 1332
   },
   {
@@ -12797,6 +14130,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1333,
     "i": 1333
   },
   {
@@ -12805,6 +14139,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1334,
     "i": 1334
   },
   {
@@ -12813,6 +14148,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1335,
     "i": 1335
   },
   {
@@ -12821,6 +14157,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1336,
     "i": 1336
   },
   {
@@ -12829,6 +14166,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1337,
     "i": 1337
   },
   {
@@ -12837,6 +14175,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1338,
     "i": 1338
   },
   {
@@ -12845,6 +14184,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1339,
     "i": 1339
   },
   {
@@ -12853,6 +14193,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1340,
     "i": 1340
   },
   {
@@ -12861,6 +14202,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1341,
     "i": 1341
   },
   {
@@ -12869,6 +14211,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1342,
     "i": 1342
   },
   {
@@ -12877,6 +14220,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1343,
     "i": 1343
   },
   {
@@ -12885,6 +14229,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
+    "index": 1344,
     "i": 1344
   },
   {
@@ -12893,6 +14238,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
+    "index": 1345,
     "i": 1345
   },
   {
@@ -12905,6 +14251,7 @@ var items = [
     "frameT": 250,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1346,
     "i": 1346
   },
   {
@@ -12917,6 +14264,7 @@ var items = [
     "frameT": 450,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1347,
     "i": 1347
   },
   {
@@ -12927,6 +14275,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1348,
     "i": 1348
   },
   {
@@ -12937,6 +14286,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1349,
     "i": 1349
   },
   {
@@ -12947,6 +14297,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1350,
     "i": 1350
   },
   {
@@ -12957,6 +14308,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1351,
     "i": 1351
   },
   {
@@ -12967,6 +14319,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1352,
     "i": 1352
   },
   {
@@ -12977,6 +14330,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1353,
     "i": 1353
   },
   {
@@ -12987,6 +14341,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1354,
     "i": 1354
   },
   {
@@ -12997,6 +14352,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1355,
     "i": 1355
   },
   {
@@ -13007,6 +14363,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1356,
     "i": 1356
   },
   {
@@ -13017,6 +14374,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
+    "index": 1357,
     "i": 1357
   },
   {
@@ -13028,6 +14386,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1358,
     "i": 1358
   },
   {
@@ -13039,6 +14398,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1359,
     "i": 1359
   },
   {
@@ -13050,6 +14410,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1360,
     "i": 1360
   },
   {
@@ -13061,6 +14422,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1361,
     "i": 1361
   },
   {
@@ -13072,6 +14434,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1362,
     "i": 1362
   },
   {
@@ -13080,6 +14443,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1363,
     "i": 1363
   },
   {
@@ -13088,6 +14452,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1364,
     "i": 1364
   },
   {
@@ -13096,6 +14461,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1365,
     "i": 1365
   },
   {
@@ -13104,6 +14470,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1366,
     "i": 1366
   },
   {
@@ -13112,6 +14479,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1367,
     "i": 1367
   },
   {
@@ -13120,6 +14488,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1368,
     "i": 1368
   },
   {
@@ -13128,6 +14497,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1369,
     "i": 1369
   },
   {
@@ -13136,6 +14506,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1370,
     "i": 1370
   },
   {
@@ -13144,6 +14515,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1371,
     "i": 1371
   },
   {
@@ -13152,6 +14524,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1372,
     "i": 1372
   },
   {
@@ -13160,6 +14533,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1373,
     "i": 1373
   },
   {
@@ -13168,6 +14542,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1374,
     "i": 1374
   },
   {
@@ -13176,6 +14551,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1375,
     "i": 1375
   },
   {
@@ -13184,6 +14560,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1376,
     "i": 1376
   },
   {
@@ -13192,6 +14569,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1377,
     "i": 1377
   },
   {
@@ -13200,6 +14578,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1378,
     "i": 1378
   },
   {
@@ -13208,6 +14587,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1379,
     "i": 1379
   },
   {
@@ -13216,6 +14596,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1380,
     "i": 1380
   },
   {
@@ -13224,6 +14605,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1381,
     "i": 1381
   },
   {
@@ -13232,6 +14614,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1382,
     "i": 1382
   },
   {
@@ -13240,6 +14623,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1383,
     "i": 1383
   },
   {
@@ -13248,6 +14632,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1384,
     "i": 1384
   },
   {
@@ -13256,6 +14641,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1385,
     "i": 1385
   },
   {
@@ -13264,6 +14650,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1386,
     "i": 1386
   },
   {
@@ -13272,6 +14659,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1387,
     "i": 1387
   },
   {
@@ -13280,6 +14668,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1388,
     "i": 1388
   },
   {
@@ -13288,6 +14677,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1389,
     "i": 1389
   },
   {
@@ -13296,6 +14686,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1390,
     "i": 1390
   },
   {
@@ -13304,6 +14695,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1391,
     "i": 1391
   },
   {
@@ -13312,6 +14704,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1392,
     "i": 1392
   },
   {
@@ -13320,6 +14713,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1393,
     "i": 1393
   },
   {
@@ -13328,6 +14722,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1394,
     "i": 1394
   },
   {
@@ -13336,6 +14731,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1395,
     "i": 1395
   },
   {
@@ -13344,6 +14740,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
+    "index": 1396,
     "i": 1396
   },
   {
@@ -13352,6 +14749,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
+    "index": 1397,
     "i": 1397
   },
   {
@@ -13364,6 +14762,7 @@ var items = [
     "yOff": -2,
     "keyW": "Melee",
     "seas": 3,
+    "index": 1398,
     "i": 1398
   },
   {
@@ -13379,6 +14778,7 @@ var items = [
     "xOff": -1,
     "keyW": "Melee",
     "seas": 3,
+    "index": 1399,
     "i": 1399
   },
   {
@@ -13394,6 +14794,7 @@ var items = [
     "pulsT": 0.1,
     "keyW": "Melee",
     "seas": 3,
+    "index": 1400,
     "i": 1400
   },
   {
@@ -13410,6 +14811,7 @@ var items = [
     "type": 3,
     "keyW": "Melee",
     "seas": 3,
+    "index": 1401,
     "i": 1401
   },
   {
@@ -13425,16 +14827,19 @@ var items = [
     "pulsT": 0.0015,
     "seas": 3,
     "snd": true,
+    "index": 1402,
     "i": 1402
   },
   {
     "name": "Disintegrator",
     "mid": 0,
     "glow": true,
+    "limited": true,
     "pulsT": 0.03,
     "seas": 3,
     "weapon": 2,
     "rarity": 6,
+    "index": 1403,
     "i": 1403
   },
   {
@@ -13445,12 +14850,14 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1404,
     "i": 1404
   },
   {
     "name": "Anti-Matter",
     "mid": 4,
     "glow": true,
+    "limited": true,
     "pulsT": 0.0015,
     "scl": 0.9,
     "mScl": 1,
@@ -13460,6 +14867,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 6,
+    "index": 1405,
     "i": 1405
   },
   {
@@ -13474,6 +14882,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
+    "index": 1406,
     "i": 1406
   },
   {
@@ -13485,6 +14894,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1407,
     "i": 1407
   },
   {
@@ -13497,6 +14907,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1408,
     "i": 1408
   },
   {
@@ -13508,6 +14919,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1409,
     "i": 1409
   },
   {
@@ -13520,6 +14932,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1410,
     "i": 1410
   },
   {
@@ -13532,6 +14945,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1411,
     "i": 1411
   },
   {
@@ -13545,6 +14959,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1412,
     "i": 1412
   },
   {
@@ -13557,6 +14972,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1413,
     "i": 1413
   },
   {
@@ -13570,6 +14986,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1414,
     "i": 1414
   },
   {
@@ -13583,6 +15000,7 @@ var items = [
     "xOff": 1,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1415,
     "i": 1415
   },
   {
@@ -13597,6 +15015,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1416,
     "i": 1416
   },
   {
@@ -13609,6 +15028,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1417,
     "i": 1417
   },
   {
@@ -13620,6 +15040,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1418,
     "i": 1418
   },
   {
@@ -13632,6 +15053,7 @@ var items = [
     "sclMlt": 0.7,
     "sitOff": 0.71,
     "seas": 3,
+    "index": 1419,
     "i": 1419
   },
   {
@@ -13644,6 +15066,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1420,
     "i": 1420
   },
   {
@@ -13657,6 +15080,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1421,
     "i": 1421
   },
   {
@@ -13670,6 +15094,7 @@ var items = [
     "yOff": -4,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1422,
     "i": 1422
   },
   {
@@ -13682,6 +15107,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1423,
     "i": 1423
   },
   {
@@ -13695,6 +15121,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1424,
     "i": 1424
   },
   {
@@ -13709,6 +15136,7 @@ var items = [
     "rAnim": -0.004,
     "rAnimA": "y",
     "seas": 3,
+    "index": 1425,
     "i": 1425
   },
   {
@@ -13721,6 +15149,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1426,
     "i": 1426
   },
   {
@@ -13734,6 +15163,7 @@ var items = [
     "rAnim": -0.0016,
     "rAnimA": "y",
     "seas": 3,
+    "index": 1427,
     "i": 1427
   },
   {
@@ -13749,6 +15179,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 1.05,
     "seas": 3,
+    "index": 1428,
     "i": 1428
   },
   {
@@ -13761,6 +15192,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1429,
     "i": 1429
   },
   {
@@ -13772,6 +15204,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1430,
     "i": 1430
   },
   {
@@ -13783,6 +15216,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1431,
     "i": 1431
   },
   {
@@ -13796,6 +15230,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1432,
     "i": 1432
   },
   {
@@ -13809,6 +15244,7 @@ var items = [
     "xOff": 1,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1433,
     "i": 1433
   },
   {
@@ -13821,6 +15257,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1434,
     "i": 1434
   },
   {
@@ -13834,6 +15271,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1435,
     "i": 1435
   },
   {
@@ -13845,6 +15283,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1436,
     "i": 1436
   },
   {
@@ -13857,6 +15296,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1437,
     "i": 1437
   },
   {
@@ -13872,6 +15312,7 @@ var items = [
     "yOff": -2,
     "sitOff": 1,
     "seas": 3,
+    "index": 1438,
     "i": 1438
   },
   {
@@ -13884,6 +15325,7 @@ var items = [
     "yOff": -1,
     "sitOff": 1,
     "seas": 3,
+    "index": 1439,
     "i": 1439
   },
   {
@@ -13897,6 +15339,7 @@ var items = [
     "yOff": -1,
     "sitOff": 1,
     "seas": 3,
+    "index": 1440,
     "i": 1440
   },
   {
@@ -13909,6 +15352,7 @@ var items = [
     "yOff": -1,
     "sitOff": 0.9,
     "seas": 3,
+    "index": 1441,
     "i": 1441
   },
   {
@@ -13922,6 +15366,7 @@ var items = [
     "sitOff": 0.9,
     "xOff": 0.5,
     "seas": 3,
+    "index": 1442,
     "i": 1442
   },
   {
@@ -13934,6 +15379,7 @@ var items = [
     "sclMlt": 0.56,
     "sitOff": 0.75,
     "seas": 3,
+    "index": 1443,
     "i": 1443
   },
   {
@@ -13947,6 +15393,7 @@ var items = [
     "spnScl": 1.2,
     "sitOff": 0.62,
     "seas": 3,
+    "index": 1444,
     "i": 1444
   },
   {
@@ -13961,6 +15408,7 @@ var items = [
     "spnScl": 1.2,
     "sitOff": 0.62,
     "seas": 3,
+    "index": 1445,
     "i": 1445
   },
   {
@@ -13973,6 +15421,7 @@ var items = [
     "sclMlt": 0.6,
     "sitOff": 0.71,
     "seas": 3,
+    "index": 1446,
     "i": 1446
   },
   {
@@ -13985,6 +15434,7 @@ var items = [
     "sclMlt": 0.56,
     "sitOff": 0.75,
     "seas": 3,
+    "index": 1447,
     "i": 1447
   },
   {
@@ -13997,6 +15447,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.9,
     "seas": 3,
+    "index": 1448,
     "i": 1448
   },
   {
@@ -14010,6 +15461,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.9,
     "seas": 3,
+    "index": 1449,
     "i": 1449
   },
   {
@@ -14024,6 +15476,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.9,
     "seas": 3,
+    "index": 1450,
     "i": 1450
   },
   {
@@ -14038,6 +15491,7 @@ var items = [
     "xOff": 3,
     "sitOff": 0.9,
     "seas": 3,
+    "index": 1451,
     "i": 1451
   },
   {
@@ -14051,6 +15505,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
+    "index": 1452,
     "i": 1452
   },
   {
@@ -14066,6 +15521,7 @@ var items = [
     "yOff": -1,
     "sitOff": 0.75,
     "seas": 3,
+    "index": 1453,
     "i": 1453
   },
   {
@@ -14079,6 +15535,7 @@ var items = [
     "xOff": -1.5,
     "yOff": -0.5,
     "seas": 3,
+    "index": 1454,
     "i": 1454
   },
   {
@@ -14092,6 +15549,7 @@ var items = [
     "sitOff": 0.8,
     "yOff": -1,
     "seas": 3,
+    "index": 1455,
     "i": 1455
   },
   {
@@ -14105,6 +15563,7 @@ var items = [
     "xOff": -1,
     "yOff": -1,
     "seas": 3,
+    "index": 1456,
     "i": 1456
   },
   {
@@ -14117,6 +15576,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.7,
     "seas": 3,
+    "index": 1457,
     "i": 1457
   },
   {
@@ -14129,6 +15589,7 @@ var items = [
     "sitOff": 0.7,
     "yOff": -1,
     "seas": 3,
+    "index": 1458,
     "i": 1458
   },
   {
@@ -14140,6 +15601,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1459,
     "i": 1459
   },
   {
@@ -14151,6 +15613,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1460,
     "i": 1460
   },
   {
@@ -14162,6 +15625,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1461,
     "i": 1461
   },
   {
@@ -14173,6 +15637,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1462,
     "i": 1462
   },
   {
@@ -14185,6 +15650,7 @@ var items = [
     "sitOff": -1.3,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1463,
     "i": 1463
   },
   {
@@ -14201,6 +15667,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1464,
     "i": 1464
   },
   {
@@ -14214,6 +15681,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.65,
     "seas": 3,
+    "index": 1465,
     "i": 1465
   },
   {
@@ -14229,6 +15697,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.65,
     "seas": 3,
+    "index": 1466,
     "i": 1466
   },
   {
@@ -14245,6 +15714,7 @@ var items = [
     "sitOff": -0.1,
     "sitOffZ": -0.65,
     "seas": 3,
+    "index": 1467,
     "i": 1467
   },
   {
@@ -14258,6 +15728,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.65,
     "seas": 3,
+    "index": 1468,
     "i": 1468
   },
   {
@@ -14276,6 +15747,7 @@ var items = [
     "sitOff": -0.75,
     "sitOffZ": -0.75,
     "seas": 3,
+    "index": 1469,
     "i": 1469
   },
   {
@@ -14292,6 +15764,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1470,
     "i": 1470
   },
   {
@@ -14308,6 +15781,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1471,
     "i": 1471
   },
   {
@@ -14323,6 +15797,7 @@ var items = [
     "sitOff": -0.85,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1472,
     "i": 1472
   },
   {
@@ -14338,6 +15813,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1473,
     "i": 1473
   },
   {
@@ -14352,6 +15828,7 @@ var items = [
     "sitOffZ": -0.6,
     "xOff": -2,
     "seas": 3,
+    "index": 1474,
     "i": 1474
   },
   {
@@ -14367,6 +15844,7 @@ var items = [
     "sitOffZ": -0.6,
     "xOff": -2,
     "seas": 3,
+    "index": 1475,
     "i": 1475
   },
   {
@@ -14384,6 +15862,7 @@ var items = [
     "sitOffZ": -0.6,
     "trans": true,
     "seas": 3,
+    "index": 1476,
     "i": 1476
   },
   {
@@ -14398,6 +15877,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1477,
     "i": 1477
   },
   {
@@ -14413,6 +15893,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1478,
     "i": 1478
   },
   {
@@ -14429,6 +15910,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1479,
     "i": 1479
   },
   {
@@ -14445,6 +15927,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1480,
     "i": 1480
   },
   {
@@ -14463,6 +15946,7 @@ var items = [
     "sitOff": -1,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1481,
     "i": 1481
   },
   {
@@ -14477,6 +15961,7 @@ var items = [
     "xOff": -2,
     "spnScl": 2.6,
     "seas": 3,
+    "index": 1482,
     "i": 1482
   },
   {
@@ -14488,8 +15973,8 @@ var items = [
     "type": 2,
     "keyW": "Body",
     "xRot": 2,
-    "xOff": -1.5,
-    "yOff": -0.5,
+    "xOff": -1,
+    "yOff": 0.5,
     "spnScl": 2.6,
     "sclMlt": 2.4,
     "sitOff": -0.5,
@@ -14498,6 +15983,8 @@ var items = [
     "noSale": true,
     "illicit": true,
     "funds": 100,
+    "reqT": "1 Year Account Age",
+    "index": 1483,
     "i": 1483
   },
   {
@@ -14510,8 +15997,8 @@ var items = [
     "type": 2,
     "keyW": "Body",
     "xRot": 2,
-    "xOff": -1.5,
-    "yOff": -0.5,
+    "xOff": -1,
+    "yOff": 0.5,
     "spnScl": 2.6,
     "sclMlt": 2.4,
     "sitOff": -0.5,
@@ -14520,6 +16007,8 @@ var items = [
     "noSale": true,
     "illicit": true,
     "funds": 100,
+    "reqT": "2 Year Account Age",
+    "index": 1484,
     "i": 1484
   },
   {
@@ -14537,6 +16026,7 @@ var items = [
     "sitOff": -0.65,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1485,
     "i": 1485
   },
   {
@@ -14555,6 +16045,7 @@ var items = [
     "sitOff": -0.65,
     "sitOffZ": -0.6,
     "seas": 3,
+    "index": 1486,
     "i": 1486
   },
   {
@@ -14569,6 +16060,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.7,
     "seas": 3,
+    "index": 1487,
     "i": 1487
   },
   {
@@ -14584,6 +16076,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.7,
     "seas": 3,
+    "index": 1488,
     "i": 1488
   },
   {
@@ -14598,6 +16091,7 @@ var items = [
     "sitOff": -1.4,
     "sitOffZ": -0.7,
     "seas": 3,
+    "index": 1489,
     "i": 1489
   },
   {
@@ -14614,6 +16108,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 1.05,
     "seas": 3,
+    "index": 1490,
     "i": 1490
   },
   {
@@ -14626,6 +16121,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
+    "index": 1491,
     "i": 1491
   },
   {
@@ -14638,6 +16134,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
+    "index": 1492,
     "i": 1492
   },
   {
@@ -14647,6 +16144,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1493,
     "i": 1493
   },
   {
@@ -14658,6 +16156,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1494,
     "i": 1494
   },
   {
@@ -14671,6 +16170,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
+    "index": 1495,
     "i": 1495
   },
   {
@@ -14682,6 +16182,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1496,
     "i": 1496
   },
   {
@@ -14693,6 +16194,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1497,
     "i": 1497
   },
   {
@@ -14702,6 +16204,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1498,
     "i": 1498
   },
   {
@@ -14711,6 +16214,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1499,
     "i": 1499
   },
   {
@@ -14720,6 +16224,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1500,
     "i": 1500
   },
   {
@@ -14729,6 +16234,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1501,
     "i": 1501
   },
   {
@@ -14738,6 +16244,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1502,
     "i": 1502
   },
   {
@@ -14747,6 +16254,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1503,
     "i": 1503
   },
   {
@@ -14756,6 +16264,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1504,
     "i": 1504
   },
   {
@@ -14765,6 +16274,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1505,
     "i": 1505
   },
   {
@@ -14774,6 +16284,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1506,
     "i": 1506
   },
   {
@@ -14783,6 +16294,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1507,
     "i": 1507
   },
   {
@@ -14792,6 +16304,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1508,
     "i": 1508
   },
   {
@@ -14801,6 +16314,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1509,
     "i": 1509
   },
   {
@@ -14810,6 +16324,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1510,
     "i": 1510
   },
   {
@@ -14819,6 +16334,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1511,
     "i": 1511
   },
   {
@@ -14828,6 +16344,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1512,
     "i": 1512
   },
   {
@@ -14837,6 +16354,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1513,
     "i": 1513
   },
   {
@@ -14846,6 +16364,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1514,
     "i": 1514
   },
   {
@@ -14855,6 +16374,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1515,
     "i": 1515
   },
   {
@@ -14864,6 +16384,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1516,
     "i": 1516
   },
   {
@@ -14873,6 +16394,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1517,
     "i": 1517
   },
   {
@@ -14882,6 +16404,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1518,
     "i": 1518
   },
   {
@@ -14891,6 +16414,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1519,
     "i": 1519
   },
   {
@@ -14900,6 +16424,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1520,
     "i": 1520
   },
   {
@@ -14909,6 +16434,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1521,
     "i": 1521
   },
   {
@@ -14918,6 +16444,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1522,
     "i": 1522
   },
   {
@@ -14927,6 +16454,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1523,
     "i": 1523
   },
   {
@@ -14936,6 +16464,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1524,
     "i": 1524
   },
   {
@@ -14945,6 +16474,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1525,
     "i": 1525
   },
   {
@@ -14954,6 +16484,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1526,
     "i": 1526
   },
   {
@@ -14963,6 +16494,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1527,
     "i": 1527
   },
   {
@@ -14972,6 +16504,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1528,
     "i": 1528
   },
   {
@@ -14981,6 +16514,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1529,
     "i": 1529
   },
   {
@@ -14990,6 +16524,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1530,
     "i": 1530
   },
   {
@@ -14999,6 +16534,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
+    "index": 1531,
     "i": 1531
   },
   {
@@ -15008,10 +16544,11 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
+    "index": 1532,
     "i": 1532
   },
   {
-    "name": "Exos",
+    "name": "StremZ",
     "id": 204,
     "creator": "Nxbulah",
     "weapon": 2,
@@ -15019,6 +16556,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1533,
     "i": 1533
   },
   {
@@ -15030,6 +16568,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1534,
     "i": 1534
   },
   {
@@ -15042,6 +16581,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
+    "index": 1535,
     "i": 1535
   },
   {
@@ -15052,6 +16592,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1536,
     "i": 1536
   },
   {
@@ -15063,6 +16604,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1537,
     "i": 1537
   },
   {
@@ -15074,6 +16616,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1538,
     "i": 1538
   },
   {
@@ -15083,6 +16626,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1539,
     "i": 1539
   },
   {
@@ -15092,6 +16636,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1540,
     "i": 1540
   },
   {
@@ -15101,6 +16646,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1541,
     "i": 1541
   },
   {
@@ -15110,6 +16656,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1542,
     "i": 1542
   },
   {
@@ -15119,6 +16666,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1543,
     "i": 1543
   },
   {
@@ -15128,6 +16676,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1544,
     "i": 1544
   },
   {
@@ -15137,6 +16686,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1545,
     "i": 1545
   },
   {
@@ -15146,6 +16696,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1546,
     "i": 1546
   },
   {
@@ -15155,6 +16706,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1547,
     "i": 1547
   },
   {
@@ -15164,6 +16716,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1548,
     "i": 1548
   },
   {
@@ -15173,6 +16726,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1549,
     "i": 1549
   },
   {
@@ -15182,6 +16736,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1550,
     "i": 1550
   },
   {
@@ -15191,6 +16746,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1551,
     "i": 1551
   },
   {
@@ -15200,6 +16756,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1552,
     "i": 1552
   },
   {
@@ -15209,6 +16766,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1553,
     "i": 1553
   },
   {
@@ -15218,6 +16776,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1554,
     "i": 1554
   },
   {
@@ -15227,6 +16786,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1555,
     "i": 1555
   },
   {
@@ -15236,6 +16796,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1556,
     "i": 1556
   },
   {
@@ -15245,6 +16806,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1557,
     "i": 1557
   },
   {
@@ -15254,6 +16816,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1558,
     "i": 1558
   },
   {
@@ -15263,6 +16826,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1559,
     "i": 1559
   },
   {
@@ -15272,6 +16836,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1560,
     "i": 1560
   },
   {
@@ -15281,6 +16846,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1561,
     "i": 1561
   },
   {
@@ -15290,6 +16856,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1562,
     "i": 1562
   },
   {
@@ -15299,6 +16866,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1563,
     "i": 1563
   },
   {
@@ -15308,6 +16876,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1564,
     "i": 1564
   },
   {
@@ -15317,6 +16886,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1565,
     "i": 1565
   },
   {
@@ -15326,6 +16896,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1566,
     "i": 1566
   },
   {
@@ -15335,6 +16906,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1567,
     "i": 1567
   },
   {
@@ -15344,6 +16916,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1568,
     "i": 1568
   },
   {
@@ -15353,6 +16926,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
+    "index": 1569,
     "i": 1569
   },
   {
@@ -15362,6 +16936,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
+    "index": 1570,
     "i": 1570
   },
   {
@@ -15371,6 +16946,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1571,
     "i": 1571
   },
   {
@@ -15380,6 +16956,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1572,
     "i": 1572
   },
   {
@@ -15389,6 +16966,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
+    "index": 1573,
     "i": 1573
   },
   {
@@ -15398,6 +16976,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1574,
     "i": 1574
   },
   {
@@ -15408,6 +16987,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1575,
     "i": 1575
   },
   {
@@ -15418,6 +16998,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1576,
     "i": 1576
   },
   {
@@ -15428,6 +17009,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1577,
     "i": 1577
   },
   {
@@ -15438,6 +17020,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1578,
     "i": 1578
   },
   {
@@ -15447,6 +17030,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1579,
     "i": 1579
   },
   {
@@ -15457,6 +17041,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1580,
     "i": 1580
   },
   {
@@ -15467,6 +17052,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1581,
     "i": 1581
   },
   {
@@ -15475,6 +17061,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1582,
     "i": 1582
   },
   {
@@ -15483,6 +17070,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1583,
     "i": 1583
   },
   {
@@ -15491,6 +17079,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1584,
     "i": 1584
   },
   {
@@ -15499,6 +17088,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1585,
     "i": 1585
   },
   {
@@ -15507,6 +17097,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1586,
     "i": 1586
   },
   {
@@ -15515,6 +17106,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1587,
     "i": 1587
   },
   {
@@ -15523,6 +17115,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1588,
     "i": 1588
   },
   {
@@ -15531,6 +17124,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1589,
     "i": 1589
   },
   {
@@ -15539,6 +17133,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1590,
     "i": 1590
   },
   {
@@ -15547,6 +17142,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1591,
     "i": 1591
   },
   {
@@ -15555,6 +17151,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1592,
     "i": 1592
   },
   {
@@ -15563,6 +17160,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1593,
     "i": 1593
   },
   {
@@ -15571,6 +17169,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1594,
     "i": 1594
   },
   {
@@ -15579,6 +17178,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1595,
     "i": 1595
   },
   {
@@ -15587,6 +17187,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1596,
     "i": 1596
   },
   {
@@ -15595,6 +17196,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1597,
     "i": 1597
   },
   {
@@ -15603,6 +17205,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1598,
     "i": 1598
   },
   {
@@ -15611,6 +17214,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1599,
     "i": 1599
   },
   {
@@ -15619,6 +17223,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1600,
     "i": 1600
   },
   {
@@ -15627,6 +17232,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1601,
     "i": 1601
   },
   {
@@ -15635,6 +17241,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1602,
     "i": 1602
   },
   {
@@ -15643,6 +17250,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1603,
     "i": 1603
   },
   {
@@ -15651,6 +17259,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1604,
     "i": 1604
   },
   {
@@ -15659,6 +17268,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1605,
     "i": 1605
   },
   {
@@ -15667,6 +17277,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1606,
     "i": 1606
   },
   {
@@ -15675,6 +17286,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1607,
     "i": 1607
   },
   {
@@ -15683,6 +17295,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1608,
     "i": 1608
   },
   {
@@ -15691,6 +17304,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1609,
     "i": 1609
   },
   {
@@ -15699,6 +17313,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1610,
     "i": 1610
   },
   {
@@ -15707,6 +17322,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1611,
     "i": 1611
   },
   {
@@ -15715,6 +17331,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1612,
     "i": 1612
   },
   {
@@ -15723,6 +17340,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1613,
     "i": 1613
   },
   {
@@ -15731,6 +17349,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1614,
     "i": 1614
   },
   {
@@ -15739,6 +17358,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
+    "index": 1615,
     "i": 1615
   },
   {
@@ -15747,6 +17367,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
+    "index": 1616,
     "i": 1616
   },
   {
@@ -15766,6 +17387,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1617,
     "i": 1617
   },
   {
@@ -15785,6 +17407,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1618,
     "i": 1618
   },
   {
@@ -15804,6 +17427,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1619,
     "i": 1619
   },
   {
@@ -15823,6 +17447,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1620,
     "i": 1620
   },
   {
@@ -15846,6 +17471,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1621,
     "i": 1621
   },
   {
@@ -15868,6 +17494,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
+    "index": 1622,
     "i": 1622
   },
   {
@@ -15885,6 +17512,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 4,
+    "index": 1623,
     "i": 1623
   },
   {
@@ -15902,6 +17530,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
+    "index": 1624,
     "i": 1624
   },
   {
@@ -15914,6 +17543,7 @@ var items = [
     "seas": 3,
     "weapon": 16,
     "rarity": 5,
+    "index": 1625,
     "i": 1625
   },
   {
@@ -15929,6 +17559,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "movT": 0.0003,
+    "index": 1626,
     "i": 1626
   },
   {
@@ -15942,6 +17573,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
+    "index": 1627,
     "i": 1627
   },
   {
@@ -15955,6 +17587,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
+    "index": 1628,
     "i": 1628
   },
   {
@@ -15972,6 +17605,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
+    "index": 1629,
     "i": 1629
   },
   {
@@ -15988,6 +17622,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "movT": 0.0003,
+    "index": 1630,
     "i": 1630
   },
   {
@@ -15999,6 +17634,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
+    "index": 1631,
     "i": 1631
   },
   {
@@ -16008,6 +17644,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1632,
     "i": 1632
   },
   {
@@ -16018,6 +17655,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1633,
     "i": 1633
   },
   {
@@ -16028,6 +17666,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1634,
     "i": 1634
   },
   {
@@ -16037,6 +17676,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1635,
     "i": 1635
   },
   {
@@ -16053,6 +17693,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "seas": 3,
+    "index": 1636,
     "i": 1636
   },
   {
@@ -16065,6 +17706,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1637,
     "i": 1637
   },
   {
@@ -16077,6 +17719,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1638,
     "i": 1638
   },
   {
@@ -16088,6 +17731,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1639,
     "i": 1639
   },
   {
@@ -16100,6 +17744,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1640,
     "i": 1640
   },
   {
@@ -16117,6 +17762,7 @@ var items = [
     "illicit": true,
     "funds": 2000,
     "reqT": "No Greenskins!",
+    "index": 1641,
     "i": 1641
   },
   {
@@ -16138,6 +17784,7 @@ var items = [
     "illicit": true,
     "funds": 3000,
     "reqT": "Call in 1000 Nukes",
+    "index": 1642,
     "i": 1642
   },
   {
@@ -16153,6 +17800,7 @@ var items = [
     "prevRot": 4,
     "rarity": 5,
     "seas": 3,
+    "index": 1643,
     "i": 1643
   },
   {
@@ -16167,6 +17815,7 @@ var items = [
     "xOff": -1,
     "rarity": 4,
     "seas": 3,
+    "index": 1644,
     "i": 1644
   },
   {
@@ -16184,6 +17833,7 @@ var items = [
     "prevRot": 4,
     "rarity": 4,
     "seas": 3,
+    "index": 1645,
     "i": 1645
   },
   {
@@ -16195,6 +17845,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1646,
     "i": 1646
   },
   {
@@ -16204,6 +17855,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1647,
     "i": 1647
   },
   {
@@ -16215,6 +17867,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1648,
     "i": 1648
   },
   {
@@ -16225,6 +17878,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1649,
     "i": 1649
   },
   {
@@ -16234,6 +17888,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
+    "index": 1650,
     "i": 1650
   },
   {
@@ -16244,6 +17899,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
+    "index": 1651,
     "i": 1651
   },
   {
@@ -16255,6 +17911,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1652,
     "i": 1652
   },
   {
@@ -16265,6 +17922,7 @@ var items = [
     "weapon": 10,
     "rarity": 3,
     "seas": 3,
+    "index": 1653,
     "i": 1653
   },
   {
@@ -16276,6 +17934,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1654,
     "i": 1654
   },
   {
@@ -16285,6 +17944,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
+    "index": 1655,
     "i": 1655
   },
   {
@@ -16296,6 +17956,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1656,
     "i": 1656
   },
   {
@@ -16307,6 +17968,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1657,
     "i": 1657
   },
   {
@@ -16317,6 +17979,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
+    "index": 1658,
     "i": 1658
   },
   {
@@ -16335,6 +17998,7 @@ var items = [
     "illicit": true,
     "funds": 10000,
     "reqT": "???????",
+    "index": 1659,
     "i": 1659
   },
   {
@@ -16344,6 +18008,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
+    "index": 1660,
     "i": 1660
   },
   {
@@ -16353,6 +18018,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
+    "index": 1661,
     "i": 1661
   },
   {
@@ -16363,6 +18029,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
+    "index": 1662,
     "i": 1662
   },
   {
@@ -16372,6 +18039,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
+    "index": 1663,
     "i": 1663
   },
   {
@@ -16383,6 +18051,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1664,
     "i": 1664
   },
   {
@@ -16394,6 +18063,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
+    "index": 1665,
     "i": 1665
   },
   {
@@ -16404,6 +18074,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
+    "index": 1666,
     "i": 1666
   },
   {
@@ -16414,6 +18085,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
+    "index": 1667,
     "i": 1667
   },
   {
@@ -16424,6 +18096,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
+    "index": 1668,
     "i": 1668
   },
   {
@@ -16434,6 +18107,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
+    "index": 1669,
     "i": 1669
   },
   {
@@ -16446,6 +18120,3381 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
+    "index": 1670,
     "i": 1670
+  },
+  {
+    "name": "Stream Suit",
+    "limT": "Twitch #1",
+    "id": 10,
+    "shirtCol": 6570405,
+    "sleeveCol": 16448250,
+    "pantsCol": 6570405,
+    "shoeCol": 16448250,
+    "seas": 3,
+    "type": 5,
+    "noSpin": true,
+    "rarity": 4,
+    "index": 1671,
+    "i": 1671
+  },
+  {
+    "name": "USS Krunk",
+    "keyW": "Waist",
+    "rarity": 5,
+    "seas": 3,
+    "id": 4,
+    "type": 6,
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 2.8,
+    "yOff": -1.5,
+    "xOff": -1,
+    "sitOff": 1,
+    "glow": true,
+    "prevRot": 4,
+    "side": 2,
+    "alpha": 0.7,
+    "trans": true,
+    "frames": 2,
+    "frameT": 300,
+    "noLegs": true,
+    "noSale": true,
+    "illicit": true,
+    "funds": 10000,
+    "reqT": "Level 50 Runner",
+    "index": 1672,
+    "i": 1672
+  },
+  {
+    "name": "USS TTV",
+    "keyW": "Waist",
+    "limT": "Twitch #1",
+    "tex": 1,
+    "rarity": 5,
+    "seas": 3,
+    "id": 4,
+    "type": 6,
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 2.8,
+    "yOff": -1.5,
+    "xOff": -1,
+    "sitOff": 1,
+    "prevRot": 4,
+    "glow": true,
+    "side": 2,
+    "alpha": 0.7,
+    "trans": true,
+    "frames": 2,
+    "frameT": 300,
+    "noLegs": true,
+    "noSpin": true,
+    "index": 1673,
+    "i": 1673
+  },
+  {
+    "name": "TTV",
+    "keyW": "Sprays",
+    "limT": "Twitch #1",
+    "id": 80,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "noSpin": true,
+    "index": 1674,
+    "i": 1674
+  },
+  {
+    "name": "TTV Cape",
+    "limT": "Twitch #1",
+    "id": 52,
+    "tex": 3,
+    "rarity": 4,
+    "side": 2,
+    "glow": true,
+    "type": 2,
+    "keyW": "Body",
+    "xRot": 3,
+    "xOff": -1,
+    "yOff": 0.5,
+    "spnScl": 2.6,
+    "sclMlt": 2.4,
+    "sitOff": -0.5,
+    "sitOffZ": -0.6,
+    "seas": 3,
+    "noSpin": true,
+    "index": 1675,
+    "i": 1675
+  },
+  {
+    "name": "TTV Tron",
+    "limT": "Twitch #1",
+    "id": 32,
+    "tex": 6,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Head",
+    "seas": 3,
+    "scl": 1,
+    "glow": true,
+    "sclMlt": 0.6,
+    "sitOff": 2.05,
+    "yOff": -3.2,
+    "frames": 2,
+    "frameT": 400,
+    "noSpin": true,
+    "index": 1676,
+    "i": 1676
+  },
+  {
+    "name": "Krunk TTV",
+    "limT": "Twitch #1",
+    "id": 32,
+    "tex": 7,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Head",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.6,
+    "sitOff": 2.05,
+    "yOff": -3.2,
+    "frames": 4,
+    "frameT": 400,
+    "noSpin": true,
+    "index": 1677,
+    "i": 1677
+  },
+  {
+    "name": "Twitched",
+    "limT": "Twitch #1",
+    "id": 111,
+    "rarity": 2,
+    "type": 1,
+    "keyW": "Head",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.6,
+    "sitOff": 0.75,
+    "yOff": -1,
+    "noSpin": true,
+    "noHead": true,
+    "index": 1678,
+    "i": 1678
+  },
+  {
+    "name": "tRaDeS?",
+    "keyW": "Sprays",
+    "limT": "Twitch #1",
+    "id": 81,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "noSpin": true,
+    "index": 1679,
+    "i": 1679
+  },
+  {
+    "name": "Partner Push",
+    "keyW": "Sprays",
+    "limT": "Twitch #1",
+    "id": 82,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "noSpin": true,
+    "index": 1680,
+    "i": 1680
+  },
+  {
+    "name": "Mic'd Up",
+    "keyW": "Knife",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "rarity": 4,
+    "seas": 3,
+    "id": 17,
+    "type": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "yOff": -2,
+    "frames": 2,
+    "frameT": 500,
+    "sxOff": 0.5,
+    "syOff": -0.05,
+    "szOff": -0.1,
+    "index": 1681,
+    "i": 1681
+  },
+  {
+    "name": "Zed",
+    "keyW": "Sprays",
+    "limT": "Twitch #1",
+    "id": 84,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "noSpin": true,
+    "index": 1682,
+    "i": 1682
+  },
+  {
+    "name": "Kaarson",
+    "keyW": "Sprays",
+    "limT": "Twitch #1",
+    "id": 86,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "noSpin": true,
+    "index": 1683,
+    "i": 1683
+  },
+  {
+    "name": "TTV Vest",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "id": 58,
+    "rarity": 2,
+    "type": 2,
+    "keyW": "Back",
+    "seas": 3,
+    "scl": 0.5,
+    "sclMlt": 0.5,
+    "sitOff": 1.7,
+    "sitOffZ": 0,
+    "yOff": -2,
+    "xRot": 3.141592653589793,
+    "index": 1684,
+    "i": 1684
+  },
+  {
+    "name": "Cheerfull",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "id": 57,
+    "rarity": 4,
+    "glow": true,
+    "type": 2,
+    "keyW": "Back",
+    "xOff": -2.5,
+    "yOff": -2,
+    "xRot": -0.5,
+    "spnScl": 2.6,
+    "sclMlt": 2.4,
+    "sitOff": -1.65,
+    "sitOffZ": -0.7,
+    "seas": 3,
+    "index": 1685,
+    "i": 1685
+  },
+  {
+    "name": "Twitcher",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "id": 210,
+    "creator": "Nxbulah",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1686,
+    "i": 1686
+  },
+  {
+    "name": "Streamer",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "mid": 0,
+    "midT": 50,
+    "creator": "Chromatikk",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1687,
+    "i": 1687
+  },
+  {
+    "name": "TTV-Cap",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "tex": 2,
+    "id": 74,
+    "rarity": 1,
+    "type": 1,
+    "keyW": "Hat",
+    "yOff": -1.5,
+    "xOff": 1,
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1688,
+    "i": 1688
+  },
+  {
+    "name": "Bits",
+    "limT": "Twitch #1",
+    "noSpin": true,
+    "id": 112,
+    "rarity": 5,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": -1.5,
+    "rAnim": -0.0016,
+    "rAnimA": "y",
+    "seas": 3,
+    "index": 1689,
+    "i": 1689
+  },
+  {
+    "name": "Just Vibing",
+    "limT": "Twitch #1",
+    "creator": "???",
+    "pat": 11,
+    "tex": "weapons/pat/11",
+    "sameGlow": true,
+    "movT": 0.0003,
+    "movD": 1,
+    "tileS": 3,
+    "weapon": 1,
+    "rarity": 4,
+    "seas": 3,
+    "noSpin": true,
+    "index": 1690,
+    "i": 1690
+  },
+  {
+    "name": "Arae Atlas",
+    "id": 210,
+    "creator": "Luminae",
+    "weapon": 1,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1691,
+    "i": 1691
+  },
+  {
+    "name": "Rezein",
+    "id": 211,
+    "creator": "Nxbulah",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1692,
+    "i": 1692
+  },
+  {
+    "name": "ThiccChemist",
+    "id": 212,
+    "creator": "Nxbulah",
+    "weapon": 1,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1693,
+    "i": 1693
+  },
+  {
+    "name": "Radalive",
+    "id": 213,
+    "creator": "Kilfy",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1694,
+    "i": 1694
+  },
+  {
+    "name": "Arctic",
+    "id": 211,
+    "creator": "Destroy007",
+    "weapon": 2,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1695,
+    "i": 1695
+  },
+  {
+    "name": "Kanashii",
+    "id": 190,
+    "creator": "Whippii",
+    "weapon": 4,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1696,
+    "i": 1696
+  },
+  {
+    "name": "Sunset claw",
+    "id": 137,
+    "creator": "Kilfy",
+    "weapon": 5,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1697,
+    "i": 1697
+  },
+  {
+    "name": "Blazed",
+    "id": 123,
+    "creator": "Cimota",
+    "weapon": 7,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1698,
+    "i": 1698
+  },
+  {
+    "name": "Avalan",
+    "mid": 0,
+    "midT": 51,
+    "creator": "Nxbulah",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1699,
+    "i": 1699
+  },
+  {
+    "name": "Disruptor",
+    "mid": 0,
+    "midT": 52,
+    "creator": "Multihawk",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1700,
+    "i": 1700
+  },
+  {
+    "name": "Phusion",
+    "mid": 0,
+    "midT": 53,
+    "creator": "Nxbulah",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1701,
+    "i": 1701
+  },
+  {
+    "name": "Midnight Phoenix",
+    "id": 126,
+    "creator": "Destroy007",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1702,
+    "i": 1702
+  },
+  {
+    "name": "Ocean",
+    "mid": 0,
+    "midT": 45,
+    "creator": "Skriller33",
+    "weapon": 10,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1703,
+    "i": 1703
+  },
+  {
+    "name": "Thunder God",
+    "mid": 0,
+    "midT": 42,
+    "creator": "Chromatikk",
+    "weapon": 10,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1704,
+    "i": 1704
+  },
+  {
+    "name": "Upset",
+    "id": 214,
+    "creator": "Kilfy",
+    "weapon": 1,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1705,
+    "i": 1705
+  },
+  {
+    "name": "Fished",
+    "id": 212,
+    "creator": "Skriller33",
+    "weapon": 2,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1706,
+    "i": 1706
+  },
+  {
+    "name": "Hannya",
+    "id": 213,
+    "creator": "Whippii",
+    "weapon": 2,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1707,
+    "i": 1707
+  },
+  {
+    "name": "Drakon",
+    "id": 214,
+    "creator": "Kltter",
+    "weapon": 2,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1708,
+    "i": 1708
+  },
+  {
+    "name": "caL",
+    "id": 215,
+    "creator": "Kilfy",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1709,
+    "i": 1709
+  },
+  {
+    "name": "CIRO",
+    "id": 191,
+    "creator": "Kltter",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1710,
+    "i": 1710
+  },
+  {
+    "name": "Redolent",
+    "id": 138,
+    "creator": "Cimota",
+    "weapon": 5,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1711,
+    "i": 1711
+  },
+  {
+    "name": "Man vs God",
+    "mid": 0,
+    "midT": 54,
+    "creator": "Chromatikk",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1712,
+    "i": 1712
+  },
+  {
+    "name": "Scaze",
+    "id": 127,
+    "creator": "Kilfy",
+    "weapon": 15,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1713,
+    "i": 1713
+  },
+  {
+    "name": "Kinto",
+    "creator": "Nxbulah",
+    "keyW": "Knife",
+    "animInd": 1,
+    "glow": true,
+    "pulsT": 0.1,
+    "tex": 4,
+    "id": 2,
+    "type": 3,
+    "scl": 3,
+    "seas": 3,
+    "sclMlt": 0.98,
+    "yOff": -2,
+    "rarity": 4,
+    "index": 1714,
+    "i": 1714
+  },
+  {
+    "name": "Divine",
+    "creator": "Destroy007",
+    "keyW": "Knife",
+    "animInd": 1,
+    "glow": true,
+    "pulsT": 0.1,
+    "tex": 5,
+    "id": 2,
+    "type": 3,
+    "scl": 3,
+    "seas": 3,
+    "sclMlt": 0.98,
+    "yOff": -2,
+    "rarity": 4,
+    "index": 1715,
+    "i": 1715
+  },
+  {
+    "name": "Diabolo",
+    "creator": "Destroy007",
+    "keyW": "Knife",
+    "animInd": 1,
+    "glow": true,
+    "tex": 6,
+    "id": 2,
+    "type": 3,
+    "scl": 3,
+    "seas": 3,
+    "sclMlt": 0.98,
+    "yOff": -2,
+    "rarity": 4,
+    "index": 1716,
+    "i": 1716
+  },
+  {
+    "name": "Fadecrusher",
+    "creator": "Multihawk",
+    "keyW": "Knife",
+    "glow": true,
+    "pulsT": 0.0015,
+    "id": 4,
+    "tex": 2,
+    "type": 3,
+    "seas": 3,
+    "rarity": 5,
+    "scl": 2,
+    "sclMlt": 0.75,
+    "yOff": -1,
+    "sxOff": 0,
+    "syOff": -0.05,
+    "szOff": -0.1,
+    "index": 1717,
+    "i": 1717
+  },
+  {
+    "name": "Crimson Edge",
+    "creator": "Multihawk",
+    "id": 9,
+    "tex": 1,
+    "rarity": 4,
+    "type": 3,
+    "sxOff": 0.4,
+    "scl": 1.4,
+    "yOff": -2,
+    "keyW": "Melee",
+    "seas": 3,
+    "index": 1718,
+    "i": 1718
+  },
+  {
+    "name": "Alter",
+    "creator": "_irizu",
+    "glow": true,
+    "pulsT": 0.0015,
+    "id": 10,
+    "tex": 1,
+    "rarity": 5,
+    "type": 3,
+    "sxRot": -0.3,
+    "syOff": 0.1,
+    "szOff": -0.1,
+    "scl": 0.8,
+    "yOff": -1,
+    "xOff": -1,
+    "keyW": "Melee",
+    "seas": 3,
+    "index": 1719,
+    "i": 1719
+  },
+  {
+    "name": "Prototype-14",
+    "id": 0,
+    "creator": "Multihawk",
+    "weapon": 14,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1720,
+    "i": 1720
+  },
+  {
+    "name": "Dream Destroyer",
+    "id": 1,
+    "creator": "Destroy007",
+    "weapon": 14,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1721,
+    "i": 1721
+  },
+  {
+    "name": "E-12",
+    "id": 2,
+    "creator": "Cimota",
+    "weapon": 14,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1722,
+    "i": 1722
+  },
+  {
+    "name": "T.A.N 9",
+    "id": 3,
+    "creator": "Floatingpoint",
+    "weapon": 14,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1723,
+    "i": 1723
+  },
+  {
+    "name": "Sekigahara",
+    "id": 215,
+    "creator": "Flower Kid",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1724,
+    "i": 1724
+  },
+  {
+    "name": "Death Parade",
+    "id": 216,
+    "creator": "Flower Kid",
+    "weapon": 1,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1725,
+    "i": 1725
+  },
+  {
+    "name": "Sentinel-56",
+    "id": 217,
+    "creator": "Cimota",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1726,
+    "i": 1726
+  },
+  {
+    "name": "Cryptic J",
+    "id": 216,
+    "creator": "Nxbulah & Kilfy",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1727,
+    "i": 1727
+  },
+  {
+    "name": "Voyage",
+    "id": 192,
+    "creator": "Cimota",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1728,
+    "i": 1728
+  },
+  {
+    "name": "Iara",
+    "id": 193,
+    "creator": "Kltter",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1729,
+    "i": 1729
+  },
+  {
+    "name": "Insidious",
+    "mid": 0,
+    "midT": 106,
+    "creator": "Cimota",
+    "weapon": 6,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1730,
+    "i": 1730
+  },
+  {
+    "name": "Tri-Tech",
+    "id": 124,
+    "creator": "Multihawk",
+    "weapon": 7,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1731,
+    "i": 1731
+  },
+  {
+    "name": "Prototype BWSX",
+    "id": 0,
+    "creator": "Floatingpoint",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1732,
+    "i": 1732
+  },
+  {
+    "name": "Hexgen",
+    "id": 1,
+    "creator": "Nxbulah",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1733,
+    "i": 1733
+  },
+  {
+    "name": "Scout Mastery",
+    "mid": 5,
+    "seas": 3,
+    "weapon": 1,
+    "rarity": 5,
+    "noSale": true,
+    "illicit": true,
+    "funds": 10000,
+    "yOrg": -0.2,
+    "reqT": "Level 100 Hunter",
+    "index": 1734,
+    "i": 1734
+  },
+  {
+    "name": "Redux",
+    "id": 10,
+    "tex": 2,
+    "rarity": 5,
+    "type": 3,
+    "sxRot": -0.3,
+    "syOff": 0.1,
+    "szOff": -0.1,
+    "scl": 0.8,
+    "yOff": -1,
+    "xOff": -1,
+    "keyW": "Melee",
+    "seas": 3,
+    "shaderId": 0,
+    "index": 1735,
+    "i": 1735
+  },
+  {
+    "name": "Neon Dance",
+    "id": 52,
+    "tex": 4,
+    "rarity": 5,
+    "side": 2,
+    "glow": true,
+    "type": 2,
+    "keyW": "Body",
+    "xRot": 3,
+    "xOff": -1,
+    "yOff": 0.5,
+    "spnScl": 2.6,
+    "sclMlt": 2.4,
+    "sitOff": -0.5,
+    "sitOffZ": -0.6,
+    "seas": 3,
+    "shaderId": 1,
+    "index": 1736,
+    "i": 1736
+  },
+  {
+    "name": "Jason",
+    "limT": "Twitch #2",
+    "id": 113,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 1,
+    "trans": true,
+    "index": 1737,
+    "i": 1737
+  },
+  {
+    "name": "Sicko",
+    "limT": "Twitch #2",
+    "id": 114,
+    "glow": true,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 1,
+    "trans": true,
+    "index": 1738,
+    "i": 1738
+  },
+  {
+    "name": "Succubus",
+    "limT": "Twitch #2",
+    "id": 115,
+    "glow": true,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.45,
+    "sitOff": 1.2,
+    "yOff": -0.7,
+    "xOff": 0.2,
+    "index": 1739,
+    "i": 1739
+  },
+  {
+    "name": "Socket",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 116,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 0.2,
+    "index": 1740,
+    "i": 1740
+  },
+  {
+    "name": "Crunch",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 117,
+    "rarity": 1,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 0.2,
+    "index": 1741,
+    "i": 1741
+  },
+  {
+    "name": "Paraseye",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 118,
+    "rarity": 2,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.7,
+    "sitOff": 0.9,
+    "yOff": -0.7,
+    "index": 1742,
+    "i": 1742
+  },
+  {
+    "name": "Puff Puff",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 119,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 0.8,
+    "yOff": -0.7,
+    "index": 1743,
+    "i": 1743
+  },
+  {
+    "name": "Moneybags",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 121,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "index": 1744,
+    "i": 1744
+  },
+  {
+    "name": "Braindead",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 122,
+    "rarity": 2,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "trans": true,
+    "index": 1745,
+    "i": 1745
+  },
+  {
+    "name": "Gobbler",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 123,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "index": 1746,
+    "i": 1746
+  },
+  {
+    "name": "Seefood",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 124,
+    "glow": true,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.7,
+    "sitOff": 0.9,
+    "yOff": -0.7,
+    "trans": true,
+    "index": 1747,
+    "i": 1747
+  },
+  {
+    "name": "Mr Doodles",
+    "limT": "Twitch #2",
+    "noHead": true,
+    "id": 125,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "trans": true,
+    "index": 1748,
+    "i": 1748
+  },
+  {
+    "name": "Drowned",
+    "limT": "Twitch #2",
+    "id": 126,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "trans": true,
+    "index": 1749,
+    "i": 1749
+  },
+  {
+    "name": "Tentacle",
+    "limT": "Twitch #2",
+    "id": 59,
+    "rarity": 4,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "sclMlt": 2.4,
+    "spnScl": 2.6,
+    "xOff": -1,
+    "sitOff": -0.7,
+    "sitOffZ": -0.65,
+    "index": 1750,
+    "i": 1750
+  },
+  {
+    "name": "Observer",
+    "limT": "Twitch #2",
+    "id": 60,
+    "rarity": 5,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "scl": 3,
+    "sclMlt": 2.6,
+    "sitOff": -1.1,
+    "sitOffZ": -2,
+    "yOff": -0.9,
+    "xOff": -0.3,
+    "rAnim": -0.002,
+    "rAnimA": "x",
+    "index": 1751,
+    "i": 1751
+  },
+  {
+    "name": "Butcher",
+    "limT": "Twitch #2",
+    "id": 61,
+    "rarity": 2,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "scl": 4.5,
+    "spnScl": 3.5,
+    "sclMlt": 2.55,
+    "sitOff": -0.4,
+    "yOff": -2,
+    "prevRot": -0.1,
+    "index": 1752,
+    "i": 1752
+  },
+  {
+    "name": "Scales",
+    "limT": "Twitch #2",
+    "id": 62,
+    "rarity": 2,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "scl": 4.5,
+    "spnScl": 3.5,
+    "sclMlt": 2.55,
+    "sitOff": -0.4,
+    "yOff": -1,
+    "xOff": -1,
+    "xRot": 3.141592653589793,
+    "index": 1753,
+    "i": 1753
+  },
+  {
+    "name": "Pauldrons",
+    "limT": "Twitch #2",
+    "id": 64,
+    "rarity": 2,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "scl": 4.5,
+    "sclMlt": 2.3,
+    "sitOff": -0.6,
+    "yOff": -2,
+    "xRot": 3.141592653589793,
+    "index": 1754,
+    "i": 1754
+  },
+  {
+    "name": "Walpurgis",
+    "limT": "Twitch #2",
+    "id": 5,
+    "rarity": 4,
+    "type": 6,
+    "keyW": "Waist",
+    "seas": 3,
+    "scl": 2.1,
+    "spnScl": 3,
+    "sclMlt": 2.6,
+    "sitOff": 1.4,
+    "prevRot": 4,
+    "xOff": -2,
+    "noLegs": true,
+    "index": 1755,
+    "i": 1755
+  },
+  {
+    "name": "Scales",
+    "limT": "Twitch #2",
+    "id": 7,
+    "rarity": 3,
+    "type": 6,
+    "keyW": "Waist",
+    "seas": 3,
+    "scl": 2.1,
+    "spnScl": 3,
+    "sitOff": 1,
+    "sitOffZ": 1,
+    "sclMlt": 2.6,
+    "prevRot": 2,
+    "xOff": -3.5,
+    "xRot": 1.8849555921538759,
+    "index": 1756,
+    "i": 1756
+  },
+  {
+    "name": "Monster V",
+    "limT": "Twitch #2",
+    "id": 89,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1757,
+    "i": 1757
+  },
+  {
+    "name": "Monster III",
+    "limT": "Twitch #2",
+    "id": 91,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1758,
+    "i": 1758
+  },
+  {
+    "name": "Monster X",
+    "limT": "Twitch #2",
+    "id": 92,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1759,
+    "i": 1759
+  },
+  {
+    "name": "Demonic Haze",
+    "limT": "Twitch #2",
+    "id": 218,
+    "creator": "Kilfy",
+    "weapon": 1,
+    "rarity": 5,
+    "glow": true,
+    "seas": 3,
+    "index": 1760,
+    "i": 1760
+  },
+  {
+    "name": "Vassago",
+    "limT": "Twitch #2",
+    "id": 219,
+    "creator": "Lxckless",
+    "weapon": 1,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1761,
+    "i": 1761
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "id": 220,
+    "weapon": 1,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1762,
+    "i": 1762
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "id": 221,
+    "weapon": 1,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1763,
+    "i": 1763
+  },
+  {
+    "name": "Poseidon",
+    "limT": "Twitch #2",
+    "id": 217,
+    "creator": "Atomize",
+    "weapon": 2,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1764,
+    "i": 1764
+  },
+  {
+    "name": "Overseer",
+    "limT": "Twitch #2",
+    "id": 218,
+    "creator": "Luminae",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1765,
+    "i": 1765
+  },
+  {
+    "name": "Etona",
+    "limT": "Twitch #2",
+    "id": 219,
+    "creator": "Nxbulah",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1766,
+    "i": 1766
+  },
+  {
+    "name": "NeoTitan",
+    "limT": "Twitch #2",
+    "id": 220,
+    "creator": "FlowerKid",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1767,
+    "i": 1767
+  },
+  {
+    "name": "Full Moon",
+    "limT": "Twitch #2",
+    "id": 221,
+    "creator": "Kristai",
+    "weapon": 2,
+    "rarity": 4,
+    "frames": 4,
+    "frameT": 250,
+    "seas": 3,
+    "index": 1768,
+    "i": 1768
+  },
+  {
+    "name": "Nightmare",
+    "limT": "Twitch #2",
+    "id": 222,
+    "creator": "CreshorTV",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1769,
+    "i": 1769
+  },
+  {
+    "name": "Crimson",
+    "limT": "Twitch #2",
+    "id": 223,
+    "creator": "Chromatikk",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1770,
+    "i": 1770
+  },
+  {
+    "name": "Corruption",
+    "limT": "Twitch #2",
+    "id": 224,
+    "creator": "Chromatikk",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1771,
+    "i": 1771
+  },
+  {
+    "name": "Overwatch",
+    "limT": "Twitch #2",
+    "id": 194,
+    "creator": "Destroy007",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1772,
+    "i": 1772
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "id": 195,
+    "weapon": 4,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1773,
+    "i": 1773
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "id": 196,
+    "weapon": 4,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1774,
+    "i": 1774
+  },
+  {
+    "name": "Symbiote",
+    "limT": "Twitch #2",
+    "id": 139,
+    "creator": "Whippii",
+    "weapon": 5,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1775,
+    "i": 1775
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "id": 140,
+    "weapon": 5,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1776,
+    "i": 1776
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "id": 141,
+    "weapon": 5,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1777,
+    "i": 1777
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 107,
+    "weapon": 6,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1778,
+    "i": 1778
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 108,
+    "weapon": 6,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1779,
+    "i": 1779
+  },
+  {
+    "name": "Toxic Rider",
+    "limT": "Twitch #2",
+    "id": 125,
+    "creator": "Destroy007",
+    "weapon": 7,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1780,
+    "i": 1780
+  },
+  {
+    "name": "Knightingale",
+    "limT": "Twitch #2",
+    "id": 126,
+    "creator": "FailBucket",
+    "weapon": 7,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1781,
+    "i": 1781
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "id": 127,
+    "weapon": 7,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1782,
+    "i": 1782
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "id": 128,
+    "weapon": 7,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1783,
+    "i": 1783
+  },
+  {
+    "name": "Wildlife",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 55,
+    "creator": "Destroy007",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1784,
+    "i": 1784
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 56,
+    "weapon": 8,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1785,
+    "i": 1785
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 57,
+    "weapon": 8,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1786,
+    "i": 1786
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 46,
+    "weapon": 10,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1787,
+    "i": 1787
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "mid": 0,
+    "midT": 47,
+    "weapon": 10,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1788,
+    "i": 1788
+  },
+  {
+    "name": "Devourer",
+    "limT": "Twitch #2",
+    "id": 2,
+    "creator": "Kilfy",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "seas": 3,
+    "index": 1789,
+    "i": 1789
+  },
+  {
+    "name": "Ignis",
+    "limT": "Twitch #2",
+    "id": 128,
+    "weapon": 15,
+    "rarity": 1,
+    "seas": 3,
+    "index": 1790,
+    "i": 1790
+  },
+  {
+    "name": "Cranium",
+    "limT": "Twitch #2",
+    "id": 129,
+    "weapon": 15,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1791,
+    "i": 1791
+  },
+  {
+    "name": "Arachnidis",
+    "limT": "Twitch #2",
+    "id": 46,
+    "tex": 1,
+    "rarity": 5,
+    "type": 2,
+    "keyW": "Body",
+    "sclMlt": 2.4,
+    "spnScl": 2.6,
+    "xOff": 1,
+    "xRot": 2.5,
+    "sitOff": -0.9,
+    "sitOffZ": -0.6,
+    "seas": 3,
+    "shaderId": 3,
+    "index": 1792,
+    "i": 1792
+  },
+  {
+    "name": "Infinity Cloak",
+    "limT": "Twitch #2",
+    "id": 52,
+    "tex": 5,
+    "rarity": 5,
+    "side": 2,
+    "type": 2,
+    "keyW": "Body",
+    "xRot": 2,
+    "xOff": -1,
+    "yOff": 0.5,
+    "spnScl": 2.6,
+    "sclMlt": 2.4,
+    "sitOff": -0.5,
+    "sitOffZ": -0.6,
+    "seas": 3,
+    "shaderId": 3,
+    "index": 1793,
+    "i": 1793
+  },
+  {
+    "name": "Sorable",
+    "keyW": "Sprays",
+    "limT": "Twitch #2",
+    "id": 93,
+    "type": 4,
+    "rarity": 1,
+    "seas": 3,
+    "opacity": 0.8,
+    "index": 1794,
+    "i": 1794
+  },
+  {
+    "name": "Stremz",
+    "keyW": "Sprays",
+    "limT": "Twitch #2",
+    "id": 94,
+    "type": 4,
+    "rarity": 2,
+    "seas": 3,
+    "opacity": 0.8,
+    "index": 1795,
+    "i": 1795
+  },
+  {
+    "name": "Void Slicer",
+    "keyW": "Knife",
+    "flipAnim": true,
+    "id": 3,
+    "tex": 13,
+    "type": 3,
+    "scl": 2.6,
+    "seas": 3,
+    "sclMlt": 1,
+    "yOff": -1,
+    "xOff": -1.5,
+    "rarity": 5,
+    "sxRot": 0.3,
+    "sxOff": 0.35,
+    "szOff": -0.25,
+    "shaderId": 3,
+    "index": 1796,
+    "i": 1796
+  },
+  {
+    "name": "Steel Serpent",
+    "id": 222,
+    "creator": "Chromatikk",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1797,
+    "i": 1797
+  },
+  {
+    "name": "Theta Republica",
+    "id": 223,
+    "creator": "Floatingpoint",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1798,
+    "i": 1798
+  },
+  {
+    "name": "Cactus Jack",
+    "id": 225,
+    "creator": "Kltter",
+    "weapon": 2,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1799,
+    "i": 1799
+  },
+  {
+    "name": "Jakku",
+    "id": 197,
+    "creator": "Kltter",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1800,
+    "i": 1800
+  },
+  {
+    "name": "Shortcake",
+    "id": 130,
+    "creator": "Kristai",
+    "weapon": 15,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1801,
+    "i": 1801
+  },
+  {
+    "name": "Resurrection",
+    "id": 224,
+    "creator": "Kilfy",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1802,
+    "i": 1802
+  },
+  {
+    "name": "Bopper",
+    "id": 225,
+    "creator": "FlowerKid",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1803,
+    "i": 1803
+  },
+  {
+    "name": "Containment",
+    "id": 226,
+    "creator": "Atomize",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1804,
+    "i": 1804
+  },
+  {
+    "name": "Sunshine",
+    "id": 227,
+    "creator": "CreshorTV",
+    "weapon": 1,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1805,
+    "i": 1805
+  },
+  {
+    "name": "Tedssyt",
+    "limT": "Twitch #2",
+    "id": 228,
+    "creator": "Cimota",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1806,
+    "i": 1806
+  },
+  {
+    "name": "Onamu",
+    "id": 226,
+    "creator": "Nxbulah",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1807,
+    "i": 1807
+  },
+  {
+    "name": "Pestilence",
+    "limT": "Twitch #2",
+    "id": 227,
+    "creator": "Chromatikk",
+    "weapon": 2,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1808,
+    "i": 1808
+  },
+  {
+    "name": "Signal",
+    "limT": "Twitch #2",
+    "id": 198,
+    "creator": "FlowerKid",
+    "weapon": 4,
+    "rarity": 3,
+    "frames": 4,
+    "frameT": 250,
+    "glow": true,
+    "seas": 3,
+    "index": 1809,
+    "i": 1809
+  },
+  {
+    "name": "Graffitius",
+    "id": 199,
+    "creator": "Luminae",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1810,
+    "i": 1810
+  },
+  {
+    "name": "Headhunter Alpha",
+    "id": 200,
+    "creator": "Multihawk",
+    "weapon": 4,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1811,
+    "i": 1811
+  },
+  {
+    "name": "Tau",
+    "id": 201,
+    "creator": "Floatingpoint",
+    "weapon": 4,
+    "rarity": 2,
+    "glow": true,
+    "seas": 3,
+    "index": 1812,
+    "i": 1812
+  },
+  {
+    "name": "Kotal",
+    "id": 142,
+    "creator": "Nxbulah",
+    "weapon": 5,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1813,
+    "i": 1813
+  },
+  {
+    "name": "Imperial",
+    "mid": 0,
+    "midT": 109,
+    "creator": "Cimota",
+    "weapon": 6,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1814,
+    "i": 1814
+  },
+  {
+    "name": "Foria",
+    "mid": 0,
+    "midT": 110,
+    "creator": "Nxbulah",
+    "weapon": 6,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1815,
+    "i": 1815
+  },
+  {
+    "name": "Watercolours",
+    "mid": 0,
+    "midT": 58,
+    "creator": "Multihawk",
+    "weapon": 8,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1816,
+    "i": 1816
+  },
+  {
+    "name": "Luminescence",
+    "mid": 0,
+    "midT": 48,
+    "creator": "FailBucket",
+    "weapon": 10,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1817,
+    "i": 1817
+  },
+  {
+    "name": "SunBurst Swirl",
+    "mid": 0,
+    "midT": 49,
+    "creator": "Exxor",
+    "weapon": 10,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1818,
+    "i": 1818
+  },
+  {
+    "name": "Sanctum",
+    "id": 3,
+    "creator": "Multihawk",
+    "weapon": 11,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1819,
+    "i": 1819
+  },
+  {
+    "name": "Futurai",
+    "id": 4,
+    "creator": "Destroy007",
+    "weapon": 14,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1820,
+    "i": 1820
+  },
+  {
+    "name": "Fish Warfare",
+    "id": 5,
+    "creator": "Multihawk",
+    "weapon": 14,
+    "rarity": 2,
+    "glow": true,
+    "seas": 3,
+    "index": 1821,
+    "i": 1821
+  },
+  {
+    "name": "Hunter",
+    "id": 6,
+    "creator": "Multihawk",
+    "weapon": 14,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1822,
+    "i": 1822
+  },
+  {
+    "name": "Kortal",
+    "id": 131,
+    "creator": "Destroy007",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1823,
+    "i": 1823
+  },
+  {
+    "name": "Modular",
+    "id": 0,
+    "creator": "Floatingpoint",
+    "weapon": 17,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1824,
+    "i": 1824
+  },
+  {
+    "name": "Googly",
+    "limT": "Twitch #2",
+    "id": 127,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 1,
+    "trans": true,
+    "index": 1825,
+    "i": 1825
+  },
+  {
+    "name": "Despair",
+    "creator": "Kilfy",
+    "keyW": "Knife",
+    "tex": 7,
+    "id": 2,
+    "glow": true,
+    "type": 3,
+    "seas": 3,
+    "scl": 3,
+    "sclMlt": 0.9,
+    "yOff": -2,
+    "rarity": 5,
+    "index": 1826,
+    "i": 1826
+  },
+  {
+    "name": "Death Rattle",
+    "id": 228,
+    "creator": "CreshorTV",
+    "weapon": 2,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1827,
+    "i": 1827
+  },
+  {
+    "name": "Cinder",
+    "id": 202,
+    "creator": "Kilfy",
+    "weapon": 4,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1828,
+    "i": 1828
+  },
+  {
+    "name": "Overloaded",
+    "id": 1,
+    "creator": "Kilfy",
+    "weapon": 12,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1829,
+    "i": 1829
+  },
+  {
+    "name": "Happy",
+    "id": 0,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1830,
+    "i": 1830
+  },
+  {
+    "name": "Smooch",
+    "id": 0,
+    "tex": 1,
+    "rarity": 4,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1831,
+    "i": 1831
+  },
+  {
+    "name": "Kawaii",
+    "id": 0,
+    "tex": 2,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1832,
+    "i": 1832
+  },
+  {
+    "name": "Smirk",
+    "id": 0,
+    "tex": 3,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1833,
+    "i": 1833
+  },
+  {
+    "name": "Upset",
+    "id": 0,
+    "tex": 4,
+    "rarity": 4,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1834,
+    "i": 1834
+  },
+  {
+    "name": "Ravatron",
+    "id": 130,
+    "rarity": 5,
+    "type": 1,
+    "glow": true,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "trans": true,
+    "index": 1835,
+    "i": 1835
+  },
+  {
+    "name": "Demon Baby",
+    "noHead": true,
+    "id": 131,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 0.8,
+    "yOff": -0.7,
+    "index": 1836,
+    "i": 1836
+  },
+  {
+    "name": "Soulless",
+    "noHead": true,
+    "id": 132,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 0.8,
+    "yOff": -0.7,
+    "index": 1837,
+    "i": 1837
+  },
+  {
+    "name": "Krunkuto",
+    "id": 133,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 1,
+    "trans": true,
+    "index": 1838,
+    "i": 1838
+  },
+  {
+    "name": "5Head",
+    "noHead": true,
+    "id": 134,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "index": 1839,
+    "i": 1839
+  },
+  {
+    "name": "Deadball",
+    "noHead": true,
+    "id": 135,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 0.8,
+    "yOff": -0.7,
+    "index": 1840,
+    "i": 1840
+  },
+  {
+    "name": "UwU",
+    "id": 0,
+    "tex": 5,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1841,
+    "i": 1841
+  },
+  {
+    "name": "Pierre",
+    "id": 0,
+    "tex": 6,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1842,
+    "i": 1842
+  },
+  {
+    "name": "Voodoo",
+    "id": 0,
+    "tex": 7,
+    "rarity": 4,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 3,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "index": 1843,
+    "i": 1843
+  },
+  {
+    "name": "Heart Cycle",
+    "id": 229,
+    "creator": "Whippii",
+    "weapon": 1,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1844,
+    "i": 1844
+  },
+  {
+    "name": "Whippii",
+    "id": 230,
+    "creator": "Whippii",
+    "weapon": 1,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1845,
+    "i": 1845
+  },
+  {
+    "name": "Automaton",
+    "id": 231,
+    "creator": "Kilfy",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1846,
+    "i": 1846
+  },
+  {
+    "name": "Soda-Licious",
+    "id": 229,
+    "creator": "Whippii",
+    "weapon": 2,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1847,
+    "i": 1847
+  },
+  {
+    "name": "TnT",
+    "midT": 3,
+    "noMuz": true,
+    "mid": 0,
+    "weapon": 3,
+    "spnScl": 1.3,
+    "scl": 0.9,
+    "mScl": 0.84,
+    "zOff": 0,
+    "yOff": 0,
+    "rarity": 3,
+    "creator": "Destroy007",
+    "seas": 3,
+    "index": 1848,
+    "i": 1848
+  },
+  {
+    "name": "Acid Bark",
+    "id": 143,
+    "creator": "CreshorTV",
+    "weapon": 5,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1849,
+    "i": 1849
+  },
+  {
+    "name": "Wharf",
+    "mid": 0,
+    "midT": 59,
+    "creator": "Whippii",
+    "weapon": 8,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1850,
+    "i": 1850
+  },
+  {
+    "name": "Railix V",
+    "id": 4,
+    "creator": "Kilfy",
+    "weapon": 11,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1851,
+    "i": 1851
+  },
+  {
+    "name": "Sidious",
+    "id": 5,
+    "creator": "Nxbulah",
+    "weapon": 11,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1852,
+    "i": 1852
+  },
+  {
+    "name": "Fleece",
+    "id": 6,
+    "creator": "Whippii",
+    "weapon": 11,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1853,
+    "i": 1853
+  },
+  {
+    "name": "Proton XV",
+    "id": 2,
+    "creator": "Cimota",
+    "weapon": 12,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1854,
+    "i": 1854
+  },
+  {
+    "name": "VR-4",
+    "id": 132,
+    "creator": "Floatingpoint",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1855,
+    "i": 1855
+  },
+  {
+    "name": "Pip Squeak",
+    "id": 2,
+    "creator": "Cimota",
+    "weapon": 16,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1856,
+    "i": 1856
+  },
+  {
+    "name": "Turbocharged",
+    "id": 1,
+    "creator": "ReDeagle",
+    "weapon": 16,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1857,
+    "i": 1857
+  },
+  {
+    "name": "Spock",
+    "noHead": true,
+    "id": 136,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "index": 1858,
+    "i": 1858
+  },
+  {
+    "name": "Miss Package",
+    "noHead": true,
+    "id": 137,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "index": 1859,
+    "i": 1859
+  },
+  {
+    "name": "Lil Jack",
+    "noHead": true,
+    "id": 138,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "index": 1860,
+    "i": 1860
+  },
+  {
+    "name": "Disco Mouse",
+    "id": 139,
+    "rarity": 5,
+    "type": 1,
+    "glow": true,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "trans": true,
+    "index": 1861,
+    "i": 1861
+  },
+  {
+    "name": "Innocent",
+    "noHead": true,
+    "id": 141,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "index": 1862,
+    "i": 1862
+  },
+  {
+    "name": "Bot 2",
+    "id": 101,
+    "tex": 1,
+    "rarity": 4,
+    "glow": true,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.9,
+    "seas": 3,
+    "index": 1863,
+    "i": 1863
+  },
+  {
+    "name": "Balloon",
+    "noHead": true,
+    "id": 140,
+    "rarity": 4,
+    "type": 1,
+    "keyW": "Hat",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.8,
+    "sitOff": 0.25,
+    "yOff": -0.7,
+    "index": 1864,
+    "i": 1864
+  },
+  {
+    "name": "Disco Shirt",
+    "id": 67,
+    "rarity": 4,
+    "glow": true,
+    "type": 2,
+    "keyW": "Body",
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": -0.6,
+    "yOff": -1,
+    "xOff": -1,
+    "trans": true,
+    "index": 1865,
+    "i": 1865
+  },
+  {
+    "name": "Shuriken",
+    "keyW": "Knife",
+    "flipAnim": true,
+    "snd": true,
+    "id": 19,
+    "glow": true,
+    "type": 3,
+    "seas": 3,
+    "scl": 1.5,
+    "sclMlt": 0.9,
+    "yOff": -2,
+    "rarity": 5,
+    "sxRot": 0.3,
+    "sxOff": 0.15,
+    "szOff": -0.35,
+    "syOff": 0.1,
+    "noSale": true,
+    "illicit": true,
+    "funds": 10000,
+    "reqT": "10000 Thrown Melee Kills",
+    "index": 1866,
+    "i": 1866
+  },
+  {
+    "name": "Mamba",
+    "keyW": "Knife",
+    "id": 20,
+    "type": 3,
+    "seas": 3,
+    "scl": 1,
+    "sclMlt": 0.7,
+    "yOff": -2,
+    "rarity": 4,
+    "sxRot": 0.3,
+    "sxOff": 0.05,
+    "szOff": -0.55,
+    "syOff": 0.6,
+    "index": 1867,
+    "i": 1867
+  },
+  {
+    "name": "Arcturus",
+    "limT": "Charity",
+    "noSale": true,
+    "noSpin": true,
+    "id": 232,
+    "creator": "Nxbulah",
+    "weapon": 1,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1868,
+    "i": 1868
+  },
+  {
+    "name": "Celeste",
+    "limT": "Charity",
+    "noSale": true,
+    "noSpin": true,
+    "id": 230,
+    "creator": "Nxbulah",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1869,
+    "i": 1869
+  },
+  {
+    "name": "Warlock",
+    "limT": "Charity",
+    "noSale": true,
+    "noSpin": true,
+    "rarity": 3,
+    "seas": 3,
+    "id": 142,
+    "type": 1,
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "yOff": -2,
+    "keyW": "Hat",
+    "index": 1870,
+    "i": 1870
+  },
+  {
+    "name": "Starlight",
+    "limT": "Charity",
+    "noSpin": true,
+    "noSale": true,
+    "rarity": 4,
+    "seas": 3,
+    "id": 68,
+    "type": 2,
+    "scl": 1,
+    "sclMlt": 0.85,
+    "sitOff": 0,
+    "sitOffZ": -0.4,
+    "yOff": -1,
+    "xOff": -1,
+    "keyW": "Body",
+    "index": 1871,
+    "i": 1871
+  },
+  {
+    "name": "Magic Wand",
+    "limT": "Charity",
+    "noSpin": true,
+    "noSale": true,
+    "rarity": 3,
+    "seas": 3,
+    "id": 21,
+    "type": 3,
+    "sxRot": -0.1,
+    "sxOff": 0.3,
+    "szOff": -0.1,
+    "scl": 1.3,
+    "yOff": -1.5,
+    "xOff": -1,
+    "keyW": "Melee",
+    "index": 1872,
+    "i": 1872
+  },
+  {
+    "name": "Star Power",
+    "limT": "Charity",
+    "noSpin": true,
+    "noSale": true,
+    "rarity": 2,
+    "seas": 3,
+    "id": 95,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1873,
+    "i": 1873
+  },
+  {
+    "name": "Shine Bright",
+    "limT": "Charity",
+    "noSpin": true,
+    "noSale": true,
+    "rarity": 2,
+    "seas": 3,
+    "id": 96,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1874,
+    "i": 1874
+  },
+  {
+    "name": "Flow",
+    "id": 231,
+    "creator": "Luminae",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1875,
+    "i": 1875
+  },
+  {
+    "name": "Freshmint",
+    "id": 232,
+    "creator": "Destroy007",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "pulsT": 0.0015,
+    "seas": 3,
+    "index": 1876,
+    "i": 1876
+  },
+  {
+    "name": "Lykos",
+    "id": 233,
+    "creator": "Skriller33",
+    "weapon": 2,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1877,
+    "i": 1877
+  },
+  {
+    "name": "Ragnarok",
+    "id": 203,
+    "creator": "Failbucket",
+    "weapon": 4,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1878,
+    "i": 1878
+  },
+  {
+    "name": "Brainstorm",
+    "id": 204,
+    "creator": "Atomize",
+    "weapon": 4,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1879,
+    "i": 1879
+  },
+  {
+    "name": "FSS Archdaemon",
+    "id": 129,
+    "creator": "floatingpoint",
+    "weapon": 7,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1880,
+    "i": 1880
+  },
+  {
+    "name": "ZE-14",
+    "mid": 0,
+    "midT": 60,
+    "creator": "Zinoob",
+    "weapon": 8,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1881,
+    "i": 1881
+  },
+  {
+    "name": "Sly",
+    "mid": 0,
+    "midT": 61,
+    "creator": "Whippii",
+    "weapon": 8,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1882,
+    "i": 1882
+  },
+  {
+    "name": "Abyssal",
+    "id": 8,
+    "creator": "Kilfy",
+    "weapon": 11,
+    "rarity": 5,
+    "glow": true,
+    "seas": 3,
+    "index": 1883,
+    "i": 1883
+  },
+  {
+    "name": "Admiral",
+    "id": 133,
+    "creator": "_irizu",
+    "weapon": 15,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1884,
+    "i": 1884
+  },
+  {
+    "name": "Nebulous",
+    "id": 135,
+    "creator": "Failbucket",
+    "weapon": 15,
+    "rarity": 2,
+    "seas": 3,
+    "index": 1885,
+    "i": 1885
+  },
+  {
+    "name": "Azeal",
+    "id": 136,
+    "creator": "Kilfy",
+    "weapon": 15,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1886,
+    "i": 1886
+  },
+  {
+    "name": "Slayer",
+    "id": 3,
+    "creator": "Multihawk",
+    "weapon": 16,
+    "rarity": 3,
+    "seas": 3,
+    "index": 1887,
+    "i": 1887
+  },
+  {
+    "name": "Skullwood",
+    "id": 1,
+    "creator": "Multihawk",
+    "weapon": 17,
+    "rarity": 3,
+    "glow": true,
+    "seas": 3,
+    "index": 1888,
+    "i": 1888
+  },
+  {
+    "name": "Big Mouth",
+    "id": 2,
+    "creator": "Cimota",
+    "weapon": 17,
+    "rarity": 4,
+    "glow": true,
+    "seas": 3,
+    "index": 1889,
+    "i": 1889
+  },
+  {
+    "name": "K.P.D Hat",
+    "keyW": "Hat",
+    "id": 143,
+    "rarity": 4,
+    "type": 1,
+    "seas": 3,
+    "sclMlt": 0.5,
+    "sitOff": 0.6,
+    "scl": 1.6,
+    "index": 1890,
+    "i": 1890
+  },
+  {
+    "name": "K.P.D Uniform",
+    "id": 11,
+    "shirtCol": 2369592,
+    "sleeveCol": 2368548,
+    "pantsCol": 2369592,
+    "shoeCol": 2368548,
+    "seas": 3,
+    "type": 5,
+    "rarity": 5,
+    "index": 1891,
+    "i": 1891
+  },
+  {
+    "name": "AP Rally",
+    "keyW": "Waist",
+    "limT": "Clan Wars",
+    "region": "Asia",
+    "rarity": 5,
+    "seas": 3,
+    "id": 10,
+    "type": 6,
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 2.8,
+    "yOff": -1.5,
+    "xOff": -1,
+    "sitOff": 0,
+    "prevRot": 4,
+    "glow": true,
+    "noLegs": true,
+    "noSpin": true,
+    "lowR": true,
+    "noSale": true,
+    "index": 1892,
+    "i": 1892
+  },
+  {
+    "name": "Chaffee",
+    "keyW": "Waist",
+    "limT": "Clan Wars",
+    "region": "North America",
+    "rarity": 5,
+    "seas": 3,
+    "id": 9,
+    "type": 6,
+    "scl": 2.1,
+    "spnScl": 2.5,
+    "sclMlt": 2.8,
+    "yOff": -1.5,
+    "xOff": -1,
+    "sitOff": 0,
+    "prevRot": 4,
+    "noLegs": true,
+    "noSpin": true,
+    "lowR": true,
+    "noSale": true,
+    "index": 1893,
+    "i": 1893
+  },
+  {
+    "name": "Magic Carpet",
+    "keyW": "Waist",
+    "limT": "Clan Wars",
+    "region": "Middle East",
+    "rarity": 5,
+    "seas": 3,
+    "id": 8,
+    "type": 6,
+    "scl": 2.1,
+    "spnScl": 3,
+    "sclMlt": 2.6,
+    "sitOff": 1.4,
+    "prevRot": 4,
+    "xOff": -2,
+    "noLegs": true,
+    "noSpin": true,
+    "lowR": true,
+    "noSale": true,
+    "index": 1894,
+    "i": 1894
+  },
+  {
+    "name": "Matryoshka",
+    "limT": "Clan Wars",
+    "region": "Eastern Europe",
+    "noSpin": true,
+    "id": 129,
+    "rarity": 5,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 1,
+    "rAnim": -0.0016,
+    "rAnimA": "y",
+    "seas": 3,
+    "noSale": true,
+    "index": 1895,
+    "i": 1895
+  },
+  {
+    "name": "Baluba",
+    "limT": "Clan Wars",
+    "region": "Africa",
+    "noSpin": true,
+    "id": 128,
+    "rarity": 5,
+    "type": 1,
+    "keyW": "Hat",
+    "scl": 1,
+    "sclMlt": 0.48,
+    "sitOff": 1,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "seas": 3,
+    "noSale": true,
+    "index": 1896,
+    "i": 1896
+  },
+  {
+    "name": "Kali",
+    "limT": "Clan Wars",
+    "region": "Oceania",
+    "keyW": "Back",
+    "noSpin": true,
+    "id": 65,
+    "type": 2,
+    "scl": 3,
+    "sclMlt": 2.6,
+    "sitOff": -1.1,
+    "sitOffZ": -2,
+    "yOff": -0.9,
+    "xOff": -0.3,
+    "rarity": 5,
+    "seas": 3,
+    "rAnim": -0.002,
+    "rAnimA": "x",
+    "noSale": true,
+    "index": 1897,
+    "i": 1897
+  },
+  {
+    "name": "Union",
+    "limT": "Clan Wars",
+    "region": "Western Europe",
+    "keyW": "Back",
+    "noSpin": true,
+    "id": 66,
+    "glow": true,
+    "type": 2,
+    "scl": 3,
+    "sclMlt": 2.6,
+    "sitOff": -1.1,
+    "sitOffZ": -2,
+    "yOff": -0.9,
+    "xOff": -0.3,
+    "rarity": 5,
+    "seas": 3,
+    "rAnim": -0.002,
+    "rAnimA": "x",
+    "noSale": true,
+    "index": 1898,
+    "i": 1898
+  },
+  {
+    "name": "Macuahuitl",
+    "limT": "Clan Wars",
+    "region": "South America",
+    "noSpin": true,
+    "id": 18,
+    "rarity": 4,
+    "type": 3,
+    "sxRot": -0.1,
+    "syOff": 0,
+    "sxOff": 0.5,
+    "szOff": -0.2,
+    "scl": 0.8,
+    "yOff": -1,
+    "xOff": -1,
+    "keyW": "Melee",
+    "seas": 3,
+    "glow": true,
+    "noSale": true,
+    "index": 1899,
+    "i": 1899
+  },
+  {
+    "name": "Haunter",
+    "limT": "Raid",
+    "noSpin": true,
+    "noSale": true,
+    "noQuickSale": true,
+    "rarity": 2,
+    "seas": 4,
+    "id": 97,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1900,
+    "i": 1900
+  },
+  {
+    "name": "Boo!",
+    "limT": "Raid",
+    "noSpin": true,
+    "noSale": true,
+    "noQuickSale": true,
+    "rarity": 2,
+    "seas": 4,
+    "id": 98,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1901,
+    "i": 1901
+  },
+  {
+    "name": "Ghast",
+    "keyW": "Waist",
+    "limT": "Raid",
+    "rarity": 4,
+    "seas": 4,
+    "id": 11,
+    "type": 6,
+    "glow": true,
+    "opac": 0.9,
+    "scl": 2.1,
+    "spnScl": 3,
+    "color": 3823936,
+    "sclMlt": 0.45,
+    "sitOff": 0.4,
+    "prevRot": 4,
+    "xOff": -2,
+    "noLegs": true,
+    "noSpin": true,
+    "lowR": true,
+    "noSale": true,
+    "noQuickSale": true,
+    "index": 1902,
+    "i": 1902
+  },
+  {
+    "name": "Pumpking",
+    "keyW": "Hat",
+    "limT": "Raid",
+    "id": 144,
+    "rarity": 4,
+    "type": 1,
+    "glow": true,
+    "seas": 4,
+    "scl": 1,
+    "sclMlt": 0.6,
+    "sitOff": 0.85,
+    "yOff": -0.7,
+    "xOff": 3.7,
+    "trans": true,
+    "noHead": true,
+    "noSale": true,
+    "noSpin": true,
+    "noQuickSale": true,
+    "index": 1903,
+    "i": 1903
+  },
+  {
+    "name": "Spooky",
+    "limT": "Raid",
+    "id": 0,
+    "tex": 8,
+    "rarity": 3,
+    "type": 7,
+    "keyW": "Face",
+    "seas": 4,
+    "sitOff": 1,
+    "sitOffZ": 0.005,
+    "trans": true,
+    "yOff": -0.7,
+    "xOff": 1.6,
+    "xRot": -0.5,
+    "noSale": true,
+    "noSpin": true,
+    "noQuickSale": true,
+    "index": 1904,
+    "i": 1904
+  },
+  {
+    "name": "Rune Lord",
+    "limT": "Raid",
+    "keyW": "Back",
+    "id": 69,
+    "glow": true,
+    "type": 2,
+    "scl": 2.3,
+    "sclMlt": 0.8,
+    "sitOff": -1.1,
+    "sitOffZ": -2,
+    "yOff": -0.9,
+    "xOff": -0.3,
+    "rarity": 5,
+    "seas": 4,
+    "color": 4235601,
+    "rAnim": -0.002,
+    "rAnimA": "x",
+    "noSale": true,
+    "noSpin": true,
+    "trans": true,
+    "emiss": 11075511,
+    "side": 2,
+    "noQuickSale": true,
+    "index": 1905,
+    "i": 1905
+  },
+  {
+    "name": "Ghostly",
+    "limT": "Raid",
+    "noSale": true,
+    "noSpin": true,
+    "id": 12,
+    "sameGlow": true,
+    "opac": 0.9,
+    "emiss": 11075511,
+    "color": 3823936,
+    "seas": 4,
+    "type": 5,
+    "rarity": 5,
+    "noQuickSale": true,
+    "index": 1906,
+    "i": 1906
+  },
+  {
+    "name": "Skelly",
+    "limT": "Raid",
+    "noSpin": true,
+    "noSale": true,
+    "rarity": 2,
+    "seas": 4,
+    "id": 99,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "noQuickSale": true,
+    "index": 1907,
+    "i": 1907
+  },
+  {
+    "name": "Halloween",
+    "limT": "Raid",
+    "noSpin": true,
+    "noSale": true,
+    "noQuickSale": true,
+    "rarity": 2,
+    "seas": 4,
+    "id": 100,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1908,
+    "i": 1908
+  },
+  {
+    "name": "Ghostly Cowboy",
+    "limT": "Raid",
+    "noSale": true,
+    "noQuickSale": true,
+    "noSpin": true,
+    "type": 1,
+    "keyW": "Head",
+    "scl": 2.5,
+    "sitOff": 0.4,
+    "glow": true,
+    "emiss": 11075511,
+    "yOff": -3,
+    "tex": 1,
+    "id": 0,
+    "seas": 4,
+    "rarity": 3,
+    "opac": 0.9,
+    "index": 1909,
+    "i": 1909
   }
 ];

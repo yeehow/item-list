@@ -8,6 +8,7 @@
 
 window.onload = function () {
     loadUpdates();
+    //filter('seas', 'all');
 }
 
 var filters = {};
@@ -16,7 +17,7 @@ var displayIndex = 0;
 var chunks = [];
 var scroll = true;
 var displayDiv = document.getElementById("display");
-var seasonLabel = document.getElementById("season");
+var categoryLabel = document.getElementById("category");
 var rarityLabel = document.getElementById("rarity");
 var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
@@ -30,13 +31,15 @@ function loadUpdates() {
     displayDiv.innerHTML = "";
     displayIndex = 0;
     updates.forEach(element => {
+        var label = element.version;
         var date = new Date(element.timestamp * 1000);
-        date = date.toLocaleDateString(undefined, { year: "numeric", month: "numeric", day: "numeric" });
-        displayLabel(`${element.version} - ${date}`);
-
+        if (date instanceof Date && !isNaN(date.valueOf())) {
+            label += " - " + date.toLocaleDateString(undefined, { year: "numeric", month: "numeric", day: "numeric" });
+        }
+        displayLabel(label);
         result = items.slice(element.startIndex, element.endIndex + 1);
-        displayIndex = 0;
         console.log(result);
+        displayIndex = 0;
         display();
     });
 }
@@ -49,22 +52,41 @@ function filter(property, value) {
             delete filters["weapon"];
             delete filters["type"];
         }
+        if (property == "category") {
+            delete filters.seas;
+            delete filters.limT;
+            delete filters.illicit;
+        }
     } else {
         if (property == "weapon") {
             delete filters.type;
         } else if (property == "type") {
             delete filters.weapon;
+        } else if (property == "seas") {
+            delete filters.limT;
+            delete filters.illicit;
+        } else if (property == "limT") {
+            delete filters.seas;
+            delete filters.illicit;
+        } else if (property == "illicit") {
+            delete filters.limT;
+            delete filters.seas;
         }
         filters[property] = value;
     }
 
-    seasonLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Season ▼";
+    categoryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
+    categoryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
+    categoryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
+
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
+
     if (filters["type"] == 3) {
-        weaponLabel.textContent = weapons[0];
+        weaponLabel.textContent = weapons[0] + " ▼";
     } else {
         weaponLabel.textContent = filters["weapon"] != null ? `${weapons[filters["weapon"]]} ▼` : "Weapon ▼";
     }
+
     if (filters["type"] != null) {
         if (filters["type"] != 3) {
             cosmeticLabel.textContent = `${cosmetics[filters["type"]]} ▼`;
@@ -74,7 +96,7 @@ function filter(property, value) {
     } else {
         cosmeticLabel.textContent = "Cosmetic ▼";
     }
-
+    searchInput.value = "";
     runFilter();
 }
 
@@ -119,7 +141,7 @@ function search(text) {
 //used to reset filters while searching
 function clearFilters() {
     filters = [];
-    seasonLabel.textContent = "Season ▼";
+    categoryLabel.textContent = "Category ▼";
     rarityLabel.textContent = "Rarity ▼"
     weaponLabel.textContent = "Weapon ▼";
     cosmeticLabel.textContent = "Cosmetic ▼";
@@ -143,9 +165,9 @@ function displayLabel(text) {
 }
 
 //sort array and seperate into chunks (pagination)
-function display() {
+function display(doChunk) {
     sortArray(result);
-    chunks = chunkArray(result, 40);
+    chunks = chunkArray(result, 100);
     displayChunk();
 }
 
@@ -236,8 +258,7 @@ window.onscroll = function (ev) {
 
 //krunker js (I didn't write this)
 function getPreview(a) {
-    return "https://assets.krunker.io/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 4 < a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png";
-    //return e.exports.assetsUrl("/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 4 < a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : t.types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png", !1, a.local)
+    return "https://assets.krunker.io/textures/" + (a.type && 4 == a.type ? "sprays/" + a.id : "previews/" + (a.type && (3 > a.type || 4 < a.type) ? "cosmetics/" + a.type + "_" + a.id + (a.tex ? "_" + a.tex : "") : types[a.type || 0] + (a.type && 3 == a.type ? a.id + (null == a.pat ? null == a.tex ? "" : "_" + a.tex : "_c" + a.pat) : (a.weapon || 0) + "_" + (null == a.mid ? null == a.pat ? a.tex ? a.tex : a.id : "c" + a.pat : "m" + a.mid + (null == a.midT ? "" : "_" + a.midT))))) + ".png" + `?v=${updates[0].version}`;
 }
 
 //krunker js (I didn't write this)
@@ -247,23 +268,18 @@ function getViewer(a) {
             return "https://krunker.io/viewer.html?class=9&hat=" + a.i;
         else if (2 == a.type)
             return "https://krunker.io/viewer.html?class=9&back=" + a.i;
-        else if (6 == a.type)
-            return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
         else if (3 == a.type)
             return "https://krunker.io/viewer.html?class=9&hidePlayer&melee=" + a.i;
-        else if (null == a.weapon && 5 == a.type)
+        else if (5 == a.type)
             return "https://krunker.io/viewer.html?class=9&dye=" + a.i;
-        else if (h[a.weapon - 1].secondary)
-            return "https://krunker.io/viewer.html?hidePlayer&swap=-1&nosup&skinIdS=" + a.i;
+        else if (6 == a.type)
+            return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
+        else if (7 == a.type)
+            return "https://krunker.io/viewer.html?class=9&face=" + a.i;
+        else if (second.includes(a.weapon - 1))
+            return "https://krunker.io/viewer.html?hidePlayer&swap=-1&nosup&skinIdS=" + a.i + "&secIndex=" + (a.weapon - 1);
         else {
-            for (var t = null, r = 0; r < v.length; r++)
-                if (v[r].loadout[0] == a.weapon - 1) {
-                    t = r;
-                    break
-                }
-            if (t != null) {
-                return "https://krunker.io/viewer.html?class=" + t + "&hidePlayer&nosup&skinIdP=" + a.i;
-            }
+            return "https://krunker.io/viewer.html?class=" + classForWeapon[a.weapon - 1] + "&hidePlayer&nosup&skinIdP=" + a.i;
         }
 }
 
