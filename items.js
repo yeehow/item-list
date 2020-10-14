@@ -21309,7 +21309,7 @@ var items = [
     "limT": "Raid",
     "noSpin": true,
     "noSale": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "rarity": 2,
     "seas": 4,
     "id": 97,
@@ -21324,7 +21324,7 @@ var items = [
     "limT": "Raid",
     "noSpin": true,
     "noSale": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "rarity": 2,
     "seas": 4,
     "id": 98,
@@ -21353,7 +21353,7 @@ var items = [
     "xOff": -2,
     "noLegs": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "lowR": true,
     "noSale": true,
     "index": 1902,
@@ -21377,7 +21377,7 @@ var items = [
     "noHead": true,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1903,
     "i": 1903
   },
@@ -21398,7 +21398,7 @@ var items = [
     "xRot": -0.5,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1904,
     "i": 1904
   },
@@ -21425,7 +21425,7 @@ var items = [
     "trans": true,
     "emiss": 11075511,
     "side": 2,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1905,
     "i": 1905
   },
@@ -21442,7 +21442,7 @@ var items = [
     "seas": 4,
     "type": 5,
     "rarity": 5,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1906,
     "i": 1906
   },
@@ -21457,7 +21457,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1907,
     "i": 1907
   },
@@ -21472,7 +21472,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1908,
     "i": 1908
   },
@@ -21492,7 +21492,7 @@ var items = [
     "id": 0,
     "seas": 4,
     "rarity": 3,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "opac": 0.9,
     "index": 1909,
     "i": 1909
@@ -21514,7 +21514,7 @@ var items = [
     "xRot": -0.5,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1910,
     "i": 1910
   },
@@ -21529,7 +21529,7 @@ var items = [
     "keyW": "Sprays",
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1911,
     "i": 1911
   },
@@ -21545,7 +21545,7 @@ var items = [
     "seas": 4,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1912,
     "i": 1912
   },
@@ -21565,7 +21565,7 @@ var items = [
     "seas": 4,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1913,
     "i": 1913
   },
@@ -21584,9 +21584,8 @@ var items = [
     "sitOffZ": 0.4,
     "prevRot": 2,
     "xOff": -2,
-    "noLegs": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "noSale": true,
     "index": 1914,
     "i": 1914
@@ -21608,8 +21607,23 @@ var items = [
     "seas": 4,
     "noSale": true,
     "noSpin": true,
-    "noQuickSale": true,
+    "noQuickSell": true,
     "index": 1915,
     "i": 1915
+  },
+  {
+    "name": "OMEGASOUL",
+    "limT": "Raid",
+    "rarity": 2,
+    "seas": 4,
+    "id": 103,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "noSale": true,
+    "noSpin": true,
+    "noQuickSell": true,
+    "index": 1916,
+    "i": 1916
   }
 ];
