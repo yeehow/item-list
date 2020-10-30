@@ -4,90 +4,70 @@ var items = [
     "id": 0,
     "weapon": 1,
     "rarity": 1,
-    "index": 0,
-    "seas": 1,
-    "i": 0
+    "index": 0
   },
   {
     "name": "Autumn Hunt",
     "id": 1,
     "weapon": 1,
     "rarity": 1,
-    "index": 1,
-    "seas": 1,
-    "i": 1
+    "index": 1
   },
   {
     "name": "Reticle Blaze",
     "id": 2,
     "weapon": 1,
     "rarity": 2,
-    "index": 2,
-    "seas": 1,
-    "i": 2
+    "index": 2
   },
   {
     "name": "Digital Hunt",
     "id": 3,
     "weapon": 1,
     "rarity": 0,
-    "index": 3,
-    "seas": 1,
-    "i": 3
+    "index": 3
   },
   {
     "name": "Moon Dragon",
     "id": 4,
     "weapon": 1,
     "rarity": 3,
-    "index": 4,
-    "seas": 1,
-    "i": 4
+    "index": 4
   },
   {
     "name": "Scharfschütze",
     "id": 5,
     "weapon": 1,
     "rarity": 1,
-    "index": 5,
-    "seas": 1,
-    "i": 5
+    "index": 5
   },
   {
     "name": "Woodland Sniper",
     "id": 6,
     "weapon": 1,
     "rarity": 0,
-    "index": 6,
-    "seas": 1,
-    "i": 6
+    "index": 6
   },
   {
     "name": "Hazard Reticle",
     "id": 7,
     "weapon": 1,
     "rarity": 1,
-    "index": 7,
-    "seas": 1,
-    "i": 7
+    "index": 7
   },
   {
     "name": "Kodac Reticle",
     "id": 8,
     "weapon": 1,
     "rarity": 1,
-    "index": 8,
-    "seas": 1,
-    "i": 8
+    "index": 8
   },
   {
     "name": "Seafarer",
     "id": 9,
     "weapon": 1,
     "rarity": 0,
-    "index": 9,
-    "seas": 1,
-    "i": 9
+    "index": 9
   },
   {
     "name": "Acid Breath",
@@ -95,567 +75,441 @@ var items = [
     "id": 10,
     "weapon": 1,
     "rarity": 3,
-    "index": 10,
-    "seas": 1,
-    "i": 10
+    "index": 10
   },
   {
     "name": "Trail Scout",
     "id": 11,
     "weapon": 1,
     "rarity": 0,
-    "index": 11,
-    "seas": 1,
-    "i": 11
+    "index": 11
   },
   {
     "name": "Arctic AK",
     "id": 0,
     "weapon": 2,
     "rarity": 1,
-    "index": 12,
-    "seas": 1,
-    "i": 12
+    "index": 12
   },
   {
     "name": "Autumn AK",
     "id": 1,
     "weapon": 2,
     "rarity": 1,
-    "index": 13,
-    "seas": 1,
-    "i": 13
+    "index": 13
   },
   {
     "name": "Blaze AK",
     "id": 2,
     "weapon": 2,
     "rarity": 2,
-    "index": 14,
-    "seas": 1,
-    "i": 14
+    "index": 14
   },
   {
     "name": "Digital AK",
     "id": 3,
     "weapon": 2,
     "rarity": 0,
-    "index": 15,
-    "seas": 1,
-    "i": 15
+    "index": 15
   },
   {
     "name": "Luna Dragon",
     "id": 4,
     "weapon": 2,
     "rarity": 3,
-    "index": 16,
-    "seas": 1,
-    "i": 16
+    "index": 16
   },
   {
     "name": "Flecken AK",
     "id": 5,
     "weapon": 2,
     "rarity": 1,
-    "index": 17,
-    "seas": 1,
-    "i": 17
+    "index": 17
   },
   {
     "name": "Woodland AK",
     "id": 6,
     "weapon": 2,
     "rarity": 0,
-    "index": 18,
-    "seas": 1,
-    "i": 18
+    "index": 18
   },
   {
     "name": "Hazard AK",
     "id": 7,
     "weapon": 2,
     "rarity": 1,
-    "index": 19,
-    "seas": 1,
-    "i": 19
+    "index": 19
   },
   {
     "name": "Kodac AK",
     "id": 8,
     "weapon": 2,
     "rarity": 1,
-    "index": 20,
-    "seas": 1,
-    "i": 20
+    "index": 20
   },
   {
     "name": "Seafarer AK",
     "id": 9,
     "weapon": 2,
     "rarity": 0,
-    "index": 21,
-    "seas": 1,
-    "i": 21
+    "index": 21
   },
   {
     "name": "Trail AK",
     "id": 10,
     "weapon": 2,
     "rarity": 0,
-    "index": 22,
-    "seas": 1,
-    "i": 22
+    "index": 22
   },
   {
     "name": "SMG Arctic",
     "id": 0,
     "weapon": 4,
     "rarity": 1,
-    "index": 23,
-    "seas": 1,
-    "i": 23
+    "index": 23
   },
   {
     "name": "SMG Autumn",
     "id": 1,
     "weapon": 4,
     "rarity": 1,
-    "index": 24,
-    "seas": 1,
-    "i": 24
+    "index": 24
   },
   {
     "name": "SMG Blaze",
     "id": 2,
     "weapon": 4,
     "rarity": 2,
-    "index": 25,
-    "seas": 1,
-    "i": 25
+    "index": 25
   },
   {
     "name": "SMG Digital",
     "id": 3,
     "weapon": 4,
     "rarity": 0,
-    "index": 26,
-    "seas": 1,
-    "i": 26
+    "index": 26
   },
   {
     "name": "SMG Flecken",
     "id": 4,
     "weapon": 4,
     "rarity": 1,
-    "index": 27,
-    "seas": 1,
-    "i": 27
+    "index": 27
   },
   {
     "name": "SMG Woodland",
     "id": 5,
     "weapon": 4,
     "rarity": 0,
-    "index": 28,
-    "seas": 1,
-    "i": 28
+    "index": 28
   },
   {
     "name": "SMG Hazard",
     "id": 6,
     "weapon": 4,
     "rarity": 1,
-    "index": 29,
-    "seas": 1,
-    "i": 29
+    "index": 29
   },
   {
     "name": "SMG Kodac",
     "id": 7,
     "weapon": 4,
     "rarity": 1,
-    "index": 30,
-    "seas": 1,
-    "i": 30
+    "index": 30
   },
   {
     "name": "SMG Seafarer",
     "id": 8,
     "weapon": 4,
     "rarity": 0,
-    "index": 31,
-    "seas": 1,
-    "i": 31
+    "index": 31
   },
   {
     "name": "SMG Trail",
     "id": 9,
     "weapon": 4,
     "rarity": 0,
-    "index": 32,
-    "seas": 1,
-    "i": 32
+    "index": 32
   },
   {
     "name": "Arctic Python",
     "id": 0,
     "weapon": 5,
     "rarity": 1,
-    "index": 33,
-    "seas": 1,
-    "i": 33
+    "index": 33
   },
   {
     "name": "Autumn Python",
     "id": 1,
     "weapon": 5,
     "rarity": 1,
-    "index": 34,
-    "seas": 1,
-    "i": 34
+    "index": 34
   },
   {
     "name": "Blaze Python",
     "id": 2,
     "weapon": 5,
     "rarity": 2,
-    "index": 35,
-    "seas": 1,
-    "i": 35
+    "index": 35
   },
   {
     "name": "Digital Python",
     "id": 3,
     "weapon": 5,
     "rarity": 0,
-    "index": 36,
-    "seas": 1,
-    "i": 36
+    "index": 36
   },
   {
     "name": "Flecken Python",
     "id": 4,
     "weapon": 5,
     "rarity": 1,
-    "index": 37,
-    "seas": 1,
-    "i": 37
+    "index": 37
   },
   {
     "name": "Woodland",
     "id": 5,
     "weapon": 5,
     "rarity": 0,
-    "index": 38,
-    "seas": 1,
-    "i": 38
+    "index": 38
   },
   {
     "name": "Hazard Python",
     "id": 6,
     "weapon": 5,
     "rarity": 1,
-    "index": 39,
-    "seas": 1,
-    "i": 39
+    "index": 39
   },
   {
     "name": "Kodac Python",
     "id": 7,
     "weapon": 5,
     "rarity": 1,
-    "index": 40,
-    "seas": 1,
-    "i": 40
+    "index": 40
   },
   {
     "name": "Seafarer",
     "id": 8,
     "weapon": 5,
     "rarity": 0,
-    "index": 41,
-    "seas": 1,
-    "i": 41
+    "index": 41
   },
   {
     "name": "Trail Python",
     "id": 9,
     "weapon": 5,
     "rarity": 0,
-    "index": 42,
-    "seas": 1,
-    "i": 42
+    "index": 42
   },
   {
     "name": "Arctic Slug",
     "id": 0,
     "weapon": 6,
     "rarity": 1,
-    "index": 43,
-    "seas": 1,
-    "i": 43
+    "index": 43
   },
   {
     "name": "Autumn Slug",
     "id": 1,
     "weapon": 6,
     "rarity": 1,
-    "index": 44,
-    "seas": 1,
-    "i": 44
+    "index": 44
   },
   {
     "name": "Twin Blaze",
     "id": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 45,
-    "seas": 1,
-    "i": 45
+    "index": 45
   },
   {
     "name": "SG Digital",
     "id": 3,
     "weapon": 6,
     "rarity": 0,
-    "index": 46,
-    "seas": 1,
-    "i": 46
+    "index": 46
   },
   {
     "name": "Flecken",
     "id": 4,
     "weapon": 6,
     "rarity": 1,
-    "index": 47,
-    "seas": 1,
-    "i": 47
+    "index": 47
   },
   {
     "name": "Woodland",
     "id": 5,
     "weapon": 6,
     "rarity": 0,
-    "index": 48,
-    "seas": 1,
-    "i": 48
+    "index": 48
   },
   {
     "name": "Hazard Slug",
     "id": 6,
     "weapon": 6,
     "rarity": 1,
-    "index": 49,
-    "seas": 1,
-    "i": 49
+    "index": 49
   },
   {
     "name": "Kodac Slug",
     "id": 7,
     "weapon": 6,
     "rarity": 1,
-    "index": 50,
-    "seas": 1,
-    "i": 50
+    "index": 50
   },
   {
     "name": "Buccaneer",
     "id": 8,
     "weapon": 6,
     "rarity": 0,
-    "index": 51,
-    "seas": 1,
-    "i": 51
+    "index": 51
   },
   {
     "name": "SG Trail",
     "id": 9,
     "weapon": 6,
     "rarity": 0,
-    "index": 52,
-    "seas": 1,
-    "i": 52
+    "index": 52
   },
   {
     "name": "Arctic LMG",
     "id": 0,
     "weapon": 7,
     "rarity": 1,
-    "index": 53,
-    "seas": 1,
-    "i": 53
+    "index": 53
   },
   {
     "name": "Autumn LMG",
     "id": 1,
     "weapon": 7,
     "rarity": 1,
-    "index": 54,
-    "seas": 1,
-    "i": 54
+    "index": 54
   },
   {
     "name": "Blaze LMG",
     "id": 2,
     "weapon": 7,
     "rarity": 2,
-    "index": 55,
-    "seas": 1,
-    "i": 55
+    "index": 55
   },
   {
     "name": "Digital LMG",
     "id": 3,
     "weapon": 7,
     "rarity": 0,
-    "index": 56,
-    "seas": 1,
-    "i": 56
+    "index": 56
   },
   {
     "name": "Flecken LMG",
     "id": 4,
     "weapon": 7,
     "rarity": 1,
-    "index": 57,
-    "seas": 1,
-    "i": 57
+    "index": 57
   },
   {
     "name": "Woodland LMG",
     "id": 5,
     "weapon": 7,
     "rarity": 0,
-    "index": 58,
-    "seas": 1,
-    "i": 58
+    "index": 58
   },
   {
     "name": "Hazard LMG",
     "id": 6,
     "weapon": 7,
     "rarity": 1,
-    "index": 59,
-    "seas": 1,
-    "i": 59
+    "index": 59
   },
   {
     "name": "Kodac LMG",
     "id": 7,
     "weapon": 7,
     "rarity": 1,
-    "index": 60,
-    "seas": 1,
-    "i": 60
+    "index": 60
   },
   {
     "name": "Seafarer LMG",
     "id": 8,
     "weapon": 7,
     "rarity": 0,
-    "index": 61,
-    "seas": 1,
-    "i": 61
+    "index": 61
   },
   {
     "name": "Trail LMG",
     "id": 9,
     "weapon": 7,
     "rarity": 0,
-    "index": 62,
-    "seas": 1,
-    "i": 62
+    "index": 62
   },
   {
     "name": "Arctic Auto",
     "id": 0,
     "weapon": 8,
     "rarity": 1,
-    "index": 63,
-    "seas": 1,
-    "i": 63
+    "index": 63
   },
   {
     "name": "Autumn Auto",
     "id": 1,
     "weapon": 8,
     "rarity": 1,
-    "index": 64,
-    "seas": 1,
-    "i": 64
+    "index": 64
   },
   {
     "name": "Blaze Auto",
     "id": 2,
     "weapon": 8,
     "rarity": 2,
-    "index": 65,
-    "seas": 1,
-    "i": 65
+    "index": 65
   },
   {
     "name": "Digital Auto",
     "id": 3,
     "weapon": 8,
     "rarity": 0,
-    "index": 66,
-    "seas": 1,
-    "i": 66
+    "index": 66
   },
   {
     "name": "Flecken Auto",
     "id": 4,
     "weapon": 8,
     "rarity": 1,
-    "index": 67,
-    "seas": 1,
-    "i": 67
+    "index": 67
   },
   {
     "name": "Woodland Auto",
     "id": 5,
     "weapon": 8,
     "rarity": 0,
-    "index": 68,
-    "seas": 1,
-    "i": 68
+    "index": 68
   },
   {
     "name": "Hazard Auto",
     "id": 6,
     "weapon": 8,
     "rarity": 1,
-    "index": 69,
-    "seas": 1,
-    "i": 69
+    "index": 69
   },
   {
     "name": "Kodac Auto",
     "id": 7,
     "weapon": 8,
     "rarity": 1,
-    "index": 70,
-    "seas": 1,
-    "i": 70
+    "index": 70
   },
   {
     "name": "Seafarer Auto",
     "id": 8,
     "weapon": 8,
     "rarity": 0,
-    "index": 71,
-    "seas": 1,
-    "i": 71
+    "index": 71
   },
   {
     "name": "Trail Auto",
     "id": 9,
     "weapon": 8,
     "rarity": 0,
-    "index": 72,
-    "seas": 1,
-    "i": 72
+    "index": 72
   },
   {
     "name": "Mach Auto",
@@ -663,333 +517,259 @@ var items = [
     "creator": "AtarSt",
     "weapon": 8,
     "rarity": 1,
-    "index": 73,
-    "seas": 1,
-    "i": 73
+    "index": 73
   },
   {
     "name": "Arctic RL",
     "id": 0,
     "weapon": 9,
     "rarity": 1,
-    "index": 74,
-    "seas": 1,
-    "i": 74
+    "index": 74
   },
   {
     "name": "Autumn RL",
     "id": 1,
     "weapon": 9,
     "rarity": 1,
-    "index": 75,
-    "seas": 1,
-    "i": 75
+    "index": 75
   },
   {
     "name": "Blaze RL",
     "id": 2,
     "weapon": 9,
     "rarity": 2,
-    "index": 76,
-    "seas": 1,
-    "i": 76
+    "index": 76
   },
   {
     "name": "Digital RL",
     "id": 3,
     "weapon": 9,
     "rarity": 0,
-    "index": 77,
-    "seas": 1,
-    "i": 77
+    "index": 77
   },
   {
     "name": "Flecken RL",
     "id": 4,
     "weapon": 9,
     "rarity": 1,
-    "index": 78,
-    "seas": 1,
-    "i": 78
+    "index": 78
   },
   {
     "name": "Woodland RL",
     "id": 5,
     "weapon": 9,
     "rarity": 0,
-    "index": 79,
-    "seas": 1,
-    "i": 79
+    "index": 79
   },
   {
     "name": "Hazard RL",
     "id": 6,
     "weapon": 9,
     "rarity": 1,
-    "index": 80,
-    "seas": 1,
-    "i": 80
+    "index": 80
   },
   {
     "name": "Kodac RL",
     "id": 7,
     "weapon": 9,
     "rarity": 1,
-    "index": 81,
-    "seas": 1,
-    "i": 81
+    "index": 81
   },
   {
     "name": "Seafarer RL",
     "id": 8,
     "weapon": 9,
     "rarity": 0,
-    "index": 82,
-    "seas": 1,
-    "i": 82
+    "index": 82
   },
   {
     "name": "Trail RL",
     "id": 9,
     "weapon": 9,
     "rarity": 0,
-    "index": 83,
-    "seas": 1,
-    "i": 83
+    "index": 83
   },
   {
     "name": "101 Skullbreaker",
     "id": 12,
     "weapon": 1,
     "rarity": 3,
-    "index": 84,
-    "seas": 1,
-    "i": 84
+    "index": 84
   },
   {
     "name": "Reticle Faded",
     "id": 13,
     "weapon": 1,
     "rarity": 0,
-    "index": 85,
-    "seas": 1,
-    "i": 85
+    "index": 85
   },
   {
     "name": "Puma Sniper",
     "id": 14,
     "weapon": 1,
     "rarity": 0,
-    "index": 86,
-    "seas": 1,
-    "i": 86
+    "index": 86
   },
   {
     "name": "Scoped Elite",
     "id": 15,
     "weapon": 1,
     "rarity": 2,
-    "index": 87,
-    "seas": 1,
-    "i": 87
+    "index": 87
   },
   {
     "name": "Faded AK",
     "id": 11,
     "weapon": 2,
     "rarity": 0,
-    "index": 88,
-    "seas": 1,
-    "i": 88
+    "index": 88
   },
   {
     "name": "Puma AR",
     "id": 12,
     "weapon": 2,
     "rarity": 1,
-    "index": 89,
-    "seas": 1,
-    "i": 89
+    "index": 89
   },
   {
     "name": "SMG Fade",
     "id": 10,
     "weapon": 4,
     "rarity": 0,
-    "index": 90,
-    "seas": 1,
-    "i": 90
+    "index": 90
   },
   {
     "name": "SMG Puma",
     "id": 11,
     "weapon": 4,
     "rarity": 1,
-    "index": 91,
-    "seas": 1,
-    "i": 91
+    "index": 91
   },
   {
     "name": "Faded Python",
     "id": 10,
     "weapon": 5,
     "rarity": 0,
-    "index": 92,
-    "seas": 1,
-    "i": 92
+    "index": 92
   },
   {
     "name": "Puma Python",
     "id": 11,
     "weapon": 5,
     "rarity": 1,
-    "index": 93,
-    "seas": 1,
-    "i": 93
+    "index": 93
   },
   {
     "name": "SG Fade",
     "id": 10,
     "weapon": 6,
     "rarity": 0,
-    "index": 94,
-    "seas": 1,
-    "i": 94
+    "index": 94
   },
   {
     "name": "Slug Puma",
     "id": 11,
     "weapon": 6,
     "rarity": 1,
-    "index": 95,
-    "seas": 1,
-    "i": 95
+    "index": 95
   },
   {
     "name": "Faded LMG",
     "id": 10,
     "weapon": 7,
     "rarity": 0,
-    "index": 96,
-    "seas": 1,
-    "i": 96
+    "index": 96
   },
   {
     "name": "Puma LMG",
     "id": 11,
     "weapon": 7,
     "rarity": 1,
-    "index": 97,
-    "seas": 1,
-    "i": 97
+    "index": 97
   },
   {
     "name": "Faded MMR",
     "id": 11,
     "weapon": 8,
     "rarity": 0,
-    "index": 98,
-    "seas": 1,
-    "i": 98
+    "index": 98
   },
   {
     "name": "Puma MMR",
     "id": 12,
     "weapon": 8,
     "rarity": 1,
-    "index": 99,
-    "seas": 1,
-    "i": 99
+    "index": 99
   },
   {
     "name": "Faded RTL",
     "id": 10,
     "weapon": 9,
     "rarity": 0,
-    "index": 100,
-    "seas": 1,
-    "i": 100
+    "index": 100
   },
   {
     "name": "Puma RTL",
     "id": 11,
     "weapon": 9,
     "rarity": 1,
-    "index": 101,
-    "seas": 1,
-    "i": 101
+    "index": 101
   },
   {
     "name": "Scoped Carbon",
     "id": 16,
     "weapon": 1,
     "rarity": 0,
-    "index": 102,
-    "seas": 1,
-    "i": 102
+    "index": 102
   },
   {
     "name": "Carbon AK",
     "id": 13,
     "weapon": 2,
     "rarity": 0,
-    "index": 103,
-    "seas": 1,
-    "i": 103
+    "index": 103
   },
   {
     "name": "SMG Carbon",
     "id": 12,
     "weapon": 4,
     "rarity": 0,
-    "index": 104,
-    "seas": 1,
-    "i": 104
+    "index": 104
   },
   {
     "name": "Carbon Python",
     "id": 12,
     "weapon": 5,
     "rarity": 0,
-    "index": 105,
-    "seas": 1,
-    "i": 105
+    "index": 105
   },
   {
     "name": "SG Carbon",
     "id": 12,
     "weapon": 6,
     "rarity": 0,
-    "index": 106,
-    "seas": 1,
-    "i": 106
+    "index": 106
   },
   {
     "name": "Carbon LMG",
     "id": 12,
     "weapon": 7,
     "rarity": 0,
-    "index": 107,
-    "seas": 1,
-    "i": 107
+    "index": 107
   },
   {
     "name": "Carbon MMR",
     "id": 13,
     "weapon": 8,
     "rarity": 0,
-    "index": 108,
-    "seas": 1,
-    "i": 108
+    "index": 108
   },
   {
     "name": "Carbon RTL",
     "id": 12,
     "weapon": 9,
     "rarity": 0,
-    "index": 109,
-    "seas": 1,
-    "i": 109
+    "index": 109
   },
   {
     "name": "Neon Ripper",
@@ -997,9 +777,7 @@ var items = [
     "glow": true,
     "weapon": 2,
     "rarity": 4,
-    "index": 110,
-    "seas": 1,
-    "i": 110
+    "index": 110
   },
   {
     "name": "Top Hat",
@@ -1010,18 +788,14 @@ var items = [
     "yOff": -4,
     "id": 1,
     "rarity": 2,
-    "index": 111,
-    "seas": 1,
-    "i": 111
+    "index": 111
   },
   {
     "name": "SMG Spitfire",
     "id": 13,
     "weapon": 4,
     "rarity": 3,
-    "index": 112,
-    "seas": 1,
-    "i": 112
+    "index": 112
   },
   {
     "name": "Cowboy Hat",
@@ -1032,9 +806,7 @@ var items = [
     "yOff": -3,
     "id": 0,
     "rarity": 0,
-    "index": 113,
-    "seas": 1,
-    "i": 113
+    "index": 113
   },
   {
     "name": "Flame Tamer",
@@ -1043,9 +815,7 @@ var items = [
     "weapon": 5,
     "glow": true,
     "rarity": 5,
-    "index": 114,
-    "seas": 1,
-    "i": 114
+    "index": 114
   },
   {
     "name": "Cool Cap",
@@ -1057,9 +827,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
-    "index": 115,
-    "seas": 1,
-    "i": 115
+    "index": 115
   },
   {
     "name": "Jack O' Lantern",
@@ -1072,9 +840,7 @@ var items = [
     "yOff": -4,
     "id": 3,
     "rarity": 3,
-    "index": 116,
-    "seas": 1,
-    "i": 116
+    "index": 116
   },
   {
     "name": "Medic Helmet",
@@ -1086,9 +852,7 @@ var items = [
     "yOff": -2.5,
     "id": 4,
     "rarity": 2,
-    "index": 117,
-    "seas": 1,
-    "i": 117
+    "index": 117
   },
   {
     "name": "Neon Reaver",
@@ -1097,9 +861,7 @@ var items = [
     "glow": true,
     "weapon": 1,
     "rarity": 4,
-    "index": 118,
-    "seas": 1,
-    "i": 118
+    "index": 118
   },
   {
     "name": "Sun Glasses",
@@ -1112,9 +874,7 @@ var items = [
     "xOff": 2,
     "id": 5,
     "rarity": 0,
-    "index": 119,
-    "seas": 1,
-    "i": 119
+    "index": 119
   },
   {
     "name": "Afro",
@@ -1126,9 +886,7 @@ var items = [
     "yOff": -4,
     "id": 6,
     "rarity": 0,
-    "index": 120,
-    "seas": 1,
-    "i": 120
+    "index": 120
   },
   {
     "name": "Hard Hat",
@@ -1139,9 +897,7 @@ var items = [
     "yOff": -3,
     "id": 7,
     "rarity": 0,
-    "index": 121,
-    "seas": 1,
-    "i": 121
+    "index": 121
   },
   {
     "name": "Zombie Head",
@@ -1154,54 +910,42 @@ var items = [
     "yOff": -4,
     "id": 8,
     "rarity": 3,
-    "index": 122,
-    "seas": 1,
-    "i": 122
+    "index": 122
   },
   {
     "name": "Barbed Rifle",
     "id": 18,
     "weapon": 1,
     "rarity": 2,
-    "index": 123,
-    "seas": 1,
-    "i": 123
+    "index": 123
   },
   {
     "name": "Blushed Sniper",
     "id": 19,
     "weapon": 1,
     "rarity": 0,
-    "index": 124,
-    "seas": 1,
-    "i": 124
+    "index": 124
   },
   {
     "name": "AWP Mech",
     "id": 20,
     "weapon": 1,
     "rarity": 1,
-    "index": 125,
-    "seas": 1,
-    "i": 125
+    "index": 125
   },
   {
     "name": "Olympus Rifle",
     "id": 21,
     "weapon": 1,
     "rarity": 2,
-    "index": 126,
-    "seas": 1,
-    "i": 126
+    "index": 126
   },
   {
     "name": "Scoped Tuscan",
     "id": 22,
     "weapon": 1,
     "rarity": 1,
-    "index": 127,
-    "seas": 1,
-    "i": 127
+    "index": 127
   },
   {
     "name": "AWP Pacemaker",
@@ -1209,315 +953,245 @@ var items = [
     "weapon": 1,
     "rarity": 4,
     "glow": true,
-    "index": 128,
-    "seas": 1,
-    "i": 128
+    "index": 128
   },
   {
     "name": "AR Wired",
     "id": 15,
     "weapon": 2,
     "rarity": 2,
-    "index": 129,
-    "seas": 1,
-    "i": 129
+    "index": 129
   },
   {
     "name": "Blushed AK",
     "id": 16,
     "weapon": 2,
     "rarity": 0,
-    "index": 130,
-    "seas": 1,
-    "i": 130
+    "index": 130
   },
   {
     "name": "Mach Rifle",
     "id": 17,
     "weapon": 2,
     "rarity": 1,
-    "index": 131,
-    "seas": 1,
-    "i": 131
+    "index": 131
   },
   {
     "name": "Olympus Rifle",
     "id": 18,
     "weapon": 2,
     "rarity": 2,
-    "index": 132,
-    "seas": 1,
-    "i": 132
+    "index": 132
   },
   {
     "name": "AR Tuscan",
     "id": 19,
     "weapon": 2,
     "rarity": 1,
-    "index": 133,
-    "seas": 1,
-    "i": 133
+    "index": 133
   },
   {
     "name": "SMG Barbed",
     "id": 14,
     "weapon": 4,
     "rarity": 2,
-    "index": 134,
-    "seas": 1,
-    "i": 134
+    "index": 134
   },
   {
     "name": "SMG Blossom",
     "id": 15,
     "weapon": 4,
     "rarity": 0,
-    "index": 135,
-    "seas": 1,
-    "i": 135
+    "index": 135
   },
   {
     "name": "SMG Machinist",
     "id": 16,
     "weapon": 4,
     "rarity": 1,
-    "index": 136,
-    "seas": 1,
-    "i": 136
+    "index": 136
   },
   {
     "name": "SMG Lazarus",
     "id": 17,
     "weapon": 4,
     "rarity": 2,
-    "index": 137,
-    "seas": 1,
-    "i": 137
+    "index": 137
   },
   {
     "name": "SMG Tuscan",
     "id": 18,
     "weapon": 4,
     "rarity": 1,
-    "index": 138,
-    "seas": 1,
-    "i": 138
+    "index": 138
   },
   {
     "name": "Barbed Python",
     "id": 14,
     "weapon": 5,
     "rarity": 2,
-    "index": 139,
-    "seas": 1,
-    "i": 139
+    "index": 139
   },
   {
     "name": "Blushed Revolver",
     "id": 15,
     "weapon": 5,
     "rarity": 0,
-    "index": 140,
-    "seas": 1,
-    "i": 140
+    "index": 140
   },
   {
     "name": "Machinist Python",
     "id": 16,
     "weapon": 5,
     "rarity": 1,
-    "index": 141,
-    "seas": 1,
-    "i": 141
+    "index": 141
   },
   {
     "name": "REV Olympus",
     "id": 17,
     "weapon": 5,
     "rarity": 2,
-    "index": 142,
-    "seas": 1,
-    "i": 142
+    "index": 142
   },
   {
     "name": "Tuscan Revolver",
     "id": 18,
     "weapon": 5,
     "rarity": 1,
-    "index": 143,
-    "seas": 1,
-    "i": 143
+    "index": 143
   },
   {
     "name": "Coach Barb",
     "id": 13,
     "weapon": 6,
     "rarity": 2,
-    "index": 144,
-    "seas": 1,
-    "i": 144
+    "index": 144
   },
   {
     "name": "Blossom",
     "id": 14,
     "weapon": 6,
     "rarity": 0,
-    "index": 145,
-    "seas": 1,
-    "i": 145
+    "index": 145
   },
   {
     "name": "MD Frag",
     "id": 15,
     "weapon": 6,
     "rarity": 1,
-    "index": 146,
-    "seas": 1,
-    "i": 146
+    "index": 146
   },
   {
     "name": "SG Olympus",
     "id": 16,
     "weapon": 6,
     "rarity": 2,
-    "index": 147,
-    "seas": 1,
-    "i": 147
+    "index": 147
   },
   {
     "name": "SG Tuscan",
     "id": 17,
     "weapon": 6,
     "rarity": 1,
-    "index": 148,
-    "seas": 1,
-    "i": 148
+    "index": 148
   },
   {
     "name": "Blushed LMG",
     "id": 13,
     "weapon": 7,
     "rarity": 0,
-    "index": 149,
-    "seas": 1,
-    "i": 149
+    "index": 149
   },
   {
     "name": "Machinist LMG",
     "id": 14,
     "weapon": 7,
     "rarity": 1,
-    "index": 150,
-    "seas": 1,
-    "i": 150
+    "index": 150
   },
   {
     "name": "Olympus LMG",
     "id": 15,
     "weapon": 7,
     "rarity": 2,
-    "index": 151,
-    "seas": 1,
-    "i": 151
+    "index": 151
   },
   {
     "name": "Tuscan LMG",
     "id": 16,
     "weapon": 7,
     "rarity": 1,
-    "index": 152,
-    "seas": 1,
-    "i": 152
+    "index": 152
   },
   {
     "name": "Barbed Auto",
     "id": 14,
     "weapon": 8,
     "rarity": 2,
-    "index": 153,
-    "seas": 1,
-    "i": 153
+    "index": 153
   },
   {
     "name": "Blushed MMA",
     "id": 15,
     "weapon": 8,
     "rarity": 0,
-    "index": 154,
-    "seas": 1,
-    "i": 154
+    "index": 154
   },
   {
     "name": "Auto Machinist",
     "id": 16,
     "weapon": 8,
     "rarity": 1,
-    "index": 155,
-    "seas": 1,
-    "i": 155
+    "index": 155
   },
   {
     "name": "Olympus MMA",
     "id": 17,
     "weapon": 8,
     "rarity": 2,
-    "index": 156,
-    "seas": 1,
-    "i": 156
+    "index": 156
   },
   {
     "name": "Tuscan MMA",
     "id": 18,
     "weapon": 8,
     "rarity": 1,
-    "index": 157,
-    "seas": 1,
-    "i": 157
+    "index": 157
   },
   {
     "name": "Barbed Launcher",
     "id": 13,
     "weapon": 9,
     "rarity": 2,
-    "index": 158,
-    "seas": 1,
-    "i": 158
+    "index": 158
   },
   {
     "name": "Blushed Launcher",
     "id": 14,
     "weapon": 9,
     "rarity": 0,
-    "index": 159,
-    "seas": 1,
-    "i": 159
+    "index": 159
   },
   {
     "name": "Machinist Launcher",
     "id": 15,
     "weapon": 9,
     "rarity": 1,
-    "index": 160,
-    "seas": 1,
-    "i": 160
+    "index": 160
   },
   {
     "name": "Olympus Launcher",
     "id": 16,
     "weapon": 9,
     "rarity": 2,
-    "index": 161,
-    "seas": 1,
-    "i": 161
+    "index": 161
   },
   {
     "name": "Tuscan Launcher",
     "id": 17,
     "weapon": 9,
     "rarity": 1,
-    "index": 162,
-    "seas": 1,
-    "i": 162
+    "index": 162
   },
   {
     "name": "Omen",
@@ -1526,45 +1200,35 @@ var items = [
     "creator": "Zino",
     "weapon": 1,
     "rarity": 3,
-    "index": 163,
-    "seas": 1,
-    "i": 163
+    "index": 163
   },
   {
     "name": "Scoped Moss",
     "id": 25,
     "weapon": 1,
     "rarity": 0,
-    "index": 164,
-    "seas": 1,
-    "i": 164
+    "index": 164
   },
   {
     "name": "Swamped Scope",
     "id": 26,
     "weapon": 1,
     "rarity": 0,
-    "index": 165,
-    "seas": 1,
-    "i": 165
+    "index": 165
   },
   {
     "name": "Tiger Bolt",
     "id": 27,
     "weapon": 1,
     "rarity": 2,
-    "index": 166,
-    "seas": 1,
-    "i": 166
+    "index": 166
   },
   {
     "name": "Zebra Bolt",
     "id": 28,
     "weapon": 1,
     "rarity": 2,
-    "index": 167,
-    "seas": 1,
-    "i": 167
+    "index": 167
   },
   {
     "name": "Necron Bolt",
@@ -1572,81 +1236,63 @@ var items = [
     "weapon": 1,
     "rarity": 4,
     "glow": true,
-    "index": 168,
-    "seas": 1,
-    "i": 168
+    "index": 168
   },
   {
     "name": "Lava Bolt",
     "id": 30,
     "weapon": 1,
     "rarity": 3,
-    "index": 169,
-    "seas": 1,
-    "i": 169
+    "index": 169
   },
   {
     "name": "Sky Bolt",
     "id": 31,
     "weapon": 1,
     "rarity": 2,
-    "index": 170,
-    "seas": 1,
-    "i": 170
+    "index": 170
   },
   {
     "name": "AWP Iris",
     "id": 32,
     "weapon": 1,
     "rarity": 1,
-    "index": 171,
-    "seas": 1,
-    "i": 171
+    "index": 171
   },
   {
     "name": "Bolt Wanderer",
     "id": 33,
     "weapon": 1,
     "rarity": 1,
-    "index": 172,
-    "seas": 1,
-    "i": 172
+    "index": 172
   },
   {
     "name": "Mossy Rifle",
     "id": 20,
     "weapon": 2,
     "rarity": 1,
-    "index": 173,
-    "seas": 1,
-    "i": 173
+    "index": 173
   },
   {
     "name": "Swamped AK",
     "id": 21,
     "weapon": 2,
     "rarity": 0,
-    "index": 174,
-    "seas": 1,
-    "i": 174
+    "index": 174
   },
   {
     "name": "Tiger Rifle",
     "id": 22,
     "weapon": 2,
     "rarity": 2,
-    "index": 175,
-    "seas": 1,
-    "i": 175
+    "index": 175
   },
   {
     "name": "Zebra Rifle",
     "id": 23,
     "weapon": 2,
     "rarity": 2,
-    "index": 176,
-    "seas": 1,
-    "i": 176
+    "index": 176
   },
   {
     "name": "Plasma Rifle",
@@ -1654,9 +1300,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "glow": true,
-    "index": 177,
-    "seas": 1,
-    "i": 177
+    "index": 177
   },
   {
     "name": "Lava Rifle",
@@ -1664,72 +1308,56 @@ var items = [
     "weapon": 2,
     "glow": true,
     "rarity": 3,
-    "index": 178,
-    "seas": 1,
-    "i": 178
+    "index": 178
   },
   {
     "name": "Sky Rifle",
     "id": 26,
     "weapon": 2,
     "rarity": 2,
-    "index": 179,
-    "seas": 1,
-    "i": 179
+    "index": 179
   },
   {
     "name": "Bark AK",
     "id": 27,
     "weapon": 2,
     "rarity": 0,
-    "index": 180,
-    "seas": 1,
-    "i": 180
+    "index": 180
   },
   {
     "name": "Rifle Wanderer",
     "id": 28,
     "weapon": 2,
     "rarity": 0,
-    "index": 181,
-    "seas": 1,
-    "i": 181
+    "index": 181
   },
   {
     "name": "SMG Growth",
     "id": 19,
     "weapon": 4,
     "rarity": 1,
-    "index": 182,
-    "seas": 1,
-    "i": 182
+    "index": 182
   },
   {
     "name": "SMG Marsh",
     "id": 20,
     "weapon": 4,
     "rarity": 0,
-    "index": 183,
-    "seas": 1,
-    "i": 183
+    "index": 183
   },
   {
     "name": "SMG Tigris",
     "id": 21,
     "weapon": 4,
     "rarity": 2,
-    "index": 184,
-    "seas": 1,
-    "i": 184
+    "index": 184
   },
   {
     "name": "SMG Safari",
     "id": 22,
     "weapon": 4,
     "rarity": 2,
-    "index": 185,
-    "seas": 1,
-    "i": 185
+    "index": 185
   },
   {
     "name": "Rapid Plasma",
@@ -1737,9 +1365,7 @@ var items = [
     "weapon": 4,
     "rarity": 4,
     "glow": true,
-    "index": 186,
-    "seas": 1,
-    "i": 186
+    "index": 186
   },
   {
     "name": "Lava SMG",
@@ -1747,72 +1373,56 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "glow": true,
-    "index": 187,
-    "seas": 1,
-    "i": 187
+    "index": 187
   },
   {
     "name": "UMP Atmos",
     "id": 25,
     "weapon": 4,
     "rarity": 2,
-    "index": 188,
-    "seas": 1,
-    "i": 188
+    "index": 188
   },
   {
     "name": "Birch SMG",
     "id": 26,
     "weapon": 4,
     "rarity": 0,
-    "index": 189,
-    "seas": 1,
-    "i": 189
+    "index": 189
   },
   {
     "name": "SMG Wanderer",
     "id": 27,
     "weapon": 4,
     "rarity": 0,
-    "index": 190,
-    "seas": 1,
-    "i": 190
+    "index": 190
   },
   {
     "name": "Mossy Python",
     "id": 19,
     "weapon": 5,
     "rarity": 1,
-    "index": 191,
-    "seas": 1,
-    "i": 191
+    "index": 191
   },
   {
     "name": "Swamped Revolver",
     "id": 20,
     "weapon": 5,
     "rarity": 0,
-    "index": 192,
-    "seas": 1,
-    "i": 192
+    "index": 192
   },
   {
     "name": "Tiger Python",
     "id": 21,
     "weapon": 5,
     "rarity": 2,
-    "index": 193,
-    "seas": 1,
-    "i": 193
+    "index": 193
   },
   {
     "name": "Zebra Python",
     "id": 22,
     "weapon": 5,
     "rarity": 2,
-    "index": 194,
-    "seas": 1,
-    "i": 194
+    "index": 194
   },
   {
     "name": "Venomous",
@@ -1821,18 +1431,14 @@ var items = [
     "id": 23,
     "weapon": 5,
     "rarity": 3,
-    "index": 195,
-    "seas": 1,
-    "i": 195
+    "index": 195
   },
   {
     "name": "Lava Revolver",
     "id": 24,
     "weapon": 5,
     "rarity": 3,
-    "index": 196,
-    "seas": 1,
-    "i": 196
+    "index": 196
   },
   {
     "name": "Sky Python",
@@ -1840,63 +1446,49 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "glow": true,
-    "index": 197,
-    "seas": 1,
-    "i": 197
+    "index": 197
   },
   {
     "name": "Bark Python",
     "id": 26,
     "weapon": 5,
     "rarity": 0,
-    "index": 198,
-    "seas": 1,
-    "i": 198
+    "index": 198
   },
   {
     "name": "Wanderer Python",
     "id": 27,
     "weapon": 5,
     "rarity": 0,
-    "index": 199,
-    "seas": 1,
-    "i": 199
+    "index": 199
   },
   {
     "name": "Gabrand",
     "id": 19,
     "weapon": 6,
     "rarity": 1,
-    "index": 200,
-    "seas": 1,
-    "i": 200
+    "index": 200
   },
   {
     "name": "Tennessee",
     "id": 20,
     "weapon": 6,
     "rarity": 0,
-    "index": 201,
-    "seas": 1,
-    "i": 201
+    "index": 201
   },
   {
     "name": "SG Tigris",
     "id": 21,
     "weapon": 6,
     "rarity": 2,
-    "index": 202,
-    "seas": 1,
-    "i": 202
+    "index": 202
   },
   {
     "name": "Safaris",
     "id": 22,
     "weapon": 6,
     "rarity": 2,
-    "index": 203,
-    "seas": 1,
-    "i": 203
+    "index": 203
   },
   {
     "name": "Neuromance",
@@ -1904,9 +1496,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "glow": true,
-    "index": 204,
-    "seas": 1,
-    "i": 204
+    "index": 204
   },
   {
     "name": "Anatomis",
@@ -1914,72 +1504,56 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "glow": true,
-    "index": 205,
-    "seas": 1,
-    "i": 205
+    "index": 205
   },
   {
     "name": "Sky Pump",
     "id": 25,
     "weapon": 6,
     "rarity": 2,
-    "index": 206,
-    "seas": 1,
-    "i": 206
+    "index": 206
   },
   {
     "name": "Bark Slug",
     "id": 26,
     "weapon": 6,
     "rarity": 0,
-    "index": 207,
-    "seas": 1,
-    "i": 207
+    "index": 207
   },
   {
     "name": "Slug Wanderer",
     "id": 27,
     "weapon": 6,
     "rarity": 0,
-    "index": 208,
-    "seas": 1,
-    "i": 208
+    "index": 208
   },
   {
     "name": "Mossy LMG",
     "id": 17,
     "weapon": 7,
     "rarity": 1,
-    "index": 209,
-    "seas": 1,
-    "i": 209
+    "index": 209
   },
   {
     "name": "Swamped LMG",
     "id": 18,
     "weapon": 7,
     "rarity": 0,
-    "index": 210,
-    "seas": 1,
-    "i": 210
+    "index": 210
   },
   {
     "name": "Tiger LMG",
     "id": 19,
     "weapon": 7,
     "rarity": 2,
-    "index": 211,
-    "seas": 1,
-    "i": 211
+    "index": 211
   },
   {
     "name": "Zebra LMG",
     "id": 20,
     "weapon": 7,
     "rarity": 2,
-    "index": 212,
-    "seas": 1,
-    "i": 212
+    "index": 212
   },
   {
     "name": "Heavy Plasma",
@@ -1987,18 +1561,14 @@ var items = [
     "weapon": 7,
     "rarity": 4,
     "glow": true,
-    "index": 213,
-    "seas": 1,
-    "i": 213
+    "index": 213
   },
   {
     "name": "Lava LMG",
     "id": 22,
     "weapon": 7,
     "rarity": 3,
-    "index": 214,
-    "seas": 1,
-    "i": 214
+    "index": 214
   },
   {
     "name": "Sky LMG",
@@ -2006,63 +1576,49 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "glow": true,
-    "index": 215,
-    "seas": 1,
-    "i": 215
+    "index": 215
   },
   {
     "name": "Bark LMG",
     "id": 24,
     "weapon": 7,
     "rarity": 0,
-    "index": 216,
-    "seas": 1,
-    "i": 216
+    "index": 216
   },
   {
     "name": "LMG Wanderer",
     "id": 25,
     "weapon": 7,
     "rarity": 0,
-    "index": 217,
-    "seas": 1,
-    "i": 217
+    "index": 217
   },
   {
     "name": "Overgrowth",
     "id": 19,
     "weapon": 8,
     "rarity": 1,
-    "index": 218,
-    "seas": 1,
-    "i": 218
+    "index": 218
   },
   {
     "name": "Marshland",
     "id": 20,
     "weapon": 8,
     "rarity": 0,
-    "index": 219,
-    "seas": 1,
-    "i": 219
+    "index": 219
   },
   {
     "name": "Tiger MMA",
     "id": 21,
     "weapon": 8,
     "rarity": 2,
-    "index": 220,
-    "seas": 1,
-    "i": 220
+    "index": 220
   },
   {
     "name": "Zebra MMA",
     "id": 22,
     "weapon": 8,
     "rarity": 2,
-    "index": 221,
-    "seas": 1,
-    "i": 221
+    "index": 221
   },
   {
     "name": "MMA Plasma",
@@ -2070,9 +1626,7 @@ var items = [
     "weapon": 8,
     "rarity": 4,
     "glow": true,
-    "index": 222,
-    "seas": 1,
-    "i": 222
+    "index": 222
   },
   {
     "name": "Magnis",
@@ -2080,72 +1634,56 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "glow": true,
-    "index": 223,
-    "seas": 1,
-    "i": 223
+    "index": 223
   },
   {
     "name": "Sky AUTO",
     "id": 25,
     "weapon": 8,
     "rarity": 2,
-    "index": 224,
-    "seas": 1,
-    "i": 224
+    "index": 224
   },
   {
     "name": "Bark AUTO",
     "id": 26,
     "weapon": 8,
     "rarity": 0,
-    "index": 225,
-    "seas": 1,
-    "i": 225
+    "index": 225
   },
   {
     "name": "MMA Wanderer",
     "id": 27,
     "weapon": 8,
     "rarity": 0,
-    "index": 226,
-    "seas": 1,
-    "i": 226
+    "index": 226
   },
   {
     "name": "Mossy Rocket",
     "id": 18,
     "weapon": 9,
     "rarity": 1,
-    "index": 227,
-    "seas": 1,
-    "i": 227
+    "index": 227
   },
   {
     "name": "Swamped Launcher",
     "id": 19,
     "weapon": 9,
     "rarity": 0,
-    "index": 228,
-    "seas": 1,
-    "i": 228
+    "index": 228
   },
   {
     "name": "Tiger Rocket",
     "id": 20,
     "weapon": 9,
     "rarity": 2,
-    "index": 229,
-    "seas": 1,
-    "i": 229
+    "index": 229
   },
   {
     "name": "Zebra Launcher",
     "id": 21,
     "weapon": 9,
     "rarity": 2,
-    "index": 230,
-    "seas": 1,
-    "i": 230
+    "index": 230
   },
   {
     "name": "Plasma Nuke",
@@ -2153,45 +1691,35 @@ var items = [
     "weapon": 9,
     "rarity": 4,
     "glow": true,
-    "index": 231,
-    "seas": 1,
-    "i": 231
+    "index": 231
   },
   {
     "name": "Lava Rocket",
     "id": 23,
     "weapon": 9,
     "rarity": 3,
-    "index": 232,
-    "seas": 1,
-    "i": 232
+    "index": 232
   },
   {
     "name": "Sky Launcher",
     "id": 24,
     "weapon": 9,
     "rarity": 2,
-    "index": 233,
-    "seas": 1,
-    "i": 233
+    "index": 233
   },
   {
     "name": "Bark Launcher",
     "id": 25,
     "weapon": 9,
     "rarity": 0,
-    "index": 234,
-    "seas": 1,
-    "i": 234
+    "index": 234
   },
   {
     "name": "Wanderer Rocket",
     "id": 26,
     "weapon": 9,
     "rarity": 0,
-    "index": 235,
-    "seas": 1,
-    "i": 235
+    "index": 235
   },
   {
     "name": "Purple Cap",
@@ -2204,9 +1732,7 @@ var items = [
     "yOff": -3,
     "xOff": 2,
     "rarity": 0,
-    "index": 236,
-    "seas": 1,
-    "i": 236
+    "index": 236
   },
   {
     "name": "Bear Mask",
@@ -2219,9 +1745,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 2,
-    "index": 237,
-    "seas": 1,
-    "i": 237
+    "index": 237
   },
   {
     "name": "Panda Mask",
@@ -2235,9 +1759,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 2,
-    "index": 238,
-    "seas": 1,
-    "i": 238
+    "index": 238
   },
   {
     "name": "Brown Beard",
@@ -2249,9 +1771,7 @@ var items = [
     "sitOff": 2,
     "yOff": -3,
     "rarity": 2,
-    "index": 239,
-    "seas": 1,
-    "i": 239
+    "index": 239
   },
   {
     "name": "Blonde Beard",
@@ -2264,9 +1784,7 @@ var items = [
     "sitOff": 2,
     "yOff": -3,
     "rarity": 2,
-    "index": 240,
-    "seas": 1,
-    "i": 240
+    "index": 240
   },
   {
     "name": "Skull Mask",
@@ -2282,9 +1800,7 @@ var items = [
     "xOff": -3,
     "tex": 0,
     "rarity": 3,
-    "index": 241,
-    "seas": 1,
-    "i": 241
+    "index": 241
   },
   {
     "name": "Red Beanie",
@@ -2297,9 +1813,7 @@ var items = [
     "yOff": -3,
     "tex": 0,
     "rarity": 0,
-    "index": 242,
-    "seas": 1,
-    "i": 242
+    "index": 242
   },
   {
     "name": "Blue Beanie",
@@ -2312,9 +1826,7 @@ var items = [
     "yOff": -3,
     "tex": 1,
     "rarity": 0,
-    "index": 243,
-    "seas": 1,
-    "i": 243
+    "index": 243
   },
   {
     "name": "Krunk Headset",
@@ -2326,9 +1838,7 @@ var items = [
     "sitOff": 1.4,
     "yOff": -4,
     "rarity": 2,
-    "index": 244,
-    "seas": 1,
-    "i": 244
+    "index": 244
   },
   {
     "name": "Cherry Headset",
@@ -2341,9 +1851,7 @@ var items = [
     "sitOff": 1.4,
     "yOff": -4,
     "rarity": 2,
-    "index": 245,
-    "seas": 1,
-    "i": 245
+    "index": 245
   },
   {
     "name": "Demonic Wings",
@@ -2358,9 +1866,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
-    "index": 246,
-    "seas": 1,
-    "i": 246
+    "index": 246
   },
   {
     "name": "Bass Guitar",
@@ -2373,9 +1879,7 @@ var items = [
     "sitOffZ": -1,
     "yOff": -2,
     "rarity": 2,
-    "index": 247,
-    "seas": 1,
-    "i": 247
+    "index": 247
   },
   {
     "name": "Samurai Blades",
@@ -2390,9 +1894,7 @@ var items = [
     "yOff": -1,
     "xOff": -0.5,
     "rarity": 3,
-    "index": 248,
-    "seas": 1,
-    "i": 248
+    "index": 248
   },
   {
     "name": "Blood Harvest",
@@ -2406,9 +1908,7 @@ var items = [
     "sitOffZ": -0.95,
     "yOff": -1,
     "rarity": 3,
-    "index": 249,
-    "seas": 1,
-    "i": 249
+    "index": 249
   },
   {
     "name": "Panda Body",
@@ -2421,9 +1921,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -5,
     "rarity": 3,
-    "index": 250,
-    "seas": 1,
-    "i": 250
+    "index": 250
   },
   {
     "name": "Bear Body",
@@ -2437,9 +1935,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -5,
     "rarity": 3,
-    "index": 251,
-    "seas": 1,
-    "i": 251
+    "index": 251
   },
   {
     "name": "Angelic Wings",
@@ -2454,9 +1950,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
-    "index": 252,
-    "seas": 1,
-    "i": 252
+    "index": 252
   },
   {
     "name": "Ninja Mask",
@@ -2470,9 +1964,7 @@ var items = [
     "yOff": -4,
     "xOff": 0,
     "rarity": 3,
-    "index": 253,
-    "seas": 1,
-    "i": 253
+    "index": 253
   },
   {
     "name": "Halo",
@@ -2485,9 +1977,7 @@ var items = [
     "sitOff": -0.65,
     "yOff": -1,
     "rarity": 3,
-    "index": 254,
-    "seas": 1,
-    "i": 254
+    "index": 254
   },
   {
     "name": "Welder Mask",
@@ -2499,9 +1989,7 @@ var items = [
     "xOff": 1,
     "id": 17,
     "rarity": 1,
-    "index": 255,
-    "seas": 1,
-    "i": 255
+    "index": 255
   },
   {
     "name": "Diver Goggles",
@@ -2513,9 +2001,7 @@ var items = [
     "yOff": -1,
     "id": 18,
     "rarity": 1,
-    "index": 256,
-    "seas": 1,
-    "i": 256
+    "index": 256
   },
   {
     "name": "Mad Cap",
@@ -2528,9 +2014,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
-    "index": 257,
-    "seas": 1,
-    "i": 257
+    "index": 257
   },
   {
     "name": "Ace Cap",
@@ -2543,9 +2027,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
-    "index": 258,
-    "seas": 1,
-    "i": 258
+    "index": 258
   },
   {
     "name": "Ice Cap",
@@ -2558,9 +2040,7 @@ var items = [
     "xOff": 2,
     "id": 2,
     "rarity": 1,
-    "index": 259,
-    "seas": 1,
-    "i": 259
+    "index": 259
   },
   {
     "name": "Soldier Pack",
@@ -2575,9 +2055,7 @@ var items = [
     "sitOffZ": -1.75,
     "yOff": -5,
     "rarity": 1,
-    "index": 260,
-    "seas": 1,
-    "i": 260
+    "index": 260
   },
   {
     "name": "Robo Wings",
@@ -2592,9 +2070,7 @@ var items = [
     "sitOffZ": -0.75,
     "yOff": -4,
     "rarity": 4,
-    "index": 261,
-    "seas": 1,
-    "i": 261
+    "index": 261
   },
   {
     "name": "Basket",
@@ -2608,9 +2084,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -4,
     "rarity": 1,
-    "index": 262,
-    "seas": 1,
-    "i": 262
+    "index": 262
   },
   {
     "name": "Baby Panda",
@@ -2625,9 +2099,7 @@ var items = [
     "yOff": -5,
     "xRot": 3.141592653589793,
     "rarity": 3,
-    "index": 263,
-    "seas": 1,
-    "i": 263
+    "index": 263
   },
   {
     "name": "Sturm Helmet",
@@ -2640,9 +2112,7 @@ var items = [
     "yOff": -2.5,
     "id": 4,
     "rarity": 1,
-    "index": 264,
-    "seas": 1,
-    "i": 264
+    "index": 264
   },
   {
     "name": "Brown Afro",
@@ -2655,9 +2125,7 @@ var items = [
     "yOff": -4,
     "id": 6,
     "rarity": 0,
-    "index": 265,
-    "seas": 1,
-    "i": 265
+    "index": 265
   },
   {
     "name": "Acid Skull",
@@ -2673,9 +2141,7 @@ var items = [
     "yOff": -4.5,
     "xOff": -3,
     "rarity": 3,
-    "index": 266,
-    "seas": 1,
-    "i": 266
+    "index": 266
   },
   {
     "name": "Uranium",
@@ -2688,9 +2154,7 @@ var items = [
     "xOff": 1,
     "id": 17,
     "rarity": 2,
-    "index": 267,
-    "seas": 1,
-    "i": 267
+    "index": 267
   },
   {
     "name": "Panda King",
@@ -2704,9 +2168,7 @@ var items = [
     "yOff": -4,
     "xOff": 1,
     "rarity": 3,
-    "index": 268,
-    "seas": 1,
-    "i": 268
+    "index": 268
   },
   {
     "name": "Kolt Rifle",
@@ -2714,9 +2176,7 @@ var items = [
     "id": 35,
     "weapon": 1,
     "rarity": 3,
-    "index": 269,
-    "seas": 1,
-    "i": 269
+    "index": 269
   },
   {
     "name": "Pace Dore",
@@ -2724,9 +2184,7 @@ var items = [
     "glow": true,
     "weapon": 1,
     "rarity": 4,
-    "index": 270,
-    "seas": 1,
-    "i": 270
+    "index": 270
   },
   {
     "name": "Shot Element",
@@ -2735,9 +2193,7 @@ var items = [
     "id": 28,
     "weapon": 6,
     "rarity": 3,
-    "index": 271,
-    "seas": 1,
-    "i": 271
+    "index": 271
   },
   {
     "name": "Warp Sequence",
@@ -2746,9 +2202,7 @@ var items = [
     "glow": true,
     "weapon": 4,
     "rarity": 4,
-    "index": 272,
-    "seas": 1,
-    "i": 272
+    "index": 272
   },
   {
     "name": "Radioactive",
@@ -2757,9 +2211,7 @@ var items = [
     "id": 29,
     "weapon": 5,
     "rarity": 4,
-    "index": 273,
-    "seas": 1,
-    "i": 273
+    "index": 273
   },
   {
     "name": "Targeted",
@@ -2768,9 +2220,7 @@ var items = [
     "id": 28,
     "weapon": 5,
     "rarity": 3,
-    "index": 274,
-    "seas": 1,
-    "i": 274
+    "index": 274
   },
   {
     "name": "Robot Helmet",
@@ -2783,9 +2233,7 @@ var items = [
     "yOff": -3.4,
     "id": 20,
     "rarity": 3,
-    "index": 275,
-    "seas": 1,
-    "i": 275
+    "index": 275
   },
   {
     "name": "Knight Helmet",
@@ -2797,9 +2245,7 @@ var items = [
     "yOff": -3.2,
     "id": 21,
     "rarity": 3,
-    "index": 276,
-    "seas": 1,
-    "i": 276
+    "index": 276
   },
   {
     "name": "Cat Ears",
@@ -2811,9 +2257,7 @@ var items = [
     "yOff": -3.2,
     "id": 22,
     "rarity": 2,
-    "index": 277,
-    "seas": 1,
-    "i": 277
+    "index": 277
   },
   {
     "name": "Snowman",
@@ -2825,9 +2269,7 @@ var items = [
     "yOff": -3.2,
     "id": 23,
     "rarity": 2,
-    "index": 278,
-    "seas": 1,
-    "i": 278
+    "index": 278
   },
   {
     "name": "Trendy Biker",
@@ -2839,9 +2281,7 @@ var items = [
     "yOff": -3.2,
     "id": 24,
     "rarity": 3,
-    "index": 279,
-    "seas": 1,
-    "i": 279
+    "index": 279
   },
   {
     "name": "Golden Crown",
@@ -2854,9 +2294,7 @@ var items = [
     "yOff": -3.2,
     "id": 25,
     "rarity": 3,
-    "index": 280,
-    "seas": 1,
-    "i": 280
+    "index": 280
   },
   {
     "name": "Master Drinker",
@@ -2868,9 +2306,7 @@ var items = [
     "yOff": -2.7,
     "id": 26,
     "rarity": 3,
-    "index": 281,
-    "seas": 1,
-    "i": 281
+    "index": 281
   },
   {
     "name": "Pig Head",
@@ -2882,9 +2318,7 @@ var items = [
     "yOff": -3.2,
     "id": 27,
     "rarity": 3,
-    "index": 282,
-    "seas": 1,
-    "i": 282
+    "index": 282
   },
   {
     "name": "Red Bandana",
@@ -2896,9 +2330,7 @@ var items = [
     "yOff": -3.2,
     "id": 28,
     "rarity": 1,
-    "index": 283,
-    "seas": 1,
-    "i": 283
+    "index": 283
   },
   {
     "name": "Sheriff",
@@ -2910,9 +2342,7 @@ var items = [
     "yOff": -3.2,
     "id": 29,
     "rarity": 4,
-    "index": 284,
-    "seas": 1,
-    "i": 284
+    "index": 284
   },
   {
     "name": "Bandit",
@@ -2925,18 +2355,14 @@ var items = [
     "yOff": -3.2,
     "id": 30,
     "rarity": 4,
-    "index": 285,
-    "seas": 1,
-    "i": 285
+    "index": 285
   },
   {
     "name": "Vlaine",
     "id": 36,
     "weapon": 1,
     "rarity": 1,
-    "index": 286,
-    "seas": 1,
-    "i": 286
+    "index": 286
   },
   {
     "name": "AWP Supersport",
@@ -2944,18 +2370,14 @@ var items = [
     "id": 37,
     "weapon": 1,
     "rarity": 2,
-    "index": 287,
-    "seas": 1,
-    "i": 287
+    "index": 287
   },
   {
     "name": "Reine",
     "id": 38,
     "weapon": 1,
     "rarity": 3,
-    "index": 288,
-    "seas": 1,
-    "i": 288
+    "index": 288
   },
   {
     "name": "Melted",
@@ -2963,9 +2385,7 @@ var items = [
     "id": 39,
     "weapon": 1,
     "rarity": 4,
-    "index": 289,
-    "seas": 1,
-    "i": 289
+    "index": 289
   },
   {
     "name": "Viper",
@@ -2973,9 +2393,7 @@ var items = [
     "id": 40,
     "weapon": 1,
     "rarity": 3,
-    "index": 290,
-    "seas": 1,
-    "i": 290
+    "index": 290
   },
   {
     "name": "Razor",
@@ -2983,9 +2401,7 @@ var items = [
     "id": 41,
     "weapon": 1,
     "rarity": 4,
-    "index": 291,
-    "seas": 1,
-    "i": 291
+    "index": 291
   },
   {
     "name": "Lazor",
@@ -2993,9 +2409,7 @@ var items = [
     "glow": true,
     "weapon": 2,
     "rarity": 4,
-    "index": 292,
-    "seas": 1,
-    "i": 292
+    "index": 292
   },
   {
     "name": "Uzera",
@@ -3003,9 +2417,7 @@ var items = [
     "glow": true,
     "weapon": 10,
     "rarity": 4,
-    "index": 293,
-    "seas": 1,
-    "i": 293
+    "index": 293
   },
   {
     "name": "Tazor",
@@ -3013,63 +2425,49 @@ var items = [
     "id": 7,
     "weapon": 10,
     "rarity": 3,
-    "index": 294,
-    "seas": 1,
-    "i": 294
+    "index": 294
   },
   {
     "name": "Dual Woodland",
     "id": 0,
     "weapon": 10,
     "rarity": 1,
-    "index": 295,
-    "seas": 1,
-    "i": 295
+    "index": 295
   },
   {
     "name": "Flecken Uzi",
     "id": 1,
     "weapon": 10,
     "rarity": 1,
-    "index": 296,
-    "seas": 1,
-    "i": 296
+    "index": 296
   },
   {
     "name": "Dual Seafarer",
     "id": 3,
     "weapon": 10,
     "rarity": 2,
-    "index": 297,
-    "seas": 1,
-    "i": 297
+    "index": 297
   },
   {
     "name": "Rapid Digital",
     "id": 4,
     "weapon": 10,
     "rarity": 1,
-    "index": 298,
-    "seas": 1,
-    "i": 298
+    "index": 298
   },
   {
     "name": "Sap Uzi",
     "id": 5,
     "weapon": 10,
     "rarity": 0,
-    "index": 299,
-    "seas": 1,
-    "i": 299
+    "index": 299
   },
   {
     "name": "Torn Dual",
     "id": 6,
     "weapon": 10,
     "rarity": 1,
-    "index": 300,
-    "seas": 1,
-    "i": 300
+    "index": 300
   },
   {
     "name": "Haste",
@@ -3077,18 +2475,14 @@ var items = [
     "id": 42,
     "weapon": 1,
     "rarity": 3,
-    "index": 301,
-    "seas": 1,
-    "i": 301
+    "index": 301
   },
   {
     "name": "Leine",
     "id": 43,
     "weapon": 1,
     "rarity": 3,
-    "index": 302,
-    "seas": 1,
-    "i": 302
+    "index": 302
   },
   {
     "name": "Lore",
@@ -3096,9 +2490,7 @@ var items = [
     "id": 44,
     "weapon": 1,
     "rarity": 4,
-    "index": 303,
-    "seas": 1,
-    "i": 303
+    "index": 303
   },
   {
     "name": "Reaver",
@@ -3106,9 +2498,7 @@ var items = [
     "id": 45,
     "weapon": 1,
     "rarity": 4,
-    "index": 304,
-    "seas": 1,
-    "i": 304
+    "index": 304
   },
   {
     "name": "Splixen",
@@ -3116,9 +2506,7 @@ var items = [
     "id": 46,
     "weapon": 1,
     "rarity": 4,
-    "index": 305,
-    "seas": 1,
-    "i": 305
+    "index": 305
   },
   {
     "name": "AWP Stream",
@@ -3127,9 +2515,7 @@ var items = [
     "id": 47,
     "weapon": 1,
     "rarity": 4,
-    "index": 306,
-    "seas": 1,
-    "i": 306
+    "index": 306
   },
   {
     "name": "Circuit",
@@ -3138,18 +2524,14 @@ var items = [
     "id": 30,
     "weapon": 2,
     "rarity": 4,
-    "index": 307,
-    "seas": 1,
-    "i": 307
+    "index": 307
   },
   {
     "name": "SMG Iris",
     "id": 29,
     "weapon": 4,
     "rarity": 2,
-    "index": 308,
-    "seas": 1,
-    "i": 308
+    "index": 308
   },
   {
     "name": "SMG Venom",
@@ -3157,18 +2539,14 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "glow": true,
-    "index": 309,
-    "seas": 1,
-    "i": 309
+    "index": 309
   },
   {
     "name": "SMG Wingman",
     "id": 31,
     "weapon": 4,
     "rarity": 2,
-    "index": 310,
-    "seas": 1,
-    "i": 310
+    "index": 310
   },
   {
     "name": "x0n-voX",
@@ -3179,9 +2557,7 @@ var items = [
     "movT": 0.0001,
     "weapon": 4,
     "rarity": 5,
-    "index": 311,
-    "seas": 1,
-    "i": 311
+    "index": 311
   },
   {
     "name": "1Ad-dA0",
@@ -3192,9 +2568,7 @@ var items = [
     "movT": 0.0001,
     "weapon": 2,
     "rarity": 5,
-    "index": 312,
-    "seas": 1,
-    "i": 312
+    "index": 312
   },
   {
     "name": "Raynb0w",
@@ -3205,9 +2579,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 2,
     "rarity": 5,
-    "index": 313,
-    "seas": 1,
-    "i": 313
+    "index": 313
   },
   {
     "name": "Raynb0w",
@@ -3218,693 +2590,539 @@ var items = [
     "movT": 0.0015,
     "weapon": 4,
     "rarity": 5,
-    "index": 314,
-    "seas": 1,
-    "i": 314
+    "index": 314
   },
   {
     "name": "UMP Saphire",
     "id": 32,
     "weapon": 4,
     "rarity": 1,
-    "index": 315,
-    "seas": 1,
-    "i": 315
+    "index": 315
   },
   {
     "name": "UMP Jade",
     "id": 33,
     "weapon": 4,
     "rarity": 1,
-    "index": 316,
-    "seas": 1,
-    "i": 316
+    "index": 316
   },
   {
     "name": "UMP Plexus",
     "id": 34,
     "weapon": 4,
     "rarity": 1,
-    "index": 317,
-    "seas": 1,
-    "i": 317
+    "index": 317
   },
   {
     "name": "UMP Lapis",
     "id": 35,
     "weapon": 4,
     "rarity": 0,
-    "index": 318,
-    "seas": 1,
-    "i": 318
+    "index": 318
   },
   {
     "name": "Perplex",
     "id": 36,
     "weapon": 4,
     "rarity": 0,
-    "index": 319,
-    "seas": 1,
-    "i": 319
+    "index": 319
   },
   {
     "name": "UMP Torpe",
     "id": 37,
     "weapon": 4,
     "rarity": 0,
-    "index": 320,
-    "seas": 1,
-    "i": 320
+    "index": 320
   },
   {
     "name": "SMG Como",
     "id": 38,
     "weapon": 4,
     "rarity": 0,
-    "index": 321,
-    "seas": 1,
-    "i": 321
+    "index": 321
   },
   {
     "name": "SMG Liquid",
     "id": 39,
     "weapon": 4,
     "rarity": 0,
-    "index": 322,
-    "seas": 1,
-    "i": 322
+    "index": 322
   },
   {
     "name": "Clementine",
     "id": 40,
     "weapon": 4,
     "rarity": 1,
-    "index": 323,
-    "seas": 1,
-    "i": 323
+    "index": 323
   },
   {
     "name": "Dropper",
     "id": 41,
     "weapon": 4,
     "rarity": 0,
-    "index": 324,
-    "seas": 1,
-    "i": 324
+    "index": 324
   },
   {
     "name": "SMG Auburn",
     "id": 42,
     "weapon": 4,
     "rarity": 1,
-    "index": 325,
-    "seas": 1,
-    "i": 325
+    "index": 325
   },
   {
     "name": "UMP Laurel",
     "id": 43,
     "weapon": 4,
     "rarity": 1,
-    "index": 326,
-    "seas": 1,
-    "i": 326
+    "index": 326
   },
   {
     "name": "UMP Crimson",
     "id": 44,
     "weapon": 4,
     "rarity": 1,
-    "index": 327,
-    "seas": 1,
-    "i": 327
+    "index": 327
   },
   {
     "name": "UMP Azure",
     "id": 45,
     "weapon": 4,
     "rarity": 1,
-    "index": 328,
-    "seas": 1,
-    "i": 328
+    "index": 328
   },
   {
     "name": "Laguna",
     "id": 46,
     "weapon": 4,
     "rarity": 1,
-    "index": 329,
-    "seas": 1,
-    "i": 329
+    "index": 329
   },
   {
     "name": "UMP Cygenta",
     "id": 47,
     "weapon": 4,
     "rarity": 1,
-    "index": 330,
-    "seas": 1,
-    "i": 330
+    "index": 330
   },
   {
     "name": "UMP Cygentro",
     "id": 48,
     "weapon": 4,
     "rarity": 2,
-    "index": 331,
-    "seas": 1,
-    "i": 331
+    "index": 331
   },
   {
     "name": "Chartreuse",
     "id": 49,
     "weapon": 4,
     "rarity": 2,
-    "index": 332,
-    "seas": 1,
-    "i": 332
+    "index": 332
   },
   {
     "name": "UMP Tortobe",
     "id": 50,
     "weapon": 4,
     "rarity": 2,
-    "index": 333,
-    "seas": 1,
-    "i": 333
+    "index": 333
   },
   {
     "name": "UMP Octo",
     "id": 51,
     "weapon": 4,
     "rarity": 2,
-    "index": 334,
-    "seas": 1,
-    "i": 334
+    "index": 334
   },
   {
     "name": "UMP Versate",
     "id": 52,
     "weapon": 4,
     "rarity": 2,
-    "index": 335,
-    "seas": 1,
-    "i": 335
+    "index": 335
   },
   {
     "name": "SMG Purpur",
     "id": 53,
     "weapon": 4,
     "rarity": 2,
-    "index": 336,
-    "seas": 1,
-    "i": 336
+    "index": 336
   },
   {
     "name": "Leaf",
     "id": 54,
     "weapon": 4,
     "rarity": 0,
-    "index": 337,
-    "seas": 1,
-    "i": 337
+    "index": 337
   },
   {
     "name": "Flame",
     "id": 55,
     "weapon": 4,
     "rarity": 0,
-    "index": 338,
-    "seas": 1,
-    "i": 338
+    "index": 338
   },
   {
     "name": "Aqua",
     "id": 56,
     "weapon": 4,
     "rarity": 0,
-    "index": 339,
-    "seas": 1,
-    "i": 339
+    "index": 339
   },
   {
     "name": "Gravel",
     "id": 57,
     "weapon": 4,
     "rarity": 0,
-    "index": 340,
-    "seas": 1,
-    "i": 340
+    "index": 340
   },
   {
     "name": "AR Saphire",
     "id": 31,
     "weapon": 2,
     "rarity": 1,
-    "index": 341,
-    "seas": 1,
-    "i": 341
+    "index": 341
   },
   {
     "name": "AR Jade",
     "id": 32,
     "weapon": 2,
     "rarity": 1,
-    "index": 342,
-    "seas": 1,
-    "i": 342
+    "index": 342
   },
   {
     "name": "AR Plexus",
     "id": 33,
     "weapon": 2,
     "rarity": 1,
-    "index": 343,
-    "seas": 1,
-    "i": 343
+    "index": 343
   },
   {
     "name": "AR Lapis",
     "id": 34,
     "weapon": 2,
     "rarity": 1,
-    "index": 344,
-    "seas": 1,
-    "i": 344
+    "index": 344
   },
   {
     "name": "Perplex",
     "id": 35,
     "weapon": 2,
     "rarity": 0,
-    "index": 345,
-    "seas": 1,
-    "i": 345
+    "index": 345
   },
   {
     "name": "Trople",
     "id": 36,
     "weapon": 2,
     "rarity": 0,
-    "index": 346,
-    "seas": 1,
-    "i": 346
+    "index": 346
   },
   {
     "name": "AR Altis",
     "id": 37,
     "weapon": 2,
     "rarity": 1,
-    "index": 347,
-    "seas": 1,
-    "i": 347
+    "index": 347
   },
   {
     "name": "Liquid",
     "id": 38,
     "weapon": 2,
     "rarity": 1,
-    "index": 348,
-    "seas": 1,
-    "i": 348
+    "index": 348
   },
   {
     "name": "Clementine",
     "id": 39,
     "weapon": 2,
     "rarity": 1,
-    "index": 349,
-    "seas": 1,
-    "i": 349
+    "index": 349
   },
   {
     "name": "Dropper",
     "id": 40,
     "weapon": 2,
     "rarity": 0,
-    "index": 350,
-    "seas": 1,
-    "i": 350
+    "index": 350
   },
   {
     "name": "Laurel",
     "id": 41,
     "weapon": 2,
     "rarity": 1,
-    "index": 351,
-    "seas": 1,
-    "i": 351
+    "index": 351
   },
   {
     "name": "Crimson",
     "id": 42,
     "weapon": 2,
     "rarity": 1,
-    "index": 352,
-    "seas": 1,
-    "i": 352
+    "index": 352
   },
   {
     "name": "Azure",
     "id": 43,
     "weapon": 2,
     "rarity": 1,
-    "index": 353,
-    "seas": 1,
-    "i": 353
+    "index": 353
   },
   {
     "name": "Laguna",
     "id": 44,
     "weapon": 2,
     "rarity": 1,
-    "index": 354,
-    "seas": 1,
-    "i": 354
+    "index": 354
   },
   {
     "name": "Cygenta",
     "id": 45,
     "weapon": 2,
     "rarity": 1,
-    "index": 355,
-    "seas": 1,
-    "i": 355
+    "index": 355
   },
   {
     "name": "Cygento",
     "id": 46,
     "weapon": 2,
     "rarity": 2,
-    "index": 356,
-    "seas": 1,
-    "i": 356
+    "index": 356
   },
   {
     "name": "Chartreuse",
     "id": 47,
     "weapon": 2,
     "rarity": 2,
-    "index": 357,
-    "seas": 1,
-    "i": 357
+    "index": 357
   },
   {
     "name": "Tortobe",
     "id": 48,
     "weapon": 2,
     "rarity": 2,
-    "index": 358,
-    "seas": 1,
-    "i": 358
+    "index": 358
   },
   {
     "name": "AK Octo",
     "id": 49,
     "weapon": 2,
     "rarity": 2,
-    "index": 359,
-    "seas": 1,
-    "i": 359
+    "index": 359
   },
   {
     "name": "Versate",
     "id": 50,
     "weapon": 2,
     "rarity": 2,
-    "index": 360,
-    "seas": 1,
-    "i": 360
+    "index": 360
   },
   {
     "name": "Purpur",
     "id": 51,
     "weapon": 2,
     "rarity": 2,
-    "index": 361,
-    "seas": 1,
-    "i": 361
+    "index": 361
   },
   {
     "name": "Leaf",
     "id": 52,
     "weapon": 2,
     "rarity": 0,
-    "index": 362,
-    "seas": 1,
-    "i": 362
+    "index": 362
   },
   {
     "name": "Flame",
     "id": 53,
     "weapon": 2,
     "rarity": 0,
-    "index": 363,
-    "seas": 1,
-    "i": 363
+    "index": 363
   },
   {
     "name": "Aqua",
     "id": 54,
     "weapon": 2,
     "rarity": 0,
-    "index": 364,
-    "seas": 1,
-    "i": 364
+    "index": 364
   },
   {
     "name": "Gravel",
     "id": 55,
     "weapon": 2,
     "rarity": 0,
-    "index": 365,
-    "seas": 1,
-    "i": 365
+    "index": 365
   },
   {
     "name": "Saphire",
     "id": 28,
     "weapon": 8,
     "rarity": 1,
-    "index": 366,
-    "seas": 1,
-    "i": 366
+    "index": 366
   },
   {
     "name": "Jade",
     "id": 29,
     "weapon": 8,
     "rarity": 1,
-    "index": 367,
-    "seas": 1,
-    "i": 367
+    "index": 367
   },
   {
     "name": "Plexus",
     "id": 30,
     "weapon": 8,
     "rarity": 1,
-    "index": 368,
-    "seas": 1,
-    "i": 368
+    "index": 368
   },
   {
     "name": "Lapis",
     "id": 31,
     "weapon": 8,
     "rarity": 1,
-    "index": 369,
-    "seas": 1,
-    "i": 369
+    "index": 369
   },
   {
     "name": "Perplexum",
     "id": 32,
     "weapon": 8,
     "rarity": 0,
-    "index": 370,
-    "seas": 1,
-    "i": 370
+    "index": 370
   },
   {
     "name": "Torped",
     "id": 33,
     "weapon": 8,
     "rarity": 0,
-    "index": 371,
-    "seas": 1,
-    "i": 371
+    "index": 371
   },
   {
     "name": "Commo",
     "id": 34,
     "weapon": 8,
     "rarity": 0,
-    "index": 372,
-    "seas": 1,
-    "i": 372
+    "index": 372
   },
   {
     "name": "MMA Liquid",
     "id": 35,
     "weapon": 8,
     "rarity": 1,
-    "index": 373,
-    "seas": 1,
-    "i": 373
+    "index": 373
   },
   {
     "name": "Dropper",
     "id": 36,
     "weapon": 8,
     "rarity": 0,
-    "index": 374,
-    "seas": 1,
-    "i": 374
+    "index": 374
   },
   {
     "name": "MMA Auburn",
     "id": 37,
     "weapon": 8,
     "rarity": 1,
-    "index": 375,
-    "seas": 1,
-    "i": 375
+    "index": 375
   },
   {
     "name": "MMA Laurel",
     "id": 38,
     "weapon": 8,
     "rarity": 1,
-    "index": 376,
-    "seas": 1,
-    "i": 376
+    "index": 376
   },
   {
     "name": "MMA Crimson",
     "id": 39,
     "weapon": 8,
     "rarity": 1,
-    "index": 377,
-    "seas": 1,
-    "i": 377
+    "index": 377
   },
   {
     "name": "MMA Azure",
     "id": 40,
     "weapon": 8,
     "rarity": 1,
-    "index": 378,
-    "seas": 1,
-    "i": 378
+    "index": 378
   },
   {
     "name": "MMA Laguna",
     "id": 41,
     "weapon": 8,
     "rarity": 1,
-    "index": 379,
-    "seas": 1,
-    "i": 379
+    "index": 379
   },
   {
     "name": "MMA Cygneta",
     "id": 42,
     "weapon": 8,
     "rarity": 1,
-    "index": 380,
-    "seas": 1,
-    "i": 380
+    "index": 380
   },
   {
     "name": "MMA Cygneto",
     "id": 43,
     "weapon": 8,
     "rarity": 2,
-    "index": 381,
-    "seas": 1,
-    "i": 381
+    "index": 381
   },
   {
     "name": "M14 Chartreuse",
     "id": 44,
     "weapon": 8,
     "rarity": 2,
-    "index": 382,
-    "seas": 1,
-    "i": 382
+    "index": 382
   },
   {
     "name": "MMA Tortobe",
     "id": 45,
     "weapon": 8,
     "rarity": 2,
-    "index": 383,
-    "seas": 1,
-    "i": 383
+    "index": 383
   },
   {
     "name": "MMA Octo",
     "id": 46,
     "weapon": 8,
     "rarity": 2,
-    "index": 384,
-    "seas": 1,
-    "i": 384
+    "index": 384
   },
   {
     "name": "MMA Versate",
     "id": 47,
     "weapon": 8,
     "rarity": 2,
-    "index": 385,
-    "seas": 1,
-    "i": 385
+    "index": 385
   },
   {
     "name": "MMA Purpur",
     "id": 48,
     "weapon": 8,
     "rarity": 2,
-    "index": 386,
-    "seas": 1,
-    "i": 386
+    "index": 386
   },
   {
     "name": "Nature",
     "id": 49,
     "weapon": 8,
     "rarity": 0,
-    "index": 387,
-    "seas": 1,
-    "i": 387
+    "index": 387
   },
   {
     "name": "Flame",
     "id": 50,
     "weapon": 8,
     "rarity": 0,
-    "index": 388,
-    "seas": 1,
-    "i": 388
+    "index": 388
   },
   {
     "name": "Aqua",
     "id": 51,
     "weapon": 8,
     "rarity": 0,
-    "index": 389,
-    "seas": 1,
-    "i": 389
+    "index": 389
   },
   {
     "name": "Earth",
     "id": 52,
     "weapon": 8,
     "rarity": 0,
-    "index": 390,
-    "seas": 1,
-    "i": 390
+    "index": 390
   },
   {
     "name": "Black Ice",
@@ -3912,9 +3130,7 @@ var items = [
     "id": 53,
     "weapon": 8,
     "rarity": 2,
-    "index": 391,
-    "seas": 1,
-    "i": 391
+    "index": 391
   },
   {
     "name": "Mach 3",
@@ -3922,9 +3138,7 @@ var items = [
     "id": 54,
     "weapon": 8,
     "rarity": 1,
-    "index": 392,
-    "seas": 1,
-    "i": 392
+    "index": 392
   },
   {
     "name": "Bloodripper",
@@ -3932,9 +3146,7 @@ var items = [
     "id": 55,
     "weapon": 8,
     "rarity": 1,
-    "index": 393,
-    "seas": 1,
-    "i": 393
+    "index": 393
   },
   {
     "name": "Theta",
@@ -3943,8 +3155,7 @@ var items = [
     "id": 48,
     "weapon": 1,
     "rarity": 3,
-    "index": 394,
-    "i": 394
+    "index": 394
   },
   {
     "name": "Raynb0w",
@@ -3955,9 +3166,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 1,
     "rarity": 5,
-    "index": 395,
-    "seas": 1,
-    "i": 395
+    "index": 395
   },
   {
     "name": "Diablo Wings",
@@ -3971,9 +3180,7 @@ var items = [
     "sitOffZ": -1.4,
     "yOff": -2,
     "rarity": 4,
-    "index": 396,
-    "seas": 1,
-    "i": 396
+    "index": 396
   },
   {
     "name": "AK Gold Rush",
@@ -3982,8 +3189,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
-    "index": 397,
-    "i": 397
+    "index": 397
   },
   {
     "name": "AK Mortal",
@@ -3992,9 +3198,7 @@ var items = [
     "id": 57,
     "weapon": 2,
     "rarity": 4,
-    "index": 398,
-    "seas": 1,
-    "i": 398
+    "index": 398
   },
   {
     "name": "nV Dragon",
@@ -4002,9 +3206,7 @@ var items = [
     "id": 51,
     "weapon": 1,
     "rarity": 3,
-    "index": 399,
-    "seas": 1,
-    "i": 399
+    "index": 399
   },
   {
     "name": "Cherry Blossom",
@@ -4012,9 +3214,7 @@ var items = [
     "id": 50,
     "weapon": 1,
     "rarity": 2,
-    "index": 400,
-    "seas": 1,
-    "i": 400
+    "index": 400
   },
   {
     "name": "Vapormoon",
@@ -4022,9 +3222,7 @@ var items = [
     "id": 58,
     "weapon": 2,
     "rarity": 2,
-    "index": 401,
-    "seas": 1,
-    "i": 401
+    "index": 401
   },
   {
     "name": "Tesselate",
@@ -4032,9 +3230,7 @@ var items = [
     "id": 59,
     "weapon": 2,
     "rarity": 2,
-    "index": 402,
-    "seas": 1,
-    "i": 402
+    "index": 402
   },
   {
     "name": "Polydrive",
@@ -4042,45 +3238,35 @@ var items = [
     "id": 49,
     "weapon": 1,
     "rarity": 2,
-    "index": 403,
-    "seas": 1,
-    "i": 403
+    "index": 403
   },
   {
     "name": "Safran",
     "id": 29,
     "weapon": 6,
     "rarity": 2,
-    "index": 404,
-    "seas": 1,
-    "i": 404
+    "index": 404
   },
   {
     "name": "Purple Rain",
     "id": 30,
     "weapon": 6,
     "rarity": 2,
-    "index": 405,
-    "seas": 1,
-    "i": 405
+    "index": 405
   },
   {
     "name": "Cobra",
     "id": 31,
     "weapon": 6,
     "rarity": 2,
-    "index": 406,
-    "seas": 1,
-    "i": 406
+    "index": 406
   },
   {
     "name": "Spectrum",
     "id": 32,
     "weapon": 6,
     "rarity": 2,
-    "index": 407,
-    "seas": 1,
-    "i": 407
+    "index": 407
   },
   {
     "name": "Anodized",
@@ -4088,9 +3274,7 @@ var items = [
     "id": 33,
     "weapon": 6,
     "rarity": 3,
-    "index": 408,
-    "seas": 1,
-    "i": 408
+    "index": 408
   },
   {
     "name": "Blunderbuss",
@@ -4098,9 +3282,7 @@ var items = [
     "id": 34,
     "weapon": 6,
     "rarity": 2,
-    "index": 409,
-    "seas": 1,
-    "i": 409
+    "index": 409
   },
   {
     "name": "Tv Tron A",
@@ -4113,9 +3295,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
-    "index": 410,
-    "seas": 1,
-    "i": 410
+    "index": 410
   },
   {
     "name": "Tv Tron B",
@@ -4129,9 +3309,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
-    "index": 411,
-    "seas": 1,
-    "i": 411
+    "index": 411
   },
   {
     "name": "Hollow Fade",
@@ -4145,9 +3323,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
-    "index": 412,
-    "seas": 1,
-    "i": 412
+    "index": 412
   },
   {
     "name": "Tv Tron C",
@@ -4161,9 +3337,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
-    "index": 413,
-    "seas": 1,
-    "i": 413
+    "index": 413
   },
   {
     "name": "Tv Tron D",
@@ -4177,9 +3351,7 @@ var items = [
     "yOff": -3.2,
     "id": 32,
     "rarity": 4,
-    "index": 414,
-    "seas": 1,
-    "i": 414
+    "index": 414
   },
   {
     "name": "AWP Dazzle",
@@ -4187,9 +3359,7 @@ var items = [
     "id": 53,
     "weapon": 1,
     "rarity": 4,
-    "index": 415,
-    "seas": 1,
-    "i": 415
+    "index": 415
   },
   {
     "name": "Octodance",
@@ -4197,9 +3367,7 @@ var items = [
     "id": 54,
     "weapon": 1,
     "rarity": 4,
-    "index": 416,
-    "seas": 1,
-    "i": 416
+    "index": 416
   },
   {
     "name": "Ice Fade",
@@ -4207,9 +3375,7 @@ var items = [
     "id": 55,
     "weapon": 1,
     "rarity": 4,
-    "index": 417,
-    "seas": 1,
-    "i": 417
+    "index": 417
   },
   {
     "name": "Frostlance",
@@ -4223,9 +3389,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
-    "index": 418,
-    "seas": 1,
-    "i": 418
+    "index": 418
   },
   {
     "name": "Frostbite",
@@ -4239,225 +3403,175 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -0.5,
     "rarity": 6,
-    "index": 419,
-    "seas": 1,
-    "i": 419
+    "index": 419
   },
   {
     "name": "Arctic",
     "id": 0,
     "weapon": 15,
     "rarity": 1,
-    "index": 420,
-    "seas": 1,
-    "i": 420
+    "index": 420
   },
   {
     "name": "Autumn Burst",
     "id": 1,
     "weapon": 15,
     "rarity": 1,
-    "index": 421,
-    "seas": 1,
-    "i": 421
+    "index": 421
   },
   {
     "name": "Reticle Burst",
     "id": 2,
     "weapon": 15,
     "rarity": 2,
-    "index": 422,
-    "seas": 1,
-    "i": 422
+    "index": 422
   },
   {
     "name": "Digital Burst",
     "id": 3,
     "weapon": 15,
     "rarity": 0,
-    "index": 423,
-    "seas": 1,
-    "i": 423
+    "index": 423
   },
   {
     "name": "Bushwalker",
     "id": 4,
     "weapon": 15,
     "rarity": 1,
-    "index": 424,
-    "seas": 1,
-    "i": 424
+    "index": 424
   },
   {
     "name": "Woodland",
     "id": 5,
     "weapon": 15,
     "rarity": 0,
-    "index": 425,
-    "seas": 1,
-    "i": 425
+    "index": 425
   },
   {
     "name": "Burst Hazard",
     "id": 6,
     "weapon": 15,
     "rarity": 1,
-    "index": 426,
-    "seas": 1,
-    "i": 426
+    "index": 426
   },
   {
     "name": "Kodac Famas",
     "id": 7,
     "weapon": 15,
     "rarity": 1,
-    "index": 427,
-    "seas": 1,
-    "i": 427
+    "index": 427
   },
   {
     "name": "Seafarer G2",
     "id": 8,
     "weapon": 15,
     "rarity": 0,
-    "index": 428,
-    "seas": 1,
-    "i": 428
+    "index": 428
   },
   {
     "name": "G2 Trail",
     "id": 9,
     "weapon": 15,
     "rarity": 0,
-    "index": 429,
-    "seas": 1,
-    "i": 429
+    "index": 429
   },
   {
     "name": "Burst Fade",
     "id": 10,
     "weapon": 15,
     "rarity": 0,
-    "index": 430,
-    "seas": 1,
-    "i": 430
+    "index": 430
   },
   {
     "name": "G2 Puma",
     "id": 11,
     "weapon": 15,
     "rarity": 0,
-    "index": 431,
-    "seas": 1,
-    "i": 431
+    "index": 431
   },
   {
     "name": "Burst Carbo",
     "id": 12,
     "weapon": 15,
     "rarity": 0,
-    "index": 432,
-    "seas": 1,
-    "i": 432
+    "index": 432
   },
   {
     "name": "G2 Barb",
     "id": 13,
     "weapon": 15,
     "rarity": 2,
-    "index": 433,
-    "seas": 1,
-    "i": 433
+    "index": 433
   },
   {
     "name": "F1 Blush",
     "id": 14,
     "weapon": 15,
     "rarity": 0,
-    "index": 434,
-    "seas": 1,
-    "i": 434
+    "index": 434
   },
   {
     "name": "Machinist",
     "id": 15,
     "weapon": 15,
     "rarity": 1,
-    "index": 435,
-    "seas": 1,
-    "i": 435
+    "index": 435
   },
   {
     "name": "Triple Olympus",
     "id": 16,
     "weapon": 15,
     "rarity": 2,
-    "index": 436,
-    "seas": 1,
-    "i": 436
+    "index": 436
   },
   {
     "name": "Honey Badger",
     "id": 17,
     "weapon": 15,
     "rarity": 1,
-    "index": 437,
-    "seas": 1,
-    "i": 437
+    "index": 437
   },
   {
     "name": "G2 Moss",
     "id": 18,
     "weapon": 15,
     "rarity": 1,
-    "index": 438,
-    "seas": 1,
-    "i": 438
+    "index": 438
   },
   {
     "name": "F1 Marshland",
     "id": 19,
     "weapon": 15,
     "rarity": 1,
-    "index": 439,
-    "seas": 1,
-    "i": 439
+    "index": 439
   },
   {
     "name": "G2 Tigris",
     "id": 20,
     "weapon": 15,
     "rarity": 2,
-    "index": 440,
-    "seas": 1,
-    "i": 440
+    "index": 440
   },
   {
     "name": "Zebra Burst",
     "id": 21,
     "weapon": 15,
     "rarity": 2,
-    "index": 441,
-    "seas": 1,
-    "i": 441
+    "index": 441
   },
   {
     "name": "Skyfarer",
     "id": 22,
     "weapon": 15,
     "rarity": 2,
-    "index": 442,
-    "seas": 1,
-    "i": 442
+    "index": 442
   },
   {
     "name": "Commando Fade",
     "id": 23,
     "weapon": 15,
     "rarity": 2,
-    "index": 443,
-    "seas": 1,
-    "i": 443
+    "index": 443
   },
   {
     "name": "Mindseeker",
@@ -4465,9 +3579,7 @@ var items = [
     "glow": true,
     "weapon": 15,
     "rarity": 4,
-    "index": 444,
-    "seas": 1,
-    "i": 444
+    "index": 444
   },
   {
     "name": "Intervention VI",
@@ -4481,8 +3593,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
-    "index": 445,
-    "i": 445
+    "index": 445
   },
   {
     "name": "Intervention XI",
@@ -4497,8 +3608,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
-    "index": 446,
-    "i": 446
+    "index": 446
   },
   {
     "name": "Soul Fang",
@@ -4513,8 +3623,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 5,
-    "index": 447,
-    "i": 447
+    "index": 447
   },
   {
     "name": "Dusk Fang",
@@ -4528,9 +3637,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 4,
-    "index": 448,
-    "seas": 1,
-    "i": 448
+    "index": 448
   },
   {
     "name": "Boneclaw",
@@ -4538,8 +3645,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 449,
-    "i": 449
+    "index": 449
   },
   {
     "name": "Blue Digital",
@@ -4547,8 +3653,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 450,
-    "i": 450
+    "index": 450
   },
   {
     "name": "Green Digital",
@@ -4556,8 +3661,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 451,
-    "i": 451
+    "index": 451
   },
   {
     "name": "Purple Digital",
@@ -4565,8 +3669,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 452,
-    "i": 452
+    "index": 452
   },
   {
     "name": "Red Digital",
@@ -4574,8 +3677,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 453,
-    "i": 453
+    "index": 453
   },
   {
     "name": "Cascade",
@@ -4583,8 +3685,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 454,
-    "i": 454
+    "index": 454
   },
   {
     "name": "Pink Poly",
@@ -4592,8 +3693,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 455,
-    "i": 455
+    "index": 455
   },
   {
     "name": "Orange Poly",
@@ -4601,8 +3701,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 456,
-    "i": 456
+    "index": 456
   },
   {
     "name": "Green Poly",
@@ -4610,8 +3709,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 457,
-    "i": 457
+    "index": 457
   },
   {
     "name": "Blue Poly",
@@ -4619,8 +3717,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 458,
-    "i": 458
+    "index": 458
   },
   {
     "name": "War Torn",
@@ -4628,8 +3725,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 459,
-    "i": 459
+    "index": 459
   },
   {
     "name": "Spook",
@@ -4638,8 +3734,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 460,
-    "i": 460
+    "index": 460
   },
   {
     "name": "Pink Drip",
@@ -4647,8 +3742,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 461,
-    "i": 461
+    "index": 461
   },
   {
     "name": "Blue Drip",
@@ -4656,8 +3750,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 462,
-    "i": 462
+    "index": 462
   },
   {
     "name": "Sepia",
@@ -4665,8 +3758,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 463,
-    "i": 463
+    "index": 463
   },
   {
     "name": "Olive",
@@ -4674,8 +3766,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 464,
-    "i": 464
+    "index": 464
   },
   {
     "name": "Spruce",
@@ -4683,8 +3774,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 465,
-    "i": 465
+    "index": 465
   },
   {
     "name": "Dijon",
@@ -4692,8 +3782,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 466,
-    "i": 466
+    "index": 466
   },
   {
     "name": "Red Splat",
@@ -4701,8 +3790,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 467,
-    "i": 467
+    "index": 467
   },
   {
     "name": "Purple Splat",
@@ -4710,8 +3798,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 468,
-    "i": 468
+    "index": 468
   },
   {
     "name": "Orange Splat",
@@ -4719,8 +3806,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 469,
-    "i": 469
+    "index": 469
   },
   {
     "name": "Green Splat",
@@ -4728,8 +3814,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 470,
-    "i": 470
+    "index": 470
   },
   {
     "name": "Yellow Poly",
@@ -4737,8 +3822,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 471,
-    "i": 471
+    "index": 471
   },
   {
     "name": "Red Poly",
@@ -4746,8 +3830,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 472,
-    "i": 472
+    "index": 472
   },
   {
     "name": "Green Poly",
@@ -4755,8 +3838,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 473,
-    "i": 473
+    "index": 473
   },
   {
     "name": "Blue Poly",
@@ -4764,8 +3846,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 474,
-    "i": 474
+    "index": 474
   },
   {
     "name": "Sandstorm",
@@ -4773,8 +3854,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 475,
-    "i": 475
+    "index": 475
   },
   {
     "name": "Fabrica",
@@ -4782,8 +3862,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 476,
-    "i": 476
+    "index": 476
   },
   {
     "name": "Azazel",
@@ -4792,8 +3871,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 477,
-    "i": 477
+    "index": 477
   },
   {
     "name": "Picnic",
@@ -4801,8 +3879,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 478,
-    "i": 478
+    "index": 478
   },
   {
     "name": "Picasso",
@@ -4810,8 +3887,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 479,
-    "i": 479
+    "index": 479
   },
   {
     "name": "Cracked",
@@ -4819,8 +3895,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 480,
-    "i": 480
+    "index": 480
   },
   {
     "name": "Fire Stream",
@@ -4828,8 +3903,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 481,
-    "i": 481
+    "index": 481
   },
   {
     "name": "Ripped Sun",
@@ -4837,8 +3911,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 482,
-    "i": 482
+    "index": 482
   },
   {
     "name": "Bliss Flow",
@@ -4846,8 +3919,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 483,
-    "i": 483
+    "index": 483
   },
   {
     "name": "Kenzo",
@@ -4856,8 +3928,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 484,
-    "i": 484
+    "index": 484
   },
   {
     "name": "Snowy",
@@ -4865,8 +3936,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 485,
-    "i": 485
+    "index": 485
   },
   {
     "name": "Galaxy",
@@ -4874,8 +3944,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 486,
-    "i": 486
+    "index": 486
   },
   {
     "name": "Ducky",
@@ -4883,8 +3952,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 487,
-    "i": 487
+    "index": 487
   },
   {
     "name": "Graphite",
@@ -4892,8 +3960,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 488,
-    "i": 488
+    "index": 488
   },
   {
     "name": "Porcelain",
@@ -4901,8 +3968,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 489,
-    "i": 489
+    "index": 489
   },
   {
     "name": "Neon Spill",
@@ -4911,8 +3977,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 490,
-    "i": 490
+    "index": 490
   },
   {
     "name": "Danger",
@@ -4920,8 +3985,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 491,
-    "i": 491
+    "index": 491
   },
   {
     "name": "Paint Spill",
@@ -4929,8 +3993,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 492,
-    "i": 492
+    "index": 492
   },
   {
     "name": "Goop",
@@ -4938,8 +4001,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 493,
-    "i": 493
+    "index": 493
   },
   {
     "name": "Cerise",
@@ -4947,8 +4009,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 494,
-    "i": 494
+    "index": 494
   },
   {
     "name": "Orange Drip",
@@ -4956,8 +4017,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 495,
-    "i": 495
+    "index": 495
   },
   {
     "name": "Red Drip",
@@ -4965,8 +4025,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 496,
-    "i": 496
+    "index": 496
   },
   {
     "name": "Green Drip",
@@ -4974,8 +4033,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 2,
-    "index": 497,
-    "i": 497
+    "index": 497
   },
   {
     "name": "Flame Viper",
@@ -4984,8 +4042,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 498,
-    "i": 498
+    "index": 498
   },
   {
     "name": "Red Phantom",
@@ -4994,8 +4051,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 499,
-    "i": 499
+    "index": 499
   },
   {
     "name": "Arctic",
@@ -5004,8 +4060,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 500,
-    "i": 500
+    "index": 500
   },
   {
     "name": "Magma Core",
@@ -5016,8 +4071,7 @@ var items = [
     "pulsT": 0.1,
     "glow": true,
     "seas": 2,
-    "index": 501,
-    "i": 501
+    "index": 501
   },
   {
     "name": "Wired",
@@ -5026,8 +4080,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
-    "index": 502,
-    "i": 502
+    "index": 502
   },
   {
     "name": "Kings",
@@ -5036,8 +4089,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
-    "index": 503,
-    "i": 503
+    "index": 503
   },
   {
     "name": "Tessalate",
@@ -5045,8 +4097,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 504,
-    "i": 504
+    "index": 504
   },
   {
     "name": "Sunset",
@@ -5056,8 +4107,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 505,
-    "i": 505
+    "index": 505
   },
   {
     "name": "Poly Blush",
@@ -5065,8 +4115,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 506,
-    "i": 506
+    "index": 506
   },
   {
     "name": "Cuircuitor",
@@ -5076,8 +4125,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 507,
-    "i": 507
+    "index": 507
   },
   {
     "name": "Marbled .50",
@@ -5086,8 +4134,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 508,
-    "i": 508
+    "index": 508
   },
   {
     "name": "Exoscarlet",
@@ -5096,8 +4143,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 509,
-    "i": 509
+    "index": 509
   },
   {
     "name": "Sorable V",
@@ -5107,8 +4153,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 510,
-    "i": 510
+    "index": 510
   },
   {
     "name": "Boneclaw",
@@ -5116,8 +4161,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 511,
-    "i": 511
+    "index": 511
   },
   {
     "name": "Blue Digital",
@@ -5125,8 +4169,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 512,
-    "i": 512
+    "index": 512
   },
   {
     "name": "Green Digital",
@@ -5134,8 +4177,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 513,
-    "i": 513
+    "index": 513
   },
   {
     "name": "Purple Digital",
@@ -5143,8 +4185,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 514,
-    "i": 514
+    "index": 514
   },
   {
     "name": "Red Digital",
@@ -5152,8 +4193,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 515,
-    "i": 515
+    "index": 515
   },
   {
     "name": "Cascade",
@@ -5161,8 +4201,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 516,
-    "i": 516
+    "index": 516
   },
   {
     "name": "Pink Poly",
@@ -5170,8 +4209,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 517,
-    "i": 517
+    "index": 517
   },
   {
     "name": "Orange Poly",
@@ -5179,8 +4217,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 518,
-    "i": 518
+    "index": 518
   },
   {
     "name": "Green Poly",
@@ -5188,8 +4225,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 519,
-    "i": 519
+    "index": 519
   },
   {
     "name": "Blue Poly",
@@ -5197,8 +4233,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 520,
-    "i": 520
+    "index": 520
   },
   {
     "name": "War Torn",
@@ -5206,8 +4241,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 521,
-    "i": 521
+    "index": 521
   },
   {
     "name": "Phantasma",
@@ -5216,8 +4250,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 522,
-    "i": 522
+    "index": 522
   },
   {
     "name": "Pink Drip",
@@ -5225,8 +4258,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 523,
-    "i": 523
+    "index": 523
   },
   {
     "name": "Blue Drip",
@@ -5234,8 +4266,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 524,
-    "i": 524
+    "index": 524
   },
   {
     "name": "Sepia",
@@ -5243,8 +4274,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 525,
-    "i": 525
+    "index": 525
   },
   {
     "name": "Olive",
@@ -5252,8 +4282,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 526,
-    "i": 526
+    "index": 526
   },
   {
     "name": "Spruce",
@@ -5261,8 +4290,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 527,
-    "i": 527
+    "index": 527
   },
   {
     "name": "Dijon",
@@ -5270,8 +4298,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 528,
-    "i": 528
+    "index": 528
   },
   {
     "name": "Red Splat",
@@ -5279,8 +4306,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 529,
-    "i": 529
+    "index": 529
   },
   {
     "name": "Purple Splat",
@@ -5288,8 +4314,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 530,
-    "i": 530
+    "index": 530
   },
   {
     "name": "Orange Splat",
@@ -5297,8 +4322,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 531,
-    "i": 531
+    "index": 531
   },
   {
     "name": "Green Splat",
@@ -5306,8 +4330,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 532,
-    "i": 532
+    "index": 532
   },
   {
     "name": "Yellow Poly",
@@ -5315,8 +4338,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 533,
-    "i": 533
+    "index": 533
   },
   {
     "name": "Red Poly",
@@ -5324,8 +4346,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 534,
-    "i": 534
+    "index": 534
   },
   {
     "name": "Green Poly",
@@ -5333,8 +4354,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 535,
-    "i": 535
+    "index": 535
   },
   {
     "name": "Blue Poly",
@@ -5342,8 +4362,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 536,
-    "i": 536
+    "index": 536
   },
   {
     "name": "Sandstorm",
@@ -5351,8 +4370,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 537,
-    "i": 537
+    "index": 537
   },
   {
     "name": "Fabrica",
@@ -5360,8 +4378,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 538,
-    "i": 538
+    "index": 538
   },
   {
     "name": "Zebrik",
@@ -5370,8 +4387,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 539,
-    "i": 539
+    "index": 539
   },
   {
     "name": "Picnic",
@@ -5379,8 +4395,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 540,
-    "i": 540
+    "index": 540
   },
   {
     "name": "Picasso",
@@ -5388,8 +4403,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 541,
-    "i": 541
+    "index": 541
   },
   {
     "name": "Cracked",
@@ -5397,8 +4411,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 542,
-    "i": 542
+    "index": 542
   },
   {
     "name": "Fire Stream",
@@ -5406,8 +4419,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 543,
-    "i": 543
+    "index": 543
   },
   {
     "name": "Ripped Sun",
@@ -5415,8 +4427,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 544,
-    "i": 544
+    "index": 544
   },
   {
     "name": "Bliss Flow",
@@ -5424,8 +4435,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 545,
-    "i": 545
+    "index": 545
   },
   {
     "name": "Snowy",
@@ -5433,8 +4443,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 546,
-    "i": 546
+    "index": 546
   },
   {
     "name": "Ducky",
@@ -5442,8 +4451,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 547,
-    "i": 547
+    "index": 547
   },
   {
     "name": "Graphite",
@@ -5451,8 +4459,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 548,
-    "i": 548
+    "index": 548
   },
   {
     "name": "Porcelain",
@@ -5460,8 +4467,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 549,
-    "i": 549
+    "index": 549
   },
   {
     "name": "Danger",
@@ -5469,8 +4475,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 550,
-    "i": 550
+    "index": 550
   },
   {
     "name": "Paint Spill",
@@ -5478,8 +4483,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 551,
-    "i": 551
+    "index": 551
   },
   {
     "name": "Goop",
@@ -5487,8 +4491,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 552,
-    "i": 552
+    "index": 552
   },
   {
     "name": "Cerise",
@@ -5496,8 +4499,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 553,
-    "i": 553
+    "index": 553
   },
   {
     "name": "Orange Drip",
@@ -5505,8 +4507,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 554,
-    "i": 554
+    "index": 554
   },
   {
     "name": "Red Drip",
@@ -5514,8 +4515,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 555,
-    "i": 555
+    "index": 555
   },
   {
     "name": "Green Drip",
@@ -5523,8 +4523,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 2,
-    "index": 556,
-    "i": 556
+    "index": 556
   },
   {
     "name": "Void",
@@ -5533,8 +4532,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 557,
-    "i": 557
+    "index": 557
   },
   {
     "name": "Lightning Storm",
@@ -5543,8 +4541,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 558,
-    "i": 558
+    "index": 558
   },
   {
     "name": "Scribbler",
@@ -5552,8 +4549,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
-    "index": 559,
-    "i": 559
+    "index": 559
   },
   {
     "name": "Scorched",
@@ -5563,8 +4559,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 560,
-    "i": 560
+    "index": 560
   },
   {
     "name": "Heat-Tint",
@@ -5573,8 +4568,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 561,
-    "i": 561
+    "index": 561
   },
   {
     "name": "Welded",
@@ -5582,8 +4576,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 562,
-    "i": 562
+    "index": 562
   },
   {
     "name": "Acid Howler",
@@ -5592,8 +4585,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 2,
-    "index": 563,
-    "i": 563
+    "index": 563
   },
   {
     "name": "Boneclaw",
@@ -5601,8 +4593,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 564,
-    "i": 564
+    "index": 564
   },
   {
     "name": "Blue Digital",
@@ -5610,8 +4601,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 565,
-    "i": 565
+    "index": 565
   },
   {
     "name": "Green Digital",
@@ -5619,8 +4609,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 566,
-    "i": 566
+    "index": 566
   },
   {
     "name": "Purple Digital",
@@ -5628,8 +4617,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 567,
-    "i": 567
+    "index": 567
   },
   {
     "name": "Red Digital",
@@ -5637,8 +4625,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 568,
-    "i": 568
+    "index": 568
   },
   {
     "name": "Cascade",
@@ -5646,8 +4633,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 569,
-    "i": 569
+    "index": 569
   },
   {
     "name": "Pink Poly",
@@ -5655,8 +4641,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 570,
-    "i": 570
+    "index": 570
   },
   {
     "name": "Orange Poly",
@@ -5664,8 +4649,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 571,
-    "i": 571
+    "index": 571
   },
   {
     "name": "Green Poly",
@@ -5673,8 +4657,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 572,
-    "i": 572
+    "index": 572
   },
   {
     "name": "Blue Poly",
@@ -5682,8 +4665,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 573,
-    "i": 573
+    "index": 573
   },
   {
     "name": "War Torn",
@@ -5691,8 +4673,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 574,
-    "i": 574
+    "index": 574
   },
   {
     "name": "Pink Drip",
@@ -5700,8 +4681,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 575,
-    "i": 575
+    "index": 575
   },
   {
     "name": "Blue Drip",
@@ -5709,8 +4689,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 576,
-    "i": 576
+    "index": 576
   },
   {
     "name": "Sepia",
@@ -5718,8 +4697,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 577,
-    "i": 577
+    "index": 577
   },
   {
     "name": "Olive",
@@ -5727,8 +4705,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 578,
-    "i": 578
+    "index": 578
   },
   {
     "name": "Spruce",
@@ -5736,8 +4713,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 579,
-    "i": 579
+    "index": 579
   },
   {
     "name": "Dijon",
@@ -5745,8 +4721,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 580,
-    "i": 580
+    "index": 580
   },
   {
     "name": "Red Splat",
@@ -5754,8 +4729,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 581,
-    "i": 581
+    "index": 581
   },
   {
     "name": "Purple Splat",
@@ -5763,8 +4737,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 582,
-    "i": 582
+    "index": 582
   },
   {
     "name": "Orange Splat",
@@ -5772,8 +4745,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 583,
-    "i": 583
+    "index": 583
   },
   {
     "name": "Green Splat",
@@ -5781,8 +4753,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 584,
-    "i": 584
+    "index": 584
   },
   {
     "name": "Yellow Poly",
@@ -5790,8 +4761,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 585,
-    "i": 585
+    "index": 585
   },
   {
     "name": "Red Poly",
@@ -5799,8 +4769,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 586,
-    "i": 586
+    "index": 586
   },
   {
     "name": "Green Poly",
@@ -5808,8 +4777,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 587,
-    "i": 587
+    "index": 587
   },
   {
     "name": "Blue Poly",
@@ -5817,8 +4785,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 588,
-    "i": 588
+    "index": 588
   },
   {
     "name": "Sandstorm",
@@ -5826,8 +4793,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 589,
-    "i": 589
+    "index": 589
   },
   {
     "name": "Fabrica",
@@ -5835,8 +4801,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 590,
-    "i": 590
+    "index": 590
   },
   {
     "name": "Picnic",
@@ -5844,8 +4809,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 591,
-    "i": 591
+    "index": 591
   },
   {
     "name": "Picasso",
@@ -5853,8 +4817,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 592,
-    "i": 592
+    "index": 592
   },
   {
     "name": "Cracked",
@@ -5862,8 +4825,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 593,
-    "i": 593
+    "index": 593
   },
   {
     "name": "Fire Stream",
@@ -5871,8 +4833,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 594,
-    "i": 594
+    "index": 594
   },
   {
     "name": "Ripped Sun",
@@ -5880,8 +4841,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 595,
-    "i": 595
+    "index": 595
   },
   {
     "name": "Bliss Flow",
@@ -5889,8 +4849,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 596,
-    "i": 596
+    "index": 596
   },
   {
     "name": "Snowy",
@@ -5898,8 +4857,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 597,
-    "i": 597
+    "index": 597
   },
   {
     "name": "Ducky",
@@ -5907,8 +4865,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 598,
-    "i": 598
+    "index": 598
   },
   {
     "name": "Graphite",
@@ -5916,8 +4873,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 599,
-    "i": 599
+    "index": 599
   },
   {
     "name": "Porcelain",
@@ -5925,8 +4881,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 600,
-    "i": 600
+    "index": 600
   },
   {
     "name": "Danger",
@@ -5934,8 +4889,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 601,
-    "i": 601
+    "index": 601
   },
   {
     "name": "Paint Spill",
@@ -5943,8 +4897,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 602,
-    "i": 602
+    "index": 602
   },
   {
     "name": "Goop",
@@ -5952,8 +4905,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 603,
-    "i": 603
+    "index": 603
   },
   {
     "name": "Cerise",
@@ -5961,8 +4913,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 604,
-    "i": 604
+    "index": 604
   },
   {
     "name": "Orange Drip",
@@ -5970,8 +4921,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 605,
-    "i": 605
+    "index": 605
   },
   {
     "name": "Red Drip",
@@ -5979,8 +4929,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 606,
-    "i": 606
+    "index": 606
   },
   {
     "name": "Green Drip",
@@ -5988,8 +4937,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 2,
-    "index": 607,
-    "i": 607
+    "index": 607
   },
   {
     "name": "Polymer",
@@ -5997,8 +4945,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 608,
-    "i": 608
+    "index": 608
   },
   {
     "name": "Andromeda",
@@ -6007,8 +4954,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 609,
-    "i": 609
+    "index": 609
   },
   {
     "name": "Liberty",
@@ -6016,8 +4962,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
-    "index": 610,
-    "i": 610
+    "index": 610
   },
   {
     "name": "Dragon Breath",
@@ -6026,8 +4971,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 611,
-    "i": 611
+    "index": 611
   },
   {
     "name": "Parabellum",
@@ -6036,8 +4980,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 612,
-    "i": 612
+    "index": 612
   },
   {
     "name": "Poly Fade",
@@ -6045,8 +4988,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 613,
-    "i": 613
+    "index": 613
   },
   {
     "name": "Picnic",
@@ -6054,8 +4996,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 614,
-    "i": 614
+    "index": 614
   },
   {
     "name": "Picasso",
@@ -6063,8 +5004,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 615,
-    "i": 615
+    "index": 615
   },
   {
     "name": "Cracked",
@@ -6072,8 +5012,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 616,
-    "i": 616
+    "index": 616
   },
   {
     "name": "Fire Stream",
@@ -6081,8 +5020,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 617,
-    "i": 617
+    "index": 617
   },
   {
     "name": "Ripped Sun",
@@ -6090,8 +5028,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 618,
-    "i": 618
+    "index": 618
   },
   {
     "name": "Bliss Flow",
@@ -6099,8 +5036,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 619,
-    "i": 619
+    "index": 619
   },
   {
     "name": "Snowy",
@@ -6108,8 +5044,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 620,
-    "i": 620
+    "index": 620
   },
   {
     "name": "Ducky",
@@ -6117,8 +5052,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 621,
-    "i": 621
+    "index": 621
   },
   {
     "name": "Graphite",
@@ -6126,8 +5060,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 622,
-    "i": 622
+    "index": 622
   },
   {
     "name": "Porcelain",
@@ -6135,8 +5068,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 623,
-    "i": 623
+    "index": 623
   },
   {
     "name": "Danger",
@@ -6144,8 +5076,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 624,
-    "i": 624
+    "index": 624
   },
   {
     "name": "Paint Spill",
@@ -6153,8 +5084,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 625,
-    "i": 625
+    "index": 625
   },
   {
     "name": "Slime Spill",
@@ -6162,8 +5092,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 626,
-    "i": 626
+    "index": 626
   },
   {
     "name": "Cerise",
@@ -6171,8 +5100,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 627,
-    "i": 627
+    "index": 627
   },
   {
     "name": "Orange Drip",
@@ -6180,8 +5108,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 628,
-    "i": 628
+    "index": 628
   },
   {
     "name": "Red Drip",
@@ -6189,8 +5116,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 629,
-    "i": 629
+    "index": 629
   },
   {
     "name": "Green Drip",
@@ -6198,8 +5124,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 630,
-    "i": 630
+    "index": 630
   },
   {
     "name": "Overheated",
@@ -6208,8 +5133,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 631,
-    "i": 631
+    "index": 631
   },
   {
     "name": "Royal",
@@ -6218,8 +5142,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 632,
-    "i": 632
+    "index": 632
   },
   {
     "name": "Nordic",
@@ -6228,8 +5151,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 633,
-    "i": 633
+    "index": 633
   },
   {
     "name": "Boneclaw",
@@ -6237,8 +5159,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 634,
-    "i": 634
+    "index": 634
   },
   {
     "name": "Blue Digital",
@@ -6246,8 +5167,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 635,
-    "i": 635
+    "index": 635
   },
   {
     "name": "Green Digital",
@@ -6255,8 +5175,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 636,
-    "i": 636
+    "index": 636
   },
   {
     "name": "Purple Digital",
@@ -6264,8 +5183,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 637,
-    "i": 637
+    "index": 637
   },
   {
     "name": "Red Digital",
@@ -6273,8 +5191,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 638,
-    "i": 638
+    "index": 638
   },
   {
     "name": "Cascade",
@@ -6282,8 +5199,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 639,
-    "i": 639
+    "index": 639
   },
   {
     "name": "Pink Poly",
@@ -6291,8 +5207,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 640,
-    "i": 640
+    "index": 640
   },
   {
     "name": "Orange Poly",
@@ -6300,8 +5215,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 641,
-    "i": 641
+    "index": 641
   },
   {
     "name": "Green Poly",
@@ -6309,8 +5223,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 642,
-    "i": 642
+    "index": 642
   },
   {
     "name": "Blue Poly",
@@ -6318,8 +5231,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 643,
-    "i": 643
+    "index": 643
   },
   {
     "name": "War Torn",
@@ -6327,8 +5239,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 644,
-    "i": 644
+    "index": 644
   },
   {
     "name": "Pink Drip",
@@ -6336,8 +5247,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 645,
-    "i": 645
+    "index": 645
   },
   {
     "name": "Blue Drip",
@@ -6345,8 +5255,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 646,
-    "i": 646
+    "index": 646
   },
   {
     "name": "Sepia",
@@ -6354,8 +5263,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 647,
-    "i": 647
+    "index": 647
   },
   {
     "name": "Olive",
@@ -6363,8 +5271,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 648,
-    "i": 648
+    "index": 648
   },
   {
     "name": "Spruce",
@@ -6372,8 +5279,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 649,
-    "i": 649
+    "index": 649
   },
   {
     "name": "Dijon",
@@ -6381,8 +5287,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 650,
-    "i": 650
+    "index": 650
   },
   {
     "name": "Red Splat",
@@ -6390,8 +5295,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 651,
-    "i": 651
+    "index": 651
   },
   {
     "name": "Purple Splat",
@@ -6399,8 +5303,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 652,
-    "i": 652
+    "index": 652
   },
   {
     "name": "Orange Splat",
@@ -6408,8 +5311,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 653,
-    "i": 653
+    "index": 653
   },
   {
     "name": "Green Splat",
@@ -6417,8 +5319,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 654,
-    "i": 654
+    "index": 654
   },
   {
     "name": "Yellow Poly",
@@ -6426,8 +5327,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 655,
-    "i": 655
+    "index": 655
   },
   {
     "name": "Red Poly",
@@ -6435,8 +5335,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 656,
-    "i": 656
+    "index": 656
   },
   {
     "name": "Green Poly",
@@ -6444,8 +5343,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 657,
-    "i": 657
+    "index": 657
   },
   {
     "name": "Blue Poly",
@@ -6453,8 +5351,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 2,
-    "index": 658,
-    "i": 658
+    "index": 658
   },
   {
     "name": "Sandstorm",
@@ -6462,8 +5359,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 2,
-    "index": 659,
-    "i": 659
+    "index": 659
   },
   {
     "name": "Fabrica",
@@ -6471,8 +5367,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 660,
-    "i": 660
+    "index": 660
   },
   {
     "name": "Outlaw",
@@ -6480,8 +5375,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 2,
-    "index": 661,
-    "i": 661
+    "index": 661
   },
   {
     "name": "Green Poly",
@@ -6489,8 +5383,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 662,
-    "i": 662
+    "index": 662
   },
   {
     "name": "Blue Poly",
@@ -6498,8 +5391,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 663,
-    "i": 663
+    "index": 663
   },
   {
     "name": "Sandstorm",
@@ -6507,8 +5399,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 664,
-    "i": 664
+    "index": 664
   },
   {
     "name": "Fabrica",
@@ -6516,8 +5407,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 665,
-    "i": 665
+    "index": 665
   },
   {
     "name": "Zebrik",
@@ -6526,8 +5416,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 666,
-    "i": 666
+    "index": 666
   },
   {
     "name": "Picnic",
@@ -6535,8 +5424,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 667,
-    "i": 667
+    "index": 667
   },
   {
     "name": "Picasso",
@@ -6544,8 +5432,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 668,
-    "i": 668
+    "index": 668
   },
   {
     "name": "Cracked",
@@ -6553,8 +5440,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 669,
-    "i": 669
+    "index": 669
   },
   {
     "name": "Fire Stream",
@@ -6562,8 +5448,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 670,
-    "i": 670
+    "index": 670
   },
   {
     "name": "Ripped Sun",
@@ -6571,8 +5456,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 671,
-    "i": 671
+    "index": 671
   },
   {
     "name": "Bliss Flow",
@@ -6580,8 +5464,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 672,
-    "i": 672
+    "index": 672
   },
   {
     "name": "Snowy",
@@ -6589,8 +5472,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 673,
-    "i": 673
+    "index": 673
   },
   {
     "name": "Ducky",
@@ -6598,8 +5480,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 674,
-    "i": 674
+    "index": 674
   },
   {
     "name": "Graphite",
@@ -6607,8 +5488,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 675,
-    "i": 675
+    "index": 675
   },
   {
     "name": "Porcelain",
@@ -6616,8 +5496,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 676,
-    "i": 676
+    "index": 676
   },
   {
     "name": "Danger",
@@ -6625,8 +5504,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 677,
-    "i": 677
+    "index": 677
   },
   {
     "name": "Paint Spill",
@@ -6634,8 +5512,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 678,
-    "i": 678
+    "index": 678
   },
   {
     "name": "Slime Spill",
@@ -6643,8 +5520,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 679,
-    "i": 679
+    "index": 679
   },
   {
     "name": "Cerise",
@@ -6652,8 +5528,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 680,
-    "i": 680
+    "index": 680
   },
   {
     "name": "Orange Drip",
@@ -6661,8 +5536,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 681,
-    "i": 681
+    "index": 681
   },
   {
     "name": "Red Drip",
@@ -6670,8 +5544,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 682,
-    "i": 682
+    "index": 682
   },
   {
     "name": "Green Drip",
@@ -6679,8 +5552,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 683,
-    "i": 683
+    "index": 683
   },
   {
     "name": "Neoran",
@@ -6689,8 +5561,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 684,
-    "i": 684
+    "index": 684
   },
   {
     "name": "Fire Breath",
@@ -6699,8 +5570,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 685,
-    "i": 685
+    "index": 685
   },
   {
     "name": "Boneclaw",
@@ -6708,8 +5578,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 686,
-    "i": 686
+    "index": 686
   },
   {
     "name": "Blue Digital",
@@ -6717,8 +5586,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 687,
-    "i": 687
+    "index": 687
   },
   {
     "name": "Green Digital",
@@ -6726,8 +5594,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 688,
-    "i": 688
+    "index": 688
   },
   {
     "name": "Purple Digital",
@@ -6735,8 +5602,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 689,
-    "i": 689
+    "index": 689
   },
   {
     "name": "Red Digital",
@@ -6744,8 +5610,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 690,
-    "i": 690
+    "index": 690
   },
   {
     "name": "Cascade",
@@ -6753,8 +5618,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 691,
-    "i": 691
+    "index": 691
   },
   {
     "name": "Pink Poly",
@@ -6762,8 +5626,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 692,
-    "i": 692
+    "index": 692
   },
   {
     "name": "Orange Poly",
@@ -6771,8 +5634,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 693,
-    "i": 693
+    "index": 693
   },
   {
     "name": "Green Poly",
@@ -6780,8 +5642,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 694,
-    "i": 694
+    "index": 694
   },
   {
     "name": "Blue Poly",
@@ -6789,8 +5650,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 695,
-    "i": 695
+    "index": 695
   },
   {
     "name": "War Torn",
@@ -6798,8 +5658,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 696,
-    "i": 696
+    "index": 696
   },
   {
     "name": "Pink Drip",
@@ -6807,8 +5666,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 697,
-    "i": 697
+    "index": 697
   },
   {
     "name": "Blue Drip",
@@ -6816,8 +5674,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 698,
-    "i": 698
+    "index": 698
   },
   {
     "name": "Sepia",
@@ -6825,8 +5682,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 699,
-    "i": 699
+    "index": 699
   },
   {
     "name": "Olive",
@@ -6834,8 +5690,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 700,
-    "i": 700
+    "index": 700
   },
   {
     "name": "Spruce",
@@ -6843,8 +5698,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 701,
-    "i": 701
+    "index": 701
   },
   {
     "name": "Dijon",
@@ -6852,8 +5706,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 2,
-    "index": 702,
-    "i": 702
+    "index": 702
   },
   {
     "name": "Red Splat",
@@ -6861,8 +5714,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 703,
-    "i": 703
+    "index": 703
   },
   {
     "name": "Purple Splat",
@@ -6870,8 +5722,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 704,
-    "i": 704
+    "index": 704
   },
   {
     "name": "Orange Splat",
@@ -6879,8 +5730,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 705,
-    "i": 705
+    "index": 705
   },
   {
     "name": "Green Splat",
@@ -6888,8 +5738,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 706,
-    "i": 706
+    "index": 706
   },
   {
     "name": "Yellow Poly",
@@ -6897,8 +5746,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 707,
-    "i": 707
+    "index": 707
   },
   {
     "name": "Bloodbath",
@@ -6907,8 +5755,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 708,
-    "i": 708
+    "index": 708
   },
   {
     "name": "Red Poly",
@@ -6916,8 +5763,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 709,
-    "i": 709
+    "index": 709
   },
   {
     "name": "Blue Poly",
@@ -6925,8 +5771,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 710,
-    "i": 710
+    "index": 710
   },
   {
     "name": "Sandstorm",
@@ -6934,8 +5779,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 711,
-    "i": 711
+    "index": 711
   },
   {
     "name": "Fabrica",
@@ -6943,8 +5787,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 712,
-    "i": 712
+    "index": 712
   },
   {
     "name": "Picnic",
@@ -6952,8 +5795,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 713,
-    "i": 713
+    "index": 713
   },
   {
     "name": "Picasso",
@@ -6961,8 +5803,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 714,
-    "i": 714
+    "index": 714
   },
   {
     "name": "Cracked",
@@ -6970,8 +5811,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 715,
-    "i": 715
+    "index": 715
   },
   {
     "name": "Fire Stream",
@@ -6979,8 +5819,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 716,
-    "i": 716
+    "index": 716
   },
   {
     "name": "Ripped Sun",
@@ -6988,8 +5827,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 717,
-    "i": 717
+    "index": 717
   },
   {
     "name": "Bliss Flow",
@@ -6997,8 +5835,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 718,
-    "i": 718
+    "index": 718
   },
   {
     "name": "Kenzo",
@@ -7006,8 +5843,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 719,
-    "i": 719
+    "index": 719
   },
   {
     "name": "Snowy",
@@ -7015,8 +5851,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 720,
-    "i": 720
+    "index": 720
   },
   {
     "name": "Ducky",
@@ -7024,8 +5859,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 721,
-    "i": 721
+    "index": 721
   },
   {
     "name": "Graphite",
@@ -7033,8 +5867,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 722,
-    "i": 722
+    "index": 722
   },
   {
     "name": "Porcelain",
@@ -7042,8 +5875,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 723,
-    "i": 723
+    "index": 723
   },
   {
     "name": "Danger",
@@ -7051,8 +5883,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 724,
-    "i": 724
+    "index": 724
   },
   {
     "name": "Paint Spill",
@@ -7060,8 +5891,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 725,
-    "i": 725
+    "index": 725
   },
   {
     "name": "Goop",
@@ -7069,8 +5899,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 726,
-    "i": 726
+    "index": 726
   },
   {
     "name": "Cerise",
@@ -7078,8 +5907,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 727,
-    "i": 727
+    "index": 727
   },
   {
     "name": "Orange Drip",
@@ -7087,8 +5915,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 728,
-    "i": 728
+    "index": 728
   },
   {
     "name": "Red Drip",
@@ -7096,8 +5923,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 729,
-    "i": 729
+    "index": 729
   },
   {
     "name": "Green Drip",
@@ -7105,8 +5931,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 730,
-    "i": 730
+    "index": 730
   },
   {
     "name": "Boneclaw",
@@ -7114,8 +5939,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 731,
-    "i": 731
+    "index": 731
   },
   {
     "name": "Blue Digital",
@@ -7123,8 +5947,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 732,
-    "i": 732
+    "index": 732
   },
   {
     "name": "Green Digital",
@@ -7132,8 +5955,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 733,
-    "i": 733
+    "index": 733
   },
   {
     "name": "Purple Digital",
@@ -7141,8 +5963,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 734,
-    "i": 734
+    "index": 734
   },
   {
     "name": "Red Digital",
@@ -7150,8 +5971,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 735,
-    "i": 735
+    "index": 735
   },
   {
     "name": "Cascade",
@@ -7159,8 +5979,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 736,
-    "i": 736
+    "index": 736
   },
   {
     "name": "Pink Poly",
@@ -7168,8 +5987,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 737,
-    "i": 737
+    "index": 737
   },
   {
     "name": "Orange Poly",
@@ -7177,8 +5995,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 738,
-    "i": 738
+    "index": 738
   },
   {
     "name": "Green Poly",
@@ -7186,8 +6003,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 739,
-    "i": 739
+    "index": 739
   },
   {
     "name": "Blue Poly",
@@ -7195,8 +6011,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 740,
-    "i": 740
+    "index": 740
   },
   {
     "name": "War Torn",
@@ -7204,8 +6019,7 @@ var items = [
     "weapon": 9,
     "rarity": 2,
     "seas": 2,
-    "index": 741,
-    "i": 741
+    "index": 741
   },
   {
     "name": "Pink Drip",
@@ -7213,8 +6027,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 742,
-    "i": 742
+    "index": 742
   },
   {
     "name": "Blue Drip",
@@ -7222,8 +6035,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 743,
-    "i": 743
+    "index": 743
   },
   {
     "name": "Sepia",
@@ -7231,8 +6043,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 744,
-    "i": 744
+    "index": 744
   },
   {
     "name": "Olive",
@@ -7240,8 +6051,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 745,
-    "i": 745
+    "index": 745
   },
   {
     "name": "Spruce",
@@ -7249,8 +6059,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 746,
-    "i": 746
+    "index": 746
   },
   {
     "name": "Dijon",
@@ -7258,8 +6067,7 @@ var items = [
     "weapon": 9,
     "rarity": 0,
     "seas": 2,
-    "index": 747,
-    "i": 747
+    "index": 747
   },
   {
     "name": "Red Splat",
@@ -7267,8 +6075,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 748,
-    "i": 748
+    "index": 748
   },
   {
     "name": "Purple Splat",
@@ -7276,8 +6083,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 749,
-    "i": 749
+    "index": 749
   },
   {
     "name": "Orange Splat",
@@ -7285,8 +6091,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 750,
-    "i": 750
+    "index": 750
   },
   {
     "name": "Green Splat",
@@ -7294,8 +6099,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 751,
-    "i": 751
+    "index": 751
   },
   {
     "name": "Yellow Poly",
@@ -7303,8 +6107,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 752,
-    "i": 752
+    "index": 752
   },
   {
     "name": "Red Poly",
@@ -7312,8 +6115,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 753,
-    "i": 753
+    "index": 753
   },
   {
     "name": "Green Poly",
@@ -7321,8 +6123,7 @@ var items = [
     "weapon": 9,
     "rarity": 1,
     "seas": 2,
-    "index": 754,
-    "i": 754
+    "index": 754
   },
   {
     "name": "Coffin",
@@ -7331,8 +6132,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 755,
-    "i": 755
+    "index": 755
   },
   {
     "name": "Lightning Strike",
@@ -7341,8 +6141,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 756,
-    "i": 756
+    "index": 756
   },
   {
     "name": "Boneclaw",
@@ -7350,8 +6149,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
-    "index": 757,
-    "i": 757
+    "index": 757
   },
   {
     "name": "Blue Digital",
@@ -7359,8 +6157,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 758,
-    "i": 758
+    "index": 758
   },
   {
     "name": "Green Digital",
@@ -7368,8 +6165,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 759,
-    "i": 759
+    "index": 759
   },
   {
     "name": "Purple Digital",
@@ -7377,8 +6173,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 760,
-    "i": 760
+    "index": 760
   },
   {
     "name": "Red Digital",
@@ -7386,8 +6181,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 761,
-    "i": 761
+    "index": 761
   },
   {
     "name": "Cascade",
@@ -7395,8 +6189,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 762,
-    "i": 762
+    "index": 762
   },
   {
     "name": "Pink Poly",
@@ -7404,8 +6197,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 763,
-    "i": 763
+    "index": 763
   },
   {
     "name": "Orange Poly",
@@ -7413,8 +6205,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 764,
-    "i": 764
+    "index": 764
   },
   {
     "name": "Green Poly",
@@ -7422,8 +6213,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 765,
-    "i": 765
+    "index": 765
   },
   {
     "name": "Blue Poly",
@@ -7431,8 +6221,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 766,
-    "i": 766
+    "index": 766
   },
   {
     "name": "War Torn",
@@ -7440,8 +6229,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 767,
-    "i": 767
+    "index": 767
   },
   {
     "name": "Spook",
@@ -7450,8 +6238,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 768,
-    "i": 768
+    "index": 768
   },
   {
     "name": "Pink Drip",
@@ -7459,8 +6246,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 769,
-    "i": 769
+    "index": 769
   },
   {
     "name": "Blue Drip",
@@ -7468,8 +6254,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 770,
-    "i": 770
+    "index": 770
   },
   {
     "name": "Sepia",
@@ -7477,8 +6262,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 771,
-    "i": 771
+    "index": 771
   },
   {
     "name": "Olive",
@@ -7486,8 +6270,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 772,
-    "i": 772
+    "index": 772
   },
   {
     "name": "Spruce",
@@ -7495,8 +6278,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 773,
-    "i": 773
+    "index": 773
   },
   {
     "name": "Dijon",
@@ -7504,8 +6286,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 774,
-    "i": 774
+    "index": 774
   },
   {
     "name": "Red Splat",
@@ -7513,8 +6294,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 775,
-    "i": 775
+    "index": 775
   },
   {
     "name": "Purple Splat",
@@ -7522,8 +6302,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 776,
-    "i": 776
+    "index": 776
   },
   {
     "name": "Orange Splat",
@@ -7531,8 +6310,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 777,
-    "i": 777
+    "index": 777
   },
   {
     "name": "Green Splat",
@@ -7540,8 +6318,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 778,
-    "i": 778
+    "index": 778
   },
   {
     "name": "Yellow Poly",
@@ -7549,8 +6326,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 779,
-    "i": 779
+    "index": 779
   },
   {
     "name": "Red Poly",
@@ -7558,8 +6334,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 780,
-    "i": 780
+    "index": 780
   },
   {
     "name": "Green Poly",
@@ -7567,8 +6342,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 781,
-    "i": 781
+    "index": 781
   },
   {
     "name": "Blue Poly",
@@ -7576,8 +6350,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 2,
-    "index": 782,
-    "i": 782
+    "index": 782
   },
   {
     "name": "Sandstorm",
@@ -7585,8 +6358,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 783,
-    "i": 783
+    "index": 783
   },
   {
     "name": "Fabrica",
@@ -7594,8 +6366,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 784,
-    "i": 784
+    "index": 784
   },
   {
     "name": "Zebrik",
@@ -7603,8 +6374,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 785,
-    "i": 785
+    "index": 785
   },
   {
     "name": "Picnic",
@@ -7612,8 +6382,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 786,
-    "i": 786
+    "index": 786
   },
   {
     "name": "Picasso",
@@ -7621,8 +6390,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 787,
-    "i": 787
+    "index": 787
   },
   {
     "name": "Cracked",
@@ -7630,8 +6398,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 788,
-    "i": 788
+    "index": 788
   },
   {
     "name": "Fire Stream",
@@ -7639,8 +6406,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 789,
-    "i": 789
+    "index": 789
   },
   {
     "name": "Ripped Sun",
@@ -7648,8 +6414,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 790,
-    "i": 790
+    "index": 790
   },
   {
     "name": "Bliss Flow",
@@ -7657,8 +6422,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 791,
-    "i": 791
+    "index": 791
   },
   {
     "name": "Kenzo",
@@ -7666,8 +6430,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
-    "index": 792,
-    "i": 792
+    "index": 792
   },
   {
     "name": "Snowy",
@@ -7675,8 +6438,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 793,
-    "i": 793
+    "index": 793
   },
   {
     "name": "Ducky",
@@ -7684,8 +6446,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 794,
-    "i": 794
+    "index": 794
   },
   {
     "name": "Graphite",
@@ -7693,8 +6454,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 795,
-    "i": 795
+    "index": 795
   },
   {
     "name": "Porcelain",
@@ -7702,8 +6462,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 796,
-    "i": 796
+    "index": 796
   },
   {
     "name": "Danger",
@@ -7711,8 +6470,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 797,
-    "i": 797
+    "index": 797
   },
   {
     "name": "Paint Spill",
@@ -7720,8 +6478,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 798,
-    "i": 798
+    "index": 798
   },
   {
     "name": "Slime Spill",
@@ -7729,8 +6486,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 2,
-    "index": 799,
-    "i": 799
+    "index": 799
   },
   {
     "name": "Cerise",
@@ -7738,8 +6494,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 800,
-    "i": 800
+    "index": 800
   },
   {
     "name": "Orange Drip",
@@ -7747,8 +6502,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 801,
-    "i": 801
+    "index": 801
   },
   {
     "name": "Red Drip",
@@ -7756,8 +6510,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 802,
-    "i": 802
+    "index": 802
   },
   {
     "name": "Green Drip",
@@ -7765,8 +6518,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 2,
-    "index": 803,
-    "i": 803
+    "index": 803
   },
   {
     "name": "Galaxy Morse",
@@ -7775,8 +6527,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 804,
-    "i": 804
+    "index": 804
   },
   {
     "name": "Fire Storm",
@@ -7785,8 +6536,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 805,
-    "i": 805
+    "index": 805
   },
   {
     "name": "Marked",
@@ -7795,8 +6545,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 806,
-    "i": 806
+    "index": 806
   },
   {
     "name": "Frosted",
@@ -7805,8 +6554,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 807,
-    "i": 807
+    "index": 807
   },
   {
     "name": "Gold Tipped",
@@ -7816,8 +6564,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 808,
-    "i": 808
+    "index": 808
   },
   {
     "name": "Damascus",
@@ -7830,8 +6577,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 3,
-    "index": 809,
-    "i": 809
+    "index": 809
   },
   {
     "name": "Prism",
@@ -7845,8 +6591,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 3,
-    "index": 810,
-    "i": 810
+    "index": 810
   },
   {
     "name": "Bloodless",
@@ -7860,8 +6605,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 4,
-    "index": 811,
-    "i": 811
+    "index": 811
   },
   {
     "name": "Steelfang",
@@ -7878,8 +6622,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 812,
-    "i": 812
+    "index": 812
   },
   {
     "name": "Flamefang",
@@ -7898,8 +6641,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 813,
-    "i": 813
+    "index": 813
   },
   {
     "name": "Plasma Dust",
@@ -7918,8 +6660,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 814,
-    "i": 814
+    "index": 814
   },
   {
     "name": "Volt Fang",
@@ -7938,8 +6679,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 815,
-    "i": 815
+    "index": 815
   },
   {
     "name": "Black Cowboy Hat",
@@ -7950,8 +6690,7 @@ var items = [
     "seas": 2,
     "sclMlt": 0.56,
     "sitOff": 0.6,
-    "index": 816,
-    "i": 816
+    "index": 816
   },
   {
     "name": "Brown Cowboy Hat",
@@ -7965,8 +6704,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 817,
-    "i": 817
+    "index": 817
   },
   {
     "name": "Outback Hat",
@@ -7979,8 +6717,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 818,
-    "i": 818
+    "index": 818
   },
   {
     "name": "Dundee Hat",
@@ -7994,8 +6731,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 819,
-    "i": 819
+    "index": 819
   },
   {
     "name": "Red Hat",
@@ -8008,8 +6744,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 820,
-    "i": 820
+    "index": 820
   },
   {
     "name": "Blue Hat",
@@ -8023,8 +6758,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 821,
-    "i": 821
+    "index": 821
   },
   {
     "name": "Urban Soldier",
@@ -8038,8 +6772,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 822,
-    "i": 822
+    "index": 822
   },
   {
     "name": "Desert Soldier",
@@ -8053,8 +6786,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 823,
-    "i": 823
+    "index": 823
   },
   {
     "name": "Arctic Soldier",
@@ -8068,8 +6800,7 @@ var items = [
     "sitOff": 0.78,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 824,
-    "i": 824
+    "index": 824
   },
   {
     "name": "Ace",
@@ -8082,8 +6813,7 @@ var items = [
     "sitOff": 0.7,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 825,
-    "i": 825
+    "index": 825
   },
   {
     "name": "Pinata",
@@ -8096,8 +6826,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 826,
-    "i": 826
+    "index": 826
   },
   {
     "name": "Sombrerro",
@@ -8111,8 +6840,7 @@ var items = [
     "sitOff": 0.6,
     "yOff": -1.2,
     "scl": 1.2,
-    "index": 827,
-    "i": 827
+    "index": 827
   },
   {
     "name": "Swagger",
@@ -8125,8 +6853,7 @@ var items = [
     "sitOff": 1.8,
     "yOff": -2,
     "scl": 1.2,
-    "index": 828,
-    "i": 828
+    "index": 828
   },
   {
     "name": "Acid Bane",
@@ -8142,8 +6869,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -2,
     "xOff": -4,
-    "index": 829,
-    "i": 829
+    "index": 829
   },
   {
     "name": "Plasma Bones",
@@ -8160,8 +6886,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -2,
     "xOff": -4,
-    "index": 830,
-    "i": 830
+    "index": 830
   },
   {
     "name": "Jet Pack",
@@ -8177,8 +6902,7 @@ var items = [
     "sitOffZ": -0.93,
     "yOff": -1.3,
     "xRot": 3.141592653589793,
-    "index": 831,
-    "i": 831
+    "index": 831
   },
   {
     "name": "Red Backpack",
@@ -8193,8 +6917,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -1.5,
     "xRot": 3.141592653589793,
-    "index": 832,
-    "i": 832
+    "index": 832
   },
   {
     "name": "Blue Backpack",
@@ -8210,8 +6933,7 @@ var items = [
     "sitOffZ": -0.8,
     "yOff": -1.5,
     "xRot": 3.141592653589793,
-    "index": 833,
-    "i": 833
+    "index": 833
   },
   {
     "name": "Police Vest",
@@ -8226,8 +6948,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -2,
     "xRot": 3.141592653589793,
-    "index": 834,
-    "i": 834
+    "index": 834
   },
   {
     "name": "Angelic Wings",
@@ -8243,8 +6964,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
-    "index": 835,
-    "i": 835
+    "index": 835
   },
   {
     "name": "Gradient Pennon",
@@ -8261,8 +6981,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
-    "index": 836,
-    "i": 836
+    "index": 836
   },
   {
     "name": "Torn Aileron",
@@ -8278,8 +6997,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
-    "index": 837,
-    "i": 837
+    "index": 837
   },
   {
     "name": "Cursed",
@@ -8296,8 +7014,7 @@ var items = [
     "sitOffZ": -2,
     "xOff": -2,
     "yOff": -3,
-    "index": 838,
-    "i": 838
+    "index": 838
   },
   {
     "name": "Butterfly",
@@ -8311,8 +7028,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -2.4,
     "yOff": -2,
-    "index": 839,
-    "i": 839
+    "index": 839
   },
   {
     "name": "Mr. Rabbiton",
@@ -8325,8 +7041,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 840,
-    "i": 840
+    "index": 840
   },
   {
     "name": "Madman",
@@ -8339,8 +7054,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 841,
-    "i": 841
+    "index": 841
   },
   {
     "name": "Grizz Lee",
@@ -8353,8 +7067,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 842,
-    "i": 842
+    "index": 842
   },
   {
     "name": "Claws",
@@ -8368,8 +7081,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 843,
-    "i": 843
+    "index": 843
   },
   {
     "name": "Simba",
@@ -8382,8 +7094,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 844,
-    "i": 844
+    "index": 844
   },
   {
     "name": "Captain Walrus",
@@ -8396,8 +7107,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 845,
-    "i": 845
+    "index": 845
   },
   {
     "name": "Monke",
@@ -8410,8 +7120,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 846,
-    "i": 846
+    "index": 846
   },
   {
     "name": "Lord Panda",
@@ -8424,8 +7133,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 847,
-    "i": 847
+    "index": 847
   },
   {
     "name": "Ray Bam",
@@ -8439,8 +7147,7 @@ var items = [
     "scl": 1.4,
     "xOff": 1.5,
     "yOff": -1.2,
-    "index": 848,
-    "i": 848
+    "index": 848
   },
   {
     "name": "Gold Sunnies",
@@ -8455,8 +7162,7 @@ var items = [
     "scl": 1.4,
     "xOff": 1.5,
     "yOff": -1.2,
-    "index": 849,
-    "i": 849
+    "index": 849
   },
   {
     "name": "Queens Guard",
@@ -8469,8 +7175,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 0.9,
     "yOff": -2.1,
-    "index": 850,
-    "i": 850
+    "index": 850
   },
   {
     "name": "Snowman",
@@ -8484,8 +7189,7 @@ var items = [
     "xOff": 1.5,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 851,
-    "i": 851
+    "index": 851
   },
   {
     "name": "Misty",
@@ -8498,8 +7202,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 852,
-    "i": 852
+    "index": 852
   },
   {
     "name": "Unicorn",
@@ -8512,8 +7215,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 853,
-    "i": 853
+    "index": 853
   },
   {
     "name": "TV Tron LCD",
@@ -8529,8 +7231,7 @@ var items = [
     "yOff": -3.2,
     "frames": 2,
     "frameT": 400,
-    "index": 854,
-    "i": 854
+    "index": 854
   },
   {
     "name": "Acidic Bane",
@@ -8545,8 +7246,7 @@ var items = [
     "xOff": 1.2,
     "scl": 1.1,
     "yOff": -1.2,
-    "index": 855,
-    "i": 855
+    "index": 855
   },
   {
     "name": "Tentacus",
@@ -8561,8 +7261,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
-    "index": 856,
-    "i": 856
+    "index": 856
   },
   {
     "name": "Soldier 159",
@@ -8576,8 +7275,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
-    "index": 857,
-    "i": 857
+    "index": 857
   },
   {
     "name": "Soldier 160",
@@ -8591,8 +7289,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
-    "index": 858,
-    "i": 858
+    "index": 858
   },
   {
     "name": "Templar",
@@ -8606,8 +7303,7 @@ var items = [
     "sitOff": 1.3,
     "scl": 1.1,
     "yOff": -1.2,
-    "index": 859,
-    "i": 859
+    "index": 859
   },
   {
     "name": "Phase Blades",
@@ -8624,8 +7320,7 @@ var items = [
     "yOff": -1,
     "xOff": -0.5,
     "rarity": 3,
-    "index": 860,
-    "i": 860
+    "index": 860
   },
   {
     "name": "Pot'O'Gold",
@@ -8641,8 +7336,7 @@ var items = [
     "xOff": 0.5,
     "scl": 4,
     "xRot": 3.141592653589793,
-    "index": 861,
-    "i": 861
+    "index": 861
   },
   {
     "name": "Unicorn Backpack",
@@ -8658,8 +7352,7 @@ var items = [
     "xOff": -1.5,
     "scl": 3.5,
     "xRot": 3.141592653589793,
-    "index": 862,
-    "i": 862
+    "index": 862
   },
   {
     "name": "Flame Talon",
@@ -8668,8 +7361,7 @@ var items = [
     "id": 79,
     "seas": 2,
     "rarity": 4,
-    "index": 863,
-    "i": 863
+    "index": 863
   },
   {
     "name": "Raynb0w",
@@ -8681,8 +7373,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 7,
     "rarity": 5,
-    "index": 864,
-    "i": 864
+    "index": 864
   },
   {
     "name": "Raynb0w",
@@ -8694,8 +7385,7 @@ var items = [
     "movT": 0.0015,
     "weapon": 5,
     "rarity": 5,
-    "index": 865,
-    "i": 865
+    "index": 865
   },
   {
     "name": "Terminal",
@@ -8707,8 +7397,7 @@ var items = [
     "frames": 2,
     "frameT": 250,
     "keyW": "Sprays",
-    "index": 866,
-    "i": 866
+    "index": 866
   },
   {
     "name": "Clickbait",
@@ -8720,8 +7409,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
-    "index": 867,
-    "i": 867
+    "index": 867
   },
   {
     "name": "Kunai",
@@ -8738,8 +7426,7 @@ var items = [
     "sxOff": 0,
     "syOff": -0.05,
     "szOff": -0.1,
-    "index": 868,
-    "i": 868
+    "index": 868
   },
   {
     "name": "Wrench",
@@ -8753,8 +7440,7 @@ var items = [
     "yOff": -2.5,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 869,
-    "i": 869
+    "index": 869
   },
   {
     "name": "Clown",
@@ -8767,8 +7453,7 @@ var items = [
     "sitOff": 0.9,
     "scl": 1.6,
     "yOff": -1.2,
-    "index": 870,
-    "i": 870
+    "index": 870
   },
   {
     "name": "Wink",
@@ -8780,8 +7465,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
-    "index": 871,
-    "i": 871
+    "index": 871
   },
   {
     "name": "No U",
@@ -8793,8 +7477,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
-    "index": 872,
-    "i": 872
+    "index": 872
   },
   {
     "name": "Coolman",
@@ -8806,8 +7489,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
-    "index": 873,
-    "i": 873
+    "index": 873
   },
   {
     "name": "Paranoid",
@@ -8819,8 +7501,7 @@ var items = [
     "frames": 2,
     "frameT": 1200,
     "keyW": "Sprays",
-    "index": 874,
-    "i": 874
+    "index": 874
   },
   {
     "name": "Dab",
@@ -8832,8 +7513,7 @@ var items = [
     "frames": 2,
     "frameT": 400,
     "keyW": "Sprays",
-    "index": 875,
-    "i": 875
+    "index": 875
   },
   {
     "name": "Pepereel",
@@ -8844,8 +7524,7 @@ var items = [
     "opacity": 0.8,
     "movT": -0.0025,
     "keyW": "Sprays",
-    "index": 876,
-    "i": 876
+    "index": 876
   },
   {
     "name": "Wanted",
@@ -8855,8 +7534,7 @@ var items = [
     "seas": 2,
     "opacity": 0.75,
     "keyW": "Sprays",
-    "index": 877,
-    "i": 877
+    "index": 877
   },
   {
     "name": "Soon&trade;",
@@ -8868,8 +7546,7 @@ var items = [
     "frames": 2,
     "frameT": 550,
     "keyW": "Sprays",
-    "index": 878,
-    "i": 878
+    "index": 878
   },
   {
     "name": "Art",
@@ -8881,8 +7558,7 @@ var items = [
     "frames": 2,
     "frameT": 350,
     "keyW": "Sprays",
-    "index": 879,
-    "i": 879
+    "index": 879
   },
   {
     "name": "Nautilus",
@@ -8894,8 +7570,7 @@ var items = [
     "frames": 4,
     "frameT": 200,
     "keyW": "Sprays",
-    "index": 880,
-    "i": 880
+    "index": 880
   },
   {
     "name": "Baller",
@@ -8907,8 +7582,7 @@ var items = [
     "weapon": 1,
     "rarity": 5,
     "seas": 2,
-    "index": 881,
-    "i": 881
+    "index": 881
   },
   {
     "name": "Baller",
@@ -8920,8 +7594,7 @@ var items = [
     "weapon": 2,
     "rarity": 5,
     "seas": 2,
-    "index": 882,
-    "i": 882
+    "index": 882
   },
   {
     "name": "Baller",
@@ -8933,8 +7606,7 @@ var items = [
     "weapon": 4,
     "rarity": 5,
     "seas": 2,
-    "index": 883,
-    "i": 883
+    "index": 883
   },
   {
     "name": "Baller",
@@ -8946,8 +7618,7 @@ var items = [
     "weapon": 5,
     "rarity": 5,
     "seas": 2,
-    "index": 884,
-    "i": 884
+    "index": 884
   },
   {
     "name": "TV Tron HD",
@@ -8963,8 +7634,7 @@ var items = [
     "yOff": -3.2,
     "frames": 2,
     "frameT": 400,
-    "index": 885,
-    "i": 885
+    "index": 885
   },
   {
     "name": "Nova Pump",
@@ -8979,8 +7649,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
-    "index": 886,
-    "i": 886
+    "index": 886
   },
   {
     "name": "Roadkill",
@@ -8993,8 +7662,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 3,
-    "index": 887,
-    "i": 887
+    "index": 887
   },
   {
     "name": "Molten Core",
@@ -9009,8 +7677,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 4,
-    "index": 888,
-    "i": 888
+    "index": 888
   },
   {
     "name": "Mosaik",
@@ -9023,8 +7690,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 889,
-    "i": 889
+    "index": 889
   },
   {
     "name": "Kiason",
@@ -9037,8 +7703,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 890,
-    "i": 890
+    "index": 890
   },
   {
     "name": "Monatomic",
@@ -9052,8 +7717,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 3,
-    "index": 891,
-    "i": 891
+    "index": 891
   },
   {
     "name": "Crystalline",
@@ -9067,8 +7731,7 @@ var items = [
     "weapon": 6,
     "glow": true,
     "rarity": 4,
-    "index": 892,
-    "i": 892
+    "index": 892
   },
   {
     "name": "Blue Digital",
@@ -9081,8 +7744,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
-    "index": 893,
-    "i": 893
+    "index": 893
   },
   {
     "name": "Green Digital",
@@ -9095,8 +7757,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
-    "index": 894,
-    "i": 894
+    "index": 894
   },
   {
     "name": "Purple Digital",
@@ -9109,8 +7770,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
-    "index": 895,
-    "i": 895
+    "index": 895
   },
   {
     "name": "Red Digital",
@@ -9123,8 +7783,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 0,
-    "index": 896,
-    "i": 896
+    "index": 896
   },
   {
     "name": "Pink Poly",
@@ -9137,8 +7796,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 897,
-    "i": 897
+    "index": 897
   },
   {
     "name": "Orange Poly",
@@ -9151,8 +7809,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 898,
-    "i": 898
+    "index": 898
   },
   {
     "name": "Green Poly",
@@ -9165,8 +7822,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 899,
-    "i": 899
+    "index": 899
   },
   {
     "name": "Blue Poly",
@@ -9179,8 +7835,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 900,
-    "i": 900
+    "index": 900
   },
   {
     "name": "Pink Drip",
@@ -9193,8 +7848,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 901,
-    "i": 901
+    "index": 901
   },
   {
     "name": "Blue Drip",
@@ -9207,8 +7861,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 902,
-    "i": 902
+    "index": 902
   },
   {
     "name": "Sepia",
@@ -9221,8 +7874,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 903,
-    "i": 903
+    "index": 903
   },
   {
     "name": "Olive",
@@ -9235,8 +7887,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 904,
-    "i": 904
+    "index": 904
   },
   {
     "name": "Spruce",
@@ -9249,8 +7900,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 905,
-    "i": 905
+    "index": 905
   },
   {
     "name": "Dijon",
@@ -9263,8 +7913,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 906,
-    "i": 906
+    "index": 906
   },
   {
     "name": "Red Splat",
@@ -9277,8 +7926,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 907,
-    "i": 907
+    "index": 907
   },
   {
     "name": "Purple Splat",
@@ -9291,8 +7939,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 908,
-    "i": 908
+    "index": 908
   },
   {
     "name": "Orange Splat",
@@ -9305,8 +7952,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 909,
-    "i": 909
+    "index": 909
   },
   {
     "name": "Green Splat",
@@ -9319,8 +7965,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 910,
-    "i": 910
+    "index": 910
   },
   {
     "name": "Yellow Comb",
@@ -9333,8 +7978,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 911,
-    "i": 911
+    "index": 911
   },
   {
     "name": "Red Comb",
@@ -9347,8 +7991,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 912,
-    "i": 912
+    "index": 912
   },
   {
     "name": "Green Comb",
@@ -9361,8 +8004,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 913,
-    "i": 913
+    "index": 913
   },
   {
     "name": "Blue Comb",
@@ -9375,8 +8017,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 914,
-    "i": 914
+    "index": 914
   },
   {
     "name": "Sandstorm",
@@ -9389,8 +8030,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 915,
-    "i": 915
+    "index": 915
   },
   {
     "name": "Picnic",
@@ -9403,8 +8043,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 916,
-    "i": 916
+    "index": 916
   },
   {
     "name": "Picasso",
@@ -9417,8 +8056,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 917,
-    "i": 917
+    "index": 917
   },
   {
     "name": "Snowy",
@@ -9431,8 +8069,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 918,
-    "i": 918
+    "index": 918
   },
   {
     "name": "Hazard",
@@ -9445,8 +8082,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 919,
-    "i": 919
+    "index": 919
   },
   {
     "name": "Cerise",
@@ -9459,8 +8095,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 2,
-    "index": 920,
-    "i": 920
+    "index": 920
   },
   {
     "name": "Orange Drip",
@@ -9473,8 +8108,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 921,
-    "i": 921
+    "index": 921
   },
   {
     "name": "Red Drip",
@@ -9487,8 +8121,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 922,
-    "i": 922
+    "index": 922
   },
   {
     "name": "Green Drip",
@@ -9501,8 +8134,7 @@ var items = [
     "seas": 2,
     "weapon": 6,
     "rarity": 1,
-    "index": 923,
-    "i": 923
+    "index": 923
   },
   {
     "name": "Wasteland",
@@ -9511,8 +8143,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
-    "index": 924,
-    "i": 924
+    "index": 924
   },
   {
     "name": "Turbo",
@@ -9521,8 +8152,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 925,
-    "i": 925
+    "index": 925
   },
   {
     "name": "Urban Splat",
@@ -9532,8 +8162,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "seas": 2,
-    "index": 926,
-    "i": 926
+    "index": 926
   },
   {
     "name": "Cimota",
@@ -9543,8 +8172,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
-    "index": 927,
-    "i": 927
+    "index": 927
   },
   {
     "name": "Fractal",
@@ -9553,8 +8181,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
-    "index": 928,
-    "i": 928
+    "index": 928
   },
   {
     "name": "Chrome",
@@ -9564,8 +8191,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 2,
-    "index": 929,
-    "i": 929
+    "index": 929
   },
   {
     "name": "World of Light",
@@ -9575,8 +8201,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 2,
-    "index": 930,
-    "i": 930
+    "index": 930
   },
   {
     "name": "Vantablack",
@@ -9588,8 +8213,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 5,
-    "index": 931,
-    "i": 931
+    "index": 931
   },
   {
     "name": "Lederhose",
@@ -9597,8 +8221,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
-    "index": 932,
-    "i": 932
+    "index": 932
   },
   {
     "name": "Emboss",
@@ -9606,8 +8229,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 933,
-    "i": 933
+    "index": 933
   },
   {
     "name": "Spineless",
@@ -9615,8 +8237,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 934,
-    "i": 934
+    "index": 934
   },
   {
     "name": "Gold Plated",
@@ -9624,8 +8245,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 935,
-    "i": 935
+    "index": 935
   },
   {
     "name": "Daimyo Spirit",
@@ -9635,8 +8255,7 @@ var items = [
     "glow": true,
     "rarity": 4,
     "seas": 2,
-    "index": 936,
-    "i": 936
+    "index": 936
   },
   {
     "name": "Heat Stroke",
@@ -9645,8 +8264,7 @@ var items = [
     "glow": true,
     "rarity": 3,
     "seas": 2,
-    "index": 937,
-    "i": 937
+    "index": 937
   },
   {
     "name": "Samurai Spirit",
@@ -9656,8 +8274,7 @@ var items = [
     "glow": true,
     "rarity": 4,
     "seas": 2,
-    "index": 938,
-    "i": 938
+    "index": 938
   },
   {
     "name": "Suede Blade",
@@ -9675,8 +8292,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 939,
-    "i": 939
+    "index": 939
   },
   {
     "name": "Aziru",
@@ -9696,8 +8312,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 940,
-    "i": 940
+    "index": 940
   },
   {
     "name": "Clockwork",
@@ -9705,8 +8320,7 @@ var items = [
     "seas": 2,
     "weapon": 1,
     "rarity": 3,
-    "index": 941,
-    "i": 941
+    "index": 941
   },
   {
     "name": "Jagdfaust IV",
@@ -9721,8 +8335,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 6,
-    "index": 942,
-    "i": 942
+    "index": 942
   },
   {
     "name": "Coroller",
@@ -9736,8 +8349,7 @@ var items = [
     "sclMlt": 0.76,
     "yOff": -2.5,
     "sxOff": 0.15,
-    "index": 943,
-    "i": 943
+    "index": 943
   },
   {
     "name": "Facemask",
@@ -9750,8 +8362,7 @@ var items = [
     "sclMlt": 0.54,
     "sitOff": 0.9,
     "scl": 1.6,
-    "index": 944,
-    "i": 944
+    "index": 944
   },
   {
     "name": "Spectralon",
@@ -9763,8 +8374,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 5,
-    "index": 945,
-    "i": 945
+    "index": 945
   },
   {
     "name": "24/7",
@@ -9774,8 +8384,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 946,
-    "i": 946
+    "index": 946
   },
   {
     "name": "Shattered",
@@ -9784,8 +8393,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 947,
-    "i": 947
+    "index": 947
   },
   {
     "name": "Lunatic",
@@ -9795,8 +8403,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 948,
-    "i": 948
+    "index": 948
   },
   {
     "name": "Auzora",
@@ -9805,8 +8412,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 949,
-    "i": 949
+    "index": 949
   },
   {
     "name": "Botanical",
@@ -9816,8 +8422,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 950,
-    "i": 950
+    "index": 950
   },
   {
     "name": "Krunkette 1",
@@ -9827,8 +8432,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
-    "index": 951,
-    "i": 951
+    "index": 951
   },
   {
     "name": "Krunkette 2",
@@ -9838,8 +8442,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
-    "index": 952,
-    "i": 952
+    "index": 952
   },
   {
     "name": "Krunkette 3",
@@ -9849,8 +8452,7 @@ var items = [
     "seas": 2,
     "opacity": 0.7,
     "keyW": "Sprays",
-    "index": 953,
-    "i": 953
+    "index": 953
   },
   {
     "name": "Lunar",
@@ -9860,8 +8462,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 954,
-    "i": 954
+    "index": 954
   },
   {
     "name": "S&Y",
@@ -9871,8 +8472,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 955,
-    "i": 955
+    "index": 955
   },
   {
     "name": "Quarantine",
@@ -9886,8 +8486,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
-    "index": 956,
-    "i": 956
+    "index": 956
   },
   {
     "name": "Scarlet",
@@ -9897,8 +8496,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 2,
-    "index": 957,
-    "i": 957
+    "index": 957
   },
   {
     "name": "Lunar Nitro",
@@ -9907,8 +8505,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 958,
-    "i": 958
+    "index": 958
   },
   {
     "name": "Sunset Raven",
@@ -9923,8 +8520,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 959,
-    "i": 959
+    "index": 959
   },
   {
     "name": "Otzarreta",
@@ -9934,8 +8530,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 960,
-    "i": 960
+    "index": 960
   },
   {
     "name": "Wychwood",
@@ -9945,8 +8540,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 961,
-    "i": 961
+    "index": 961
   },
   {
     "name": "Trip",
@@ -9956,8 +8550,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 962,
-    "i": 962
+    "index": 962
   },
   {
     "name": "Retribution",
@@ -9966,8 +8559,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 963,
-    "i": 963
+    "index": 963
   },
   {
     "name": "Spiritful",
@@ -9977,8 +8569,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 964,
-    "i": 964
+    "index": 964
   },
   {
     "name": "Toxix",
@@ -9993,8 +8584,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 965,
-    "i": 965
+    "index": 965
   },
   {
     "name": "Spec Ops",
@@ -10003,8 +8593,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 2,
-    "index": 966,
-    "i": 966
+    "index": 966
   },
   {
     "name": "Retro-cade",
@@ -10013,8 +8602,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 967,
-    "i": 967
+    "index": 967
   },
   {
     "name": "Incognito",
@@ -10028,8 +8616,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
-    "index": 968,
-    "i": 968
+    "index": 968
   },
   {
     "name": "Crator",
@@ -10037,8 +8624,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 969,
-    "i": 969
+    "index": 969
   },
   {
     "name": "Scalar",
@@ -10052,8 +8638,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
-    "index": 970,
-    "i": 970
+    "index": 970
   },
   {
     "name": "HotRod",
@@ -10068,8 +8653,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
-    "index": 971,
-    "i": 971
+    "index": 971
   },
   {
     "name": "Insanity",
@@ -10078,8 +8662,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 972,
-    "i": 972
+    "index": 972
   },
   {
     "name": "Violet",
@@ -10088,8 +8671,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 973,
-    "i": 973
+    "index": 973
   },
   {
     "name": "Savaged",
@@ -10098,8 +8680,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 974,
-    "i": 974
+    "index": 974
   },
   {
     "name": "Crimson",
@@ -10109,8 +8690,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 975,
-    "i": 975
+    "index": 975
   },
   {
     "name": "T3CH",
@@ -10120,8 +8700,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 976,
-    "i": 976
+    "index": 976
   },
   {
     "name": "SMG Wired",
@@ -10130,8 +8709,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 977,
-    "i": 977
+    "index": 977
   },
   {
     "name": "AWM Federation",
@@ -10140,8 +8718,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 978,
-    "i": 978
+    "index": 978
   },
   {
     "name": "Soul",
@@ -10150,8 +8727,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 979,
-    "i": 979
+    "index": 979
   },
   {
     "name": "RevBG",
@@ -10160,8 +8736,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 980,
-    "i": 980
+    "index": 980
   },
   {
     "name": "Thunder Serpent",
@@ -10177,8 +8752,7 @@ var items = [
     "yOff": 0,
     "rarity": 4,
     "seas": 2,
-    "index": 981,
-    "i": 981
+    "index": 981
   },
   {
     "name": "Sheikah",
@@ -10188,8 +8762,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 982,
-    "i": 982
+    "index": 982
   },
   {
     "name": "Fairy",
@@ -10198,8 +8771,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 983,
-    "i": 983
+    "index": 983
   },
   {
     "name": "Trix",
@@ -10209,8 +8781,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 984,
-    "i": 984
+    "index": 984
   },
   {
     "name": "Moonlight",
@@ -10225,8 +8796,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "seas": 2,
-    "index": 985,
-    "i": 985
+    "index": 985
   },
   {
     "name": "Cassette",
@@ -10235,8 +8805,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
-    "index": 986,
-    "i": 986
+    "index": 986
   },
   {
     "name": "Damascus",
@@ -10244,8 +8813,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
-    "index": 987,
-    "i": 987
+    "index": 987
   },
   {
     "name": "Toxic Nitro",
@@ -10255,8 +8823,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 988,
-    "i": 988
+    "index": 988
   },
   {
     "name": "Polly",
@@ -10265,8 +8832,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 989,
-    "i": 989
+    "index": 989
   },
   {
     "name": "Nozomu",
@@ -10275,8 +8841,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 990,
-    "i": 990
+    "index": 990
   },
   {
     "name": "Gilded",
@@ -10286,8 +8851,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 2,
-    "index": 991,
-    "i": 991
+    "index": 991
   },
   {
     "name": "Shinto",
@@ -10296,8 +8860,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
-    "index": 992,
-    "i": 992
+    "index": 992
   },
   {
     "name": "Lantern",
@@ -10307,8 +8870,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 993,
-    "i": 993
+    "index": 993
   },
   {
     "name": "Diode",
@@ -10319,8 +8881,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 994,
-    "i": 994
+    "index": 994
   },
   {
     "name": "Automatis",
@@ -10338,8 +8899,7 @@ var items = [
     "seas": 2,
     "rAnim": 0.0015,
     "rAnimA": "x",
-    "index": 995,
-    "i": 995
+    "index": 995
   },
   {
     "name": "Osiris' Servant",
@@ -10357,8 +8917,7 @@ var items = [
     "yOff": 0,
     "rarity": 5,
     "seas": 2,
-    "index": 996,
-    "i": 996
+    "index": 996
   },
   {
     "name": "Shatter Wings",
@@ -10376,8 +8935,7 @@ var items = [
     "xOff": -2,
     "yOff": -3,
     "movT": 0.0003,
-    "index": 997,
-    "i": 997
+    "index": 997
   },
   {
     "name": "Shattercore",
@@ -10390,8 +8948,7 @@ var items = [
     "seas": 2,
     "weapon": 1,
     "rarity": 5,
-    "index": 998,
-    "i": 998
+    "index": 998
   },
   {
     "name": "Outrunner",
@@ -10402,8 +8959,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
-    "index": 999,
-    "i": 999
+    "index": 999
   },
   {
     "name": "Draconic",
@@ -10413,8 +8969,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 1000,
-    "i": 1000
+    "index": 1000
   },
   {
     "name": "Orchid Dream",
@@ -10424,8 +8979,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 1001,
-    "i": 1001
+    "index": 1001
   },
   {
     "name": "Hades",
@@ -10435,8 +8989,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 2,
-    "index": 1002,
-    "i": 1002
+    "index": 1002
   },
   {
     "name": "Aurum",
@@ -10444,8 +8997,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 2,
-    "index": 1003,
-    "i": 1003
+    "index": 1003
   },
   {
     "name": "Injection",
@@ -10456,8 +9008,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
-    "index": 1004,
-    "i": 1004
+    "index": 1004
   },
   {
     "name": "Sugarbear",
@@ -10469,8 +9020,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 4,
-    "index": 1005,
-    "i": 1005
+    "index": 1005
   },
   {
     "name": "Verb",
@@ -10482,8 +9032,7 @@ var items = [
     "minGlo": 0.35,
     "pulsT": 0.0015,
     "seas": 2,
-    "index": 1006,
-    "i": 1006
+    "index": 1006
   },
   {
     "name": "Easter Egg",
@@ -10494,8 +9043,7 @@ var items = [
     "rarity": 1,
     "seas": 2,
     "opacity": 0.75,
-    "index": 1007,
-    "i": 1007
+    "index": 1007
   },
   {
     "name": "Egginald",
@@ -10506,8 +9054,7 @@ var items = [
     "rarity": 2,
     "seas": 2,
     "opacity": 0.75,
-    "index": 1008,
-    "i": 1008
+    "index": 1008
   },
   {
     "name": "Mr Carrot",
@@ -10520,8 +9067,7 @@ var items = [
     "opacity": 0.85,
     "frames": 2,
     "frameT": 550,
-    "index": 1009,
-    "i": 1009
+    "index": 1009
   },
   {
     "name": "Carambit",
@@ -10535,8 +9081,7 @@ var items = [
     "sclMlt": 0.76,
     "xOff": -0.5,
     "yOff": -2,
-    "index": 1010,
-    "i": 1010
+    "index": 1010
   },
   {
     "name": "Carrot Top",
@@ -10549,8 +9094,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.55,
     "scl": 1.6,
-    "index": 1011,
-    "i": 1011
+    "index": 1011
   },
   {
     "name": "Mr Chick",
@@ -10564,8 +9108,7 @@ var items = [
     "sitOff": 0.8,
     "xOff": 0.8,
     "scl": 1.6,
-    "index": 1012,
-    "i": 1012
+    "index": 1012
   },
   {
     "name": "Bunny",
@@ -10579,8 +9122,7 @@ var items = [
     "sitOff": 0.8,
     "scl": 1.6,
     "yOff": -1,
-    "index": 1013,
-    "i": 1013
+    "index": 1013
   },
   {
     "name": "Munchie",
@@ -10594,8 +9136,7 @@ var items = [
     "sitOff": 1.6,
     "sitOffZ": 1,
     "scl": 1.6,
-    "index": 1014,
-    "i": 1014
+    "index": 1014
   },
   {
     "name": "Arrowhead",
@@ -10609,8 +9150,7 @@ var items = [
     "sitOff": 1,
     "scl": 1.6,
     "yOff": -2,
-    "index": 1015,
-    "i": 1015
+    "index": 1015
   },
   {
     "name": "Egghead",
@@ -10623,8 +9163,7 @@ var items = [
     "sclMlt": 0.7,
     "sitOff": 0.79,
     "scl": 1.6,
-    "index": 1016,
-    "i": 1016
+    "index": 1016
   },
   {
     "name": "Egg Basket",
@@ -10641,8 +9180,7 @@ var items = [
     "xOff": -1,
     "yOff": -0.8,
     "xRot": 3.141592653589793,
-    "index": 1017,
-    "i": 1017
+    "index": 1017
   },
   {
     "name": "Red Ribbon",
@@ -10657,8 +9195,7 @@ var items = [
     "sitOff": -1.4,
     "sitOffZ": -0.63,
     "xOff": -2,
-    "index": 1018,
-    "i": 1018
+    "index": 1018
   },
   {
     "name": "Carockets",
@@ -10674,8 +9211,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -0.7,
     "xRot": 3.141592653589793,
-    "index": 1019,
-    "i": 1019
+    "index": 1019
   },
   {
     "name": "Carrot Blades",
@@ -10692,8 +9228,7 @@ var items = [
     "xOff": -0.4,
     "yOff": -0.6,
     "xRot": 3.141592653589793,
-    "index": 1020,
-    "i": 1020
+    "index": 1020
   },
   {
     "name": "Chick N' Basket",
@@ -10709,8 +9244,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
-    "index": 1021,
-    "i": 1021
+    "index": 1021
   },
   {
     "name": "Just N' Egg",
@@ -10726,8 +9260,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
-    "index": 1022,
-    "i": 1022
+    "index": 1022
   },
   {
     "name": "Egg Tamer",
@@ -10745,8 +9278,7 @@ var items = [
     "seas": 2,
     "rAnim": 0.0015,
     "rAnimA": "x",
-    "index": 1023,
-    "i": 1023
+    "index": 1023
   },
   {
     "name": "Carotine",
@@ -10759,8 +9291,7 @@ var items = [
     "seas": 2,
     "type": 5,
     "rarity": 4,
-    "index": 1024,
-    "i": 1024
+    "index": 1024
   },
   {
     "name": "Zig-Zag",
@@ -10769,8 +9300,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 1025,
-    "i": 1025
+    "index": 1025
   },
   {
     "name": "Eco",
@@ -10779,8 +9309,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 1026,
-    "i": 1026
+    "index": 1026
   },
   {
     "name": "Musk",
@@ -10789,8 +9318,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 1027,
-    "i": 1027
+    "index": 1027
   },
   {
     "name": "Sugar Kiss",
@@ -10799,8 +9327,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 2,
-    "index": 1028,
-    "i": 1028
+    "index": 1028
   },
   {
     "name": "Candy",
@@ -10809,8 +9336,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 1029,
-    "i": 1029
+    "index": 1029
   },
   {
     "name": "Choc",
@@ -10819,8 +9345,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 1030,
-    "i": 1030
+    "index": 1030
   },
   {
     "name": "Pastel",
@@ -10830,8 +9355,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 2,
-    "index": 1031,
-    "i": 1031
+    "index": 1031
   },
   {
     "name": "BunnyBeam",
@@ -10843,8 +9367,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
-    "index": 1032,
-    "i": 1032
+    "index": 1032
   },
   {
     "name": "Zig-Zag",
@@ -10853,8 +9376,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 1033,
-    "i": 1033
+    "index": 1033
   },
   {
     "name": "Eco",
@@ -10863,8 +9385,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 1034,
-    "i": 1034
+    "index": 1034
   },
   {
     "name": "Musk",
@@ -10873,8 +9394,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 1035,
-    "i": 1035
+    "index": 1035
   },
   {
     "name": "Sugar Kiss",
@@ -10883,8 +9403,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 2,
-    "index": 1036,
-    "i": 1036
+    "index": 1036
   },
   {
     "name": "Candy",
@@ -10893,8 +9412,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 1037,
-    "i": 1037
+    "index": 1037
   },
   {
     "name": "Wiggle",
@@ -10903,8 +9421,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 1038,
-    "i": 1038
+    "index": 1038
   },
   {
     "name": "Choc",
@@ -10913,8 +9430,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 2,
-    "index": 1039,
-    "i": 1039
+    "index": 1039
   },
   {
     "name": "HyperYolk",
@@ -10925,8 +9441,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 2,
-    "index": 1040,
-    "i": 1040
+    "index": 1040
   },
   {
     "name": "Farmland",
@@ -10936,8 +9451,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 2,
-    "index": 1041,
-    "i": 1041
+    "index": 1041
   },
   {
     "name": "Horisun",
@@ -10949,8 +9463,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 2,
-    "index": 1042,
-    "i": 1042
+    "index": 1042
   },
   {
     "name": "Zig-Zag",
@@ -10959,8 +9472,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 1043,
-    "i": 1043
+    "index": 1043
   },
   {
     "name": "Eco",
@@ -10969,8 +9481,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 1044,
-    "i": 1044
+    "index": 1044
   },
   {
     "name": "Musk",
@@ -10979,8 +9490,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 1045,
-    "i": 1045
+    "index": 1045
   },
   {
     "name": "Sugar Kiss",
@@ -10989,8 +9499,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 2,
-    "index": 1046,
-    "i": 1046
+    "index": 1046
   },
   {
     "name": "Candy",
@@ -10999,8 +9508,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 1047,
-    "i": 1047
+    "index": 1047
   },
   {
     "name": "Wiggle",
@@ -11009,8 +9517,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 1048,
-    "i": 1048
+    "index": 1048
   },
   {
     "name": "Choc",
@@ -11019,8 +9526,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 2,
-    "index": 1049,
-    "i": 1049
+    "index": 1049
   },
   {
     "name": "Festive",
@@ -11030,8 +9536,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 2,
-    "index": 1050,
-    "i": 1050
+    "index": 1050
   },
   {
     "name": "Zig-Zag",
@@ -11045,8 +9550,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
-    "index": 1051,
-    "i": 1051
+    "index": 1051
   },
   {
     "name": "Eco",
@@ -11060,8 +9564,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
-    "index": 1052,
-    "i": 1052
+    "index": 1052
   },
   {
     "name": "Musk",
@@ -11075,8 +9578,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
-    "index": 1053,
-    "i": 1053
+    "index": 1053
   },
   {
     "name": "Sugar Kiss",
@@ -11090,8 +9592,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 2,
-    "index": 1054,
-    "i": 1054
+    "index": 1054
   },
   {
     "name": "Candy",
@@ -11105,8 +9606,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 2,
-    "index": 1055,
-    "i": 1055
+    "index": 1055
   },
   {
     "name": "Egg Catcher",
@@ -11121,8 +9621,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
-    "index": 1056,
-    "i": 1056
+    "index": 1056
   },
   {
     "name": "Eggcellent",
@@ -11138,8 +9637,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 2,
-    "index": 1057,
-    "i": 1057
+    "index": 1057
   },
   {
     "name": "Zig-Zag",
@@ -11148,8 +9646,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 1058,
-    "i": 1058
+    "index": 1058
   },
   {
     "name": "Eco",
@@ -11158,8 +9655,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 1059,
-    "i": 1059
+    "index": 1059
   },
   {
     "name": "Musk",
@@ -11168,8 +9664,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 1060,
-    "i": 1060
+    "index": 1060
   },
   {
     "name": "Sugar Kiss",
@@ -11178,8 +9673,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 1061,
-    "i": 1061
+    "index": 1061
   },
   {
     "name": "Candy",
@@ -11188,8 +9682,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 2,
-    "index": 1062,
-    "i": 1062
+    "index": 1062
   },
   {
     "name": "Choc",
@@ -11198,8 +9691,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 2,
-    "index": 1063,
-    "i": 1063
+    "index": 1063
   },
   {
     "name": "Sweet Tooth",
@@ -11219,8 +9711,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1064,
-    "i": 1064
+    "index": 1064
   },
   {
     "name": "Ceretta 92",
@@ -11237,8 +9728,7 @@ var items = [
     "yOff": 0,
     "rarity": 5,
     "seas": 2,
-    "index": 1065,
-    "i": 1065
+    "index": 1065
   },
   {
     "name": "Gold N' Egg",
@@ -11255,8 +9745,7 @@ var items = [
     "sitOffZ": -0.63,
     "xOff": -1,
     "xRot": 3.141592653589793,
-    "index": 1066,
-    "i": 1066
+    "index": 1066
   },
   {
     "name": "Vertigo",
@@ -11271,8 +9760,7 @@ var items = [
     "scl": 1.6,
     "rAnim": -0.0022,
     "rAnimA": "y",
-    "index": 1067,
-    "i": 1067
+    "index": 1067
   },
   {
     "name": "U.F.0",
@@ -11289,8 +9777,7 @@ var items = [
     "rAnimA": "y",
     "trans": true,
     "glow": true,
-    "index": 1068,
-    "i": 1068
+    "index": 1068
   },
   {
     "name": "RGB",
@@ -11301,8 +9788,7 @@ var items = [
     "rarity": 6,
     "rgb": true,
     "rgbS": 0.5,
-    "index": 1069,
-    "i": 1069
+    "index": 1069
   },
   {
     "name": "Raynb0w",
@@ -11313,8 +9799,7 @@ var items = [
     "movT": 0.0015,
     "rarity": 5,
     "seas": 2,
-    "index": 1070,
-    "i": 1070
+    "index": 1070
   },
   {
     "name": "Hackusate",
@@ -11326,8 +9811,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1071,
-    "i": 1071
+    "index": 1071
   },
   {
     "name": "Raynb0w",
@@ -11339,8 +9823,7 @@ var items = [
     "weapon": 15,
     "rarity": 5,
     "seas": 3,
-    "index": 1072,
-    "i": 1072
+    "index": 1072
   },
   {
     "name": "Raynb0w",
@@ -11352,8 +9835,7 @@ var items = [
     "weapon": 14,
     "rarity": 5,
     "seas": 3,
-    "index": 1073,
-    "i": 1073
+    "index": 1073
   },
   {
     "name": "Coldsnap",
@@ -11365,8 +9847,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
-    "index": 1074,
-    "i": 1074
+    "index": 1074
   },
   {
     "name": "Crimson",
@@ -11378,8 +9859,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
-    "index": 1075,
-    "i": 1075
+    "index": 1075
   },
   {
     "name": "Lavender",
@@ -11391,8 +9871,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
-    "index": 1076,
-    "i": 1076
+    "index": 1076
   },
   {
     "name": "Royality",
@@ -11401,8 +9880,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1077,
-    "i": 1077
+    "index": 1077
   },
   {
     "name": "Firestorm",
@@ -11413,8 +9891,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1078,
-    "i": 1078
+    "index": 1078
   },
   {
     "name": "Sense",
@@ -11424,8 +9901,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1079,
-    "i": 1079
+    "index": 1079
   },
   {
     "name": "Yürei",
@@ -11434,8 +9910,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1080,
-    "i": 1080
+    "index": 1080
   },
   {
     "name": "Unistorm",
@@ -11445,8 +9920,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1081,
-    "i": 1081
+    "index": 1081
   },
   {
     "name": "Vaporride",
@@ -11455,8 +9929,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1082,
-    "i": 1082
+    "index": 1082
   },
   {
     "name": "Alligator",
@@ -11465,8 +9938,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1083,
-    "i": 1083
+    "index": 1083
   },
   {
     "name": "Hakan",
@@ -11477,8 +9949,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1084,
-    "i": 1084
+    "index": 1084
   },
   {
     "name": "Jungle",
@@ -11487,8 +9958,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1085,
-    "i": 1085
+    "index": 1085
   },
   {
     "name": "Void X",
@@ -11498,8 +9968,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1086,
-    "i": 1086
+    "index": 1086
   },
   {
     "name": "Eira",
@@ -11509,8 +9978,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1087,
-    "i": 1087
+    "index": 1087
   },
   {
     "name": "Neigh",
@@ -11520,8 +9988,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1088,
-    "i": 1088
+    "index": 1088
   },
   {
     "name": "Akkoro",
@@ -11532,8 +9999,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1089,
-    "i": 1089
+    "index": 1089
   },
   {
     "name": "Stickerbomb",
@@ -11542,8 +10008,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1090,
-    "i": 1090
+    "index": 1090
   },
   {
     "name": "Combined",
@@ -11553,8 +10018,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1091,
-    "i": 1091
+    "index": 1091
   },
   {
     "name": "Wildstyle",
@@ -11564,8 +10028,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1092,
-    "i": 1092
+    "index": 1092
   },
   {
     "name": "Nova",
@@ -11576,8 +10039,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1093,
-    "i": 1093
+    "index": 1093
   },
   {
     "name": "The Star",
@@ -11586,8 +10048,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1094,
-    "i": 1094
+    "index": 1094
   },
   {
     "name": "Lime",
@@ -11595,8 +10056,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1095,
-    "i": 1095
+    "index": 1095
   },
   {
     "name": "Berry",
@@ -11604,8 +10064,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1096,
-    "i": 1096
+    "index": 1096
   },
   {
     "name": "Indigo",
@@ -11613,8 +10072,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1097,
-    "i": 1097
+    "index": 1097
   },
   {
     "name": "Citrus",
@@ -11622,8 +10080,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1098,
-    "i": 1098
+    "index": 1098
   },
   {
     "name": "Tangerine",
@@ -11631,8 +10088,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1099,
-    "i": 1099
+    "index": 1099
   },
   {
     "name": "Grape",
@@ -11640,8 +10096,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1100,
-    "i": 1100
+    "index": 1100
   },
   {
     "name": "Canvas",
@@ -11649,8 +10104,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1101,
-    "i": 1101
+    "index": 1101
   },
   {
     "name": "Libra",
@@ -11658,8 +10112,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1102,
-    "i": 1102
+    "index": 1102
   },
   {
     "name": "Psychedelic",
@@ -11667,8 +10120,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1103,
-    "i": 1103
+    "index": 1103
   },
   {
     "name": "Violette",
@@ -11676,8 +10128,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1104,
-    "i": 1104
+    "index": 1104
   },
   {
     "name": "Marv",
@@ -11685,8 +10136,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1105,
-    "i": 1105
+    "index": 1105
   },
   {
     "name": "Basel",
@@ -11694,8 +10144,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1106,
-    "i": 1106
+    "index": 1106
   },
   {
     "name": "Tiger Blood",
@@ -11703,8 +10152,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1107,
-    "i": 1107
+    "index": 1107
   },
   {
     "name": "Scalamandre",
@@ -11712,8 +10160,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1108,
-    "i": 1108
+    "index": 1108
   },
   {
     "name": "Tiger Maine",
@@ -11721,8 +10168,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1109,
-    "i": 1109
+    "index": 1109
   },
   {
     "name": "Leopard",
@@ -11730,8 +10176,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1110,
-    "i": 1110
+    "index": 1110
   },
   {
     "name": "Metallic Swirl",
@@ -11739,8 +10184,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1111,
-    "i": 1111
+    "index": 1111
   },
   {
     "name": "Tessilate",
@@ -11748,8 +10192,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1112,
-    "i": 1112
+    "index": 1112
   },
   {
     "name": "Bubblegum",
@@ -11757,8 +10200,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1113,
-    "i": 1113
+    "index": 1113
   },
   {
     "name": "Peppermint",
@@ -11766,8 +10208,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1114,
-    "i": 1114
+    "index": 1114
   },
   {
     "name": "Spearmint",
@@ -11775,8 +10216,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1115,
-    "i": 1115
+    "index": 1115
   },
   {
     "name": "Obsydian",
@@ -11784,8 +10224,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1116,
-    "i": 1116
+    "index": 1116
   },
   {
     "name": "Pink Panther",
@@ -11793,8 +10232,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1117,
-    "i": 1117
+    "index": 1117
   },
   {
     "name": "Amber",
@@ -11802,8 +10240,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1118,
-    "i": 1118
+    "index": 1118
   },
   {
     "name": "Clover",
@@ -11811,8 +10248,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1119,
-    "i": 1119
+    "index": 1119
   },
   {
     "name": "Multicam",
@@ -11820,8 +10256,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1120,
-    "i": 1120
+    "index": 1120
   },
   {
     "name": "Aquaric",
@@ -11829,8 +10264,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1121,
-    "i": 1121
+    "index": 1121
   },
   {
     "name": "Heather",
@@ -11838,8 +10272,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1122,
-    "i": 1122
+    "index": 1122
   },
   {
     "name": "Carbonfibre",
@@ -11847,8 +10280,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1123,
-    "i": 1123
+    "index": 1123
   },
   {
     "name": "Cobra",
@@ -11856,8 +10288,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1124,
-    "i": 1124
+    "index": 1124
   },
   {
     "name": "Python",
@@ -11865,8 +10296,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1125,
-    "i": 1125
+    "index": 1125
   },
   {
     "name": "Lost",
@@ -11874,8 +10304,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1126,
-    "i": 1126
+    "index": 1126
   },
   {
     "name": "Blue Maze",
@@ -11883,8 +10312,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1127,
-    "i": 1127
+    "index": 1127
   },
   {
     "name": "Yellow Maze",
@@ -11892,8 +10320,7 @@ var items = [
     "weapon": 1,
     "rarity": 0,
     "seas": 3,
-    "index": 1128,
-    "i": 1128
+    "index": 1128
   },
   {
     "name": "Morgana",
@@ -11901,8 +10328,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1129,
-    "i": 1129
+    "index": 1129
   },
   {
     "name": "Sagittarius",
@@ -11911,8 +10337,7 @@ var items = [
     "weapon": 2,
     "rarity": 4,
     "seas": 3,
-    "index": 1130,
-    "i": 1130
+    "index": 1130
   },
   {
     "name": "VAX",
@@ -11922,8 +10347,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1131,
-    "i": 1131
+    "index": 1131
   },
   {
     "name": "Wims",
@@ -11933,8 +10357,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1132,
-    "i": 1132
+    "index": 1132
   },
   {
     "name": "Amaterasu",
@@ -11943,8 +10366,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 3,
-    "index": 1133,
-    "i": 1133
+    "index": 1133
   },
   {
     "name": "Kanagawa",
@@ -11953,8 +10375,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1134,
-    "i": 1134
+    "index": 1134
   },
   {
     "name": "AKS",
@@ -11963,8 +10384,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1135,
-    "i": 1135
+    "index": 1135
   },
   {
     "name": "Fragternity",
@@ -11974,8 +10394,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1136,
-    "i": 1136
+    "index": 1136
   },
   {
     "name": "Eurasian",
@@ -11985,8 +10404,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1137,
-    "i": 1137
+    "index": 1137
   },
   {
     "name": "Ifrit",
@@ -11997,8 +10415,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1138,
-    "i": 1138
+    "index": 1138
   },
   {
     "name": "Fantasy",
@@ -12008,8 +10425,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1139,
-    "i": 1139
+    "index": 1139
   },
   {
     "name": "Apocalypse",
@@ -12019,8 +10435,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1140,
-    "i": 1140
+    "index": 1140
   },
   {
     "name": "Cheetah",
@@ -12029,8 +10444,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1141,
-    "i": 1141
+    "index": 1141
   },
   {
     "name": "Krunkodore",
@@ -12040,8 +10454,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1142,
-    "i": 1142
+    "index": 1142
   },
   {
     "name": "Creature",
@@ -12052,8 +10465,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
-    "index": 1143,
-    "i": 1143
+    "index": 1143
   },
   {
     "name": "Disco",
@@ -12063,8 +10475,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1144,
-    "i": 1144
+    "index": 1144
   },
   {
     "name": "Komics",
@@ -12074,8 +10485,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1145,
-    "i": 1145
+    "index": 1145
   },
   {
     "name": "Toxic Nitro",
@@ -12085,8 +10495,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1146,
-    "i": 1146
+    "index": 1146
   },
   {
     "name": "Swarm",
@@ -12096,8 +10505,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1147,
-    "i": 1147
+    "index": 1147
   },
   {
     "name": "Letos",
@@ -12107,8 +10515,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1148,
-    "i": 1148
+    "index": 1148
   },
   {
     "name": "Machinehead",
@@ -12119,8 +10526,7 @@ var items = [
     "frames": 4,
     "frameT": 100,
     "seas": 3,
-    "index": 1149,
-    "i": 1149
+    "index": 1149
   },
   {
     "name": "Atheris",
@@ -12130,8 +10536,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1150,
-    "i": 1150
+    "index": 1150
   },
   {
     "name": "Akhenaten",
@@ -12141,8 +10546,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1151,
-    "i": 1151
+    "index": 1151
   },
   {
     "name": "Futuristic",
@@ -12153,8 +10557,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1152,
-    "i": 1152
+    "index": 1152
   },
   {
     "name": "Raiju",
@@ -12164,8 +10567,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1153,
-    "i": 1153
+    "index": 1153
   },
   {
     "name": "Plague",
@@ -12175,8 +10577,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1154,
-    "i": 1154
+    "index": 1154
   },
   {
     "name": "Frostywolf",
@@ -12188,8 +10589,7 @@ var items = [
     "frames": 2,
     "frameT": 250,
     "seas": 3,
-    "index": 1155,
-    "i": 1155
+    "index": 1155
   },
   {
     "name": "Abducted",
@@ -12200,8 +10600,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1156,
-    "i": 1156
+    "index": 1156
   },
   {
     "name": "Lime",
@@ -12209,8 +10608,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1157,
-    "i": 1157
+    "index": 1157
   },
   {
     "name": "Berry",
@@ -12218,8 +10616,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1158,
-    "i": 1158
+    "index": 1158
   },
   {
     "name": "Indigo",
@@ -12227,8 +10624,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1159,
-    "i": 1159
+    "index": 1159
   },
   {
     "name": "Citrus",
@@ -12236,8 +10632,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1160,
-    "i": 1160
+    "index": 1160
   },
   {
     "name": "Tangerine",
@@ -12245,8 +10640,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1161,
-    "i": 1161
+    "index": 1161
   },
   {
     "name": "Grape",
@@ -12254,8 +10648,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1162,
-    "i": 1162
+    "index": 1162
   },
   {
     "name": "Canvas",
@@ -12263,8 +10656,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1163,
-    "i": 1163
+    "index": 1163
   },
   {
     "name": "Libra",
@@ -12272,8 +10664,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1164,
-    "i": 1164
+    "index": 1164
   },
   {
     "name": "Psychedelic",
@@ -12281,8 +10672,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1165,
-    "i": 1165
+    "index": 1165
   },
   {
     "name": "Violette",
@@ -12290,8 +10680,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1166,
-    "i": 1166
+    "index": 1166
   },
   {
     "name": "Marv",
@@ -12299,8 +10688,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1167,
-    "i": 1167
+    "index": 1167
   },
   {
     "name": "Basel",
@@ -12308,8 +10696,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1168,
-    "i": 1168
+    "index": 1168
   },
   {
     "name": "Tiger Blood",
@@ -12317,8 +10704,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1169,
-    "i": 1169
+    "index": 1169
   },
   {
     "name": "Scalamandre",
@@ -12326,8 +10712,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1170,
-    "i": 1170
+    "index": 1170
   },
   {
     "name": "Tiger Maine",
@@ -12335,8 +10720,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1171,
-    "i": 1171
+    "index": 1171
   },
   {
     "name": "Leopard",
@@ -12344,8 +10728,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1172,
-    "i": 1172
+    "index": 1172
   },
   {
     "name": "Metallic Swirl",
@@ -12353,8 +10736,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1173,
-    "i": 1173
+    "index": 1173
   },
   {
     "name": "Tessilate",
@@ -12362,8 +10744,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1174,
-    "i": 1174
+    "index": 1174
   },
   {
     "name": "Bubblegum",
@@ -12371,8 +10752,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1175,
-    "i": 1175
+    "index": 1175
   },
   {
     "name": "Peppermint",
@@ -12380,8 +10760,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1176,
-    "i": 1176
+    "index": 1176
   },
   {
     "name": "Spearmint",
@@ -12389,8 +10768,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1177,
-    "i": 1177
+    "index": 1177
   },
   {
     "name": "Obsydian",
@@ -12398,8 +10776,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1178,
-    "i": 1178
+    "index": 1178
   },
   {
     "name": "Pink Panther",
@@ -12407,8 +10784,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1179,
-    "i": 1179
+    "index": 1179
   },
   {
     "name": "Amber",
@@ -12416,8 +10792,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1180,
-    "i": 1180
+    "index": 1180
   },
   {
     "name": "Clover",
@@ -12425,8 +10800,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1181,
-    "i": 1181
+    "index": 1181
   },
   {
     "name": "Multicam",
@@ -12434,8 +10808,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1182,
-    "i": 1182
+    "index": 1182
   },
   {
     "name": "Aquaric",
@@ -12443,8 +10816,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1183,
-    "i": 1183
+    "index": 1183
   },
   {
     "name": "Heather",
@@ -12452,8 +10824,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1184,
-    "i": 1184
+    "index": 1184
   },
   {
     "name": "Carbonfibre",
@@ -12461,8 +10832,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1185,
-    "i": 1185
+    "index": 1185
   },
   {
     "name": "Cobra",
@@ -12470,8 +10840,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1186,
-    "i": 1186
+    "index": 1186
   },
   {
     "name": "Python",
@@ -12479,8 +10848,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1187,
-    "i": 1187
+    "index": 1187
   },
   {
     "name": "Lost",
@@ -12488,8 +10856,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1188,
-    "i": 1188
+    "index": 1188
   },
   {
     "name": "Blue Maze",
@@ -12497,8 +10864,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1189,
-    "i": 1189
+    "index": 1189
   },
   {
     "name": "Yellow Maze",
@@ -12506,8 +10872,7 @@ var items = [
     "weapon": 2,
     "rarity": 0,
     "seas": 3,
-    "index": 1190,
-    "i": 1190
+    "index": 1190
   },
   {
     "name": "Morgana",
@@ -12515,8 +10880,7 @@ var items = [
     "weapon": 2,
     "rarity": 1,
     "seas": 3,
-    "index": 1191,
-    "i": 1191
+    "index": 1191
   },
   {
     "name": "Aquarium",
@@ -12525,8 +10889,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1192,
-    "i": 1192
+    "index": 1192
   },
   {
     "name": "Traveller",
@@ -12536,8 +10899,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1193,
-    "i": 1193
+    "index": 1193
   },
   {
     "name": "Abraxas",
@@ -12547,8 +10909,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1194,
-    "i": 1194
+    "index": 1194
   },
   {
     "name": "Krunkstruct",
@@ -12558,8 +10919,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1195,
-    "i": 1195
+    "index": 1195
   },
   {
     "name": "Bloodmoon",
@@ -12569,8 +10929,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1196,
-    "i": 1196
+    "index": 1196
   },
   {
     "name": "Doodle",
@@ -12580,8 +10939,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1197,
-    "i": 1197
+    "index": 1197
   },
   {
     "name": "WildClaw",
@@ -12591,8 +10949,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1198,
-    "i": 1198
+    "index": 1198
   },
   {
     "name": "Carcinogen",
@@ -12602,8 +10959,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1199,
-    "i": 1199
+    "index": 1199
   },
   {
     "name": "Spinner",
@@ -12613,8 +10969,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1200,
-    "i": 1200
+    "index": 1200
   },
   {
     "name": "Green Waves",
@@ -12623,8 +10978,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1201,
-    "i": 1201
+    "index": 1201
   },
   {
     "name": "Purple Waves",
@@ -12633,8 +10987,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1202,
-    "i": 1202
+    "index": 1202
   },
   {
     "name": "Goddess",
@@ -12644,8 +10997,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1203,
-    "i": 1203
+    "index": 1203
   },
   {
     "name": "Bahamut",
@@ -12655,8 +11007,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1204,
-    "i": 1204
+    "index": 1204
   },
   {
     "name": "Occult",
@@ -12666,8 +11017,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1205,
-    "i": 1205
+    "index": 1205
   },
   {
     "name": "Merlin",
@@ -12677,8 +11027,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1206,
-    "i": 1206
+    "index": 1206
   },
   {
     "name": "Kittle",
@@ -12688,8 +11037,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1207,
-    "i": 1207
+    "index": 1207
   },
   {
     "name": "TV Strike",
@@ -12699,8 +11047,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1208,
-    "i": 1208
+    "index": 1208
   },
   {
     "name": "Composite",
@@ -12710,8 +11057,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1209,
-    "i": 1209
+    "index": 1209
   },
   {
     "name": "Taurine",
@@ -12721,8 +11067,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1210,
-    "i": 1210
+    "index": 1210
   },
   {
     "name": "Vandal",
@@ -12732,8 +11077,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1211,
-    "i": 1211
+    "index": 1211
   },
   {
     "name": "Amethyst",
@@ -12744,8 +11088,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
-    "index": 1212,
-    "i": 1212
+    "index": 1212
   },
   {
     "name": "Northern",
@@ -12755,8 +11098,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1213,
-    "i": 1213
+    "index": 1213
   },
   {
     "name": "Agent",
@@ -12766,8 +11108,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1214,
-    "i": 1214
+    "index": 1214
   },
   {
     "name": "Lester",
@@ -12777,8 +11118,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1215,
-    "i": 1215
+    "index": 1215
   },
   {
     "name": "Lime",
@@ -12786,8 +11126,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1216,
-    "i": 1216
+    "index": 1216
   },
   {
     "name": "Berry",
@@ -12795,8 +11134,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1217,
-    "i": 1217
+    "index": 1217
   },
   {
     "name": "Indigo",
@@ -12804,8 +11142,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1218,
-    "i": 1218
+    "index": 1218
   },
   {
     "name": "Citrus",
@@ -12813,8 +11150,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1219,
-    "i": 1219
+    "index": 1219
   },
   {
     "name": "Tangerine",
@@ -12822,8 +11158,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1220,
-    "i": 1220
+    "index": 1220
   },
   {
     "name": "Grape",
@@ -12831,8 +11166,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1221,
-    "i": 1221
+    "index": 1221
   },
   {
     "name": "Canvas",
@@ -12840,8 +11174,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1222,
-    "i": 1222
+    "index": 1222
   },
   {
     "name": "Libra",
@@ -12849,8 +11182,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1223,
-    "i": 1223
+    "index": 1223
   },
   {
     "name": "Psychedelic",
@@ -12858,8 +11190,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1224,
-    "i": 1224
+    "index": 1224
   },
   {
     "name": "Violette",
@@ -12867,8 +11198,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1225,
-    "i": 1225
+    "index": 1225
   },
   {
     "name": "Marv",
@@ -12876,8 +11206,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1226,
-    "i": 1226
+    "index": 1226
   },
   {
     "name": "Basel",
@@ -12885,8 +11214,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1227,
-    "i": 1227
+    "index": 1227
   },
   {
     "name": "Tiger Blood",
@@ -12894,8 +11222,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1228,
-    "i": 1228
+    "index": 1228
   },
   {
     "name": "Scalamandre",
@@ -12903,8 +11230,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1229,
-    "i": 1229
+    "index": 1229
   },
   {
     "name": "Tiger Maine",
@@ -12912,8 +11238,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1230,
-    "i": 1230
+    "index": 1230
   },
   {
     "name": "Leopard",
@@ -12921,8 +11246,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1231,
-    "i": 1231
+    "index": 1231
   },
   {
     "name": "Metallic Swirl",
@@ -12930,8 +11254,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1232,
-    "i": 1232
+    "index": 1232
   },
   {
     "name": "Tessilate",
@@ -12939,8 +11262,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1233,
-    "i": 1233
+    "index": 1233
   },
   {
     "name": "Bubblegum",
@@ -12948,8 +11270,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1234,
-    "i": 1234
+    "index": 1234
   },
   {
     "name": "Peppermint",
@@ -12957,8 +11278,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1235,
-    "i": 1235
+    "index": 1235
   },
   {
     "name": "Spearmint",
@@ -12966,8 +11286,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1236,
-    "i": 1236
+    "index": 1236
   },
   {
     "name": "Obsydian",
@@ -12975,8 +11294,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1237,
-    "i": 1237
+    "index": 1237
   },
   {
     "name": "Pink Panther",
@@ -12984,8 +11302,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1238,
-    "i": 1238
+    "index": 1238
   },
   {
     "name": "Amber",
@@ -12993,8 +11310,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1239,
-    "i": 1239
+    "index": 1239
   },
   {
     "name": "Clover",
@@ -13002,8 +11318,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1240,
-    "i": 1240
+    "index": 1240
   },
   {
     "name": "Multicam",
@@ -13011,8 +11326,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1241,
-    "i": 1241
+    "index": 1241
   },
   {
     "name": "Aquaric",
@@ -13020,8 +11334,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1242,
-    "i": 1242
+    "index": 1242
   },
   {
     "name": "Heather",
@@ -13029,8 +11342,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1243,
-    "i": 1243
+    "index": 1243
   },
   {
     "name": "Carbonfibre",
@@ -13038,8 +11350,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1244,
-    "i": 1244
+    "index": 1244
   },
   {
     "name": "Cobra",
@@ -13047,8 +11358,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1245,
-    "i": 1245
+    "index": 1245
   },
   {
     "name": "Python",
@@ -13056,8 +11366,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1246,
-    "i": 1246
+    "index": 1246
   },
   {
     "name": "Lost",
@@ -13065,8 +11374,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1247,
-    "i": 1247
+    "index": 1247
   },
   {
     "name": "Blue Maze",
@@ -13074,8 +11382,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1248,
-    "i": 1248
+    "index": 1248
   },
   {
     "name": "Yellow Maze",
@@ -13083,8 +11390,7 @@ var items = [
     "weapon": 4,
     "rarity": 0,
     "seas": 3,
-    "index": 1249,
-    "i": 1249
+    "index": 1249
   },
   {
     "name": "Morgana",
@@ -13092,8 +11398,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1250,
-    "i": 1250
+    "index": 1250
   },
   {
     "name": "Lineride",
@@ -13109,8 +11414,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1251,
-    "i": 1251
+    "index": 1251
   },
   {
     "name": "Halogen",
@@ -13125,8 +11429,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1252,
-    "i": 1252
+    "index": 1252
   },
   {
     "name": "Adventurine",
@@ -13142,8 +11445,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1253,
-    "i": 1253
+    "index": 1253
   },
   {
     "name": "Surreal",
@@ -13158,8 +11460,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1254,
-    "i": 1254
+    "index": 1254
   },
   {
     "name": "Red Supersport",
@@ -13173,8 +11474,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
-    "index": 1255,
-    "i": 1255
+    "index": 1255
   },
   {
     "name": "Pink Supersport",
@@ -13188,8 +11488,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
-    "index": 1256,
-    "i": 1256
+    "index": 1256
   },
   {
     "name": "Exponentiat",
@@ -13204,8 +11503,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1257,
-    "i": 1257
+    "index": 1257
   },
   {
     "name": "Ethereal",
@@ -13220,8 +11518,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1258,
-    "i": 1258
+    "index": 1258
   },
   {
     "name": "Spectate",
@@ -13236,8 +11533,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1259,
-    "i": 1259
+    "index": 1259
   },
   {
     "name": "Sunburst",
@@ -13252,8 +11548,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1260,
-    "i": 1260
+    "index": 1260
   },
   {
     "name": "Hydrofluric",
@@ -13268,8 +11563,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1261,
-    "i": 1261
+    "index": 1261
   },
   {
     "name": "Mech Rainbow",
@@ -13284,8 +11578,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1262,
-    "i": 1262
+    "index": 1262
   },
   {
     "name": "Midnight",
@@ -13300,8 +11593,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1263,
-    "i": 1263
+    "index": 1263
   },
   {
     "name": "Lime",
@@ -13314,8 +11606,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1264,
-    "i": 1264
+    "index": 1264
   },
   {
     "name": "Berry",
@@ -13328,8 +11619,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1265,
-    "i": 1265
+    "index": 1265
   },
   {
     "name": "Indigo",
@@ -13342,8 +11632,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1266,
-    "i": 1266
+    "index": 1266
   },
   {
     "name": "Citrus",
@@ -13356,8 +11645,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1267,
-    "i": 1267
+    "index": 1267
   },
   {
     "name": "Tangerine",
@@ -13370,8 +11658,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1268,
-    "i": 1268
+    "index": 1268
   },
   {
     "name": "Grape",
@@ -13384,8 +11671,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1269,
-    "i": 1269
+    "index": 1269
   },
   {
     "name": "Canvas",
@@ -13398,8 +11684,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1270,
-    "i": 1270
+    "index": 1270
   },
   {
     "name": "Libra",
@@ -13412,8 +11697,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1271,
-    "i": 1271
+    "index": 1271
   },
   {
     "name": "Psychedelic",
@@ -13426,8 +11710,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1272,
-    "i": 1272
+    "index": 1272
   },
   {
     "name": "Violette",
@@ -13440,8 +11723,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1273,
-    "i": 1273
+    "index": 1273
   },
   {
     "name": "Marv",
@@ -13454,8 +11736,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1274,
-    "i": 1274
+    "index": 1274
   },
   {
     "name": "Basel",
@@ -13468,8 +11749,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1275,
-    "i": 1275
+    "index": 1275
   },
   {
     "name": "Tiger Blood",
@@ -13482,8 +11762,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1276,
-    "i": 1276
+    "index": 1276
   },
   {
     "name": "Scalamandre",
@@ -13496,8 +11775,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1277,
-    "i": 1277
+    "index": 1277
   },
   {
     "name": "Tiger Maine",
@@ -13510,8 +11788,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1278,
-    "i": 1278
+    "index": 1278
   },
   {
     "name": "Leopard",
@@ -13524,8 +11801,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1279,
-    "i": 1279
+    "index": 1279
   },
   {
     "name": "Metallic Swirl",
@@ -13538,8 +11814,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1280,
-    "i": 1280
+    "index": 1280
   },
   {
     "name": "Tessilate",
@@ -13552,8 +11827,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1281,
-    "i": 1281
+    "index": 1281
   },
   {
     "name": "Bubblegum",
@@ -13566,8 +11840,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1282,
-    "i": 1282
+    "index": 1282
   },
   {
     "name": "Peppermint",
@@ -13580,8 +11853,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1283,
-    "i": 1283
+    "index": 1283
   },
   {
     "name": "Spearmint",
@@ -13594,8 +11866,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1284,
-    "i": 1284
+    "index": 1284
   },
   {
     "name": "Obsydian",
@@ -13608,8 +11879,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1285,
-    "i": 1285
+    "index": 1285
   },
   {
     "name": "Pink Panther",
@@ -13622,8 +11892,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1286,
-    "i": 1286
+    "index": 1286
   },
   {
     "name": "Amber",
@@ -13636,8 +11905,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1287,
-    "i": 1287
+    "index": 1287
   },
   {
     "name": "Clover",
@@ -13650,8 +11918,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1288,
-    "i": 1288
+    "index": 1288
   },
   {
     "name": "Multicam",
@@ -13664,8 +11931,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1289,
-    "i": 1289
+    "index": 1289
   },
   {
     "name": "Aquaric",
@@ -13678,8 +11944,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1290,
-    "i": 1290
+    "index": 1290
   },
   {
     "name": "Heather",
@@ -13692,8 +11957,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1291,
-    "i": 1291
+    "index": 1291
   },
   {
     "name": "Carbonfibre",
@@ -13706,8 +11970,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1292,
-    "i": 1292
+    "index": 1292
   },
   {
     "name": "Cobra",
@@ -13720,8 +11983,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1293,
-    "i": 1293
+    "index": 1293
   },
   {
     "name": "Python",
@@ -13734,8 +11996,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1294,
-    "i": 1294
+    "index": 1294
   },
   {
     "name": "Lost",
@@ -13748,8 +12009,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1295,
-    "i": 1295
+    "index": 1295
   },
   {
     "name": "Blue Maze",
@@ -13762,8 +12022,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1296,
-    "i": 1296
+    "index": 1296
   },
   {
     "name": "Yellow Maze",
@@ -13776,8 +12035,7 @@ var items = [
     "weapon": 6,
     "rarity": 0,
     "seas": 3,
-    "index": 1297,
-    "i": 1297
+    "index": 1297
   },
   {
     "name": "Morgana",
@@ -13790,8 +12048,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1298,
-    "i": 1298
+    "index": 1298
   },
   {
     "name": "Excalibur",
@@ -13800,8 +12057,7 @@ var items = [
     "weapon": 5,
     "rarity": 3,
     "seas": 3,
-    "index": 1299,
-    "i": 1299
+    "index": 1299
   },
   {
     "name": "Zeus",
@@ -13811,8 +12067,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1300,
-    "i": 1300
+    "index": 1300
   },
   {
     "name": "Luminous",
@@ -13822,8 +12077,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1301,
-    "i": 1301
+    "index": 1301
   },
   {
     "name": "Depth",
@@ -13832,8 +12086,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1302,
-    "i": 1302
+    "index": 1302
   },
   {
     "name": "Absinthe",
@@ -13844,8 +12097,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1303,
-    "i": 1303
+    "index": 1303
   },
   {
     "name": "Scoria",
@@ -13856,8 +12108,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1304,
-    "i": 1304
+    "index": 1304
   },
   {
     "name": "Krunkitis",
@@ -13867,8 +12118,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1305,
-    "i": 1305
+    "index": 1305
   },
   {
     "name": "Pearlescent",
@@ -13877,8 +12127,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1306,
-    "i": 1306
+    "index": 1306
   },
   {
     "name": "Zap",
@@ -13888,8 +12137,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1307,
-    "i": 1307
+    "index": 1307
   },
   {
     "name": "Midas",
@@ -13899,8 +12147,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1308,
-    "i": 1308
+    "index": 1308
   },
   {
     "name": "Sea Wanderer",
@@ -13911,8 +12158,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1309,
-    "i": 1309
+    "index": 1309
   },
   {
     "name": "Crystallize",
@@ -13923,8 +12169,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1310,
-    "i": 1310
+    "index": 1310
   },
   {
     "name": "Lime",
@@ -13932,8 +12177,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1311,
-    "i": 1311
+    "index": 1311
   },
   {
     "name": "Berry",
@@ -13941,8 +12185,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1312,
-    "i": 1312
+    "index": 1312
   },
   {
     "name": "Indigo",
@@ -13950,8 +12193,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1313,
-    "i": 1313
+    "index": 1313
   },
   {
     "name": "Citrus",
@@ -13959,8 +12201,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1314,
-    "i": 1314
+    "index": 1314
   },
   {
     "name": "Tangerine",
@@ -13968,8 +12209,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1315,
-    "i": 1315
+    "index": 1315
   },
   {
     "name": "Grape",
@@ -13977,8 +12217,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1316,
-    "i": 1316
+    "index": 1316
   },
   {
     "name": "Canvas",
@@ -13986,8 +12225,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1317,
-    "i": 1317
+    "index": 1317
   },
   {
     "name": "Libra",
@@ -13995,8 +12233,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1318,
-    "i": 1318
+    "index": 1318
   },
   {
     "name": "Psychedelic",
@@ -14004,8 +12241,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1319,
-    "i": 1319
+    "index": 1319
   },
   {
     "name": "Violette",
@@ -14013,8 +12249,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1320,
-    "i": 1320
+    "index": 1320
   },
   {
     "name": "Marv",
@@ -14022,8 +12257,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1321,
-    "i": 1321
+    "index": 1321
   },
   {
     "name": "Basel",
@@ -14031,8 +12265,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1322,
-    "i": 1322
+    "index": 1322
   },
   {
     "name": "Tiger Blood",
@@ -14040,8 +12273,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1323,
-    "i": 1323
+    "index": 1323
   },
   {
     "name": "Scalamandre",
@@ -14049,8 +12281,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1324,
-    "i": 1324
+    "index": 1324
   },
   {
     "name": "Tiger Maine",
@@ -14058,8 +12289,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1325,
-    "i": 1325
+    "index": 1325
   },
   {
     "name": "Leopard",
@@ -14067,8 +12297,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1326,
-    "i": 1326
+    "index": 1326
   },
   {
     "name": "Metallic Swirl",
@@ -14076,8 +12305,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1327,
-    "i": 1327
+    "index": 1327
   },
   {
     "name": "Tessilate",
@@ -14085,8 +12313,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1328,
-    "i": 1328
+    "index": 1328
   },
   {
     "name": "Bubblegum",
@@ -14094,8 +12321,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1329,
-    "i": 1329
+    "index": 1329
   },
   {
     "name": "Peppermint",
@@ -14103,8 +12329,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1330,
-    "i": 1330
+    "index": 1330
   },
   {
     "name": "Spearmint",
@@ -14112,8 +12337,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1331,
-    "i": 1331
+    "index": 1331
   },
   {
     "name": "Obsydian",
@@ -14121,8 +12345,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1332,
-    "i": 1332
+    "index": 1332
   },
   {
     "name": "Pink Panther",
@@ -14130,8 +12353,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1333,
-    "i": 1333
+    "index": 1333
   },
   {
     "name": "Amber",
@@ -14139,8 +12361,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1334,
-    "i": 1334
+    "index": 1334
   },
   {
     "name": "Clover",
@@ -14148,8 +12369,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1335,
-    "i": 1335
+    "index": 1335
   },
   {
     "name": "Multicam",
@@ -14157,8 +12377,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1336,
-    "i": 1336
+    "index": 1336
   },
   {
     "name": "Aquaric",
@@ -14166,8 +12385,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1337,
-    "i": 1337
+    "index": 1337
   },
   {
     "name": "Heather",
@@ -14175,8 +12393,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1338,
-    "i": 1338
+    "index": 1338
   },
   {
     "name": "Carbonfibre",
@@ -14184,8 +12401,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1339,
-    "i": 1339
+    "index": 1339
   },
   {
     "name": "Cobra",
@@ -14193,8 +12409,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1340,
-    "i": 1340
+    "index": 1340
   },
   {
     "name": "Python",
@@ -14202,8 +12417,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1341,
-    "i": 1341
+    "index": 1341
   },
   {
     "name": "Lost",
@@ -14211,8 +12425,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1342,
-    "i": 1342
+    "index": 1342
   },
   {
     "name": "Blue Maze",
@@ -14220,8 +12433,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1343,
-    "i": 1343
+    "index": 1343
   },
   {
     "name": "Yellow Maze",
@@ -14229,8 +12441,7 @@ var items = [
     "weapon": 5,
     "rarity": 0,
     "seas": 3,
-    "index": 1344,
-    "i": 1344
+    "index": 1344
   },
   {
     "name": "Morgana",
@@ -14238,8 +12449,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1345,
-    "i": 1345
+    "index": 1345
   },
   {
     "name": "Playmat",
@@ -14251,8 +12461,7 @@ var items = [
     "frameT": 250,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1346,
-    "i": 1346
+    "index": 1346
   },
   {
     "name": "Anti-cheat",
@@ -14264,8 +12473,7 @@ var items = [
     "frameT": 450,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1347,
-    "i": 1347
+    "index": 1347
   },
   {
     "name": "Vince OP",
@@ -14275,8 +12483,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1348,
-    "i": 1348
+    "index": 1348
   },
   {
     "name": "200 IQ",
@@ -14286,8 +12493,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1349,
-    "i": 1349
+    "index": 1349
   },
   {
     "name": "Alien",
@@ -14297,8 +12503,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1350,
-    "i": 1350
+    "index": 1350
   },
   {
     "name": "Krunkitis",
@@ -14308,8 +12513,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1351,
-    "i": 1351
+    "index": 1351
   },
   {
     "name": "SMH",
@@ -14319,8 +12523,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1352,
-    "i": 1352
+    "index": 1352
   },
   {
     "name": "Race",
@@ -14330,8 +12533,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1353,
-    "i": 1353
+    "index": 1353
   },
   {
     "name": "Fair Trades",
@@ -14341,8 +12543,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1354,
-    "i": 1354
+    "index": 1354
   },
   {
     "name": "Lucky",
@@ -14352,8 +12553,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1355,
-    "i": 1355
+    "index": 1355
   },
   {
     "name": "Arrow",
@@ -14363,8 +12563,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1356,
-    "i": 1356
+    "index": 1356
   },
   {
     "name": "Dream",
@@ -14374,8 +12573,7 @@ var items = [
     "type": 4,
     "keyW": "Spray",
     "seas": 3,
-    "index": 1357,
-    "i": 1357
+    "index": 1357
   },
   {
     "name": "Sonar",
@@ -14386,8 +12584,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1358,
-    "i": 1358
+    "index": 1358
   },
   {
     "name": "Icevein",
@@ -14398,8 +12595,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1359,
-    "i": 1359
+    "index": 1359
   },
   {
     "name": "Demonvein",
@@ -14410,8 +12606,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1360,
-    "i": 1360
+    "index": 1360
   },
   {
     "name": "Tartrazine",
@@ -14422,8 +12617,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1361,
-    "i": 1361
+    "index": 1361
   },
   {
     "name": "Diopside",
@@ -14434,8 +12628,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1362,
-    "i": 1362
+    "index": 1362
   },
   {
     "name": "Lime",
@@ -14443,8 +12636,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1363,
-    "i": 1363
+    "index": 1363
   },
   {
     "name": "Berry",
@@ -14452,8 +12644,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1364,
-    "i": 1364
+    "index": 1364
   },
   {
     "name": "Indigo",
@@ -14461,8 +12652,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1365,
-    "i": 1365
+    "index": 1365
   },
   {
     "name": "Citrus",
@@ -14470,8 +12660,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1366,
-    "i": 1366
+    "index": 1366
   },
   {
     "name": "Tangerine",
@@ -14479,8 +12668,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1367,
-    "i": 1367
+    "index": 1367
   },
   {
     "name": "Grape",
@@ -14488,8 +12676,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1368,
-    "i": 1368
+    "index": 1368
   },
   {
     "name": "Canvas",
@@ -14497,8 +12684,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1369,
-    "i": 1369
+    "index": 1369
   },
   {
     "name": "Libra",
@@ -14506,8 +12692,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1370,
-    "i": 1370
+    "index": 1370
   },
   {
     "name": "Psychedelic",
@@ -14515,8 +12700,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1371,
-    "i": 1371
+    "index": 1371
   },
   {
     "name": "Violette",
@@ -14524,8 +12708,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1372,
-    "i": 1372
+    "index": 1372
   },
   {
     "name": "Marv",
@@ -14533,8 +12716,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1373,
-    "i": 1373
+    "index": 1373
   },
   {
     "name": "Basel",
@@ -14542,8 +12724,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1374,
-    "i": 1374
+    "index": 1374
   },
   {
     "name": "Tiger Blood",
@@ -14551,8 +12732,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1375,
-    "i": 1375
+    "index": 1375
   },
   {
     "name": "Scalamandre",
@@ -14560,8 +12740,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1376,
-    "i": 1376
+    "index": 1376
   },
   {
     "name": "Tiger Maine",
@@ -14569,8 +12748,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1377,
-    "i": 1377
+    "index": 1377
   },
   {
     "name": "Leopard",
@@ -14578,8 +12756,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1378,
-    "i": 1378
+    "index": 1378
   },
   {
     "name": "Metallic Swirl",
@@ -14587,8 +12764,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1379,
-    "i": 1379
+    "index": 1379
   },
   {
     "name": "Tessilate",
@@ -14596,8 +12772,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1380,
-    "i": 1380
+    "index": 1380
   },
   {
     "name": "Bubblegum",
@@ -14605,8 +12780,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1381,
-    "i": 1381
+    "index": 1381
   },
   {
     "name": "Peppermint",
@@ -14614,8 +12788,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1382,
-    "i": 1382
+    "index": 1382
   },
   {
     "name": "Spearmint",
@@ -14623,8 +12796,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1383,
-    "i": 1383
+    "index": 1383
   },
   {
     "name": "Obsydian",
@@ -14632,8 +12804,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1384,
-    "i": 1384
+    "index": 1384
   },
   {
     "name": "Pink Panther",
@@ -14641,8 +12812,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1385,
-    "i": 1385
+    "index": 1385
   },
   {
     "name": "Amber",
@@ -14650,8 +12820,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1386,
-    "i": 1386
+    "index": 1386
   },
   {
     "name": "Clover",
@@ -14659,8 +12828,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1387,
-    "i": 1387
+    "index": 1387
   },
   {
     "name": "Multicam",
@@ -14668,8 +12836,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1388,
-    "i": 1388
+    "index": 1388
   },
   {
     "name": "Aquaric",
@@ -14677,8 +12844,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1389,
-    "i": 1389
+    "index": 1389
   },
   {
     "name": "Heather",
@@ -14686,8 +12852,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1390,
-    "i": 1390
+    "index": 1390
   },
   {
     "name": "Carbonfibre",
@@ -14695,8 +12860,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1391,
-    "i": 1391
+    "index": 1391
   },
   {
     "name": "Cobra",
@@ -14704,8 +12868,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1392,
-    "i": 1392
+    "index": 1392
   },
   {
     "name": "Python",
@@ -14713,8 +12876,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1393,
-    "i": 1393
+    "index": 1393
   },
   {
     "name": "Lost",
@@ -14722,8 +12884,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1394,
-    "i": 1394
+    "index": 1394
   },
   {
     "name": "Blue Maze",
@@ -14731,8 +12892,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1395,
-    "i": 1395
+    "index": 1395
   },
   {
     "name": "Yellow Maze",
@@ -14740,8 +12900,7 @@ var items = [
     "weapon": 7,
     "rarity": 0,
     "seas": 3,
-    "index": 1396,
-    "i": 1396
+    "index": 1396
   },
   {
     "name": "Morgana",
@@ -14749,8 +12908,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1397,
-    "i": 1397
+    "index": 1397
   },
   {
     "name": "Ballistic Knife",
@@ -14762,8 +12920,7 @@ var items = [
     "yOff": -2,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1398,
-    "i": 1398
+    "index": 1398
   },
   {
     "name": "Samurai Sword",
@@ -14778,8 +12935,7 @@ var items = [
     "xOff": -1,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1399,
-    "i": 1399
+    "index": 1399
   },
   {
     "name": "Acid Razer",
@@ -14794,8 +12950,7 @@ var items = [
     "pulsT": 0.1,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1400,
-    "i": 1400
+    "index": 1400
   },
   {
     "name": "Lumus",
@@ -14811,8 +12966,7 @@ var items = [
     "type": 3,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1401,
-    "i": 1401
+    "index": 1401
   },
   {
     "name": "Heated Crowbar",
@@ -14827,8 +12981,7 @@ var items = [
     "pulsT": 0.0015,
     "seas": 3,
     "snd": true,
-    "index": 1402,
-    "i": 1402
+    "index": 1402
   },
   {
     "name": "Disintegrator",
@@ -14839,8 +12992,7 @@ var items = [
     "seas": 3,
     "weapon": 2,
     "rarity": 6,
-    "index": 1403,
-    "i": 1403
+    "index": 1403
   },
   {
     "name": "Artifact XY",
@@ -14850,8 +13002,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1404,
-    "i": 1404
+    "index": 1404
   },
   {
     "name": "Anti-Matter",
@@ -14867,8 +13018,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 6,
-    "index": 1405,
-    "i": 1405
+    "index": 1405
   },
   {
     "name": "Good Ol' Days",
@@ -14882,8 +13032,7 @@ var items = [
     "yOff": 0.05,
     "weapon": 1,
     "rarity": 5,
-    "index": 1406,
-    "i": 1406
+    "index": 1406
   },
   {
     "name": "Blonde Beard",
@@ -14894,8 +13043,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1407,
-    "i": 1407
+    "index": 1407
   },
   {
     "name": "Brown Beard",
@@ -14907,8 +13055,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1408,
-    "i": 1408
+    "index": 1408
   },
   {
     "name": "Aged Beard",
@@ -14919,8 +13066,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1409,
-    "i": 1409
+    "index": 1409
   },
   {
     "name": "Bandito",
@@ -14932,8 +13078,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1410,
-    "i": 1410
+    "index": 1410
   },
   {
     "name": "Purple Beanie",
@@ -14945,8 +13090,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1411,
-    "i": 1411
+    "index": 1411
   },
   {
     "name": "Red Beanie",
@@ -14959,8 +13103,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1412,
-    "i": 1412
+    "index": 1412
   },
   {
     "name": "Blue Pom-Pom",
@@ -14972,8 +13115,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1413,
-    "i": 1413
+    "index": 1413
   },
   {
     "name": "Green Pom-Pom",
@@ -14986,8 +13128,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1414,
-    "i": 1414
+    "index": 1414
   },
   {
     "name": "Love-Cap",
@@ -15000,8 +13141,7 @@ var items = [
     "xOff": 1,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1415,
-    "i": 1415
+    "index": 1415
   },
   {
     "name": "Lucky-Cap",
@@ -15015,8 +13155,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1416,
-    "i": 1416
+    "index": 1416
   },
   {
     "name": "Chef",
@@ -15028,8 +13167,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1417,
-    "i": 1417
+    "index": 1417
   },
   {
     "name": "Hypno",
@@ -15040,8 +13178,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1418,
-    "i": 1418
+    "index": 1418
   },
   {
     "name": "Hotdogger",
@@ -15053,8 +13190,7 @@ var items = [
     "sclMlt": 0.7,
     "sitOff": 0.71,
     "seas": 3,
-    "index": 1419,
-    "i": 1419
+    "index": 1419
   },
   {
     "name": "Sunflower",
@@ -15066,8 +13202,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1420,
-    "i": 1420
+    "index": 1420
   },
   {
     "name": "Lavender",
@@ -15080,8 +13215,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1421,
-    "i": 1421
+    "index": 1421
   },
   {
     "name": "Cirangle",
@@ -15094,8 +13228,7 @@ var items = [
     "yOff": -4,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1422,
-    "i": 1422
+    "index": 1422
   },
   {
     "name": "Django",
@@ -15107,8 +13240,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1423,
-    "i": 1423
+    "index": 1423
   },
   {
     "name": "Cattleman",
@@ -15121,8 +13253,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1424,
-    "i": 1424
+    "index": 1424
   },
   {
     "name": "Chosen One",
@@ -15136,8 +13267,7 @@ var items = [
     "rAnim": -0.004,
     "rAnimA": "y",
     "seas": 3,
-    "index": 1425,
-    "i": 1425
+    "index": 1425
   },
   {
     "name": "Sailor",
@@ -15149,8 +13279,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1426,
-    "i": 1426
+    "index": 1426
   },
   {
     "name": "Planetarium",
@@ -15163,8 +13292,7 @@ var items = [
     "rAnim": -0.0016,
     "rAnimA": "y",
     "seas": 3,
-    "index": 1427,
-    "i": 1427
+    "index": 1427
   },
   {
     "name": "Acid Reaper",
@@ -15179,8 +13307,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 1.05,
     "seas": 3,
-    "index": 1428,
-    "i": 1428
+    "index": 1428
   },
   {
     "name": "Ushanka",
@@ -15192,8 +13319,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1429,
-    "i": 1429
+    "index": 1429
   },
   {
     "name": "Private",
@@ -15204,8 +13330,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1430,
-    "i": 1430
+    "index": 1430
   },
   {
     "name": "Sergeant",
@@ -15216,8 +13341,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1431,
-    "i": 1431
+    "index": 1431
   },
   {
     "name": "Undead",
@@ -15230,8 +13354,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1432,
-    "i": 1432
+    "index": 1432
   },
   {
     "name": "Witch",
@@ -15244,8 +13367,7 @@ var items = [
     "xOff": 1,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1433,
-    "i": 1433
+    "index": 1433
   },
   {
     "name": "Farmer",
@@ -15257,8 +13379,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1434,
-    "i": 1434
+    "index": 1434
   },
   {
     "name": "Helper",
@@ -15271,8 +13392,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1435,
-    "i": 1435
+    "index": 1435
   },
   {
     "name": "Purple Bandana",
@@ -15283,8 +13403,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1436,
-    "i": 1436
+    "index": 1436
   },
   {
     "name": "Red Bandana",
@@ -15296,8 +13415,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1437,
-    "i": 1437
+    "index": 1437
   },
   {
     "name": "Rave Glasses",
@@ -15312,8 +13430,7 @@ var items = [
     "yOff": -2,
     "sitOff": 1,
     "seas": 3,
-    "index": 1438,
-    "i": 1438
+    "index": 1438
   },
   {
     "name": "Blue Headband",
@@ -15325,8 +13442,7 @@ var items = [
     "yOff": -1,
     "sitOff": 1,
     "seas": 3,
-    "index": 1439,
-    "i": 1439
+    "index": 1439
   },
   {
     "name": "Red Headband",
@@ -15339,8 +13455,7 @@ var items = [
     "yOff": -1,
     "sitOff": 1,
     "seas": 3,
-    "index": 1440,
-    "i": 1440
+    "index": 1440
   },
   {
     "name": "Shlem",
@@ -15352,8 +13467,7 @@ var items = [
     "yOff": -1,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1441,
-    "i": 1441
+    "index": 1441
   },
   {
     "name": "Headshot",
@@ -15366,8 +13480,7 @@ var items = [
     "sitOff": 0.9,
     "xOff": 0.5,
     "seas": 3,
-    "index": 1442,
-    "i": 1442
+    "index": 1442
   },
   {
     "name": "Big Apple",
@@ -15379,8 +13492,7 @@ var items = [
     "sclMlt": 0.56,
     "sitOff": 0.75,
     "seas": 3,
-    "index": 1443,
-    "i": 1443
+    "index": 1443
   },
   {
     "name": "Green Alien",
@@ -15393,8 +13505,7 @@ var items = [
     "spnScl": 1.2,
     "sitOff": 0.62,
     "seas": 3,
-    "index": 1444,
-    "i": 1444
+    "index": 1444
   },
   {
     "name": "Purple Alien",
@@ -15408,8 +13519,7 @@ var items = [
     "spnScl": 1.2,
     "sitOff": 0.62,
     "seas": 3,
-    "index": 1445,
-    "i": 1445
+    "index": 1445
   },
   {
     "name": "Banananana",
@@ -15421,8 +13531,7 @@ var items = [
     "sclMlt": 0.6,
     "sitOff": 0.71,
     "seas": 3,
-    "index": 1446,
-    "i": 1446
+    "index": 1446
   },
   {
     "name": "Coolman",
@@ -15434,8 +13543,7 @@ var items = [
     "sclMlt": 0.56,
     "sitOff": 0.75,
     "seas": 3,
-    "index": 1447,
-    "i": 1447
+    "index": 1447
   },
   {
     "name": "Green Headset",
@@ -15447,8 +13555,7 @@ var items = [
     "yOff": -1.5,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1448,
-    "i": 1448
+    "index": 1448
   },
   {
     "name": "Red Headset",
@@ -15461,8 +13568,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1449,
-    "i": 1449
+    "index": 1449
   },
   {
     "name": "Bot 1",
@@ -15476,8 +13582,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1450,
-    "i": 1450
+    "index": 1450
   },
   {
     "name": "Mustache",
@@ -15491,8 +13596,7 @@ var items = [
     "xOff": 3,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1451,
-    "i": 1451
+    "index": 1451
   },
   {
     "name": "Bane",
@@ -15505,8 +13609,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1452,
-    "i": 1452
+    "index": 1452
   },
   {
     "name": "Ducky",
@@ -15521,8 +13624,7 @@ var items = [
     "yOff": -1,
     "sitOff": 0.75,
     "seas": 3,
-    "index": 1453,
-    "i": 1453
+    "index": 1453
   },
   {
     "name": "Pot",
@@ -15535,8 +13637,7 @@ var items = [
     "xOff": -1.5,
     "yOff": -0.5,
     "seas": 3,
-    "index": 1454,
-    "i": 1454
+    "index": 1454
   },
   {
     "name": "Boom Boxer",
@@ -15549,8 +13650,7 @@ var items = [
     "sitOff": 0.8,
     "yOff": -1,
     "seas": 3,
-    "index": 1455,
-    "i": 1455
+    "index": 1455
   },
   {
     "name": "Santa",
@@ -15563,8 +13663,7 @@ var items = [
     "xOff": -1,
     "yOff": -1,
     "seas": 3,
-    "index": 1456,
-    "i": 1456
+    "index": 1456
   },
   {
     "name": "Splinter",
@@ -15576,8 +13675,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.7,
     "seas": 3,
-    "index": 1457,
-    "i": 1457
+    "index": 1457
   },
   {
     "name": "Wizard",
@@ -15589,8 +13687,7 @@ var items = [
     "sitOff": 0.7,
     "yOff": -1,
     "seas": 3,
-    "index": 1458,
-    "i": 1458
+    "index": 1458
   },
   {
     "name": "Hackusate",
@@ -15601,8 +13698,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1459,
-    "i": 1459
+    "index": 1459
   },
   {
     "name": "Hackusate",
@@ -15613,8 +13709,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1460,
-    "i": 1460
+    "index": 1460
   },
   {
     "name": "Hackusate",
@@ -15625,8 +13720,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1461,
-    "i": 1461
+    "index": 1461
   },
   {
     "name": "Hackusate",
@@ -15637,8 +13731,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1462,
-    "i": 1462
+    "index": 1462
   },
   {
     "name": "Flag",
@@ -15650,8 +13743,7 @@ var items = [
     "sitOff": -1.3,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1463,
-    "i": 1463
+    "index": 1463
   },
   {
     "name": "KrunkBoy",
@@ -15667,8 +13759,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1464,
-    "i": 1464
+    "index": 1464
   },
   {
     "name": "Skeleton Grip",
@@ -15681,8 +13772,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.65,
     "seas": 3,
-    "index": 1465,
-    "i": 1465
+    "index": 1465
   },
   {
     "name": "Spider Grip",
@@ -15697,8 +13787,7 @@ var items = [
     "sitOff": -0.7,
     "sitOffZ": -0.65,
     "seas": 3,
-    "index": 1466,
-    "i": 1466
+    "index": 1466
   },
   {
     "name": "Sir HotDog",
@@ -15714,8 +13803,7 @@ var items = [
     "sitOff": -0.1,
     "sitOffZ": -0.65,
     "seas": 3,
-    "index": 1467,
-    "i": 1467
+    "index": 1467
   },
   {
     "name": "Green Kite",
@@ -15728,8 +13816,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.65,
     "seas": 3,
-    "index": 1468,
-    "i": 1468
+    "index": 1468
   },
   {
     "name": "Lantern",
@@ -15747,8 +13834,7 @@ var items = [
     "sitOff": -0.75,
     "sitOffZ": -0.75,
     "seas": 3,
-    "index": 1469,
-    "i": 1469
+    "index": 1469
   },
   {
     "name": "Hellbound",
@@ -15764,8 +13850,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1470,
-    "i": 1470
+    "index": 1470
   },
   {
     "name": "Nuke",
@@ -15781,8 +13866,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1471,
-    "i": 1471
+    "index": 1471
   },
   {
     "name": "Roman Shield",
@@ -15797,8 +13881,7 @@ var items = [
     "sitOff": -0.85,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1472,
-    "i": 1472
+    "index": 1472
   },
   {
     "name": "Krunky Safe",
@@ -15813,8 +13896,7 @@ var items = [
     "sitOff": -1.1,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1473,
-    "i": 1473
+    "index": 1473
   },
   {
     "name": "Yellow Scuba",
@@ -15828,8 +13910,7 @@ var items = [
     "sitOffZ": -0.6,
     "xOff": -2,
     "seas": 3,
-    "index": 1474,
-    "i": 1474
+    "index": 1474
   },
   {
     "name": "Blue Scuba",
@@ -15844,8 +13925,7 @@ var items = [
     "sitOffZ": -0.6,
     "xOff": -2,
     "seas": 3,
-    "index": 1475,
-    "i": 1475
+    "index": 1475
   },
   {
     "name": "Agares",
@@ -15862,8 +13942,7 @@ var items = [
     "sitOffZ": -0.6,
     "trans": true,
     "seas": 3,
-    "index": 1476,
-    "i": 1476
+    "index": 1476
   },
   {
     "name": "Red Ski",
@@ -15877,8 +13956,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1477,
-    "i": 1477
+    "index": 1477
   },
   {
     "name": "Green Ski",
@@ -15893,8 +13971,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1478,
-    "i": 1478
+    "index": 1478
   },
   {
     "name": "Black Widow",
@@ -15910,8 +13987,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1479,
-    "i": 1479
+    "index": 1479
   },
   {
     "name": "Viking",
@@ -15927,8 +14003,7 @@ var items = [
     "sitOff": -0.9,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1480,
-    "i": 1480
+    "index": 1480
   },
   {
     "name": "Kruncade",
@@ -15946,8 +14021,7 @@ var items = [
     "sitOff": -1,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1481,
-    "i": 1481
+    "index": 1481
   },
   {
     "name": "Fully Loaded",
@@ -15961,8 +14035,7 @@ var items = [
     "xOff": -2,
     "spnScl": 2.6,
     "seas": 3,
-    "index": 1482,
-    "i": 1482
+    "index": 1482
   },
   {
     "name": "1 Year Cape",
@@ -15984,8 +14057,7 @@ var items = [
     "illicit": true,
     "funds": 100,
     "reqT": "1 Year Account Age",
-    "index": 1483,
-    "i": 1483
+    "index": 1483
   },
   {
     "name": "2 Year Cape",
@@ -16008,8 +14080,7 @@ var items = [
     "illicit": true,
     "funds": 100,
     "reqT": "2 Year Account Age",
-    "index": 1484,
-    "i": 1484
+    "index": 1484
   },
   {
     "name": "Arunasura",
@@ -16026,8 +14097,7 @@ var items = [
     "sitOff": -0.65,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1485,
-    "i": 1485
+    "index": 1485
   },
   {
     "name": "Barong",
@@ -16045,8 +14115,7 @@ var items = [
     "sitOff": -0.65,
     "sitOffZ": -0.6,
     "seas": 3,
-    "index": 1486,
-    "i": 1486
+    "index": 1486
   },
   {
     "name": "Pink Glazed",
@@ -16060,8 +14129,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.7,
     "seas": 3,
-    "index": 1487,
-    "i": 1487
+    "index": 1487
   },
   {
     "name": "Blue Glazed",
@@ -16076,8 +14144,7 @@ var items = [
     "sitOff": -0.5,
     "sitOffZ": -0.7,
     "seas": 3,
-    "index": 1488,
-    "i": 1488
+    "index": 1488
   },
   {
     "name": "Krunk-Bull",
@@ -16091,8 +14158,7 @@ var items = [
     "sitOff": -1.4,
     "sitOffZ": -0.7,
     "seas": 3,
-    "index": 1489,
-    "i": 1489
+    "index": 1489
   },
   {
     "name": "Soul Reaper",
@@ -16108,8 +14174,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 1.05,
     "seas": 3,
-    "index": 1490,
-    "i": 1490
+    "index": 1490
   },
   {
     "name": "Terra",
@@ -16121,8 +14186,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
-    "index": 1491,
-    "i": 1491
+    "index": 1491
   },
   {
     "name": "Amberite",
@@ -16134,8 +14198,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 4,
-    "index": 1492,
-    "i": 1492
+    "index": 1492
   },
   {
     "name": "Moon Juice",
@@ -16144,8 +14207,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1493,
-    "i": 1493
+    "index": 1493
   },
   {
     "name": "Shift",
@@ -16156,8 +14218,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1494,
-    "i": 1494
+    "index": 1494
   },
   {
     "name": "Lepton",
@@ -16170,8 +14231,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
-    "index": 1495,
-    "i": 1495
+    "index": 1495
   },
   {
     "name": "Dessolate",
@@ -16182,8 +14242,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1496,
-    "i": 1496
+    "index": 1496
   },
   {
     "name": "Retro Beast",
@@ -16194,8 +14253,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1497,
-    "i": 1497
+    "index": 1497
   },
   {
     "name": "Lime",
@@ -16204,8 +14262,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1498,
-    "i": 1498
+    "index": 1498
   },
   {
     "name": "Berry",
@@ -16214,8 +14271,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1499,
-    "i": 1499
+    "index": 1499
   },
   {
     "name": "Indigo",
@@ -16224,8 +14280,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1500,
-    "i": 1500
+    "index": 1500
   },
   {
     "name": "Citrus",
@@ -16234,8 +14289,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1501,
-    "i": 1501
+    "index": 1501
   },
   {
     "name": "Tangerine",
@@ -16244,8 +14298,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1502,
-    "i": 1502
+    "index": 1502
   },
   {
     "name": "Grape",
@@ -16254,8 +14307,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1503,
-    "i": 1503
+    "index": 1503
   },
   {
     "name": "Canvas",
@@ -16264,8 +14316,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1504,
-    "i": 1504
+    "index": 1504
   },
   {
     "name": "Libra",
@@ -16274,8 +14325,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1505,
-    "i": 1505
+    "index": 1505
   },
   {
     "name": "Psychedelic",
@@ -16284,8 +14334,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1506,
-    "i": 1506
+    "index": 1506
   },
   {
     "name": "Violette",
@@ -16294,8 +14343,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1507,
-    "i": 1507
+    "index": 1507
   },
   {
     "name": "Marv",
@@ -16304,8 +14352,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1508,
-    "i": 1508
+    "index": 1508
   },
   {
     "name": "Basel",
@@ -16314,8 +14361,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1509,
-    "i": 1509
+    "index": 1509
   },
   {
     "name": "Tiger Blood",
@@ -16324,8 +14370,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1510,
-    "i": 1510
+    "index": 1510
   },
   {
     "name": "Scalamandre",
@@ -16334,8 +14379,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1511,
-    "i": 1511
+    "index": 1511
   },
   {
     "name": "Tiger Maine",
@@ -16344,8 +14388,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1512,
-    "i": 1512
+    "index": 1512
   },
   {
     "name": "Leopard",
@@ -16354,8 +14397,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1513,
-    "i": 1513
+    "index": 1513
   },
   {
     "name": "Metallic Swirl",
@@ -16364,8 +14406,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1514,
-    "i": 1514
+    "index": 1514
   },
   {
     "name": "Tessilate",
@@ -16374,8 +14415,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1515,
-    "i": 1515
+    "index": 1515
   },
   {
     "name": "Bubblegum",
@@ -16384,8 +14424,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1516,
-    "i": 1516
+    "index": 1516
   },
   {
     "name": "Peppermint",
@@ -16394,8 +14433,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1517,
-    "i": 1517
+    "index": 1517
   },
   {
     "name": "Spearmint",
@@ -16404,8 +14442,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1518,
-    "i": 1518
+    "index": 1518
   },
   {
     "name": "Obsydian",
@@ -16414,8 +14451,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1519,
-    "i": 1519
+    "index": 1519
   },
   {
     "name": "Pink Panther",
@@ -16424,8 +14460,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1520,
-    "i": 1520
+    "index": 1520
   },
   {
     "name": "Amber",
@@ -16434,8 +14469,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1521,
-    "i": 1521
+    "index": 1521
   },
   {
     "name": "Clover",
@@ -16444,8 +14478,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1522,
-    "i": 1522
+    "index": 1522
   },
   {
     "name": "Multicam",
@@ -16454,8 +14487,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1523,
-    "i": 1523
+    "index": 1523
   },
   {
     "name": "Aquaric",
@@ -16464,8 +14496,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1524,
-    "i": 1524
+    "index": 1524
   },
   {
     "name": "Heather",
@@ -16474,8 +14505,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1525,
-    "i": 1525
+    "index": 1525
   },
   {
     "name": "Carbonfibre",
@@ -16484,8 +14514,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1526,
-    "i": 1526
+    "index": 1526
   },
   {
     "name": "Cobra",
@@ -16494,8 +14523,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1527,
-    "i": 1527
+    "index": 1527
   },
   {
     "name": "Python",
@@ -16504,8 +14532,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1528,
-    "i": 1528
+    "index": 1528
   },
   {
     "name": "Lost",
@@ -16514,8 +14541,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1529,
-    "i": 1529
+    "index": 1529
   },
   {
     "name": "Blue Maze",
@@ -16524,8 +14550,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1530,
-    "i": 1530
+    "index": 1530
   },
   {
     "name": "Yellow Maze",
@@ -16534,8 +14559,7 @@ var items = [
     "weapon": 8,
     "rarity": 0,
     "seas": 3,
-    "index": 1531,
-    "i": 1531
+    "index": 1531
   },
   {
     "name": "Morgana",
@@ -16544,8 +14568,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1532,
-    "i": 1532
+    "index": 1532
   },
   {
     "name": "StremZ",
@@ -16556,8 +14579,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1533,
-    "i": 1533
+    "index": 1533
   },
   {
     "name": "Krystal",
@@ -16568,8 +14590,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1534,
-    "i": 1534
+    "index": 1534
   },
   {
     "name": "Corrosive",
@@ -16581,8 +14602,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
-    "index": 1535,
-    "i": 1535
+    "index": 1535
   },
   {
     "name": "Kitta",
@@ -16592,8 +14612,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1536,
-    "i": 1536
+    "index": 1536
   },
   {
     "name": "Plasma Grime",
@@ -16604,8 +14623,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1537,
-    "i": 1537
+    "index": 1537
   },
   {
     "name": "Graffiti",
@@ -16616,8 +14634,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1538,
-    "i": 1538
+    "index": 1538
   },
   {
     "name": "Lime",
@@ -16626,8 +14643,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1539,
-    "i": 1539
+    "index": 1539
   },
   {
     "name": "Berry",
@@ -16636,8 +14652,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1540,
-    "i": 1540
+    "index": 1540
   },
   {
     "name": "Indigo",
@@ -16646,8 +14661,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1541,
-    "i": 1541
+    "index": 1541
   },
   {
     "name": "Citrus",
@@ -16656,8 +14670,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1542,
-    "i": 1542
+    "index": 1542
   },
   {
     "name": "Tangerine",
@@ -16666,8 +14679,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1543,
-    "i": 1543
+    "index": 1543
   },
   {
     "name": "Grape",
@@ -16676,8 +14688,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1544,
-    "i": 1544
+    "index": 1544
   },
   {
     "name": "Canvas",
@@ -16686,8 +14697,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1545,
-    "i": 1545
+    "index": 1545
   },
   {
     "name": "Libra",
@@ -16696,8 +14706,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1546,
-    "i": 1546
+    "index": 1546
   },
   {
     "name": "Psychedelic",
@@ -16706,8 +14715,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1547,
-    "i": 1547
+    "index": 1547
   },
   {
     "name": "Violette",
@@ -16716,8 +14724,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1548,
-    "i": 1548
+    "index": 1548
   },
   {
     "name": "Marv",
@@ -16726,8 +14733,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1549,
-    "i": 1549
+    "index": 1549
   },
   {
     "name": "Basel",
@@ -16736,8 +14742,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1550,
-    "i": 1550
+    "index": 1550
   },
   {
     "name": "Tiger Blood",
@@ -16746,8 +14751,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1551,
-    "i": 1551
+    "index": 1551
   },
   {
     "name": "Scalamandre",
@@ -16756,8 +14760,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1552,
-    "i": 1552
+    "index": 1552
   },
   {
     "name": "Tiger Maine",
@@ -16766,8 +14769,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1553,
-    "i": 1553
+    "index": 1553
   },
   {
     "name": "Leopard",
@@ -16776,8 +14778,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1554,
-    "i": 1554
+    "index": 1554
   },
   {
     "name": "Metallic Swirl",
@@ -16786,8 +14787,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1555,
-    "i": 1555
+    "index": 1555
   },
   {
     "name": "Tessilate",
@@ -16796,8 +14796,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1556,
-    "i": 1556
+    "index": 1556
   },
   {
     "name": "Bubblegum",
@@ -16806,8 +14805,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1557,
-    "i": 1557
+    "index": 1557
   },
   {
     "name": "Peppermint",
@@ -16816,8 +14814,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1558,
-    "i": 1558
+    "index": 1558
   },
   {
     "name": "Spearmint",
@@ -16826,8 +14823,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1559,
-    "i": 1559
+    "index": 1559
   },
   {
     "name": "Obsydian",
@@ -16836,8 +14832,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1560,
-    "i": 1560
+    "index": 1560
   },
   {
     "name": "Pink Panther",
@@ -16846,8 +14841,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1561,
-    "i": 1561
+    "index": 1561
   },
   {
     "name": "Amber",
@@ -16856,8 +14850,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1562,
-    "i": 1562
+    "index": 1562
   },
   {
     "name": "Clover",
@@ -16866,8 +14859,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1563,
-    "i": 1563
+    "index": 1563
   },
   {
     "name": "Multicam",
@@ -16876,8 +14868,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1564,
-    "i": 1564
+    "index": 1564
   },
   {
     "name": "Aquaric",
@@ -16886,8 +14877,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1565,
-    "i": 1565
+    "index": 1565
   },
   {
     "name": "Heather",
@@ -16896,8 +14886,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1566,
-    "i": 1566
+    "index": 1566
   },
   {
     "name": "Carbonfibre",
@@ -16906,8 +14895,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1567,
-    "i": 1567
+    "index": 1567
   },
   {
     "name": "Cobra",
@@ -16916,8 +14904,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1568,
-    "i": 1568
+    "index": 1568
   },
   {
     "name": "Python",
@@ -16926,8 +14913,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1569,
-    "i": 1569
+    "index": 1569
   },
   {
     "name": "Lost",
@@ -16936,8 +14922,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1570,
-    "i": 1570
+    "index": 1570
   },
   {
     "name": "Blue Maze",
@@ -16946,8 +14931,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1571,
-    "i": 1571
+    "index": 1571
   },
   {
     "name": "Yellow Maze",
@@ -16956,8 +14940,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1572,
-    "i": 1572
+    "index": 1572
   },
   {
     "name": "Morgana",
@@ -16966,8 +14949,7 @@ var items = [
     "weapon": 10,
     "rarity": 0,
     "seas": 3,
-    "index": 1573,
-    "i": 1573
+    "index": 1573
   },
   {
     "name": "Fireburst",
@@ -16976,8 +14958,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1574,
-    "i": 1574
+    "index": 1574
   },
   {
     "name": "Moldavite",
@@ -16987,8 +14968,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1575,
-    "i": 1575
+    "index": 1575
   },
   {
     "name": "Wyvern",
@@ -16998,8 +14978,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1576,
-    "i": 1576
+    "index": 1576
   },
   {
     "name": "Forbidden",
@@ -17009,8 +14988,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1577,
-    "i": 1577
+    "index": 1577
   },
   {
     "name": "Lxd",
@@ -17020,8 +14998,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1578,
-    "i": 1578
+    "index": 1578
   },
   {
     "name": "Scribble",
@@ -17030,8 +15007,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1579,
-    "i": 1579
+    "index": 1579
   },
   {
     "name": "Peruvia",
@@ -17041,8 +15017,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1580,
-    "i": 1580
+    "index": 1580
   },
   {
     "name": "Caged",
@@ -17052,8 +15027,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1581,
-    "i": 1581
+    "index": 1581
   },
   {
     "name": "Lime",
@@ -17061,8 +15035,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1582,
-    "i": 1582
+    "index": 1582
   },
   {
     "name": "Berry",
@@ -17070,8 +15043,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1583,
-    "i": 1583
+    "index": 1583
   },
   {
     "name": "Indigo",
@@ -17079,8 +15051,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1584,
-    "i": 1584
+    "index": 1584
   },
   {
     "name": "Citrus",
@@ -17088,8 +15059,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1585,
-    "i": 1585
+    "index": 1585
   },
   {
     "name": "Tangerine",
@@ -17097,8 +15067,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1586,
-    "i": 1586
+    "index": 1586
   },
   {
     "name": "Grape",
@@ -17106,8 +15075,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1587,
-    "i": 1587
+    "index": 1587
   },
   {
     "name": "Canvas",
@@ -17115,8 +15083,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1588,
-    "i": 1588
+    "index": 1588
   },
   {
     "name": "Libra",
@@ -17124,8 +15091,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1589,
-    "i": 1589
+    "index": 1589
   },
   {
     "name": "Psychedelic",
@@ -17133,8 +15099,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1590,
-    "i": 1590
+    "index": 1590
   },
   {
     "name": "Violette",
@@ -17142,8 +15107,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1591,
-    "i": 1591
+    "index": 1591
   },
   {
     "name": "Marv",
@@ -17151,8 +15115,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1592,
-    "i": 1592
+    "index": 1592
   },
   {
     "name": "Basel",
@@ -17160,8 +15123,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1593,
-    "i": 1593
+    "index": 1593
   },
   {
     "name": "Tiger Blood",
@@ -17169,8 +15131,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1594,
-    "i": 1594
+    "index": 1594
   },
   {
     "name": "Scalamandre",
@@ -17178,8 +15139,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1595,
-    "i": 1595
+    "index": 1595
   },
   {
     "name": "Tiger Maine",
@@ -17187,8 +15147,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1596,
-    "i": 1596
+    "index": 1596
   },
   {
     "name": "Leopard",
@@ -17196,8 +15155,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1597,
-    "i": 1597
+    "index": 1597
   },
   {
     "name": "Metallic Swirl",
@@ -17205,8 +15163,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1598,
-    "i": 1598
+    "index": 1598
   },
   {
     "name": "Tessilate",
@@ -17214,8 +15171,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1599,
-    "i": 1599
+    "index": 1599
   },
   {
     "name": "Bubblegum",
@@ -17223,8 +15179,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1600,
-    "i": 1600
+    "index": 1600
   },
   {
     "name": "Peppermint",
@@ -17232,8 +15187,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1601,
-    "i": 1601
+    "index": 1601
   },
   {
     "name": "Spearmint",
@@ -17241,8 +15195,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1602,
-    "i": 1602
+    "index": 1602
   },
   {
     "name": "Obsydian",
@@ -17250,8 +15203,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1603,
-    "i": 1603
+    "index": 1603
   },
   {
     "name": "Pink Panther",
@@ -17259,8 +15211,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1604,
-    "i": 1604
+    "index": 1604
   },
   {
     "name": "Amber",
@@ -17268,8 +15219,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1605,
-    "i": 1605
+    "index": 1605
   },
   {
     "name": "Clover",
@@ -17277,8 +15227,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1606,
-    "i": 1606
+    "index": 1606
   },
   {
     "name": "Multicam",
@@ -17286,8 +15235,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1607,
-    "i": 1607
+    "index": 1607
   },
   {
     "name": "Aquaric",
@@ -17295,8 +15243,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1608,
-    "i": 1608
+    "index": 1608
   },
   {
     "name": "Heather",
@@ -17304,8 +15251,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1609,
-    "i": 1609
+    "index": 1609
   },
   {
     "name": "Carbonfibre",
@@ -17313,8 +15259,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1610,
-    "i": 1610
+    "index": 1610
   },
   {
     "name": "Cobra",
@@ -17322,8 +15267,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1611,
-    "i": 1611
+    "index": 1611
   },
   {
     "name": "Python",
@@ -17331,8 +15275,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1612,
-    "i": 1612
+    "index": 1612
   },
   {
     "name": "Lost",
@@ -17340,8 +15283,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1613,
-    "i": 1613
+    "index": 1613
   },
   {
     "name": "Blue Maze",
@@ -17349,8 +15291,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1614,
-    "i": 1614
+    "index": 1614
   },
   {
     "name": "Yellow Maze",
@@ -17358,8 +15299,7 @@ var items = [
     "weapon": 15,
     "rarity": 0,
     "seas": 3,
-    "index": 1615,
-    "i": 1615
+    "index": 1615
   },
   {
     "name": "Morgana",
@@ -17367,8 +15307,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1616,
-    "i": 1616
+    "index": 1616
   },
   {
     "name": "Timeless",
@@ -17387,8 +15326,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1617,
-    "i": 1617
+    "index": 1617
   },
   {
     "name": "Crimson Tiger",
@@ -17407,8 +15345,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1618,
-    "i": 1618
+    "index": 1618
   },
   {
     "name": "Vaporblade",
@@ -17427,8 +15364,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1619,
-    "i": 1619
+    "index": 1619
   },
   {
     "name": "Verdant",
@@ -17447,8 +15383,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1620,
-    "i": 1620
+    "index": 1620
   },
   {
     "name": "Zvilpogghua",
@@ -17471,8 +15406,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1621,
-    "i": 1621
+    "index": 1621
   },
   {
     "name": "Volcanic",
@@ -17494,8 +15428,7 @@ var items = [
     "sxRot": 0.3,
     "sxOff": 0.35,
     "szOff": -0.25,
-    "index": 1622,
-    "i": 1622
+    "index": 1622
   },
   {
     "name": "Flintstone",
@@ -17512,8 +15445,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 4,
-    "index": 1623,
-    "i": 1623
+    "index": 1623
   },
   {
     "name": "Raynb0w",
@@ -17530,8 +15462,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
-    "index": 1624,
-    "i": 1624
+    "index": 1624
   },
   {
     "name": "C0b4lt",
@@ -17543,8 +15474,7 @@ var items = [
     "seas": 3,
     "weapon": 16,
     "rarity": 5,
-    "index": 1625,
-    "i": 1625
+    "index": 1625
   },
   {
     "name": "Shattered Asura",
@@ -17559,8 +15489,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "movT": 0.0003,
-    "index": 1626,
-    "i": 1626
+    "index": 1626
   },
   {
     "name": "Pellucid",
@@ -17573,8 +15502,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
-    "index": 1627,
-    "i": 1627
+    "index": 1627
   },
   {
     "name": "Pellucid",
@@ -17587,8 +15515,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
-    "index": 1628,
-    "i": 1628
+    "index": 1628
   },
   {
     "name": "Pellucid",
@@ -17605,8 +15532,7 @@ var items = [
     "opac": 0.6,
     "rarity": 5,
     "seas": 3,
-    "index": 1629,
-    "i": 1629
+    "index": 1629
   },
   {
     "name": "Soul Harvest",
@@ -17620,10 +15546,13 @@ var items = [
     "sclMlt": 2.4,
     "sitOff": -0.65,
     "sitOffZ": -0.6,
+    "xOff": -2.5,
+    "yOff": -2,
+    "xRot": -0.5,
+    "spnScl": 2.6,
     "seas": 3,
     "movT": 0.0003,
-    "index": 1630,
-    "i": 1630
+    "index": 1630
   },
   {
     "name": "Hackusate",
@@ -17634,8 +15563,7 @@ var items = [
     "rgbs": 0.5,
     "wire": true,
     "seas": 3,
-    "index": 1631,
-    "i": 1631
+    "index": 1631
   },
   {
     "name": "Kortex",
@@ -17644,8 +15572,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1632,
-    "i": 1632
+    "index": 1632
   },
   {
     "name": "Bloodlust",
@@ -17655,8 +15582,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1633,
-    "i": 1633
+    "index": 1633
   },
   {
     "name": "Hellhound",
@@ -17666,8 +15592,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1634,
-    "i": 1634
+    "index": 1634
   },
   {
     "name": "Explora",
@@ -17676,8 +15601,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1635,
-    "i": 1635
+    "index": 1635
   },
   {
     "name": "Outrunner",
@@ -17693,8 +15617,7 @@ var items = [
     "weapon": 6,
     "rarity": 4,
     "seas": 3,
-    "index": 1636,
-    "i": 1636
+    "index": 1636
   },
   {
     "name": "Stanik",
@@ -17706,8 +15629,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1637,
-    "i": 1637
+    "index": 1637
   },
   {
     "name": "Eaglx",
@@ -17719,8 +15641,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1638,
-    "i": 1638
+    "index": 1638
   },
   {
     "name": "Aesthetica",
@@ -17731,8 +15652,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1639,
-    "i": 1639
+    "index": 1639
   },
   {
     "name": "Aries",
@@ -17744,8 +15664,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1640,
-    "i": 1640
+    "index": 1640
   },
   {
     "name": "Puppet Master",
@@ -17762,8 +15681,7 @@ var items = [
     "illicit": true,
     "funds": 2000,
     "reqT": "No Greenskins!",
-    "index": 1641,
-    "i": 1641
+    "index": 1641
   },
   {
     "name": "Nuke Tamer",
@@ -17784,8 +15702,7 @@ var items = [
     "illicit": true,
     "funds": 3000,
     "reqT": "Call in 1000 Nukes",
-    "index": 1642,
-    "i": 1642
+    "index": 1642
   },
   {
     "name": "Floatie",
@@ -17800,8 +15717,7 @@ var items = [
     "prevRot": 4,
     "rarity": 5,
     "seas": 3,
-    "index": 1643,
-    "i": 1643
+    "index": 1643
   },
   {
     "name": "Combat Banana",
@@ -17815,8 +15731,7 @@ var items = [
     "xOff": -1,
     "rarity": 4,
     "seas": 3,
-    "index": 1644,
-    "i": 1644
+    "index": 1644
   },
   {
     "name": "Banana Tail",
@@ -17833,8 +15748,7 @@ var items = [
     "prevRot": 4,
     "rarity": 4,
     "seas": 3,
-    "index": 1645,
-    "i": 1645
+    "index": 1645
   },
   {
     "name": "Cyber Midnight",
@@ -17845,8 +15759,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1646,
-    "i": 1646
+    "index": 1646
   },
   {
     "name": "Delirium",
@@ -17855,8 +15768,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1647,
-    "i": 1647
+    "index": 1647
   },
   {
     "name": "Mosasaur",
@@ -17867,8 +15779,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1648,
-    "i": 1648
+    "index": 1648
   },
   {
     "name": "Captane",
@@ -17878,8 +15789,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1649,
-    "i": 1649
+    "index": 1649
   },
   {
     "name": "Tiger Cascade",
@@ -17888,8 +15798,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1650,
-    "i": 1650
+    "index": 1650
   },
   {
     "name": "Flamer",
@@ -17899,8 +15808,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1651,
-    "i": 1651
+    "index": 1651
   },
   {
     "name": "MOS",
@@ -17911,8 +15819,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1652,
-    "i": 1652
+    "index": 1652
   },
   {
     "name": "Dynamite",
@@ -17922,8 +15829,7 @@ var items = [
     "weapon": 10,
     "rarity": 3,
     "seas": 3,
-    "index": 1653,
-    "i": 1653
+    "index": 1653
   },
   {
     "name": "Rye",
@@ -17934,8 +15840,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1654,
-    "i": 1654
+    "index": 1654
   },
   {
     "name": "Isotope Mk2",
@@ -17944,8 +15849,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1655,
-    "i": 1655
+    "index": 1655
   },
   {
     "name": "Izulu",
@@ -17956,8 +15860,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1656,
-    "i": 1656
+    "index": 1656
   },
   {
     "name": "Izula",
@@ -17968,8 +15871,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1657,
-    "i": 1657
+    "index": 1657
   },
   {
     "name": "Milestone",
@@ -17979,8 +15881,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1658,
-    "i": 1658
+    "index": 1658
   },
   {
     "name": "Antidote XVI",
@@ -17998,8 +15899,7 @@ var items = [
     "illicit": true,
     "funds": 10000,
     "reqT": "???????",
-    "index": 1659,
-    "i": 1659
+    "index": 1659
   },
   {
     "name": "Tropic Pop",
@@ -18008,8 +15908,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1660,
-    "i": 1660
+    "index": 1660
   },
   {
     "name": "Cyclonic Charge",
@@ -18018,8 +15917,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1661,
-    "i": 1661
+    "index": 1661
   },
   {
     "name": "Disco Kill",
@@ -18029,8 +15927,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1662,
-    "i": 1662
+    "index": 1662
   },
   {
     "name": "Line Breaker",
@@ -18039,8 +15936,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1663,
-    "i": 1663
+    "index": 1663
   },
   {
     "name": "Rev 2058",
@@ -18051,8 +15947,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1664,
-    "i": 1664
+    "index": 1664
   },
   {
     "name": "Sarin",
@@ -18063,8 +15958,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1665,
-    "i": 1665
+    "index": 1665
   },
   {
     "name": "Nitrox",
@@ -18074,8 +15968,7 @@ var items = [
     "weapon": 6,
     "rarity": 3,
     "seas": 3,
-    "index": 1666,
-    "i": 1666
+    "index": 1666
   },
   {
     "name": "Fireball",
@@ -18085,8 +15978,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1667,
-    "i": 1667
+    "index": 1667
   },
   {
     "name": "Noble Guard",
@@ -18096,8 +15988,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1668,
-    "i": 1668
+    "index": 1668
   },
   {
     "name": "Institute",
@@ -18107,8 +15998,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1669,
-    "i": 1669
+    "index": 1669
   },
   {
     "name": "Charoite",
@@ -18120,8 +16010,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1670,
-    "i": 1670
+    "index": 1670
   },
   {
     "name": "Stream Suit",
@@ -18135,8 +16024,7 @@ var items = [
     "type": 5,
     "noSpin": true,
     "rarity": 4,
-    "index": 1671,
-    "i": 1671
+    "index": 1671
   },
   {
     "name": "USS Krunk",
@@ -18163,8 +16051,7 @@ var items = [
     "illicit": true,
     "funds": 10000,
     "reqT": "Level 50 Runner",
-    "index": 1672,
-    "i": 1672
+    "index": 1672
   },
   {
     "name": "USS TTV",
@@ -18190,8 +16077,7 @@ var items = [
     "frameT": 300,
     "noLegs": true,
     "noSpin": true,
-    "index": 1673,
-    "i": 1673
+    "index": 1673
   },
   {
     "name": "TTV",
@@ -18203,8 +16089,7 @@ var items = [
     "seas": 3,
     "opacity": 0.8,
     "noSpin": true,
-    "index": 1674,
-    "i": 1674
+    "index": 1674
   },
   {
     "name": "TTV Cape",
@@ -18225,8 +16110,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "noSpin": true,
-    "index": 1675,
-    "i": 1675
+    "index": 1675
   },
   {
     "name": "TTV Tron",
@@ -18245,8 +16129,7 @@ var items = [
     "frames": 2,
     "frameT": 400,
     "noSpin": true,
-    "index": 1676,
-    "i": 1676
+    "index": 1676
   },
   {
     "name": "Krunk TTV",
@@ -18264,8 +16147,7 @@ var items = [
     "frames": 4,
     "frameT": 400,
     "noSpin": true,
-    "index": 1677,
-    "i": 1677
+    "index": 1677
   },
   {
     "name": "Twitched",
@@ -18281,8 +16163,7 @@ var items = [
     "yOff": -1,
     "noSpin": true,
     "noHead": true,
-    "index": 1678,
-    "i": 1678
+    "index": 1678
   },
   {
     "name": "tRaDeS?",
@@ -18294,8 +16175,7 @@ var items = [
     "seas": 3,
     "opacity": 0.8,
     "noSpin": true,
-    "index": 1679,
-    "i": 1679
+    "index": 1679
   },
   {
     "name": "Partner Push",
@@ -18307,8 +16187,7 @@ var items = [
     "seas": 3,
     "opacity": 0.8,
     "noSpin": true,
-    "index": 1680,
-    "i": 1680
+    "index": 1680
   },
   {
     "name": "Mic'd Up",
@@ -18327,8 +16206,7 @@ var items = [
     "sxOff": 0.5,
     "syOff": -0.05,
     "szOff": -0.1,
-    "index": 1681,
-    "i": 1681
+    "index": 1681
   },
   {
     "name": "Zed",
@@ -18340,8 +16218,7 @@ var items = [
     "seas": 3,
     "opacity": 0.8,
     "noSpin": true,
-    "index": 1682,
-    "i": 1682
+    "index": 1682
   },
   {
     "name": "Kaarson",
@@ -18353,8 +16230,7 @@ var items = [
     "seas": 3,
     "opacity": 0.8,
     "noSpin": true,
-    "index": 1683,
-    "i": 1683
+    "index": 1683
   },
   {
     "name": "TTV Vest",
@@ -18371,8 +16247,7 @@ var items = [
     "sitOffZ": 0,
     "yOff": -2,
     "xRot": 3.141592653589793,
-    "index": 1684,
-    "i": 1684
+    "index": 1684
   },
   {
     "name": "Cheerfull",
@@ -18391,8 +16266,7 @@ var items = [
     "sitOff": -1.65,
     "sitOffZ": -0.7,
     "seas": 3,
-    "index": 1685,
-    "i": 1685
+    "index": 1685
   },
   {
     "name": "Twitcher",
@@ -18405,8 +16279,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1686,
-    "i": 1686
+    "index": 1686
   },
   {
     "name": "Streamer",
@@ -18420,8 +16293,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1687,
-    "i": 1687
+    "index": 1687
   },
   {
     "name": "TTV-Cap",
@@ -18437,8 +16309,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.8,
     "seas": 3,
-    "index": 1688,
-    "i": 1688
+    "index": 1688
   },
   {
     "name": "Bits",
@@ -18453,8 +16324,7 @@ var items = [
     "rAnim": -0.0016,
     "rAnimA": "y",
     "seas": 3,
-    "index": 1689,
-    "i": 1689
+    "index": 1689
   },
   {
     "name": "Just Vibing",
@@ -18470,8 +16340,7 @@ var items = [
     "rarity": 4,
     "seas": 3,
     "noSpin": true,
-    "index": 1690,
-    "i": 1690
+    "index": 1690
   },
   {
     "name": "Arae Atlas",
@@ -18480,8 +16349,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1691,
-    "i": 1691
+    "index": 1691
   },
   {
     "name": "Rezein",
@@ -18492,8 +16360,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1692,
-    "i": 1692
+    "index": 1692
   },
   {
     "name": "ThiccChemist",
@@ -18503,8 +16370,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1693,
-    "i": 1693
+    "index": 1693
   },
   {
     "name": "Radalive",
@@ -18514,8 +16380,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1694,
-    "i": 1694
+    "index": 1694
   },
   {
     "name": "Arctic",
@@ -18524,8 +16389,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1695,
-    "i": 1695
+    "index": 1695
   },
   {
     "name": "Kanashii",
@@ -18534,8 +16398,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 3,
-    "index": 1696,
-    "i": 1696
+    "index": 1696
   },
   {
     "name": "Sunset claw",
@@ -18544,8 +16407,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1697,
-    "i": 1697
+    "index": 1697
   },
   {
     "name": "Blazed",
@@ -18554,8 +16416,7 @@ var items = [
     "weapon": 7,
     "rarity": 3,
     "seas": 3,
-    "index": 1698,
-    "i": 1698
+    "index": 1698
   },
   {
     "name": "Avalan",
@@ -18565,8 +16426,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1699,
-    "i": 1699
+    "index": 1699
   },
   {
     "name": "Disruptor",
@@ -18577,8 +16437,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1700,
-    "i": 1700
+    "index": 1700
   },
   {
     "name": "Phusion",
@@ -18589,8 +16448,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1701,
-    "i": 1701
+    "index": 1701
   },
   {
     "name": "Midnight Phoenix",
@@ -18601,8 +16459,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1702,
-    "i": 1702
+    "index": 1702
   },
   {
     "name": "Ocean",
@@ -18612,8 +16469,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1703,
-    "i": 1703
+    "index": 1703
   },
   {
     "name": "Thunder God",
@@ -18625,8 +16481,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1704,
-    "i": 1704
+    "index": 1704
   },
   {
     "name": "Upset",
@@ -18637,8 +16492,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1705,
-    "i": 1705
+    "index": 1705
   },
   {
     "name": "Fished",
@@ -18647,8 +16501,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1706,
-    "i": 1706
+    "index": 1706
   },
   {
     "name": "Hannya",
@@ -18659,8 +16512,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1707,
-    "i": 1707
+    "index": 1707
   },
   {
     "name": "Drakon",
@@ -18671,8 +16523,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1708,
-    "i": 1708
+    "index": 1708
   },
   {
     "name": "caL",
@@ -18683,8 +16534,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1709,
-    "i": 1709
+    "index": 1709
   },
   {
     "name": "CIRO",
@@ -18694,8 +16544,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1710,
-    "i": 1710
+    "index": 1710
   },
   {
     "name": "Redolent",
@@ -18706,8 +16555,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1711,
-    "i": 1711
+    "index": 1711
   },
   {
     "name": "Man vs God",
@@ -18717,8 +16565,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1712,
-    "i": 1712
+    "index": 1712
   },
   {
     "name": "Scaze",
@@ -18729,8 +16576,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1713,
-    "i": 1713
+    "index": 1713
   },
   {
     "name": "Kinto",
@@ -18747,8 +16593,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 4,
-    "index": 1714,
-    "i": 1714
+    "index": 1714
   },
   {
     "name": "Divine",
@@ -18765,8 +16610,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 4,
-    "index": 1715,
-    "i": 1715
+    "index": 1715
   },
   {
     "name": "Diabolo",
@@ -18782,8 +16626,7 @@ var items = [
     "sclMlt": 0.98,
     "yOff": -2,
     "rarity": 4,
-    "index": 1716,
-    "i": 1716
+    "index": 1716
   },
   {
     "name": "Fadecrusher",
@@ -18802,8 +16645,7 @@ var items = [
     "sxOff": 0,
     "syOff": -0.05,
     "szOff": -0.1,
-    "index": 1717,
-    "i": 1717
+    "index": 1717
   },
   {
     "name": "Crimson Edge",
@@ -18817,8 +16659,7 @@ var items = [
     "yOff": -2,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1718,
-    "i": 1718
+    "index": 1718
   },
   {
     "name": "Alter",
@@ -18837,8 +16678,7 @@ var items = [
     "xOff": -1,
     "keyW": "Melee",
     "seas": 3,
-    "index": 1719,
-    "i": 1719
+    "index": 1719
   },
   {
     "name": "Prototype-14",
@@ -18848,8 +16688,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1720,
-    "i": 1720
+    "index": 1720
   },
   {
     "name": "Dream Destroyer",
@@ -18860,8 +16699,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1721,
-    "i": 1721
+    "index": 1721
   },
   {
     "name": "E-12",
@@ -18872,8 +16710,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1722,
-    "i": 1722
+    "index": 1722
   },
   {
     "name": "T.A.N 9",
@@ -18883,8 +16720,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1723,
-    "i": 1723
+    "index": 1723
   },
   {
     "name": "Sekigahara",
@@ -18895,8 +16731,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1724,
-    "i": 1724
+    "index": 1724
   },
   {
     "name": "Death Parade",
@@ -18907,8 +16742,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1725,
-    "i": 1725
+    "index": 1725
   },
   {
     "name": "Sentinel-56",
@@ -18919,8 +16753,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1726,
-    "i": 1726
+    "index": 1726
   },
   {
     "name": "Cryptic J",
@@ -18931,8 +16764,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1727,
-    "i": 1727
+    "index": 1727
   },
   {
     "name": "Voyage",
@@ -18943,8 +16775,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1728,
-    "i": 1728
+    "index": 1728
   },
   {
     "name": "Iara",
@@ -18954,8 +16785,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1729,
-    "i": 1729
+    "index": 1729
   },
   {
     "name": "Insidious",
@@ -18967,8 +16797,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1730,
-    "i": 1730
+    "index": 1730
   },
   {
     "name": "Tri-Tech",
@@ -18978,8 +16807,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1731,
-    "i": 1731
+    "index": 1731
   },
   {
     "name": "Prototype BWSX",
@@ -18990,8 +16818,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1732,
-    "i": 1732
+    "index": 1732
   },
   {
     "name": "Hexgen",
@@ -19002,8 +16829,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1733,
-    "i": 1733
+    "index": 1733
   },
   {
     "name": "Scout Mastery",
@@ -19016,8 +16842,7 @@ var items = [
     "funds": 10000,
     "yOrg": -0.2,
     "reqT": "Level 100 Hunter",
-    "index": 1734,
-    "i": 1734
+    "index": 1734
   },
   {
     "name": "Redux",
@@ -19034,8 +16859,7 @@ var items = [
     "keyW": "Melee",
     "seas": 3,
     "shaderId": 0,
-    "index": 1735,
-    "i": 1735
+    "index": 1735
   },
   {
     "name": "Neon Dance",
@@ -19055,8 +16879,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "shaderId": 1,
-    "index": 1736,
-    "i": 1736
+    "index": 1736
   },
   {
     "name": "Jason",
@@ -19072,8 +16895,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1,
     "trans": true,
-    "index": 1737,
-    "i": 1737
+    "index": 1737
   },
   {
     "name": "Sicko",
@@ -19090,8 +16912,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1,
     "trans": true,
-    "index": 1738,
-    "i": 1738
+    "index": 1738
   },
   {
     "name": "Succubus",
@@ -19107,8 +16928,7 @@ var items = [
     "sitOff": 0.4,
     "yOff": -0.7,
     "xOff": 0.2,
-    "index": 1739,
-    "i": 1739
+    "index": 1739
   },
   {
     "name": "Socket",
@@ -19124,8 +16944,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 0.2,
-    "index": 1740,
-    "i": 1740
+    "index": 1740
   },
   {
     "name": "Crunch",
@@ -19141,8 +16960,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 0.2,
-    "index": 1741,
-    "i": 1741
+    "index": 1741
   },
   {
     "name": "Paraseye",
@@ -19157,8 +16975,7 @@ var items = [
     "sclMlt": 0.7,
     "sitOff": 0.9,
     "yOff": -0.7,
-    "index": 1742,
-    "i": 1742
+    "index": 1742
   },
   {
     "name": "Puff Puff",
@@ -19173,8 +16990,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.8,
     "yOff": -0.7,
-    "index": 1743,
-    "i": 1743
+    "index": 1743
   },
   {
     "name": "Moneybags",
@@ -19189,8 +17005,7 @@ var items = [
     "sclMlt": 0.48,
     "sitOff": 1,
     "yOff": -0.7,
-    "index": 1744,
-    "i": 1744
+    "index": 1744
   },
   {
     "name": "Braindead",
@@ -19206,8 +17021,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "trans": true,
-    "index": 1745,
-    "i": 1745
+    "index": 1745
   },
   {
     "name": "Gobbler",
@@ -19222,8 +17036,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 1,
     "yOff": -0.7,
-    "index": 1746,
-    "i": 1746
+    "index": 1746
   },
   {
     "name": "Seefood",
@@ -19240,8 +17053,7 @@ var items = [
     "sitOff": 0.9,
     "yOff": -0.7,
     "trans": true,
-    "index": 1747,
-    "i": 1747
+    "index": 1747
   },
   {
     "name": "Mr Doodles",
@@ -19257,8 +17069,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "trans": true,
-    "index": 1748,
-    "i": 1748
+    "index": 1748
   },
   {
     "name": "Drowned",
@@ -19274,8 +17085,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 3.7,
     "trans": true,
-    "index": 1749,
-    "i": 1749
+    "index": 1749
   },
   {
     "name": "Tentacle",
@@ -19290,8 +17100,7 @@ var items = [
     "xOff": -1,
     "sitOff": -0.7,
     "sitOffZ": -0.65,
-    "index": 1750,
-    "i": 1750
+    "index": 1750
   },
   {
     "name": "Observer",
@@ -19309,8 +17118,7 @@ var items = [
     "xOff": -0.3,
     "rAnim": -0.002,
     "rAnimA": "x",
-    "index": 1751,
-    "i": 1751
+    "index": 1751
   },
   {
     "name": "Butcher",
@@ -19326,8 +17134,7 @@ var items = [
     "sitOff": -0.4,
     "yOff": -2,
     "prevRot": -0.1,
-    "index": 1752,
-    "i": 1752
+    "index": 1752
   },
   {
     "name": "Scales",
@@ -19344,8 +17151,7 @@ var items = [
     "yOff": -1,
     "xOff": -1,
     "xRot": 3.141592653589793,
-    "index": 1753,
-    "i": 1753
+    "index": 1753
   },
   {
     "name": "Pauldrons",
@@ -19360,8 +17166,7 @@ var items = [
     "sitOff": -0.6,
     "yOff": -2,
     "xRot": 3.141592653589793,
-    "index": 1754,
-    "i": 1754
+    "index": 1754
   },
   {
     "name": "Walpurgis",
@@ -19378,8 +17183,7 @@ var items = [
     "prevRot": 4,
     "xOff": -2,
     "noLegs": true,
-    "index": 1755,
-    "i": 1755
+    "index": 1755
   },
   {
     "name": "Scales",
@@ -19397,8 +17201,7 @@ var items = [
     "prevRot": 2,
     "xOff": -3.5,
     "xRot": 1.8849555921538759,
-    "index": 1756,
-    "i": 1756
+    "index": 1756
   },
   {
     "name": "Monster V",
@@ -19409,8 +17212,7 @@ var items = [
     "seas": 3,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1757,
-    "i": 1757
+    "index": 1757
   },
   {
     "name": "Monster III",
@@ -19421,8 +17223,7 @@ var items = [
     "seas": 3,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1758,
-    "i": 1758
+    "index": 1758
   },
   {
     "name": "Monster X",
@@ -19433,8 +17234,7 @@ var items = [
     "seas": 3,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1759,
-    "i": 1759
+    "index": 1759
   },
   {
     "name": "Demonic Haze",
@@ -19445,8 +17245,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1760,
-    "i": 1760
+    "index": 1760
   },
   {
     "name": "Vassago",
@@ -19457,8 +17256,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1761,
-    "i": 1761
+    "index": 1761
   },
   {
     "name": "Cranium",
@@ -19467,8 +17265,7 @@ var items = [
     "weapon": 1,
     "rarity": 2,
     "seas": 3,
-    "index": 1762,
-    "i": 1762
+    "index": 1762
   },
   {
     "name": "Ignis",
@@ -19477,8 +17274,7 @@ var items = [
     "weapon": 1,
     "rarity": 1,
     "seas": 3,
-    "index": 1763,
-    "i": 1763
+    "index": 1763
   },
   {
     "name": "Poseidon",
@@ -19488,8 +17284,7 @@ var items = [
     "weapon": 2,
     "rarity": 2,
     "seas": 3,
-    "index": 1764,
-    "i": 1764
+    "index": 1764
   },
   {
     "name": "Overseer",
@@ -19501,8 +17296,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1765,
-    "i": 1765
+    "index": 1765
   },
   {
     "name": "Etona",
@@ -19513,8 +17307,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1766,
-    "i": 1766
+    "index": 1766
   },
   {
     "name": "NeoTitan",
@@ -19526,8 +17319,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1767,
-    "i": 1767
+    "index": 1767
   },
   {
     "name": "Full Moon",
@@ -19539,8 +17331,7 @@ var items = [
     "frames": 4,
     "frameT": 250,
     "seas": 3,
-    "index": 1768,
-    "i": 1768
+    "index": 1768
   },
   {
     "name": "Nightmare",
@@ -19552,8 +17343,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1769,
-    "i": 1769
+    "index": 1769
   },
   {
     "name": "Crimson",
@@ -19565,8 +17355,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1770,
-    "i": 1770
+    "index": 1770
   },
   {
     "name": "Corruption",
@@ -19578,8 +17367,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1771,
-    "i": 1771
+    "index": 1771
   },
   {
     "name": "Overwatch",
@@ -19591,8 +17379,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1772,
-    "i": 1772
+    "index": 1772
   },
   {
     "name": "Ignis",
@@ -19601,8 +17388,7 @@ var items = [
     "weapon": 4,
     "rarity": 1,
     "seas": 3,
-    "index": 1773,
-    "i": 1773
+    "index": 1773
   },
   {
     "name": "Cranium",
@@ -19611,8 +17397,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1774,
-    "i": 1774
+    "index": 1774
   },
   {
     "name": "Symbiote",
@@ -19623,8 +17408,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1775,
-    "i": 1775
+    "index": 1775
   },
   {
     "name": "Cranium",
@@ -19633,8 +17417,7 @@ var items = [
     "weapon": 5,
     "rarity": 2,
     "seas": 3,
-    "index": 1776,
-    "i": 1776
+    "index": 1776
   },
   {
     "name": "Ignis",
@@ -19643,8 +17426,7 @@ var items = [
     "weapon": 5,
     "rarity": 1,
     "seas": 3,
-    "index": 1777,
-    "i": 1777
+    "index": 1777
   },
   {
     "name": "Ignis",
@@ -19654,8 +17436,7 @@ var items = [
     "weapon": 6,
     "rarity": 1,
     "seas": 3,
-    "index": 1778,
-    "i": 1778
+    "index": 1778
   },
   {
     "name": "Cranium",
@@ -19665,8 +17446,7 @@ var items = [
     "weapon": 6,
     "rarity": 2,
     "seas": 3,
-    "index": 1779,
-    "i": 1779
+    "index": 1779
   },
   {
     "name": "Toxic Rider",
@@ -19678,8 +17458,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1780,
-    "i": 1780
+    "index": 1780
   },
   {
     "name": "Knightingale",
@@ -19689,8 +17468,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1781,
-    "i": 1781
+    "index": 1781
   },
   {
     "name": "Cranium",
@@ -19699,8 +17477,7 @@ var items = [
     "weapon": 7,
     "rarity": 2,
     "seas": 3,
-    "index": 1782,
-    "i": 1782
+    "index": 1782
   },
   {
     "name": "Ignis",
@@ -19709,8 +17486,7 @@ var items = [
     "weapon": 7,
     "rarity": 1,
     "seas": 3,
-    "index": 1783,
-    "i": 1783
+    "index": 1783
   },
   {
     "name": "Wildlife",
@@ -19722,8 +17498,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1784,
-    "i": 1784
+    "index": 1784
   },
   {
     "name": "Ignis",
@@ -19733,8 +17508,7 @@ var items = [
     "weapon": 8,
     "rarity": 1,
     "seas": 3,
-    "index": 1785,
-    "i": 1785
+    "index": 1785
   },
   {
     "name": "Cranium",
@@ -19744,8 +17518,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1786,
-    "i": 1786
+    "index": 1786
   },
   {
     "name": "Ignis",
@@ -19755,8 +17528,7 @@ var items = [
     "weapon": 10,
     "rarity": 1,
     "seas": 3,
-    "index": 1787,
-    "i": 1787
+    "index": 1787
   },
   {
     "name": "Cranium",
@@ -19766,8 +17538,7 @@ var items = [
     "weapon": 10,
     "rarity": 2,
     "seas": 3,
-    "index": 1788,
-    "i": 1788
+    "index": 1788
   },
   {
     "name": "Devourer",
@@ -19778,8 +17549,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1789,
-    "i": 1789
+    "index": 1789
   },
   {
     "name": "Ignis",
@@ -19788,8 +17558,7 @@ var items = [
     "weapon": 15,
     "rarity": 1,
     "seas": 3,
-    "index": 1790,
-    "i": 1790
+    "index": 1790
   },
   {
     "name": "Cranium",
@@ -19798,8 +17567,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1791,
-    "i": 1791
+    "index": 1791
   },
   {
     "name": "Arachnidis",
@@ -19817,8 +17585,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "shaderId": 3,
-    "index": 1792,
-    "i": 1792
+    "index": 1792
   },
   {
     "name": "Infinity Cloak",
@@ -19838,8 +17605,7 @@ var items = [
     "sitOffZ": -0.6,
     "seas": 3,
     "shaderId": 3,
-    "index": 1793,
-    "i": 1793
+    "index": 1793
   },
   {
     "name": "Sorable",
@@ -19850,8 +17616,7 @@ var items = [
     "rarity": 1,
     "seas": 3,
     "opacity": 0.8,
-    "index": 1794,
-    "i": 1794
+    "index": 1794
   },
   {
     "name": "Stremz",
@@ -19862,8 +17627,7 @@ var items = [
     "rarity": 2,
     "seas": 3,
     "opacity": 0.8,
-    "index": 1795,
-    "i": 1795
+    "index": 1795
   },
   {
     "name": "Void Slicer",
@@ -19882,8 +17646,7 @@ var items = [
     "sxOff": 0.35,
     "szOff": -0.25,
     "shaderId": 3,
-    "index": 1796,
-    "i": 1796
+    "index": 1796
   },
   {
     "name": "Steel Serpent",
@@ -19894,8 +17657,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1797,
-    "i": 1797
+    "index": 1797
   },
   {
     "name": "Theta Republica",
@@ -19906,8 +17668,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1798,
-    "i": 1798
+    "index": 1798
   },
   {
     "name": "Cactus Jack",
@@ -19918,8 +17679,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1799,
-    "i": 1799
+    "index": 1799
   },
   {
     "name": "Jakku",
@@ -19929,8 +17689,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1800,
-    "i": 1800
+    "index": 1800
   },
   {
     "name": "Shortcake",
@@ -19939,8 +17698,7 @@ var items = [
     "weapon": 15,
     "rarity": 3,
     "seas": 3,
-    "index": 1801,
-    "i": 1801
+    "index": 1801
   },
   {
     "name": "Resurrection",
@@ -19951,8 +17709,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1802,
-    "i": 1802
+    "index": 1802
   },
   {
     "name": "Bopper",
@@ -19963,8 +17720,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1803,
-    "i": 1803
+    "index": 1803
   },
   {
     "name": "Containment",
@@ -19975,8 +17731,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1804,
-    "i": 1804
+    "index": 1804
   },
   {
     "name": "Sunshine",
@@ -19987,8 +17742,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1805,
-    "i": 1805
+    "index": 1805
   },
   {
     "name": "Tedssyt",
@@ -20000,8 +17754,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1806,
-    "i": 1806
+    "index": 1806
   },
   {
     "name": "Onamu",
@@ -20011,8 +17764,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1807,
-    "i": 1807
+    "index": 1807
   },
   {
     "name": "Pestilence",
@@ -20023,8 +17775,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1808,
-    "i": 1808
+    "index": 1808
   },
   {
     "name": "Signal",
@@ -20037,8 +17788,7 @@ var items = [
     "frameT": 250,
     "glow": true,
     "seas": 3,
-    "index": 1809,
-    "i": 1809
+    "index": 1809
   },
   {
     "name": "Graffitius",
@@ -20049,8 +17799,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1810,
-    "i": 1810
+    "index": 1810
   },
   {
     "name": "Headhunter Alpha",
@@ -20059,8 +17808,7 @@ var items = [
     "weapon": 4,
     "rarity": 3,
     "seas": 3,
-    "index": 1811,
-    "i": 1811
+    "index": 1811
   },
   {
     "name": "Tau",
@@ -20070,8 +17818,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1812,
-    "i": 1812
+    "index": 1812
   },
   {
     "name": "Kotal",
@@ -20081,8 +17828,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1813,
-    "i": 1813
+    "index": 1813
   },
   {
     "name": "Imperial",
@@ -20093,8 +17839,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1814,
-    "i": 1814
+    "index": 1814
   },
   {
     "name": "Foria",
@@ -20105,8 +17850,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1815,
-    "i": 1815
+    "index": 1815
   },
   {
     "name": "Watercolours",
@@ -20116,8 +17860,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1816,
-    "i": 1816
+    "index": 1816
   },
   {
     "name": "Luminescence",
@@ -20128,8 +17871,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1817,
-    "i": 1817
+    "index": 1817
   },
   {
     "name": "SunBurst Swirl",
@@ -20140,8 +17882,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1818,
-    "i": 1818
+    "index": 1818
   },
   {
     "name": "Sanctum",
@@ -20151,8 +17892,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1819,
-    "i": 1819
+    "index": 1819
   },
   {
     "name": "Futurai",
@@ -20162,8 +17902,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1820,
-    "i": 1820
+    "index": 1820
   },
   {
     "name": "Fish Warfare",
@@ -20173,8 +17912,7 @@ var items = [
     "rarity": 2,
     "glow": true,
     "seas": 3,
-    "index": 1821,
-    "i": 1821
+    "index": 1821
   },
   {
     "name": "Hunter",
@@ -20183,8 +17921,7 @@ var items = [
     "weapon": 14,
     "rarity": 3,
     "seas": 3,
-    "index": 1822,
-    "i": 1822
+    "index": 1822
   },
   {
     "name": "Kortal",
@@ -20195,8 +17932,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1823,
-    "i": 1823
+    "index": 1823
   },
   {
     "name": "Modular",
@@ -20205,8 +17941,7 @@ var items = [
     "weapon": 17,
     "rarity": 3,
     "seas": 3,
-    "index": 1824,
-    "i": 1824
+    "index": 1824
   },
   {
     "name": "Googly",
@@ -20222,8 +17957,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1,
     "trans": true,
-    "index": 1825,
-    "i": 1825
+    "index": 1825
   },
   {
     "name": "Despair",
@@ -20238,8 +17972,7 @@ var items = [
     "sclMlt": 0.9,
     "yOff": -2,
     "rarity": 5,
-    "index": 1826,
-    "i": 1826
+    "index": 1826
   },
   {
     "name": "Death Rattle",
@@ -20248,8 +17981,7 @@ var items = [
     "weapon": 2,
     "rarity": 3,
     "seas": 3,
-    "index": 1827,
-    "i": 1827
+    "index": 1827
   },
   {
     "name": "Cinder",
@@ -20259,8 +17991,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1828,
-    "i": 1828
+    "index": 1828
   },
   {
     "name": "Overloaded",
@@ -20271,8 +18002,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1829,
-    "i": 1829
+    "index": 1829
   },
   {
     "name": "Happy",
@@ -20287,8 +18017,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1830,
-    "i": 1830
+    "index": 1830
   },
   {
     "name": "Smooch",
@@ -20304,8 +18033,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1831,
-    "i": 1831
+    "index": 1831
   },
   {
     "name": "Kawaii",
@@ -20321,8 +18049,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1832,
-    "i": 1832
+    "index": 1832
   },
   {
     "name": "Smirk",
@@ -20338,8 +18065,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1833,
-    "i": 1833
+    "index": 1833
   },
   {
     "name": "Upset",
@@ -20355,8 +18081,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1834,
-    "i": 1834
+    "index": 1834
   },
   {
     "name": "Ravatron",
@@ -20372,8 +18097,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 3.7,
     "trans": true,
-    "index": 1835,
-    "i": 1835
+    "index": 1835
   },
   {
     "name": "Demon Baby",
@@ -20387,8 +18111,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.8,
     "yOff": -0.7,
-    "index": 1836,
-    "i": 1836
+    "index": 1836
   },
   {
     "name": "Soulless",
@@ -20402,8 +18125,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.8,
     "yOff": -0.7,
-    "index": 1837,
-    "i": 1837
+    "index": 1837
   },
   {
     "name": "Krunkuto",
@@ -20418,8 +18140,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1,
     "trans": true,
-    "index": 1838,
-    "i": 1838
+    "index": 1838
   },
   {
     "name": "5Head",
@@ -20434,8 +18155,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 3.7,
-    "index": 1839,
-    "i": 1839
+    "index": 1839
   },
   {
     "name": "Deadball",
@@ -20449,8 +18169,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.8,
     "yOff": -0.7,
-    "index": 1840,
-    "i": 1840
+    "index": 1840
   },
   {
     "name": "UwU",
@@ -20466,8 +18185,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1841,
-    "i": 1841
+    "index": 1841
   },
   {
     "name": "Pierre",
@@ -20483,8 +18201,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1842,
-    "i": 1842
+    "index": 1842
   },
   {
     "name": "Voodoo",
@@ -20500,8 +18217,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 1.6,
     "xRot": -0.5,
-    "index": 1843,
-    "i": 1843
+    "index": 1843
   },
   {
     "name": "Heart Cycle",
@@ -20510,8 +18226,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1844,
-    "i": 1844
+    "index": 1844
   },
   {
     "name": "Whippii",
@@ -20520,8 +18235,7 @@ var items = [
     "weapon": 1,
     "rarity": 3,
     "seas": 3,
-    "index": 1845,
-    "i": 1845
+    "index": 1845
   },
   {
     "name": "Automaton",
@@ -20532,8 +18246,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1846,
-    "i": 1846
+    "index": 1846
   },
   {
     "name": "Soda-Licious",
@@ -20543,8 +18256,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1847,
-    "i": 1847
+    "index": 1847
   },
   {
     "name": "TnT",
@@ -20560,8 +18272,7 @@ var items = [
     "rarity": 3,
     "creator": "Destroy007",
     "seas": 3,
-    "index": 1848,
-    "i": 1848
+    "index": 1848
   },
   {
     "name": "Acid Bark",
@@ -20571,8 +18282,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1849,
-    "i": 1849
+    "index": 1849
   },
   {
     "name": "Wharf",
@@ -20582,8 +18292,7 @@ var items = [
     "weapon": 8,
     "rarity": 3,
     "seas": 3,
-    "index": 1850,
-    "i": 1850
+    "index": 1850
   },
   {
     "name": "Railix V",
@@ -20594,8 +18303,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1851,
-    "i": 1851
+    "index": 1851
   },
   {
     "name": "Sidious",
@@ -20605,8 +18313,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1852,
-    "i": 1852
+    "index": 1852
   },
   {
     "name": "Fleece",
@@ -20615,8 +18322,7 @@ var items = [
     "weapon": 11,
     "rarity": 3,
     "seas": 3,
-    "index": 1853,
-    "i": 1853
+    "index": 1853
   },
   {
     "name": "Proton XV",
@@ -20627,8 +18333,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1854,
-    "i": 1854
+    "index": 1854
   },
   {
     "name": "VR-4",
@@ -20638,8 +18343,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1855,
-    "i": 1855
+    "index": 1855
   },
   {
     "name": "Pip Squeak",
@@ -20649,8 +18353,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1856,
-    "i": 1856
+    "index": 1856
   },
   {
     "name": "Turbocharged",
@@ -20659,8 +18362,7 @@ var items = [
     "weapon": 16,
     "rarity": 3,
     "seas": 3,
-    "index": 1857,
-    "i": 1857
+    "index": 1857
   },
   {
     "name": "Spock",
@@ -20675,8 +18377,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 3.7,
-    "index": 1858,
-    "i": 1858
+    "index": 1858
   },
   {
     "name": "Miss Package",
@@ -20691,8 +18392,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 3.7,
-    "index": 1859,
-    "i": 1859
+    "index": 1859
   },
   {
     "name": "Lil Jack",
@@ -20707,8 +18407,7 @@ var items = [
     "sitOff": 1,
     "yOff": -0.7,
     "xOff": 3.7,
-    "index": 1860,
-    "i": 1860
+    "index": 1860
   },
   {
     "name": "Disco Mouse",
@@ -20724,8 +18423,7 @@ var items = [
     "yOff": -0.7,
     "xOff": 3.7,
     "trans": true,
-    "index": 1861,
-    "i": 1861
+    "index": 1861
   },
   {
     "name": "Innocent",
@@ -20739,8 +18437,7 @@ var items = [
     "sclMlt": 0.48,
     "sitOff": 1,
     "yOff": -0.7,
-    "index": 1862,
-    "i": 1862
+    "index": 1862
   },
   {
     "name": "Bot 2",
@@ -20753,8 +18450,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.9,
     "seas": 3,
-    "index": 1863,
-    "i": 1863
+    "index": 1863
   },
   {
     "name": "Balloon",
@@ -20768,8 +18464,7 @@ var items = [
     "sclMlt": 0.8,
     "sitOff": 0.25,
     "yOff": -0.7,
-    "index": 1864,
-    "i": 1864
+    "index": 1864
   },
   {
     "name": "Disco Shirt",
@@ -20785,8 +18480,7 @@ var items = [
     "yOff": -1,
     "xOff": -1,
     "trans": true,
-    "index": 1865,
-    "i": 1865
+    "index": 1865
   },
   {
     "name": "Shuriken",
@@ -20809,8 +18503,7 @@ var items = [
     "illicit": true,
     "funds": 10000,
     "reqT": "10000 Thrown Melee Kills",
-    "index": 1866,
-    "i": 1866
+    "index": 1866
   },
   {
     "name": "Mamba",
@@ -20826,8 +18519,7 @@ var items = [
     "sxOff": 0.05,
     "szOff": -0.55,
     "syOff": 0.6,
-    "index": 1867,
-    "i": 1867
+    "index": 1867
   },
   {
     "name": "Arcturus",
@@ -20841,8 +18533,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1868,
-    "i": 1868
+    "index": 1868
   },
   {
     "name": "Celeste",
@@ -20856,8 +18547,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1869,
-    "i": 1869
+    "index": 1869
   },
   {
     "name": "Warlock",
@@ -20872,8 +18562,7 @@ var items = [
     "sitOff": 1,
     "yOff": -2,
     "keyW": "Hat",
-    "index": 1870,
-    "i": 1870
+    "index": 1870
   },
   {
     "name": "Starlight",
@@ -20891,8 +18580,7 @@ var items = [
     "yOff": -1,
     "xOff": -1,
     "keyW": "Body",
-    "index": 1871,
-    "i": 1871
+    "index": 1871
   },
   {
     "name": "Magic Wand",
@@ -20910,8 +18598,7 @@ var items = [
     "yOff": -1.5,
     "xOff": -1,
     "keyW": "Melee",
-    "index": 1872,
-    "i": 1872
+    "index": 1872
   },
   {
     "name": "Star Power",
@@ -20924,8 +18611,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1873,
-    "i": 1873
+    "index": 1873
   },
   {
     "name": "Shine Bright",
@@ -20938,8 +18624,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1874,
-    "i": 1874
+    "index": 1874
   },
   {
     "name": "Flow",
@@ -20949,8 +18634,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1875,
-    "i": 1875
+    "index": 1875
   },
   {
     "name": "Freshmint",
@@ -20961,8 +18645,7 @@ var items = [
     "glow": true,
     "pulsT": 0.0015,
     "seas": 3,
-    "index": 1876,
-    "i": 1876
+    "index": 1876
   },
   {
     "name": "Lykos",
@@ -20972,8 +18655,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1877,
-    "i": 1877
+    "index": 1877
   },
   {
     "name": "Ragnarok",
@@ -20983,8 +18665,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1878,
-    "i": 1878
+    "index": 1878
   },
   {
     "name": "Brainstorm",
@@ -20993,8 +18674,7 @@ var items = [
     "weapon": 4,
     "rarity": 2,
     "seas": 3,
-    "index": 1879,
-    "i": 1879
+    "index": 1879
   },
   {
     "name": "FSS Archdaemon",
@@ -21004,8 +18684,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1880,
-    "i": 1880
+    "index": 1880
   },
   {
     "name": "ZE-14",
@@ -21016,8 +18695,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1881,
-    "i": 1881
+    "index": 1881
   },
   {
     "name": "Sly",
@@ -21027,8 +18705,7 @@ var items = [
     "weapon": 8,
     "rarity": 2,
     "seas": 3,
-    "index": 1882,
-    "i": 1882
+    "index": 1882
   },
   {
     "name": "Abyssal",
@@ -21038,8 +18715,7 @@ var items = [
     "rarity": 5,
     "glow": true,
     "seas": 3,
-    "index": 1883,
-    "i": 1883
+    "index": 1883
   },
   {
     "name": "Admiral",
@@ -21049,8 +18725,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1884,
-    "i": 1884
+    "index": 1884
   },
   {
     "name": "Nebulous",
@@ -21059,8 +18734,7 @@ var items = [
     "weapon": 15,
     "rarity": 2,
     "seas": 3,
-    "index": 1885,
-    "i": 1885
+    "index": 1885
   },
   {
     "name": "Azeal",
@@ -21070,8 +18744,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1886,
-    "i": 1886
+    "index": 1886
   },
   {
     "name": "Slayer",
@@ -21080,8 +18753,7 @@ var items = [
     "weapon": 16,
     "rarity": 3,
     "seas": 3,
-    "index": 1887,
-    "i": 1887
+    "index": 1887
   },
   {
     "name": "Skullwood",
@@ -21091,8 +18763,7 @@ var items = [
     "rarity": 3,
     "glow": true,
     "seas": 3,
-    "index": 1888,
-    "i": 1888
+    "index": 1888
   },
   {
     "name": "Big Mouth",
@@ -21102,8 +18773,7 @@ var items = [
     "rarity": 4,
     "glow": true,
     "seas": 3,
-    "index": 1889,
-    "i": 1889
+    "index": 1889
   },
   {
     "name": "K.P.D Hat",
@@ -21115,8 +18785,7 @@ var items = [
     "sclMlt": 0.5,
     "sitOff": 0.6,
     "scl": 1.6,
-    "index": 1890,
-    "i": 1890
+    "index": 1890
   },
   {
     "name": "K.P.D Uniform",
@@ -21128,8 +18797,7 @@ var items = [
     "seas": 3,
     "type": 5,
     "rarity": 5,
-    "index": 1891,
-    "i": 1891
+    "index": 1891
   },
   {
     "name": "AP Rally",
@@ -21152,8 +18820,7 @@ var items = [
     "noSpin": true,
     "lowR": true,
     "noSale": true,
-    "index": 1892,
-    "i": 1892
+    "index": 1892
   },
   {
     "name": "Chaffee",
@@ -21175,8 +18842,7 @@ var items = [
     "noSpin": true,
     "lowR": true,
     "noSale": true,
-    "index": 1893,
-    "i": 1893
+    "index": 1893
   },
   {
     "name": "Magic Carpet",
@@ -21197,8 +18863,7 @@ var items = [
     "noSpin": true,
     "lowR": true,
     "noSale": true,
-    "index": 1894,
-    "i": 1894
+    "index": 1894
   },
   {
     "name": "Matryoshka",
@@ -21215,8 +18880,7 @@ var items = [
     "rAnimA": "y",
     "seas": 3,
     "noSale": true,
-    "index": 1895,
-    "i": 1895
+    "index": 1895
   },
   {
     "name": "Baluba",
@@ -21234,8 +18898,7 @@ var items = [
     "xOff": 3.7,
     "seas": 3,
     "noSale": true,
-    "index": 1896,
-    "i": 1896
+    "index": 1896
   },
   {
     "name": "Kali",
@@ -21256,8 +18919,7 @@ var items = [
     "rAnim": -0.002,
     "rAnimA": "x",
     "noSale": true,
-    "index": 1897,
-    "i": 1897
+    "index": 1897
   },
   {
     "name": "Union",
@@ -21279,8 +18941,7 @@ var items = [
     "rAnim": -0.002,
     "rAnimA": "x",
     "noSale": true,
-    "index": 1898,
-    "i": 1898
+    "index": 1898
   },
   {
     "name": "Macuahuitl",
@@ -21301,8 +18962,7 @@ var items = [
     "seas": 3,
     "glow": true,
     "noSale": true,
-    "index": 1899,
-    "i": 1899
+    "index": 1899
   },
   {
     "name": "Haunter",
@@ -21316,8 +18976,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1900,
-    "i": 1900
+    "index": 1900
   },
   {
     "name": "Boo!",
@@ -21331,8 +18990,7 @@ var items = [
     "type": 4,
     "opacity": 0.9,
     "keyW": "Sprays",
-    "index": 1901,
-    "i": 1901
+    "index": 1901
   },
   {
     "name": "Ghast",
@@ -21356,8 +19014,7 @@ var items = [
     "noQuickSell": true,
     "lowR": true,
     "noSale": true,
-    "index": 1902,
-    "i": 1902
+    "index": 1902
   },
   {
     "name": "Pumpking",
@@ -21378,8 +19035,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1903,
-    "i": 1903
+    "index": 1903
   },
   {
     "name": "Spooky",
@@ -21399,8 +19055,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1904,
-    "i": 1904
+    "index": 1904
   },
   {
     "name": "Rune Lord",
@@ -21426,8 +19081,7 @@ var items = [
     "emiss": 11075511,
     "side": 2,
     "noQuickSell": true,
-    "index": 1905,
-    "i": 1905
+    "index": 1905
   },
   {
     "name": "Ghostly",
@@ -21443,8 +19097,7 @@ var items = [
     "type": 5,
     "rarity": 5,
     "noQuickSell": true,
-    "index": 1906,
-    "i": 1906
+    "index": 1906
   },
   {
     "name": "Skelly",
@@ -21458,8 +19111,7 @@ var items = [
     "opacity": 0.9,
     "keyW": "Sprays",
     "noQuickSell": true,
-    "index": 1907,
-    "i": 1907
+    "index": 1907
   },
   {
     "name": "Halloween",
@@ -21473,8 +19125,7 @@ var items = [
     "opacity": 0.9,
     "keyW": "Sprays",
     "noQuickSell": true,
-    "index": 1908,
-    "i": 1908
+    "index": 1908
   },
   {
     "name": "Ghostly Cowboy",
@@ -21494,8 +19145,7 @@ var items = [
     "rarity": 3,
     "noQuickSell": true,
     "opac": 0.9,
-    "index": 1909,
-    "i": 1909
+    "index": 1909
   },
   {
     "name": "Grinner",
@@ -21515,8 +19165,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1910,
-    "i": 1910
+    "index": 1910
   },
   {
     "name": "Bats",
@@ -21530,8 +19179,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1911,
-    "i": 1911
+    "index": 1911
   },
   {
     "name": "Ectoplasm",
@@ -21546,8 +19194,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1912,
-    "i": 1912
+    "index": 1912
   },
   {
     "name": "Devil Horns",
@@ -21566,8 +19213,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1913,
-    "i": 1913
+    "index": 1913
   },
   {
     "name": "Devious",
@@ -21587,8 +19233,7 @@ var items = [
     "noSpin": true,
     "noQuickSell": true,
     "noSale": true,
-    "index": 1914,
-    "i": 1914
+    "index": 1914
   },
   {
     "name": "Necromancer",
@@ -21608,8 +19253,7 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1915,
-    "i": 1915
+    "index": 1915
   },
   {
     "name": "OMEGASOUL",
@@ -21623,7 +19267,102 @@ var items = [
     "noSale": true,
     "noSpin": true,
     "noQuickSell": true,
-    "index": 1916,
-    "i": 1916
+    "index": 1916
+  },
+  {
+    "name": "Crayator Bandana",
+    "limT": "Canteen",
+    "noSale": true,
+    "id": 91,
+    "tex": 2,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1917
+  },
+  {
+    "name": "Scuffed Bandana",
+    "limT": "Canteen",
+    "noSale": true,
+    "id": 91,
+    "tex": 3,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1918
+  },
+  {
+    "name": "Loserfruit Bandana",
+    "limT": "Canteen",
+    "noSale": true,
+    "id": 91,
+    "tex": 4,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1919
+  },
+  {
+    "name": "Strawberry Milk",
+    "limT": "Canteen",
+    "noSale": true,
+    "rarity": 2,
+    "seas": 3,
+    "id": 104,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1920
+  },
+  {
+    "name": "Quacky Bandana",
+    "limT": "Canteen",
+    "creator": "Quacky",
+    "noSale": true,
+    "id": 91,
+    "tex": 6,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1921
+  },
+  {
+    "name": "Zed Bandana",
+    "limT": "Canteen",
+    "creator": "Quacky",
+    "noSale": true,
+    "id": 91,
+    "tex": 5,
+    "rarity": 3,
+    "type": 1,
+    "keyW": "Hat",
+    "sclMlt": 0.5,
+    "sitOff": 0.8,
+    "seas": 3,
+    "index": 1922
+  },
+  {
+    "name": "AussieAntics",
+    "limT": "Canteen",
+    "noSale": true,
+    "rarity": 2,
+    "seas": 3,
+    "id": 105,
+    "type": 4,
+    "opacity": 0.9,
+    "keyW": "Sprays",
+    "index": 1923
   }
 ];
