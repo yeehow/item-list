@@ -275,6 +275,8 @@ function getViewer(a) {
             return "https://krunker.io/viewer.html?class=9&waist=" + a.i;
         else if (7 == a.type)
             return "https://krunker.io/viewer.html?class=9&face=" + a.i;
+        else if (8 == a.type)
+            return "https://krunker.io/viewer.html?class=9&shoe=" + a.i;
         else if (second.includes(a.weapon - 1))
             return "https://krunker.io/viewer.html?hidePlayer&swap=-1&nosup&skinIdS=" + a.i + "&secIndex=" + (a.weapon - 1);
         else {
