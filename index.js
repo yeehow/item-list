@@ -166,7 +166,7 @@ function displayLabel(text) {
 //sort array and seperate into chunks (pagination)
 function display(doChunk) {
     sortArray(result);
-    chunks = chunkArray(result, 100);
+    chunks = chunkArray(result, 500);
     displayChunk();
 }
 
