@@ -7,8 +7,8 @@
 // });
 
 window.onload = function () {
-    loadUpdates();
-    //filter('seas', 'all');
+    // loadUpdates();
+    filter('seas', 'all');
 }
 
 var filters = {};
@@ -23,8 +23,8 @@ var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
 var searchInput = document.getElementById("search");
 
-var updateLabel = document.getElementById("updateLabel");
-updateLabel.textContent = updates[0].version;
+// var updateLabel = document.getElementById("updateLabel");
+// updateLabel.textContent = updates[0].version;
 
 //display updates
 function loadUpdates() {
