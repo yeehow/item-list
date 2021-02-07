@@ -7,7 +7,8 @@
 // });
 
 window.onload = setTimeout( function () {
-    // loadUpdates();
+    // loadUpdates(); 
+    // LoadUpdates(); isn't working yet yeehow
     filter('seas', 'all');
 }, 400);
 
