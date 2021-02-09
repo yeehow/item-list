@@ -1,4 +1,6 @@
+
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -39,15 +41,32 @@
         <a href="./">
             <h1>Krunker Item List <span id="updateLabel"></span></h1>
         </a>
-        <a href="https://yee.how">
+        <a href="../">
             <h1 id="Startpage">Go Back</h1>
         </a>
         <br>
     
         <ul>
+            <li><a aria-haspopup="true" id="newest">New ▼</a>
+                <ul class="dropdown" aria-label="submenu">
+
+                    <li onclick="Newfilter('Yes','All')"><a>All New</a></li>
+                    <!--
+                    <li onclick="Newfilter('weapon','LOL')"><a>New weapons</a></li>
+                    -->
+                    <li onclick="Newfilter('type',1)"><a>New hats</a></li>
+                    <li onclick="Newfilter('type',2)"><a>New backs</a></li>
+                    <li onclick="Newfilter('type',4)"><a>New sprays</a></li>
+                    <li onclick="Newfilter('type',5)"><a>New dyes</a></li>
+                    <li onclick="Newfilter('type',6)"><a>New waists</a></li>
+                    <li onclick="Newfilter('type',7)"><a>New faces</a></li>
+                    <li onclick="Newfilter('type',8)"><a>New shoes</a></li>
+                </ul>
+            </li>
             <li><a aria-haspopup="true" id="category">Category ▼</a>
                 <ul class="dropdown" aria-label="submenu">
                     <li onclick="filter('category','all')"><a>All</a></li>
+
                     <li onclick="filter('seas',1)"><a>Season 1</a></li>
                     <li onclick="filter('seas',2)"><a>Season 2</a></li>
                     <li onclick="filter('seas',3)"><a>Season 3</a></li>
@@ -79,6 +98,7 @@
             <li><a aria-haspopup="true" id="weapon">Weapon ▼</a>
                 <ul class="dropdown" aria-label="submenu">
                     <li onclick="filter('weapon','all')"><a>All</a></li>
+
                     <li onclick="filter('type',3)"><a>Knife</a></li>
                     <li onclick="filter('weapon',1)"><a>Sniper Rifle</a></li>
                     <li onclick="filter('weapon',2)"><a>Assault Rifle</a></li>
@@ -102,12 +122,13 @@
             <li><a aria-haspopup="true" id="cosmetic">Cosmetic ▼</a>
                 <ul class="dropdown" aria-label="submenu">
                     <li onclick="filter('type','all')"><a>All</a></li>
-                    <li onclick="filter('type',1)"><a>Hat</a></li>
-                    <li onclick="filter('type',2)"><a>Back</a></li>
-                    <li onclick="filter('type',4)"><a>Spray</a></li>
-                    <li onclick="filter('type',5)"><a>Dye</a></li>
-                    <li onclick="filter('type',6)"><a>Waist</a></li>
-                    <li onclick="filter('type',7)"><a>Face</a></li>
+
+                    <li onclick="filter('type',1)"><a>Hats</a></li>
+                    <li onclick="filter('type',2)"><a>Backs</a></li>
+                    <li onclick="filter('type',4)"><a>Sprays</a></li>
+                    <li onclick="filter('type',5)"><a>Dyes</a></li>
+                    <li onclick="filter('type',6)"><a>Waists</a></li>
+                    <li onclick="filter('type',7)"><a>Faces</a></li>
                     <li onclick="filter('type',8)"><a>Shoes</a></li>
                 </ul>
             </li>
@@ -116,8 +137,6 @@
     </nav>
 
     <div id="display"></div>
-
-    <script src="./items.js"></script>
     <script src="./updates.js"></script>
     <script src="./extra.js"></script>
     <script src="./index.js"></script>
