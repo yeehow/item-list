@@ -6,10 +6,11 @@
 //     element["i"] = index;
 // });
 
-window.onload = function () {
-    // loadUpdates();
+window.onload = setTimeout( function () {
+    // loadUpdates(); 
+    // LoadUpdates(); isn't working yet yeehow
     filter('seas', 'all');
-}
+}, 400);
 
 var filters = {};
 var result = [];
@@ -23,8 +24,18 @@ var weaponLabel = document.getElementById("weapon");
 var cosmeticLabel = document.getElementById("cosmetic");
 var searchInput = document.getElementById("search");
 
+var FreeItem= [];
 // var updateLabel = document.getElementById("updateLabel");
 // updateLabel.textContent = updates[0].version;
+fetch('https://items.yee.how/').then(response => {
+//console.log(response);
+return response.json();
+}).then(text => {
+items = text;
+setTimeout(window.onload, 150);
+console.log(items);
+
+})
 
 //display updates
 function loadUpdates() {
@@ -45,6 +56,7 @@ function loadUpdates() {
 
 //change filters
 function filter(property, value) {
+
     if (value == "all") {
         delete filters[property];
         if (property == "weapon" || property == "type") {
@@ -101,6 +113,10 @@ function filter(property, value) {
 
 //execute filter
 function runFilter() {
+
+
+    items = items.filter(item => item.rarity !== undefined);
+    
     result = items.filter(function (item) {
         for (var key in filters) {
             if (item[key] === undefined || item[key] != filters[key]) {
@@ -109,6 +125,10 @@ function runFilter() {
         }
         return true;
     });
+
+
+
+    
 
     console.log(result);
     displayDiv.innerHTML = "";
@@ -196,7 +216,20 @@ function addItem(item) {
 
     var div = document.createElement("div");
     div.className = "item" + (item.rarity == 6 ? " rainbowBorder" : "");
+
+
+
+
     div.style.borderColor = rarityColor[item.rarity];
+    
+    var div2 = document.createElement("div");
+    items.forEach(item => {
+        if(item.rarityrarityColor == "#ffffff"){
+            div.style.item.rarityColor == "#ffffff"
+        }
+
+    });
+    
     if (item.type == 4) {
         var img = document.createElement("div");
         img.className = "itemSprayImg";

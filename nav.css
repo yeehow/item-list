@@ -119,3 +119,10 @@ input {
 input:focus {
     outline: none;
 }
+h1 {
+    display: inline;
+}
+#Startpage {
+    font-size: 120%;
+    padding-left: 15px;
+}

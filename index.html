@@ -18,10 +18,10 @@
     <meta name="og:site_name" content="yeehow">
     <meta name="og:type" content="website">
 
-    <link rel="stylesheet" href="nav.css?v=3.3.8">
-    <link rel="stylesheet" href="index.css?v=3.3.8">
+    <link rel="stylesheet" href="./nav.css">
+    <link rel="stylesheet" href="./index.css">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics --->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134041866-4"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -30,6 +30,7 @@
 
         gtag('config', 'UA-134041866-4');
     </script>
+    
 </head>
 
 <body>
@@ -38,7 +39,11 @@
         <a href="./">
             <h1>Krunker Item List <span id="updateLabel"></span></h1>
         </a>
-
+        <a href="https://yee.how">
+            <h1 id="Startpage">Go Back</h1>
+        </a>
+        <br>
+    
         <ul>
             <li><a aria-haspopup="true" id="category">Category ▼</a>
                 <ul class="dropdown" aria-label="submenu">
@@ -61,6 +66,7 @@
             <li><a aria-haspopup="true" id="rarity">Rarity ▼</a>
                 <ul class="dropdown" aria-label="submenu">
                     <li onclick="filter('rarity','all')"><a>All</a></li>
+                    
                     <li onclick="filter('rarity',6)"><a>Unobtainable</a></li>
                     <li onclick="filter('rarity',5)"><a>Contraband</a></li>
                     <li onclick="filter('rarity',4)"><a>Relic</a></li>
@@ -90,7 +96,7 @@
                     <li onclick="filter('weapon',15)"><a>Famas</a></li>
                     <li onclick="filter('weapon',16)"><a>Sawed Off</a></li>
                     <li onclick="filter('weapon',17)"><a>Auto Pistol</a></li>
-                    <li onclick="filter('weapon',18)"><a>Blaster</a></li>
+                    <li onclick="filter('weapon',19)"><a>Blaster</a></li>
                 </ul>
             </li>
             <li><a aria-haspopup="true" id="cosmetic">Cosmetic ▼</a>
@@ -111,10 +117,10 @@
 
     <div id="display"></div>
 
-    <script src="items.js?v=3.3.8"></script>
-    <script src="updates.js?v=3.3.8"></script>
-    <script src="extra.js?v=3.3.8"></script>
-    <script src="index.js?v=3.3.8"></script>
+    <script src="./items.js"></script>
+    <script src="./updates.js"></script>
+    <script src="./extra.js"></script>
+    <script src="./index.js"></script>
 </body>
 
 </html>
