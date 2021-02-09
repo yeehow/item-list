@@ -1,5 +1,6 @@
 nav {
     margin: 1rem;
+    display: inline;
 }
 
 #updateLabel {
@@ -122,6 +123,7 @@ input:focus {
 h1 {
     display: inline;
 }
+
 #Startpage {
     font-size: 120%;
     padding-left: 15px;
