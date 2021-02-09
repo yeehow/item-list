@@ -1,19 +1,18 @@
-// used for import
-// items.forEach(function (element, index) {
-//     if (element.seas == null) {
-//         element["seas"] = 1;
-//     }
-//     element["i"] = index;
-// });
+
+
 
 window.onload = setTimeout( function () {
-    // loadUpdates(); 
-    // LoadUpdates(); isn't working yet yeehow
+    // loadUpdates();
     filter('seas', 'all');
+
 }, 400);
 
 var filters = {};
 var result = [];
+
+var newfilters = {};
+var newLabel = document.getElementById("newest");
+
 var displayIndex = 0;
 var chunks = [];
 var scroll = true;
@@ -33,11 +32,9 @@ return response.json();
 }).then(text => {
 items = text;
 setTimeout(window.onload, 150);
-console.log(items);
+});
 
-})
-
-//display updates
+//display updates, it's turned off
 function loadUpdates() {
     displayDiv.innerHTML = "";
     displayIndex = 0;
@@ -53,6 +50,7 @@ function loadUpdates() {
         display();
     });
 }
+
 
 //change filters
 function filter(property, value) {
@@ -78,7 +76,7 @@ function filter(property, value) {
             delete filters.illicit;
         } else if (property == "limT") {
             delete filters.seas;
-            delete filters.illicit;
+           delete filters.illicit;
         } else if (property == "illicit") {
             delete filters.limT;
             delete filters.seas;
@@ -86,11 +84,15 @@ function filter(property, value) {
         filters[property] = value;
     }
 
+
     categoryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
     categoryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
     categoryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
 
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
+
+
+
 
     if (filters["type"] == 3) {
         weaponLabel.textContent = weapons[0] + " ▼";
@@ -107,16 +109,86 @@ function filter(property, value) {
     } else {
         cosmeticLabel.textContent = "Cosmetic ▼";
     }
+
     searchInput.value = "";
     runFilter();
 }
+//Testing HPGOD
+
+function Newfilter(PROPERTY, VALUE){
+
+    if (VALUE == "All") {
+        delete filters[PROPERTY];
+        if (PROPERTY == 'Yes'){
+            delete filters[PROPERTY];
+            delete filters.seas;
+            delete filters.limT;
+            delete filters.illicit;
+            delete filters["weapon"];
+            delete filters["type"];
+        }
+    } else if (VALUE == 'LOL') {
+        delete filters.type;
+    } else if (PROPERTY == 'type') {
+        if (PROPERTY == "type") {
+            delete filters.weapon;
+        } else if (PROPERTY == "seas") {
+            delete filters.limT;
+            delete filters.illicit;
+        } else if (PROPERTY == "limT") {
+            delete filters.seas;
+            delete filters.illicit;
+        } else if (PROPERTY == "illicit") {
+            delete filters.limT;
+            delete filters.seas;
+        }
+        filters[PROPERTY] = VALUE;
+    }
+
+    if (PROPERTY == "type") {
+        newLabel.textContent = "New " + `${cosmetics[filters["type"]]} ▼`;
+    } else if (PROPERTY == "weapon"){
+        newLabel.textContent = "New " + cosmetics[0] + " ▼";
+    }
+
+    searchInput.value = "";
+    NEWrunFilter();
+
+}
+
+
+function NEWrunFilter() {
+    
+    items = items.filter(item => item.rarity !== undefined);
+
+    const lastItems = items.length - 100; // the last 100 items added to the game are displayed
+
+    itemsNEW = items;
+    NEWitems = itemsNEW.filter((IDK) => {
+        
+        return IDK.i >= lastItems;
+    });
+    result = NEWitems.filter(function (item) {
+        for (var key in filters) {
+            if (item[key] === undefined || item[key] != filters[key]) {
+                return false;
+            }
+        }
+        return true;
+    });
+
+    console.log(result);
+    displayDiv.innerHTML = "";
+    displayIndex = 0;
+    displayLabel(`${result.length} Items`);
+    display();
+}
+
 
 //execute filter
 function runFilter() {
-
-
     items = items.filter(item => item.rarity !== undefined);
-    
+
     result = items.filter(function (item) {
         for (var key in filters) {
             if (item[key] === undefined || item[key] != filters[key]) {
@@ -126,16 +198,13 @@ function runFilter() {
         return true;
     });
 
-
-
-    
-
     console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
     displayLabel(`${result.length} Items`);
     display();
 }
+
 
 //search filter
 function search(text) {
@@ -150,6 +219,7 @@ function search(text) {
         }
     });
 
+
     console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
@@ -160,6 +230,7 @@ function search(text) {
 //used to reset filters while searching
 function clearFilters() {
     filters = [];
+    newLabel.textContent = "New ▼";
     categoryLabel.textContent = "Category ▼";
     rarityLabel.textContent = "Rarity ▼"
     weaponLabel.textContent = "Weapon ▼";
@@ -184,7 +255,8 @@ function displayLabel(text) {
 }
 
 //sort array and seperate into chunks (pagination)
-function display(doChunk) {
+function display() {
+    
     sortArray(result);
     chunks = chunkArray(result, 500);
     displayChunk();
@@ -217,18 +289,7 @@ function addItem(item) {
     var div = document.createElement("div");
     div.className = "item" + (item.rarity == 6 ? " rainbowBorder" : "");
 
-
-
-
     div.style.borderColor = rarityColor[item.rarity];
-    
-    var div2 = document.createElement("div");
-    items.forEach(item => {
-        if(item.rarityrarityColor == "#ffffff"){
-            div.style.item.rarityColor == "#ffffff"
-        }
-
-    });
     
     if (item.type == 4) {
         var img = document.createElement("div");
@@ -278,10 +339,11 @@ function addItem(item) {
     div.appendChild(divDetails);
 
     displayDiv.appendChild(div);
+    
 }
 
 //todo only call function if filter has gone off
-window.onscroll = function (ev) {
+window.onscroll = function () {
     if (window.innerHeight + window.scrollY >= document.body.offsetHeight && scroll == true) {
         scroll = false;
         displayChunk();
@@ -324,3 +386,4 @@ function getPrice(a) {
 function getListings(a) {
     return `https://krunker.io/social.html?p=market&i=${a.i}`;
 }
+
