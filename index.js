@@ -1,6 +1,3 @@
-
-
-
 window.onload = setTimeout( function () {
     // loadUpdates();
     filter('seas', 'all');
@@ -10,7 +7,6 @@ window.onload = setTimeout( function () {
 var filters = {};
 var result = [];
 
-var newfilters = {};
 var newLabel = document.getElementById("newest");
 
 var displayIndex = 0;
@@ -126,7 +122,8 @@ function Newfilter(PROPERTY, VALUE){
             delete filters.illicit;
             delete filters["weapon"];
             delete filters["type"];
-        }
+            newLabel.textContent = "All New";
+        } 
     } else if (VALUE == 'LOL') {
         delete filters.type;
     } else if (PROPERTY == 'type') {
@@ -152,23 +149,26 @@ function Newfilter(PROPERTY, VALUE){
     }
 
     searchInput.value = "";
-    NEWrunFilter();
-
+    if (PROPERTY != 'weapon') {
+        console.log('Not the new weapon item');
+        NEWrunFilter();
+    } else {
+        NEWrunFilter('LMAO');
+    }
 }
 
 
-function NEWrunFilter() {
-    
-    items = items.filter(item => item.rarity !== undefined);
+function NEWrunFilter(LMAO) { 
 
-    const lastItems = items.length - 100; // the last 100 items added to the game are displayed
+    items = items.filter(item => item.rarity != undefined);
+
+    var lastItems = items.length - 42; // the last 100 items added to the game are displayed
 
     itemsNEW = items;
-    NEWitems = itemsNEW.filter((IDK) => {
-        
+    itemsNEW = itemsNEW.filter((IDK) => { 
         return IDK.i >= lastItems;
     });
-    result = NEWitems.filter(function (item) {
+    result = itemsNEW.filter(function (item) {
         for (var key in filters) {
             if (item[key] === undefined || item[key] != filters[key]) {
                 return false;
@@ -177,13 +177,19 @@ function NEWrunFilter() {
         return true;
     });
 
+    if(LMAO != 'LMAO') {
+        console.log('Not null');
+    } else {
+        console.log('Null');
+        result = itemsNEW.filter(WEED => WEED.weapon != null);
+    }
+
     console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
     displayLabel(`${result.length} Items`);
     display();
 }
-
 
 //execute filter
 function runFilter() {
