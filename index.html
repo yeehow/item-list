@@ -1,7 +1,6 @@
 window.onload = setTimeout( function () {
     // loadUpdates();
     filter('seas', 'all');
-
 }, 400);
 
 var filters = {};
@@ -99,15 +98,12 @@ function filter(property, value) {
         cosmeticLabel.textContent = "Cosmetic ▼";
     }
     
-
     searchInput.value = "";
     runFilter();
 }
 
 //change filters for the new items
 function Newfilter(PROPERTY, VALUE){
-
-    
     if (VALUE == "All") {
         delete filters[PROPERTY];
         if (PROPERTY == 'Yes'){
@@ -151,7 +147,6 @@ function Newfilter(PROPERTY, VALUE){
         NEWrunFilter('LMAO');
     }
 }
-
 
 function NEWrunFilter(LMAO) { 
     
@@ -219,7 +214,6 @@ function search(text) {
             result.push(element);
         }
     });
-
 
     console.log(result);
     displayDiv.innerHTML = "";
@@ -338,7 +332,6 @@ function addItem(item) {
     }
 
     div.appendChild(divDetails);
-
     displayDiv.appendChild(div);
     
 }
