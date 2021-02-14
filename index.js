@@ -8,7 +8,6 @@ var filters = {};
 var result = [];
 
 var newLabel = document.getElementById("newest");
-
 var displayIndex = 0;
 var chunks = [];
 var scroll = true;
@@ -30,7 +29,7 @@ items = text;
 setTimeout(window.onload, 150);
 });
 
-//display updates, it's turned off
+//display updates, it's turned off at the moment
 function loadUpdates() {
     displayDiv.innerHTML = "";
     displayIndex = 0;
@@ -47,7 +46,6 @@ function loadUpdates() {
     });
 }
 
-
 //change filters
 function filter(property, value) {
 
@@ -60,7 +58,7 @@ function filter(property, value) {
         if (property == "category") {
             delete filters.seas;
             delete filters.limT;
-            delete filters.illicit;
+            delete filters.blackM;
         }
     } else {
         if (property == "weapon") {
@@ -69,26 +67,21 @@ function filter(property, value) {
             delete filters.weapon;
         } else if (property == "seas") {
             delete filters.limT;
-            delete filters.illicit;
+            delete filters.blackM;
         } else if (property == "limT") {
             delete filters.seas;
-           delete filters.illicit;
-        } else if (property == "illicit") {
+           delete filters.blackM;
+        } else if (property == "blackM") {
             delete filters.limT;
             delete filters.seas;
         }
         filters[property] = value;
     }
 
-
     categoryLabel.textContent = filters["seas"] != null ? `Season ${filters["seas"]} ▼` : "Category ▼";
     categoryLabel.textContent = filters["limT"] != null ? `${filters["limT"]} ▼` : "Category ▼";
-    categoryLabel.textContent = filters["illicit"] != null ? `Black Market ▼` : "Category ▼";
-
+    categoryLabel.textContent = filters["blackM"] != null ? `Black Market ▼` : "Category ▼";
     rarityLabel.textContent = filters["rarity"] != null ? `${rarities[filters["rarity"]]} ▼` : "Rarity ▼";
-
-
-
 
     if (filters["type"] == 3) {
         weaponLabel.textContent = weapons[0] + " ▼";
@@ -105,21 +98,23 @@ function filter(property, value) {
     } else {
         cosmeticLabel.textContent = "Cosmetic ▼";
     }
+    
 
     searchInput.value = "";
     runFilter();
 }
-//Testing HPGOD
 
+//change filters for the new items
 function Newfilter(PROPERTY, VALUE){
 
+    
     if (VALUE == "All") {
         delete filters[PROPERTY];
         if (PROPERTY == 'Yes'){
             delete filters[PROPERTY];
             delete filters.seas;
             delete filters.limT;
-            delete filters.illicit;
+            delete filters.blackM;
             delete filters["weapon"];
             delete filters["type"];
             newLabel.textContent = "All New";
@@ -131,11 +126,11 @@ function Newfilter(PROPERTY, VALUE){
             delete filters.weapon;
         } else if (PROPERTY == "seas") {
             delete filters.limT;
-            delete filters.illicit;
+            delete filters.blackM;
         } else if (PROPERTY == "limT") {
             delete filters.seas;
-            delete filters.illicit;
-        } else if (PROPERTY == "illicit") {
+            delete filters.blackM;
+        } else if (PROPERTY == "blackM") {
             delete filters.limT;
             delete filters.seas;
         }
@@ -149,8 +144,8 @@ function Newfilter(PROPERTY, VALUE){
     }
 
     searchInput.value = "";
+    
     if (PROPERTY != 'weapon') {
-        console.log('Not the new weapon item');
         NEWrunFilter();
     } else {
         NEWrunFilter('LMAO');
@@ -159,17 +154,19 @@ function Newfilter(PROPERTY, VALUE){
 
 
 function NEWrunFilter(LMAO) { 
+    
+    // all the free items won't be shown
+    items = items.filter(item => item.rarity != undefined); 
 
-    items = items.filter(item => item.rarity != undefined);
-
-    var lastItems = items.length - 42; // the last 100 items added to the game are displayed
+    //the last 100 items added to the game are displayed, I don't know why it's - 43, don't ask me, it just is, atm
+    var lastItems = items.length - 43;
 
     itemsNEW = items;
     itemsNEW = itemsNEW.filter((IDK) => { 
         return IDK.i >= lastItems;
     });
     result = itemsNEW.filter(function (item) {
-        for (var key in filters) {
+        for (var key in filters) { 
             if (item[key] === undefined || item[key] != filters[key]) {
                 return false;
             }
@@ -177,12 +174,10 @@ function NEWrunFilter(LMAO) {
         return true;
     });
 
-    if(LMAO != 'LMAO') {
-        console.log('Not null');
-    } else {
-        console.log('Null');
-        result = itemsNEW.filter(WEED => WEED.weapon != null);
+    if(LMAO == 'LMAO') {
+        result = itemsNEW.filter(element => element.weapon != null); 
     }
+    //if this (weapon) function is called, it will filter all the items out except for the weapons
 
     console.log(result);
     displayDiv.innerHTML = "";
@@ -193,7 +188,7 @@ function NEWrunFilter(LMAO) {
 
 //execute filter
 function runFilter() {
-    items = items.filter(item => item.rarity !== undefined);
+    items = items.filter(item => item.rarity !== undefined); //all the free items won't be shown
 
     result = items.filter(function (item) {
         for (var key in filters) {
