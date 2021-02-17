@@ -1,5 +1,6 @@
 window.onload = setTimeout( function () {
     // loadUpdates();
+    Newfilter();
     filter('seas', 'all');
 
 }, 400);
@@ -107,7 +108,9 @@ function filter(property, value) {
 //change filters for the new items
 function Newfilter(PROPERTY, VALUE){
 
-    
+    var LAST = items.length;
+
+
     if (VALUE == "All") {
         delete filters[PROPERTY];
         if (PROPERTY == 'Yes'){
@@ -146,24 +149,23 @@ function Newfilter(PROPERTY, VALUE){
     searchInput.value = "";
     
     if (PROPERTY != 'weapon') {
-        NEWrunFilter();
+        NEWrunFilter('', LAST);
     } else {
-        NEWrunFilter('LMAO');
+        NEWrunFilter('LMAO', LAST);
     }
 }
 
 
-function NEWrunFilter(LMAO) { 
-    
-    // all the free items won't be shown
+function NEWrunFilter(LMAO, LAST) { 
+    var lastItems = LAST - 44;
+    console.log(lastItems);
+
     items = items.filter(item => item.rarity != undefined); 
-
-    //the last 100 items added to the game are displayed, I don't know why it's - 43, don't ask me, it just is, atm
-    var lastItems = items.length - 43;
-
+    // all the free items won't be shown
+    
     itemsNEW = items;
-    itemsNEW = itemsNEW.filter((IDK) => { 
-        return IDK.i >= lastItems;
+    itemsNEW = itemsNEW.filter((items) => { 
+        return items.i > lastItems;
     });
     result = itemsNEW.filter(function (item) {
         for (var key in filters) { 
@@ -177,7 +179,6 @@ function NEWrunFilter(LMAO) {
     if(LMAO == 'LMAO') {
         result = itemsNEW.filter(element => element.weapon != null); 
     }
-    //if this (weapon) function is called, it will filter all the items out except for the weapons
 
     console.log(result);
     displayDiv.innerHTML = "";
