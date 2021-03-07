@@ -125,11 +125,6 @@ function runFilter() {
         }
         return true;
     });
-
-
-
-    
-
     console.log(result);
     displayDiv.innerHTML = "";
     displayIndex = 0;
