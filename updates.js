@@ -1,4 +1,5 @@
 var updates = [
+
     {
         "version": "3.2.7",
         "timestamp": 1605470400,
