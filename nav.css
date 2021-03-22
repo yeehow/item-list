@@ -120,9 +120,9 @@ input:focus {
     outline: none;
 }
 h1 {
-    display: inline;
+    display: inline-block;
 }
 #Startpage {
-    font-size: 120%;
-    padding-left: 15px;
+    font-size: 18px;
+    padding-left: 25px;
 }
